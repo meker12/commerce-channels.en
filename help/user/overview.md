@@ -8,4 +8,4 @@ description: A Magento platform built on Adobe.
 
 # Commerce overview
 
-Home page - add content
+Home page - add content.
