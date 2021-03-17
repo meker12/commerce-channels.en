@@ -1,6 +1,6 @@
-# Magento Commerce on Cloud Manager documentation
+# Magento Commerce user documentation
 
-We welcome contributions from our community as well as from Adobe employees from outside the documentation teams. 
+We welcome contributions from our community as well as from Adobe employees from outside the documentation teams.
 
 ## Adobe Open Source Code of Conduct
 
