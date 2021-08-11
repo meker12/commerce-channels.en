@@ -1,0 +1,23 @@
+---
+title: Manage Attributes
+---
+
+# Manage attributes
+
+Amazon and [!DNL Commerce] both use a system of product properties, known as attributes, used to define a product. Attributes define the description, content, images, prices, and various data for your products.
+
+Successful communication between Magneto and Amazon requires that [!DNL Commerce] attributes be correctly mapped (or matched) to the corresponding Amazon attribute. When integrating with Amazon, you will map these attributes to Amazon attributes. When complete, [!DNL Commerce] can sync and maintain your Amazon listings with your [!DNL Commerce] product catalog.
+
+For example, imagine you have the same item in your [!DNL Commerce] catalog and Amazon listings. One attribute for the product might be the listing price of the item. The name for the listing price in [!DNL Commerce] might be named `Price`, while the listing price for Amazon might be named `ListingPrice`. You'll need to tell [!DNL Commerce] that when communicating with Amazon, the [!DNL Commerce] attribute named `Price` is the same as the Amazon attribute named `ListingPrice`. This process is called managing attributes, and includes creating new and editing existing attributes. Making sure that attributes are properly matched will ensure correct communication between [!DNL Commerce] and Amazon.
+
+When attribute mapping is set up, [!DNL Commerce] can communicate product information back and forth with Amazon. If you have Amazon product listings, [!DNL Commerce] can import your Amazon products and details into your [!DNL Commerce] catalog, allowing you to manage your Amazon listings from a single, central catalog of products.
+
+[!DNL Amazon Sales Channel] allows you to access, review, create, and manage attributes, as needed, in the [_Attributes_ view](./attributes-view.md) on the [!DNL Amazon Sales Channel] home page. If you add a new attribute to your [!DNL Commerce] catalog, you may need to update those values across all products.
+
+For more information about [!DNL Commerce] and Amazon attribute sets and values, see:
+
+- [Manage attributes basics](https://docs.magento.com/user-guide/catalog/product-attributes.md)
+- [Create a new attribute](./creating-attributes.md#create-an-attribute)
+- [Edit an existing attribute](./creating-attributes.md#edit-an-attribute)
+- [View Attribute Mapping](./amazon-matching-attributes-values.md)
+- [Edit or Create Attribute Mapping](./amazon-manually-update-incomplete-listing.md)
