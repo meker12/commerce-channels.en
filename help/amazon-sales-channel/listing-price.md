@@ -34,7 +34,7 @@ The options listed in _Magento Price Source_, _Minimum Advertised Price (Map)_, 
 
    The default is no selection. This setting determines which pricing attribute is used as the manufacturer's suggested retail price (MSRP) for a product. If your listing price is less than the defined MSRP, your Amazon listing will display a strike-through of the MSRP price and display the lower listing price, along with the calculated "You Save" amount and percentage. However, if the selected pricing field is not defined for a product, the MSRP will not be calculated.
 
-   >[!Note]
+   >[!NOTE]
    >
    >This only applies to listings that have won the [Buy Box](./buy-box-competitor-pricing.md) position. The Buy Box is awarded by Amazon to the seller who has the product listed usually at the best price, along with other factors such as FBA/Prime shipping offered, availability, and the seller's performance.
 
@@ -44,7 +44,7 @@ The options listed in _Magento Price Source_, _Minimum Advertised Price (Map)_, 
 
    - **Enabled** - Choose when you want to apply VAT to your listing price. VAT is typically used as a sales tax in European countries and is added to your final listed price within Amazon. VAT does not apply to final price for listings that are used within an intelligent pricing rule, unless the [floor price](./floor-price.md) is hit.
 
-   >[!Note]
+   >[!NOTE]
    >
    >Businesses in the European Union (EU) are required to send invoices to business buyers, so that the customer can remit tax. You can either generate these invoices and calculate the taxes yourself or use a tax calculation service such as Amazon's VAT Calculation Service. Amazon recommends signing up for the [Amazon VAT Calculation Service](https://services.amazon.co.uk/vat-calculation-service.html). If you choose a different method, you are responsible for VAT compliance.>
    >

@@ -21,15 +21,15 @@ Sections of a standard price rule action include:
 
 1. For **Price Action**, choose an option.
 
-   - **Decrease By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.html) value to be decreased before listing to Amazon.
+   - **Decrease By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) value to be decreased before listing to Amazon.
 
-   - **Increase By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.html) value to be increased before listing to Amazon.
+   - **Increase By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) value to be increased before listing to Amazon.
 
 1. For **Apply**, choose an option:
 
-   - **Apply as percentage** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.html) value adjusted by a percentage.
+   - **Apply as percentage** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) value adjusted by a percentage.
 
-   - **Apply as fixed amount** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.html) value adjusted by a fixed amount.
+   - **Apply as fixed amount** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) value adjusted by a fixed amount.
 
 1. For **Adjustment Amount** (required), enter the numerical value for the price adjustment.
 

@@ -24,6 +24,7 @@ type: Documentation
 - Manage Your [!DNL Amazon Sales Channel] {#manage}
   - [[!DNL Amazon Sales Channel] home](amazon-sales-channel-home.md)
   - [Amazon stores](managing-stores.md)
+  - [Workspace controls](workspace-controls.md)
   - [Learning and preparation](learning-preparation.md)
   - Attributes {#attributes}
     - [View attributes](attributes-view.md)
@@ -60,11 +61,13 @@ type: Documentation
     - [Price Adjustment](price-adjustment.md)
     - [Floor Price](floor-price.md)
     - [Optional Ceiling Price](optional-ceiling-price.md)
-    - [Price Rule Examples](price-rule-examples.md)
     - [Price Scope](price-scope.md)
     - [Price Priority Logic](price-priority-logic.md)
     - [Buy Box Competitor Pricing](buy-box-competitor-pricing.md)
     - [Lowest Competitor Pricing](lowest-competitor-pricing.md)
+  - Examples {#rules-examples}
+    - [Define a condition](ob-define-condition-example.md)
+    - [Price rule examples](price-rule-examples.md)
 - Reports and Logs {#reports-logs}
   - [Logs and store reports](amazon-logs-reports.md)
   - Store Reports {#store-reports}
@@ -93,7 +96,6 @@ type: Documentation
     - [Edit an assigned ASIN](edit-assigned-asin.md)
     - [End an Amazon listing](end-listings-manually.md)
     - [Publish an Amazon listing](publish-listings-manually.md)
-    - [Switch to Fulfilled by Amazon/Merchant](fulfilled-by.md)
     - [Update Required Info](amazon-manually-update-incomplete-listing.md)
     - [View details](product-listing-details.md)
 - Manage Orders {#admin-orders}

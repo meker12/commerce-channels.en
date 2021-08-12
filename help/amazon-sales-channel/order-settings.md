@@ -30,7 +30,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
     - **Enabled** - (Default) Choose when you want to create corresponding [!DNL Commerce] orders when new orders are received from Amazon. [!DNL Commerce] orders are created based on Amazon status and stock levels.
 
-      >[!Note]
+      >[!NOTE]
       >
       >Import Amazon Orders must be set to `Enabled` to manage Amazon orders in the [!DNL Commerce] [orders](https://docs.magento.com/user-guide/sales/orders.html) workflow. When set to `Disabled`, your Amazon orders do not have a corresponding [!DNL Commerce] order number and cannot be managed in [!DNL Commerce]. You must manage these orders in your [!DNL Amazon Seller Central] account.
 
@@ -50,7 +50,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
     - **Build Using Amazon Order Number** - Choose when you want to create the [!DNL Commerce] order number using the corresponding Amazon-assigned order number.
 
-    >[!Note]
+    >[!NOTE]
     >
     >After an order is imported, the Amazon order number shows in the _Recent Orders_ list on the store dashboard. The [!DNL Commerce] order number shows when viewing the order details in the [!DNL Commerce] [Orders](https://docs.magento.com/user-guide/sales/orders.html) workspace.
 

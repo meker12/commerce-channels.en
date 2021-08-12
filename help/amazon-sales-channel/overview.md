@@ -16,7 +16,7 @@ After integrating your [!DNL Amazon Seller Central] account, [!DNL Amazon Sales 
 
 This guide reviews some basic [!DNL Amazon Seller Central] information, the requirements for setting up your [!DNL Amazon Sales Channel], the onboarding and integration process, the available store, product, price and other options, and the ways in which you can use [!DNL Amazon Sales Channel] to manage your listings and sales in the [!DNL Amazon Marketplace]. Use the left rail to navigate through various functionalities and drill down to access detailed information and procedures.
 
-|[Get Started with Amazon Sales Channel](./amazon-getting-started.md)|Learn more about Amazon and [!DNL Amazon Sales Channel] basics, key features, best practices, and more.|
+|[About Amazon Sales Channel](./about-amazon-sales-channel.md)|Learn more about [!DNL Amazon Sales Channel] basics, key features, best practices, and more.|
 |[Onboard Amazon Sales Channel](./amazon-onboarding-home.md)|Quickly create Amazon stores and integrate with [!DNL Amazon Seller Central]. Get your [!DNL Amazon Sales Channel] up and running to start selling.|
 |[[!DNL Amazon Sales Channel] Home](./amazon-sales-channel-home.md)|Learn more about your [!DNL Amazon Sales Channel] home page and the options and tasks available. View summary information about your Amazon stores and access store details and settings.|
 |[Manage Attributes](./attributes-view.md)|[!DNL Amazon Sales Channel] maps products between your [!DNL Commerce] catalog and Amazon using product attributes. Learn more about creating, mapping, and managing those attributes.|

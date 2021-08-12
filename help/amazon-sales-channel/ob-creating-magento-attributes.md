@@ -98,7 +98,7 @@ _Amazon ASIN Attribute_
 
 1. For **Unique Value**, choose `No`.
 
-1. For **Input Validation for Store Owner**, choose `None.
+1. For **Input Validation for Store Owner**, choose `None`.
 
 1. For **Add to Column Options**, choose `Yes`.
 
