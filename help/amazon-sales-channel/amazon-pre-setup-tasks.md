@@ -18,7 +18,7 @@ All products and data synced between [!DNL Commerce] and Amazon is managed by a 
 
 ## 2. Create your [!DNL Amazon Seller Central] account
 
-Before you begin to set up your [!DNL Amazon Sales Channel], you must have an active [!DNL Amazon Seller Central] account. If you don't have an existing Amazon Seller account in the [North America][1] (US, CA, MX) or [European](https://services.amazon.co.uk/services/sell-online/how-it-works.html) (UK) region, you can complete Amazon's seller account set up process.
+Before you begin to set up your [!DNL Amazon Sales Channel], you must have an active [!DNL Amazon Seller Central] account. If you don't have an existing Amazon Seller account in the [North America][1] (US, CA, MX) or [European (UK)][12] region, you can complete Amazon's seller account set up process.
 
 [!DNL Amazon Sales Channel] requires a [Professional Seller account][2] on [!DNL Amazon Seller Central]. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan][3].
 
@@ -81,3 +81,4 @@ To help facilitate error-free data transition during integration, we highly reco
 [7]: https://sellercentral.amazon.com/sbr/ref=xx_shipset_dnav_xx#shipping_templates
 [10]: https://sellercentral.amazon.com/gp/help/G891
 [11]: https://sellercentral.amazon.com/gp/help/help.html?itemID=200135620&amp;language=en_MX&amp;ref=ag_200135620_cont_191
+[12]: https://services.amazon.co.uk/services/sell-online/how-it-works.html
