@@ -10,9 +10,9 @@ To better manage and review your product catalog and sales through one location,
 
 ## Product attributes
 
-Adobe Commerce and Magento Open Source manage catalog syncs with the use of product [attributes](https://docs.magento.com/user-guide/catalog/product-attributes.html) to define product settings and data. Amazon also uses attributes, to be mapped through onboarding. During [pre-setup tasks](./amazon-pre-setup-tasks.md) for [!DNL Amazon Sales Channel], you will define additional Amazon attributes if needed to ensure correct product mappings when importing your Amazon listings into your [!DNL Commerce] catalog. These attributes include UPC, EAN, ISBN, and ASIN ([!DNL Amazon Standard Identification Number]). Through onboarding, products sync between Amazon and [!DNL Commerce] catalogs using your attributes, especially these. Proper mapping of your [!DNL Commerce] and Amazon products ensures a continual synchronization of product information, orders, and inventory.
+Adobe Commerce and Magento Open Source manage catalog syncs with the use of product [attributes](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} to define product settings and data. Amazon also uses attributes, to be mapped through onboarding. During [pre-setup tasks](./amazon-pre-setup-tasks.md) for [!DNL Amazon Sales Channel], you will define additional Amazon attributes if needed to ensure correct product mappings when importing your Amazon listings into your [!DNL Commerce] catalog. These attributes include UPC, EAN, ISBN, and ASIN ([!DNL Amazon Standard Identification Number]). Through onboarding, products sync between Amazon and [!DNL Commerce] catalogs using your attributes, especially these. Proper mapping of your [!DNL Commerce] and Amazon products ensures a continual synchronization of product information, orders, and inventory.
 
-If you do not have these attributes created or configured for your catalog, we recommend adding a [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html) and values to your products prior to onboarding. When an Amazon attribute is imported, it can be used for search, navigation, price rules, and much more. For more information on these attributes, see [Amazon: What are UPCs, EANs, ISBNs. and ASINs?][1]
+If you do not have these attributes created or configured for your catalog, we recommend adding a [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} and values to your products prior to onboarding. When an Amazon attribute is imported, it can be used for search, navigation, price rules, and much more. For more information on these attributes, see [Amazon: What are UPCs, EANs, ISBNs. and ASINs?][1]
 
 After onboarding, you can manage and update your product attributes and Amazon mappings at any time.
 
@@ -38,6 +38,6 @@ When you have created a listing [!DNL Commerce] products, they are submitted to 
 
 Adobe Commerce and Magento Open Source communicate product and order data between your [!DNL Amazon Seller Central] account and the [!DNL Commerce] backend. The continual updates provide a single source through [!DNL Commerce] to manage and maintain your inventories, fulfilling orders, tracking sales, and reducing overhead and duplication of work. Reporting captures the latest data for tracking trends and resolving communication issues caught between the two systems.
 
-All syncing is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html), set to update every five minutes in your [Pre-Setup Tasks](./amazon-pre-setup-tasks.md).
+All syncing is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}, set to update every five minutes in your [Pre-Setup Tasks](./amazon-pre-setup-tasks.md).
 
-[1]: https://www.amazon.com/gp/seller/asin-upc-isbn-info.html
+[1]: https://www.amazon.com/gp/seller/asin-upc-isbn-info.html{target="_blank"}

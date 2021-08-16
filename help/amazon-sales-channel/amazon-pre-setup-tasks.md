@@ -10,11 +10,11 @@ When you set up your first Amazon store in [!DNL Amazon Sales Channel], a list o
 
 ## 1. Enable background tasks in [!DNL Commerce]
 
-All products and data synced between [!DNL Commerce] and Amazon is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html). When you complete tasks such as add or update listings and receive orders, a cron job sends and receives data between your [!DNL Commerce] backend and your [!DNL Amazon Seller Central] account.
+All products and data synced between [!DNL Commerce] and Amazon is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}. When you complete tasks such as add or update listings and receive orders, a cron job sends and receives data between your [!DNL Commerce] backend and your [!DNL Amazon Seller Central] account.
 
-- [Enable [!DNL Commerce] cron](https://docs.magento.com/user-guide/system/cron.html).
+- [Enable [!DNL Commerce] cron](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}.
 
-- For maximum performance, [set [!DNL Commerce] cron](https://docs.magento.com/user-guide/configuration/advanced/system.html) to run once every five minutes.
+- For maximum performance, [set [!DNL Commerce] cron](https://docs.magento.com/user-guide/configuration/advanced/system.html){target="_blank"} to run once every five minutes.
 
 ## 2. Create your [!DNL Amazon Seller Central] account
 
@@ -36,9 +36,11 @@ It is also important to ensure that you have configured the following in your [!
 
 ## 4. Make sure your Value Added Tax (VAT) is configured for your store(s)
 
-(Primarily used by UK sellers.) Amazon recommends signing up for the [Amazon VAT Calculation Service](https://services.amazon.co.uk/vat-calculation-service.html). If you choose a different method, you are responsible for VAT compliance.
+(Primarily used by UK sellers.) Amazon recommends signing up for the [Amazon VAT Calculation Service](https://sell.amazon.co.uk/learn/vat-resources#vat-services-on-amazon){target="_blank"}. If you choose a different method, you are responsible for VAT compliance.
 
-   **Note**: It may take 10-14 days for Amazon to verify and activate your VAT Calculation Service account.
+>[!NOTE]
+>
+>It may take 10-14 days for Amazon to verify and activate your VAT Calculation Service account.
 
 ## 5. Increase the number of automatic catalog matches
 
@@ -48,7 +50,7 @@ To have the highest number of [!DNL Commerce] products automatically match with 
 
 ## 6. Configure your currency and conversion (as needed)
 
-If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html) and set the [currency conversion rate](https://docs.magento.com/user-guide/tores/currency-update.html).
+If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html) and set the [currency conversion rate](https://docs.magento.com/user-guide/tores/currency-update.html){target="_blank"}.
 
 ## 7. Create a Product Condition attribute (as needed)
 
@@ -64,7 +66,7 @@ When your Amazon account is set up and active, there are several [!DNL Commerce]
 
 ### Review and note any products you don't want to list on Amazon
 
-You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channel] has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html) or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html) price rules, product attributes used for Amazon listing eligibility muse have **Use for Promo Rule Conditions** set to `Yes`. See the **Use for Promo Rule Conditions** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html).
+You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channel] has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility muse have **Use for Promo Rule Conditions** set to `Yes`. See the **Use for Promo Rule Conditions** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
 
 ### Set your [!DNL Amazon Seller Central] region to inactive
 

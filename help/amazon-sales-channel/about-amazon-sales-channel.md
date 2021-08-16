@@ -1,5 +1,6 @@
 ---
 title: About Amazon Sales Channel
+description: Use the Amazon sales channel extension to seamlessly integrate Adobe Commerce or Magento Open Source with your [!DNL Amazon Seller Central] account.
 ---
 
 # About [!DNL Amazon Sales Channel]
@@ -114,7 +115,7 @@ With [!DNL Amazon Sales Channel], you can:
 
 - Manage multiple [!DNL Amazon Marketplace] regions (countries).
 
-- Support multiple currencies using the [[!DNL Commerce] currency conversion tool](https://docs.magento.com/user-guide/stores/currency-configuration.html).
+- Support multiple currencies using the [[!DNL Commerce] currency conversion tool](https://docs.magento.com/user-guide/stores/currency-configuration.html){target="_blank"}.
 
 - Manage shipments from your product locations and Amazon fulfillment centers.
 

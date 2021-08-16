@@ -1,10 +1,11 @@
 ---
 title: About Amazon Marketplace
+description: Learn about leveraging products and listings in the Amazon Marketplace to expand the reach of your Adobe Commerce or Magento Open Source store.
 ---
 
 # About [!DNL Amazon Marketplace]
 
-[[!DNL Amazon Marketplace]](https://services.amazon.com/content/sell-on-amazon.html) is an e-commerce platform owned and operated by Amazon that enables third-party sellers to sell new or used products. Using [!DNL Amazon Marketplace], third-party sellers gain access to Amazon's world-wide customer base. Those who list products on Amazon for sale, including Adobe Commerce or Magento Open Source users, are defined by Amazon as "third-party sellers."
+[[!DNL Amazon Marketplace]](https://services.amazon.com/content/sell-on-amazon.html){target="_blank"} is an e-commerce platform owned and operated by Amazon that enables third-party sellers to sell new or used products. Using [!DNL Amazon Marketplace], third-party sellers gain access to Amazon's world-wide customer base. Those who list products on Amazon for sale, including Adobe Commerce or Magento Open Source users, are defined by Amazon as "third-party sellers."
 
 Third-party sellers of any size can create an [!DNL Amazon Seller Central] account and use the [!DNL Amazon Marketplace] to reach Amazon's global customer base. After an account is created and active, sellers can add and list products for sale, manage orders and inventory, and fulfill orders.
 
@@ -44,11 +45,11 @@ Amazon follows a set of policies and workflows to ensure all sellers and product
 - [Prohibited seller activities and actions][7]
 - [Listing renewed (refurbished, pre-owned, and open-box) products on Amazon][8]
 
-[1]: https://sellercentral.amazon.com/gp/help/external/200335450?language=en_US&amp;ref=efph_200335450_cont_G200182950
-[2]: https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&amp;language=en_US&amp;ref=efph_2_bred_200390640
-[3]: https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=200414280
-[4]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161252
-[5]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161272
-[6]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200267770
-[7]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200414320
-[8]: https://services.amazon.com/renewed.html
+[1]: https://sellercentral.amazon.com/gp/help/external/200335450?language=en_US&amp;ref=efph_200335450_cont_G200182950{target="_blank"}
+[2]: https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&amp;language=en_US&amp;ref=efph_2_bred_200390640{target="_blank"}
+[3]: https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=200414280{target="_blank"}
+[4]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161252{target="_blank"}
+[5]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161272{target="_blank"}
+[6]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200267770{target="_blank"}
+[7]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200414320{target="_blank"}
+[8]: https://services.amazon.com/renewed.html{target="_blank"}
