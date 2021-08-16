@@ -1,5 +1,6 @@
 ---
-title: [!DNL Amazon Sales Channel] for Commerce Guide
+title: [!DNL Amazon Sales Channel] Guide
+description: The Amazon Sales Channel for Adobe Commerce and Magento Open Source enables merchants to seamlessly sell products in the Amazon Marketplace.
 redirect_from:
   - /sales-channels/amazon/amazon-sales-channel.html
 ---
