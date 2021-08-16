@@ -45,11 +45,11 @@ Amazon follows a set of policies and workflows to ensure all sellers and product
 - [Prohibited seller activities and actions][7]
 - [Listing renewed (refurbished, pre-owned, and open-box) products on Amazon][8]
 
-[1]: https://sellercentral.amazon.com/gp/help/external/200335450?language=en_US&amp;ref=efph_200335450_cont_G200182950{target="_blank"}
-[2]: https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&amp;language=en_US&amp;ref=efph_2_bred_200390640{target="_blank"}
-[3]: https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=200414280{target="_blank"}
-[4]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161252{target="_blank"}
-[5]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161272{target="_blank"}
-[6]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200267770{target="_blank"}
-[7]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200414320{target="_blank"}
-[8]: https://services.amazon.com/renewed.html{target="_blank"}
+[1]: https://sellercentral.amazon.com/gp/help/external/200335450?language=en_US&amp;ref=efph_200335450_cont_G200182950/"target="_blank
+[2]: https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&amp;language=en_US&amp;ref=efph_2_bred_200390640/"target="_blank
+[3]: https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=200414280/"target="_blank
+[4]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161252/"target="_blank
+[5]: https://www.amazon.com/gp/help/customer/display.html?nodeId=1161272/"target="_blank
+[6]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200267770/"target="_blank
+[7]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200414320/"target="_blank
+[8]: https://services.amazon.com/renewed.html/"target="_blank

@@ -6,9 +6,9 @@ title: Common Order Processing Tasks
 
 [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.md) can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the _Recent Orders_ section of the store dashboard.
 
-When enabled, corresponding [!DNL Commerce] orders are created for Amazon orders, and the Amazon order number shows in the _Order Number_ column. If a corresponding [!DNL Commerce] order is created, click the order number to open the order in the [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.md) page. You can manage the order as you do your other [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.md).
+When enabled, corresponding [!DNL Commerce] orders are created for Amazon orders, and the Amazon order number shows in the _Order Number_ column. If a corresponding [!DNL Commerce] order is created, click the order number to open the order in the [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.md){target="_blank"} page. You can manage the order as you do your other [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.md){target="_blank"}.
 
-The [!DNL Commerce] order number does not show with the _Recent Orders_ information. The [!DNL Commerce] order number only shows when you click the Order Number on the store dashboard and open the order in [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.md). When viewing the [!DNL Commerce] order, the Amazon Order number appears in the _Payment & Shipping Method_ section, along with options to _View or Cancel Amazon Order_ and _View all Amazon Orders_, depending on the order's shipping status.
+The [!DNL Commerce] order number does not show with the _Recent Orders_ information. The [!DNL Commerce] order number only shows when you click the Order Number on the store dashboard and open the order in [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.md){`target="_blank"`}. When viewing the [!DNL Commerce] order, the Amazon Order number appears in the _Payment & Shipping Method_ section, along with options to _View or Cancel Amazon Order_ and _View all Amazon Orders_, depending on the order's shipping status.
 
 See [cancel an unshipped order](./cancel-unshipped-order.md).
 
@@ -17,24 +17,24 @@ _Amazon Order info in the [!DNL Commerce] Order_
 
 When processing an Amazon order, [!DNL Amazon Sales Channel] updates and syncs the order information with your [!DNL Amazon Seller Central] account. Your cron settings determine how often order information is synced between Amazon and [!DNL Amazon Sales Channel].
 
-Common [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.md) tasks include:
+Common [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.md){target="_blank"} tasks include:
 
-- [Order Actions](https://docs.magento.com/user-guide/sales/order-actions.md)
-- [Order Search](https://docs.magento.com/user-guide/sales/orders-search.md)
-- [Process an Order](https://docs.magento.com/user-guide/sales/order-processing.md)
-  - [View an Order](https://docs.magento.com/user-guide/sales/order-processing.md#view-an-order)
-  - [Process an Order](https://docs.magento.com/user-guide/sales/order-processing.md#process-an-order)
-  - [Order and Account Information](https://docs.magento.com/user-guide/sales/order-processing.md#order-and-account-information)
-  - [Address Information](https://docs.magento.com/user-guide/sales/order-processing.md#address-information)
-  - [Payment & Shipping Method](https://docs.magento.com/user-guide/sales/order-processing.md#payment--shipping-method)
-  - [Review items ordered](https://docs.magento.com/user-guide/sales/order-processing.md#review-items-ordered)
-- [Issuing a credit/refund](https://docs.magento.com/user-guide/sales/credit-memo-create.md)
-- [Fulfilling/shipping an order](https://docs.magento.com/user-guide/sales/shipments-create.md)
-- [Create an invoice](https://docs.magento.com/user-guide/sales/invoice-create.md)
-- [Cancel an unshipped order](./cancel-unshipped-order.md)
+- [Order Actions](https://docs.magento.com/user-guide/sales/order-actions.html){target="_blank"}
+- [Order Search](https://docs.magento.com/user-guide/sales/orders-search.html){target="_blank"}
+- [Process an Order](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}
+  - [View an Order](https://docs.magento.com/user-guide/sales/order-processing.html#view-an-order){target="_blank"}
+  - [Process an Order](https://docs.magento.com/user-guide/sales/order-processing.html#process-an-order){target="_blank"}
+  - [Order and Account Information](https://docs.magento.com/user-guide/sales/order-processing.html#order-and-account-information){target="_blank"}
+  - [Address Information](https://docs.magento.com/user-guide/sales/order-processing.html#address-information){target="_blank"}
+  - [Payment & Shipping Method](https://docs.magento.com/user-guide/sales/order-processing.html#payment--shipping-method){target="_blank"}
+  - [Review items ordered](https://docs.magento.com/user-guide/sales/order-processing.html#review-items-ordered){target="_blank"}
+- [Issuing a credit/refund](https://docs.magento.com/user-guide/sales/credit-memo-create.html){target="_blank"}
+- [Fulfilling/shipping an order](https://docs.magento.com/user-guide/sales/shipments-create.html){target="_blank"}
+- [Create an invoice](https://docs.magento.com/user-guide/sales/invoice-create.html){target="_blank"}
+- [Cancel an unshipped order](./cancel-unshipped-order.html){target="_blank"}
 
 >[!NOTE]
 >
 >If an order is in `Unshipped` status, you can [cancel an Amazon order](./cancel-unshipped-order.md) on the [Amazon Order Details](./amazon-order-details.md) page. If an order has been shipped, it cannot be canceled.
 
-See [Commerce Order Management](https://docs.magento.com/user-guide/sales/order-management.md).
+See [Commerce Order Management](https://docs.magento.com/user-guide/sales/order-management.md){target="_blank"}.

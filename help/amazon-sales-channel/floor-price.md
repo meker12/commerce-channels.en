@@ -24,7 +24,7 @@ Define your lowest price setting in the _Floor Price_ section.
 
 1. For **Floor Price Source**, choose an price source attribute.
 
-   Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html) that indicates your relative floor limit. For example, if you do not want your Amazon listing price to go below the cost of your item, you would choose the _Cost_ attribute.
+   Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} that indicates your relative floor limit. For example, if you do not want your Amazon listing price to go below the cost of your item, you would choose the *Cost* attribute.
 
 1. For **Floor Price Action**, choose an option.
 

@@ -74,13 +74,13 @@ To help facilitate error-free data transition during integration, we highly reco
 
 ![Next icon](assets/btn-next.png) [**Continue to Creating [!DNL Commerce] Attributes**](./ob-creating-magento-attributes.md)
 
-[1]: https://services.amazon.com/content/sell-on-amazon.html
-[2]: https://services.amazon.com/content/sell-on-amazon.htm/
-[3]: https://services.amazon.com/selling/pricing.html
-[4]: https://sellercentral.amazon.com/gp/help/200333160
-[5]: https://www.amazon.com/gp/help/customer/display.html?nodeId=15015721&amp;language=en_US&amp;ref=ag_home_cont_200364110
-[6]: https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200405820&amp;language=en_US&amp;ref=efph_200405820_cont_521
-[7]: https://sellercentral.amazon.com/sbr/ref=xx_shipset_dnav_xx#shipping_templates
-[10]: https://sellercentral.amazon.com/gp/help/G891
-[11]: https://sellercentral.amazon.com/gp/help/help.html?itemID=200135620&amp;language=en_MX&amp;ref=ag_200135620_cont_191
-[12]: https://services.amazon.co.uk/services/sell-online/how-it-works.html
+[1]: https://sell.amazon.com/"target="_blank
+[2]: https://sell.amazon.com/"target="_blank
+[3]: https://sell.amazon.com/pricing.html/"target="_blank
+[4]: https://sellercentral.amazon.com/gp/help/200333160/"target="_blank
+[5]: https://www.amazon.com/gp/help/customer/display.html/"target="_blank
+[6]: https://sellercentral.amazon.com/gp/help/external/help.html/"target="_blank
+[7]: https://sellercentral.amazon.com/sbr/ref=xx_shipset_dnav_xx#shipping_templates/"target="_blank
+[10]: https://sellercentral.amazon.com/gp/help/G891/"target="_blank
+[11]: https://sellercentral.amazon.com/gp/help/help.html?itemID=200135620/"target="_blank
+[12]: https://services.amazon.co.uk/services/sell-online/how-it-works.html/"target="_blank

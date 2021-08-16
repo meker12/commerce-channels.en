@@ -40,4 +40,4 @@ Adobe Commerce and Magento Open Source communicate product and order data betwee
 
 All syncing is managed by a [cron job](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}, set to update every five minutes in your [Pre-Setup Tasks](./amazon-pre-setup-tasks.md).
 
-[1]: https://www.amazon.com/gp/seller/asin-upc-isbn-info.html{target="_blank"}
+[1]: https://www.amazon.com/gp/seller/asin-upc-isbn-info.html/"target="_blank

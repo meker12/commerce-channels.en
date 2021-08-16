@@ -59,5 +59,5 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
 ![Next icon](assets/btn-next.png) [**Continue to Store Integration**](./store-integration.md)
 
-[1]: https://account.magento.com/apiportal/index/index/
-[2]: https://account.magento.com/customer/account/login?_ga=2.148719543.106278199.1554930092-1646992284.1551820871
+[1]: https://account.magento.com/apiportal/index/index/"target="_blank
+[2]: https://account.magento.com/customer/account/login/"target="_blank

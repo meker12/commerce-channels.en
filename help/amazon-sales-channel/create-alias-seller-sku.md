@@ -75,4 +75,4 @@ _Create an Alias Amazon Seller SKU_
 |Assign New ASIN|Enter the ASIN value for the listing to which you want to match your catalog product. Only modify this field when matching a single catalog product to the ASIN for another listing for the same product. This value must match the ASIN assigned by Amazon or the listing will not be rejected by Amazon. |
 |Remove Existing Seller SKU|Options:<ul><li>**Yes** - Choose to delete the listing and create a new listing using the new information provided. The new listing will display in the Active tab, and the old listing will move to the _Ended_ tab.</li><li>**No** - Choose to create a new listing and keep the old listing unchanged. Both listings will display in the Active tab after the new listing is created.</li></ul> |
 
-[1]: https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201394090&amp;language=en_US&amp;ref=efph_201394090_cont_G201062890
+[1]: https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201394090/"target="_blank

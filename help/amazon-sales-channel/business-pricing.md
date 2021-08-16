@@ -58,4 +58,4 @@ _Business Pricing (B2B)_
 - [Catalog Search](./catalog-search.md)
 - [Product Listing Condition](./product-listing-condition.md)
 
-[1]: https://sellercentral.amazon.com/gp/help/G202161480
+[1]: https://sellercentral.amazon.com/gp/help/G202161480/"target="_blank

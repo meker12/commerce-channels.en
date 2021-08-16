@@ -25,5 +25,5 @@ This section describes the pre-setup tasks, steps for onboarding, and some key c
 |[Store Integration](./store-integration.md)|This step includes creating an [!DNL Amazon Sales Channel] store and then connecting it to your [!DNL Amazon Seller Central] account. You will need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) for this step.|
 |[Create Listing Rule](./ob-create-listing-rule.md)|After you connect your [!DNL Amazon Sales Channel] store, you are prompted to create a listing rule. We encourage you to create a rule, but you can also skip this step to start the listing import process. You can also access your [store and listing settings](./ob-store-review.md) on the store [dashboard](./amazon-store-dashboard.md).|
 
-[1]: https://sell.amazon.com/{target="_blank"}
-[2]: https://sell.amazon.com/pricing.html{target="_blank"}
+[1]: https://sell.amazon.com/"target="_blank
+[2]: https://sell.amazon.com/pricing.html/"target="_blank

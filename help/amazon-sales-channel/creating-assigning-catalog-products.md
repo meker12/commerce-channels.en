@@ -53,11 +53,11 @@ Your product and listing are now matched. [!DNL Amazon Sales Channel] can now sh
 
    - For **Website Ids**, choose the website (storefront) for which the product to be associated.
 
-      The options in this list depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html) settings.
+      The options in this list depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} settings.
 
    - For **Attribute Set Id** (required), choose an option.
 
-      `Default` is the default selection. The options in this list depend on your [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html) you have configured.
+      `Default` is the default selection. The options in this list depend on your [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html){target="_blank"} you have configured.
 
    - For **Visibility**, choose an option for the new product.
 
@@ -68,7 +68,7 @@ Your product and listing are now matched. [!DNL Amazon Sales Channel] can now sh
 
    - For **Assign Tax Class**, choose an option for the product.
 
-      The options that display in this list depend on the [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html) you have configured.
+      The options that display in this list depend on the [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html){target="_blank"} you have configured.
 
    - When complete, click **Create Catalog Products**.
 
@@ -102,11 +102,11 @@ The catalog product is created in your [!DNL Commerce] catalog and assigned to t
 
    - For **Website Ids**, choose the website (storefront) for which the product to be associated.
 
-      The options in this list depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html) settings.
+      The options in this list depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} settings.
 
    - For **Attribute Set Id** (required), choose an option.
 
-      `Default` is the default selection. The options in this list depend on your [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html) you have configured.
+      `Default` is the default selection. The options in this list depend on your [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html){target="_blank"} you have configured.
 
    - For **Visibility**, choose an option for the new product.
 
@@ -117,7 +117,7 @@ The catalog product is created in your [!DNL Commerce] catalog and assigned to t
 
    - For **Assign Tax Class**, choose an option for the product.
 
-      The options that display in this list depend on the [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html) you have configured.
+      The options that display in this list depend on the [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html){target="_blank"} you have configured.
 
    - When complete, click **Create Catalog Products**.
 
@@ -129,8 +129,8 @@ _Create [!DNL Commerce] catalog product_
 |Field|Description|
 |--- |--- |
 |Enable Product(s)|(Required) If enabled, the product will be visible in your [!DNL Commerce] storefront. If disabled, the product will not show in your [!DNL Commerce] storefront.|
-|Categories|You can enter the name of the category for your new product or select a category by clicking the down arrow to show your options. Options depend on your [categories](https://docs.magento.com/user-guide/catalog/category-create.html) configuration.|
-|Website Ids|(Required) Choose the website (storefront) for which the product to be associated. Options depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html) settings|
-|Attribute Set Id|Choose an attribute set. Options depend on your configured [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html).|
+|Categories|You can enter the name of the category for your new product or select a category by clicking the down arrow to show your options. Options depend on your [categories](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"} configuration.|
+|Website Ids|(Required) Choose the website (storefront) for which the product to be associated. Options depend on your [!DNL Commerce] [store configuration](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} settings|
+|Attribute Set Id|Choose an attribute set. Options depend on your configured [!DNL Commerce] [attribute sets](https://docs.magento.com/user-guide/stores/attribute-sets.html){target="_blank"}.|
 |Visibility|Options:<ul><li>**Not Visible Individually** - The product will not be visible in your [!DNL Commerce] storefront. This is the visibility usually assigned to variant products.</li><li>**Catalog** - Allows the product to be accessed through the category it is associated to within the website.</li><li>**Search** - Allows the product to only be found through the search tool.</li><li>**Catalog and Search** - Allows the products to be accessed through the category structure and by using the search tool.</li></ul> |
-|Assign Tax Class|Assign a tax class to the new product. Options depend on your configured [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html).|
+|Assign Tax Class|Assign a tax class to the new product. Options depend on your configured [tax classes](https://docs.magento.com/user-guide/tax/tax-class.html){target="_blank"}.|
