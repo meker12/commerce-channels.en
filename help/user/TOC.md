@@ -1,7 +1,7 @@
 ---
-user-guide-title: Commerce Guide
+user-guide-title: Commerce Channels Guide
 ---
 
-# Commerce Guide {#user}
+# Commerce Channels Guide {#user}
 
-- [Commerce overview](overview.md)
+- [Commerce Channels overview](overview.md)

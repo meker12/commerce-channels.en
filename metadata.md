@@ -1,7 +1,11 @@
 ---
+solution: Adobe Commerce
+product: magento
+type: Documentation
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/commerce-test.en
 index: no
+hide: yes
 ---
 
 # Metadata for internal use
