@@ -32,5 +32,4 @@ You should expand each of the sections and configure as needed.
 
 1. Click **[!UICONTROL Save]**.
 
-![](assets/amazon-listing-settings.png)
-_Listing Settings_
+![Listing settings](assets/amazon-listing-settings.png)

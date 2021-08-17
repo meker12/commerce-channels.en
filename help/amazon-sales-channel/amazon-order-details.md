@@ -5,8 +5,7 @@ description: View details for your Amazon Marketplace orders in the Adobe Commer
 
 # Amazon order details
 
-![](assets/amazon-order-details-header.png)
-_Amazon order details_
+![Amazon order details](assets/amazon-order-details-header.png)
 
 ## View Amazon order details
 
@@ -49,19 +48,16 @@ The _Order and Shipping Details_ tab shows detailed order information, as receiv
 >
 >Do not forget to click **Save Order** after making edits.
 
-![](assets/amazon-order-details.png)
-_Order and Shipping Details_
+![Order and Shipping Details](assets/amazon-order-details.png)
 
 ### Order Items tab
 
 The _Order Items_ tab shows all items associated with the Amazon order, as received from Amazon.
 
-![](assets/amazon-order-item-details.png)
-_Order Item Details_
+![Order Item Details](assets/amazon-order-item-details.png)
 
 ### Tracking tab
 
 The _Tracking_ tab shows tracking information associated with the Amazon order.
 
-![](assets/amazon-order-tracking-details.png)
-_Tracking Details_
+![Tracking details](assets/amazon-order-tracking-details.png)

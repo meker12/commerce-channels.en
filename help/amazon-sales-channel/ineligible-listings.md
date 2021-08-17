@@ -34,8 +34,7 @@ Under **Select** in the _Action_ column:
 >[!NOTE]
 >If you have listings in process, the number of listings will display in a message above the tabs.
 
-![](assets/amazon-ineligible-listings.png)
-_Ineligible Listings_
+![Ineligible Amazon listings](assets/amazon-ineligible-listings.png)
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

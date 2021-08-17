@@ -21,8 +21,7 @@ Listings displayed on the _Incomplete_ tab include your [!DNL Commerce] catalog 
 
 The listing is now matched to your catalog, and the listing will be updated and published to Amazon based on your cron and listing settings. The listing will remove from the _Incomplete_ tab.
 
-![](assets/amazon-listing-update-assign-asin.png)
-_Example: Manually assign ASIN for no listing match_
+![Manually assign ASIN for no listing match](assets/amazon-listing-update-assign-asin.png)
 
 ## Update required info (Multiple matches found) {#update-required-info-multiple-matches-found}
 
@@ -40,8 +39,7 @@ _Example: Manually assign ASIN for no listing match_
 
 1. Click **[!UICONTROL Save Listing Update]** to save the product match.
 
-![](assets/amazon-listing-update-multiple-matches.png)
-_Example: Manually select ASIN from multiple possible matches_
+![Manually select ASIN from multiple possible matches](assets/amazon-listing-update-multiple-matches.png)
 
 ## Update required info (has variants) {#update-required-info-has-variants}
 
@@ -59,8 +57,7 @@ _Example: Manually select ASIN from multiple possible matches_
 
 1. Click **[!UICONTROL Save Listing Update]** to save the product match.
 
-![](assets/amazon-listing-update-multiple-matches.png)
-_Example: Manually select ASIN from possible variant matches_
+![Manually select ASIN from possible variant matches](assets/amazon-listing-update-multiple-matches.png)
 
 ## Update required info (missing condition) {#update-required-info-missing-condition}
 
@@ -76,5 +73,4 @@ _Example: Manually select ASIN from possible variant matches_
 
 1. Click **[!UICONTROL Save Listing Update]** to save the product match.
 
-![](assets/amazon-update-listing-missing-condition.png)
-_Example: Manually update missing condition_
+![Manually update missing condition](assets/amazon-update-listing-missing-condition.png)

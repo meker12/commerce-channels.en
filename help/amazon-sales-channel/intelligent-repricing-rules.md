@@ -49,8 +49,7 @@ Define the Rule Type in the _Select Rule Type_ section.
 >
 >You might use these competitor pricing and feedback options to avoid basing your pricing against a competitor who has poor feedback and is selling a lower quality product.
 
-![](assets/ob-intelligent-price-rule-type.png)
-_Intelligent Repricing Rule: Select Rule Type_
+![Intelligent repricing rule - select rule type](assets/ob-intelligent-price-rule-type.png)
 
 |Field|Description|
 |--- |--- |

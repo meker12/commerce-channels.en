@@ -10,5 +10,4 @@ The _Learning and Preparation_ view shows the list of pre-setup tasks that are r
 - This [user guide](./overview.md)
 - Video tutorials
 
-![](assets/learning-preparation.png)
-_Learning and Preparation view_
+![Learning and Preparation view](assets/learning-preparation.png)

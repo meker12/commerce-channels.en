@@ -55,8 +55,7 @@ If you want to add attributes, see [Create Product Attributes for Amazon Matchin
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-catalog-search.png)
-_Catalog Search_
+![Catalog Search](assets/amazon-catalog-search.png)
 
 |Field|Description|
 |--- |--- |

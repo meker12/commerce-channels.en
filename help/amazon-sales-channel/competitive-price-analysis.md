@@ -7,8 +7,7 @@ description: The Competitive Price Analysis displays your Amazon listings per ma
 
 The Competitive Price Analysis report shows your Amazon listings per marketplace with the respective [Buy Box](./buy-box-competitor-pricing.md) price and [lowest competitor](./lowest-competitor-pricing.md) price values. No actions are available for the log. It is a review-only feature.
 
-![](assets/amazon-competitive-price-analysis.png)
-_Competitive Price Analysis_
+![Competitive Price Analysis report](assets/amazon-competitive-price-analysis.png)
 
 ## Default columns
 

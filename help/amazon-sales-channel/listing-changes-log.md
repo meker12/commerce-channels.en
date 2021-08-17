@@ -11,8 +11,7 @@ No actions are available for the log. It is a review-only feature.
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
-![](assets/amazon-listing-changes-log.png)
-_Listing Changes Log_
+![Listing Changes Log](assets/amazon-listing-changes-log.png)
 
 ## Default columns
 

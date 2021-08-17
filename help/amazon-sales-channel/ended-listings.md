@@ -33,8 +33,7 @@ For publishing listings, see:
 - [Publish a single or multiple Amazon listing that has been ended](./publish-listings-manually.md)
 - [Publish a single Amazon listing that has been ended](./publish-listings-manually.md)
 
-![](assets/amazon-ended-listings.png)
-_Ended Listings_
+![Ended Amazon listings](assets/amazon-ended-listings.png)
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

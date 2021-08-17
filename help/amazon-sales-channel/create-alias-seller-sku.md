@@ -67,8 +67,7 @@ View the listing on the _Product Listings_ page (_Inactive_, _Active_, _Ineligib
 
 1. Click **[!UICONTROL Save Listing Update]**.
 
-![](assets/amazon-alias-sku-create.png)
-_Create an Alias Amazon Seller SKU_
+![create an Alias Amazon Seller SKU](assets/amazon-alias-sku-create.png)
 
 |Field|Description|
 |--- |--- |

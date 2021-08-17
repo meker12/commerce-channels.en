@@ -7,8 +7,7 @@ description: Use the Amazon Sales Channel home page in your Commerce Admin to ac
 
 The [!DNL Amazon Sales Channel] home page is your landing page when accessing your [!DNL Amazon Sales Channel].
 
-![](assets/amazon-sales-channel-home-tabs.png)
-_[!DNL Amazon Sales Channel] home page_
+![Amazon Sales Channel home page](assets/amazon-sales-channel-home-tabs.png)
 
 Views available in the left-side menu include:
 

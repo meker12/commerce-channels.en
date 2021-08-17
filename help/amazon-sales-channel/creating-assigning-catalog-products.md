@@ -124,8 +124,7 @@ The catalog product is created in your [!DNL Commerce] catalog and assigned to t
 
 The catalog products are created in your [!DNL Commerce] catalog and assigned to the Amazon listing from which it was created. With the listings now matched to their respective Amazon listing, the listings will remove from the [_New Third Party_](./new-third-party-listings.md) tab and appear in the [_Active_](./active-listings.md) tab.
 
-![](assets/amazon-magento-catalog-product.png)
-_Create [!DNL Commerce] catalog product_
+![create Commerce catalog product](assets/amazon-magento-catalog-product.png)
 
 |Field|Description|
 |--- |--- |

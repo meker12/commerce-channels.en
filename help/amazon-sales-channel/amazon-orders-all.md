@@ -26,8 +26,7 @@ _All Orders_ view adds filtering options for order searches.
 
 You can view your most recent orders in the _Recent Orders_ section of the [store dashboard](./amazon-store-dashboard.md).
 
-![](assets/amazon-recent-orders-imported.png)
-_Recent Orders_
+![Recent Orders](assets/amazon-recent-orders-imported.png)
 
 ### View recent Amazon orders
 
@@ -49,8 +48,7 @@ You can view all of your Amazon orders on the _Amazon orders_ page (also referre
 - Total (range)
 - Status
 
-![](assets/amazon-orders-list-all.png)
-_Amazon orders_
+![Amazon orders](assets/amazon-orders-list-all.png)
 
 ### View all Amazon orders
 
@@ -68,8 +66,7 @@ _Amazon orders_
 
 You can apply filters to your order list in the _Filter by_ section. Make your selections and click **Apply filters**. Your applied filters appear above the orders grid.
 
-![](assets/amazon-orders-filter-view.png)
-_Filters_
+![Filters for viewing Amazon orders](assets/amazon-orders-filter-view.png)
 
 ### Changing applied filters
 

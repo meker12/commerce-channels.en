@@ -11,8 +11,7 @@ The _Buy Box Competitor Pricing_ tab  on the _Product Listing Details_ page incl
 
 [Intelligent repricing rules](./intelligent-repricing-rules.md) can be configured to adjust your pricing based on the [!DNL Amazon Buy Box] price.
 
-![](assets/amazon-listing-details-buy-box.png)
-_[!DNL Buy Box] Competitor Pricing details_
+![Buy Box Competitor Pricing details](assets/amazon-listing-details-buy-box.png)
 
 ## Access [!DNL Buy Box] Competitor Pricing details
 

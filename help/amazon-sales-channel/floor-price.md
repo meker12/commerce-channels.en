@@ -41,8 +41,7 @@ Define your lowest price setting in the _Floor Price_ section.
 
 In this example, the floor price is set to be 3% above the cost of the item.
 
-![](assets/ob-intelligent-pricde-rule-floor-price.png)
-_Intelligent Repricing Rule: Floor Price_
+![Intelligent repricing rule example - floor price](assets/ob-intelligent-pricde-rule-floor-price.png)
 
 |Field|Description|
 |--- |--- |

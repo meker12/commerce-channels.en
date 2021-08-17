@@ -11,8 +11,7 @@ No actions are available for the log. It is a review-only feature.
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
-![](assets/amazon-comm-errors-log.png)
-_Communication Errors Log_
+![Communication Errors Log](assets/amazon-comm-errors-log.png)
 
 ## Default columns
 

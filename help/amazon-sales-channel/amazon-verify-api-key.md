@@ -17,10 +17,9 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
 1. On the _Admin_ sidebar, go to **Marketing** > _Channels_ > **Amazon Sales Channel**.
 
-    If this is your first time accessing [!DNL Amazon Sales Channel] or if you need to update your API key, a modal will appear to prompt you through the process.
+    If this is your first time accessing [!DNL Amazon Sales Channel] or if you need to update your API key, the system prompts you through the process.
 
-    ![](assets/amazon-api-verification-prompt.png)
-    _Get and Add the Amazon API Key Prompt_
+    ![Get and Add the Amazon API Key Prompt](assets/amazon-api-verification-prompt.png)
 
 1. Click **Sign in** to access your [!DNL Commerce] web account.
 
@@ -36,8 +35,7 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
     If you need to create a new API key, enter a description like `Amazon Sales Channel` and click **Add New**. The new key is generated and shown with the name you entered. Click **Copy** to copy the new key.
 
-    ![](assets/amazon-add-api-key.png)
-    _Generate or Copy an API Key_
+    ![Generate or copy an API key](assets/amazon-add-api-key.png)
 
 1. With the new key generated and copied, return to the _Amazon Sales Channel_ tab in the browser.
 
@@ -49,8 +47,7 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
 1. Click **[!UICONTROL Save Config]**. You can now return to [!DNL Amazon Sales Channel].
 
-    ![](assets/config-magento-services-api-screen.png)
-    _Adding your API Key in your store configuration_
+    ![Adding your API Key in your store configuration](assets/config-magento-services-api-screen.png)
 
 1. On the _Admin_ sidebar, go to **Marketing** > _Channels_ > **Amazon Sales Channel**.
 

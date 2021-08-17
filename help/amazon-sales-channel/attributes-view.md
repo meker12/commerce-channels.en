@@ -7,8 +7,7 @@ description: Amazon Sales Channel provides the Attributes tab to monitor the lis
 
 The _Attributes_ view shows your list of Amazon and [!DNL Commerce] attributes. The table list also indicates attributes that have been mapped for product matching. For more information, see [Manage Attributes](./managing-attributes.md)
 
-![](assets/amazon-attributes-view.png)
-_Attributes view_
+![Attributes view](assets/amazon-attributes-view.png)
 
 From the _Attributes_ view, you and review your attribute settings in the table and [create or edit](./creating-attributes.md) an attribute.
 

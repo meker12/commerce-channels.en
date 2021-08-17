@@ -15,7 +15,7 @@ The _Create Override_ action is available when viewing listings on the _Inactive
 
 1. In the _Action_ column, click **Select** > **Create Override** to open the Product Listing Overrides page.
 
-   ![](assets/amazon-select-create-override.png)
+   ![create Amazon listing override](assets/amazon-select-create-override.png)
 
 1. Verify the Listing Details to ensure you are viewing the correct listing.
 
@@ -34,8 +34,7 @@ The _Create Override_ action is available when viewing listings on the _Inactive
 
 The following example shows an override that defines a new price of `$55`, a new handling time of `1 day`, a new condition of `Used; Like New`, and new Seller Note text.
 
-![](assets/amazon-overrides-edit.png)
-_Create an Override_
+![Example Amazon listing override](assets/amazon-overrides-edit.png)
 
 ## Edit or remove an override for a single listing {#edit-override-single-listing}
 
@@ -47,7 +46,7 @@ The _Edit Overrides_ action is available when viewing listings on the _Overrides
 
    The _Product Listing Overrides_ page opens.
 
-    ![](assets/amazon-select-edit-overrides.png)
+    ![Select an Amazon listing override](assets/amazon-select-edit-overrides.png)
 
 1. Verify the Listing Details to ensure you are viewing the correct listing.
 
@@ -68,8 +67,8 @@ The _Edit Overrides_ action is available when viewing listings on the _Overrides
 
 Piggybacking on the _Create an Override_ example. The following example shows an edit to the previously created override that defines a new price of `$50`, removes the Handling Time override, and keeps the previous Condition and Seller Notes overrides.
 
-![](assets/amazon-overrides-edit-2.png)
-_Editing or Removing an Override_
+![Editing or removing an override](assets/amazon-overrides-edit-2.png)
+__
 
 ## Edit or remove an override for multiple listings {#edit-override-multiple-listings}
 
@@ -87,7 +86,7 @@ The _Edit Listing Overrides_ action is available on the _Inactive_, _Active_, _O
 
    The _Product Listing Overrides_ page opens.
 
-    ![](assets/amazon-actions-edit-listing-overrides.png)
+    ![Select an Amazon listing override](assets/amazon-actions-edit-listing-overrides.png)
 
 1. To edit your _Override_ settings, define the sections for the type you want to change (Price, Handling Time, Condition, Seller Notes).
 

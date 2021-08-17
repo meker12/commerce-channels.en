@@ -26,5 +26,4 @@ When an assigned ASIN is changed:
 
 1. Click **[!UICONTROL Save Listing Update]** to save your changes.
 
-![](assets/amazon-assigned-asin-edit.png)
-_Edit Assigned ASIN_
+![Edit an assigned ASIN](assets/amazon-assigned-asin-edit.png)

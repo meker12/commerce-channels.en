@@ -39,8 +39,7 @@ For your products to be listed on the [!DNL Amazon Business (B2B)] site, you mus
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-business-pricing.png)
-_Business Pricing (B2B)_
+![Amazon Business Pricing (B2B)](assets/amazon-business-pricing.png)
 
 |Field |Description|
 |--- |--- |

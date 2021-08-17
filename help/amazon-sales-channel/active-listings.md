@@ -33,8 +33,7 @@ Under **Select** in the _Action_ column:
 >
 >If you have listings in process, the number of listings will display in a message above the tabs.
 
-![](assets/amazon-active-listings.png)
-_Active Listings_
+![Active Listings](assets/amazon-active-listings.png)
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

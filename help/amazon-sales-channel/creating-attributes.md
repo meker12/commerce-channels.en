@@ -55,8 +55,7 @@ These steps create a new [!DNL Commerce] attribute and map it to an Amazon attri
 
 After saving, you may want to edit the attribute to review settings and matching Amazon and [!DNL Commerce] values for the attribute. You also have an additional option to indicate if Amazon values should overwrite [!DNL Commerce] values.
 
-![](assets/amazon-attribute-settings-create.png)
-_Create attribute settings_
+![create attribute settings](assets/amazon-attribute-settings-create.png)
 
 |Field|Description|
 |--- |--- |
@@ -101,8 +100,7 @@ _Create attribute settings_
 
 1. When complete, click **[!UICONTROL Save Attribute Settings]**.
 
-![](assets/amazon-attribute-settings-edit.png)
-_Edit Attribute Settings_
+![edit attribute settings](assets/amazon-attribute-settings-edit.png)
 
 |Field|Description|
 |--- |--- |

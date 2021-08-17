@@ -25,8 +25,7 @@ Your listing rules are continually synchronized with your [!DNL Commerce] catalo
 
 Changes to quantity and eligibility status impact all listings that share the Amazon Seller SKU in marketplaces that exist for stores selling in the same region (as defined in **[!DNL Amazon Marketplace] Country** during [store integration](./store-integration.md)). However, a change to a shared [!DNL Amazon Seller SKU] in one region will not affect the product's Amazon listings in a different country.
 
-![](assets/ob-listing-rules.png)
-_Listing Rules_
+![Listing rules](assets/ob-listing-rules.png)
 
 ## Configure Listing Rules settings
 
@@ -84,8 +83,7 @@ Your potential Amazon listings will populate on the _Listing Preview_ page in on
 
     If your listings do no not appear as expected, click **Back** and modify your rules and conditions until your listings match your expectations.
 
-![](assets/amazon-listing-rule-preview.png)
-_Listing Rule Preview_
+![Listing rule preview](assets/amazon-listing-rule-preview.png)
 
 ### Listing preview workflow
 
@@ -100,5 +98,4 @@ _Listing Rule Preview_
 |Visibility |Indicates where the product is visible, managed in the [!DNL Commerce] products grid. Options:<ul><li>Not visible individually</li><li>Catalog</li><li>Search</li><li>Catalog, Search</li></ul>|
 |Status |Indicates the current status of the product, managed in the [!DNL Commerce] products grid. Options:<ul><li>Enabled</li><li>Disabled</li></ul> |
 
-![](assets/listing-preview-flowchart.png)
-_Listing Preview Workflow_
+![Listing preview workflow](assets/listing-preview-flowchart.png)

@@ -31,8 +31,7 @@ Under **Select** in the _Action_ column:
 >
 >If you have listings in process, a message will appear above the tabs indicating the number of listings.
 
-![](assets/amazon-inactive-listings.png)
-_Inactive listings_
+![Inactive Amazon listings](assets/amazon-inactive-listings.png)
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

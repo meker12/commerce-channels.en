@@ -73,8 +73,7 @@ The options listed in _Magento Price Source_, _Minimum Advertised Price (Map)_, 
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-listing-price.png)
-_Listing Price_
+![Listing Price](assets/amazon-listing-price.png)
 
 |Field|Description|
 |--- |--- |

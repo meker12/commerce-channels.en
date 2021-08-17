@@ -9,8 +9,7 @@ The Listing Improvements report shows products with suggestions from Amazon to i
 
 A listing improvement received from Amazon does not prevent your product from being listed with Amazon.
 
-![](assets/amazon-listing-improvements.png)
-_Listing Improvements_
+![Listing Improvements](assets/amazon-listing-improvements.png)
 
 ## Default columns
 

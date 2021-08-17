@@ -35,8 +35,7 @@ For **Conditional Variance**, choose an option:
 
    Conditional variance options that appear are based on your listing settings for `Condition` that are mapped to condition values using a [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"}. For all mapped conditions, you can define a variance percentage of 1-100. The exception is collectibles, in which case a percentage greater than 100 may be applied.
 
-![](assets/amazon-competitor-cond-variances.png)
-_Intelligent Repricing Rule: Competitor Conditional Variances_
+![Intelligent repricing rule - competitor conditional variances](assets/amazon-competitor-cond-variances.png)
 
 |Field|Description|
 |--- |--- |
@@ -50,18 +49,18 @@ _Intelligent Repricing Rule: Competitor Conditional Variances_
 
 The formula for calculating conditional variance base is as follows:
 
-![](assets/amazon-cond-variance-calc-1.png)
+![conditional variance base calculation formula](assets/amazon-cond-variance-calc-1.png)
 
 ## Example
 
 The conditional variance settings are as follows:
 
-![](assets/amazon-cond-variances.png)
+![example conditional variance settings](assets/amazon-cond-variances.png)
 
 - BMC = 100 (Competitor condition = New)
 - MCV = 80 (Merchant condition = Used; Good)
 - BMP = $7.99 (Base match price = The lowest price of the matched competitor condition)
 
-![](assets/amazon-cond-variance-calc-2.png)
+![conditional variance base calculation example](assets/amazon-cond-variance-calc-2.png)
 
 Using the conditional variance base calculation from above, our conditional variance base = $6.39. This will be the competitor price source used for our price rule actions, explained further in [Price Adjustment](./price-adjustment.md).

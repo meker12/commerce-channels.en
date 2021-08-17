@@ -41,8 +41,7 @@ The fulfillment method is a regional attribute, and based on the **[!DNL Amazon 
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-fulfilled-by.png)
-_Fulfilled By_
+![Fulfilled By settings](assets/amazon-fulfilled-by.png)
 
 |Field|Description|
 |--- |--- |
