@@ -1,5 +1,6 @@
 ---
 title: 'Onboarding: Create Listing Rule'
+description: While completing the Amazon Sales Channel onboarding process, create the initial listing rules for generating Amazon listings for your Commerce products.
 ---
 
 # Onboarding: Create Listing Rule

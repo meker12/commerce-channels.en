@@ -1,8 +1,9 @@
 ---
 title: Create and Assign Products
+description: Amazon Sales Channel provides the New Third Party tab to help create and assign matching Commerce catalog products with Amazon listings.
 ---
 
-# Create and Assign Products
+# Create and assign products
 
 When viewing _New Third Party_ tab, you can match your [!DNL Commerce] catalog products to an existing Amazon listing. There are two options for this matching. You can assign a listing to an existing catalog product, or you can use the information from the listing to create new catalog products. These options are helpful when your Amazon listings do not automatically match to your [!DNL Commerce] catalog.
 

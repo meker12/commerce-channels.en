@@ -1,5 +1,6 @@
 ---
 title: Listing Price
+description: Use the Listing Price settings to determine price source and the base (default) price value for your Amazon listings.
 redirect_from:
   - /sales-channels/asc/ob-listing-price.html
 ---
@@ -8,7 +9,7 @@ redirect_from:
 
 Listing Price settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
-The Listing Price setting defines which [!DNL Commerce] pricing attribute to use as your price source, which is the base (default) price value for your Amazon listings. These settings will be used by your [pricing rules](./pricing-rule-general-settings.md) to automatically adjust your Amazon listing price relative to the value set for _Magento Price Source_.
+These settings define which [!DNL Commerce] pricing attribute to use as your price source, which is the base (default) price value for your Amazon listings. These settings will be used by your [pricing rules](./pricing-rule-general-settings.md) to automatically adjust your Amazon listing price relative to the value set for _Magento Price Source_.
 
 You can configure your [pricing scope](./price-scope.md) as global or website. If your pricing scope is set to `Global`, there is a single price source for all your stores/websites. If your pricing scope is set to `Website`, the price source will use fallback logic of website price (if available) followed by the default (global) price.
 

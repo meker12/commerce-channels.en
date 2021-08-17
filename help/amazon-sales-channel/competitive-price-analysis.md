@@ -1,5 +1,6 @@
 ---
 title: Competitive Price Analysis
+description: The Competitive Price Analysis displays your Amazon listings per marketplace with the respective Buy Box price and lowest competitor price values.
 ---
 
 # Competitive Price Analysis

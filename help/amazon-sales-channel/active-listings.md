@@ -1,5 +1,6 @@
 ---
 title: Active Listings
+description: The Amazon Sales Channel provides the Active tab to monitor active Amazon listings and that are matched to a product in your Adobe Commerce catalog.
 ---
 
 # Active listings

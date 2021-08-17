@@ -1,5 +1,6 @@
 ---
 title: Fulfilled By
+description: Use the Fulfilled By settings to determine how the orders from Amazon listings will be fulfilled (shipped).
 redirect_from:
   - /sales-channels/asc/ob-fulfilled-by.html
 ---

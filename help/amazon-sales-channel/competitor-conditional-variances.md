@@ -1,5 +1,6 @@
 ---
 title: 'Intelligent Repricing Rule: Competitor Conditional Variances'
+description: Create an intelligent repricing rule to determine your Amazon listing price based on competitor pricing and condition of the product.
 ---
 
 # Intelligent repricing rule: competitor conditional variances

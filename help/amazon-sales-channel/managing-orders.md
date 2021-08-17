@@ -1,5 +1,6 @@
 ---
 title: Manage Orders
+description: You can enable order import in your Order Settings to more easily manage your Amazon orders from your Commerce Admin.
 ---
 
 # Manage orders

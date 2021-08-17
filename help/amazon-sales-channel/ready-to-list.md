@@ -1,5 +1,6 @@
 ---
 title: Ready to List
+description: Amazon Sales Channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
 ---
 
 # Ready to List

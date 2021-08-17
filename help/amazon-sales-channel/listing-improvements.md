@@ -1,5 +1,6 @@
 ---
 title: Listing Improvements
+description: Amazon Sales Channel provides the Listing Improvements report to give you suggestions for Amazon listing quality improvements.
 ---
 
 # Listing Improvements

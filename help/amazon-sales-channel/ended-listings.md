@@ -1,5 +1,6 @@
 ---
 title: Ended Listings
+description: Amazon Sales Channel provides the Ended tab to review ended Amazon Marketplace listings, which can be republished when you choose.
 ---
 
 # Ended listings
@@ -7,6 +8,7 @@ title: Ended Listings
 The _Ended_ tab shows all the Amazon products that have been manually ended (removed) from your [!DNL Amazon Seller Central] account. These products meet all of the listing requirements and can be republished at any time and do not require additional information. If a product is in the _Ineligible_ tab, you may need to modify your [listing settings](./listing-settings.md) to so that your product meets listing eligibility.
 
 >[!NOTE]
+>
 >If you have listings in process, the number of listings will display in a message above the tabs.
 
 Under _Actions_:

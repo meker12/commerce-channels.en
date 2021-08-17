@@ -1,5 +1,6 @@
 ---
 title: Amazon Store Dashboard
+description: Use the Amazon store dashboard as the primary location to view the activity for your Amazon stores from the Commerce Admin. 
 ---
 
 # Amazon Store dashboard

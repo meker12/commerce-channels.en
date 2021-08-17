@@ -1,5 +1,6 @@
 ---
 title: Manage Product Listings by Status / Tab
+description: As you manage your Amazon listings, you can apply actions to your listings according to status.
 ---
 
 # Manage product listings by status / tab

@@ -1,5 +1,6 @@
 ---
 title: (B2B) Business Price
+description: You can list your Commerce store products on the Amazon Business (B2B) site by enabling business in your Amazon Seller Central account. 
 redirect_from:
   - /sales-channels/asc/ob-business-pricing.html
 ---

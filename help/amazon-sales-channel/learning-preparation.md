@@ -1,5 +1,6 @@
 ---
 title: Learning and Preparation
+description: Amazon Sales Channel provides the Learning and Preparation view tab to provide easy access a list of setup tasks and informational resources.
 ---
 
 # Learning and Preparation

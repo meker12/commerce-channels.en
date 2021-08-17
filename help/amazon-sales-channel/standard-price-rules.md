@@ -1,5 +1,6 @@
 ---
 title: Standard Price Rule Actions
+description: Use standard price rule actions to increase or decrease an Amazon listing price relative to the Commerce catalog price (or price source).
 ---
 
 # Standard price rule actions

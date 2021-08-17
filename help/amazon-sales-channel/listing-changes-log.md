@@ -1,5 +1,6 @@
 ---
 title: Listing Changes Log
+description: Amazon Sales Channel provides the Listing Changes Log to help you monitor the affected changes in your Amazon Seller account.
 ---
 
 # Listing Changes Log

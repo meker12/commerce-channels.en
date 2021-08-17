@@ -1,5 +1,6 @@
 ---
 title: Add or Verify the Amazon API Key
+description: In your Commerce configuration, the validated Amazon API key allows you to integrate your stores with your Amazon Seller account.
 ---
 
 # Add or verify the Amazon API key

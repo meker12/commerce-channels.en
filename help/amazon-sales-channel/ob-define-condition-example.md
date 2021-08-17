@@ -1,5 +1,6 @@
 ---
 title: 'Example: Define a Condition'
+description: When creating your listing rules, define conditions for identifying the Commerce catalog products to be listed on the Amazon Marketplace.
 ---
 
 # Example: Define a Condition

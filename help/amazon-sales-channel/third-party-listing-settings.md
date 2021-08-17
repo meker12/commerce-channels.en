@@ -1,5 +1,6 @@
 ---
 title: Third Party Listings
+description: Update the Third Party Listing settings determine if your Commerce catalog will import products from your existing Amazon Seller Central listings.
 redirect_from:
   - /sales-channels/asc/ob-third-party-listings.html
 ---

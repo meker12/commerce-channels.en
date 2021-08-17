@@ -1,5 +1,6 @@
 ---
 title: [!DNL Amazon Sales Channel] Home
+description: Use the Amazon Sales Channel home page in your Commerce Admin to access your Amazon Marketplace listings and activity.
 ---
 
 # [!DNL Amazon Sales Channel] home

@@ -1,5 +1,6 @@
 ---
 title: Overrides
+description: Amazon Sales Channel provides the Overrides tab to help you identify and manage how you are applying overrides in your Amazon listings.
 ---
 
 # Overrides

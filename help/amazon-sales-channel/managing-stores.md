@@ -1,5 +1,6 @@
 ---
 title: Amazon Stores View
+description: Go to the Amazon Stores view to quickly review basic statistics for each of your Amazon stores, and access management options. 
 ---
 
 # Amazon Stores view

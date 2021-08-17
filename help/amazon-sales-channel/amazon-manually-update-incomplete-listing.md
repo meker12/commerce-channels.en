@@ -1,10 +1,11 @@
 ---
 title: Update Required Info (Incomplete Listing)
+description: Amazon Sales Channel provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
 ---
 
 # Update Required Info (incomplete listing)
 
-Listings that display on the _Incomplete_ tab include your [!DNL Commerce] catalog products that meet your Amazon eligibility requirements as defined in your listing rules but are missing information required by Amazon before listing.
+Listings displayed on the _Incomplete_ tab include your [!DNL Commerce] catalog products that meet your Amazon eligibility requirements as defined in your listing rules but are missing information required by Amazon before listing.
 
 ## Update required info (Unable to Assign To Amazon Listing) {#update-required-info-unable-to-assign-to-amazon-listing}
 

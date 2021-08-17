@@ -1,8 +1,9 @@
 ---
 title: Manage Product Listings by Action
+description: As you manage your Amazon listings, you can apply an action to individual or multiple listings.
 ---
 
-# Manage Product Listings by Action
+# Manage product listings by action
 
 The _Product Listings_ page contains several tabs from which you can view the statuses of all of your listings as well as match your products to Amazon listings.
 

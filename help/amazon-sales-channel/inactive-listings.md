@@ -1,5 +1,6 @@
 ---
 title: Inactive Listings
+description: Amazon Sales Channel provides the Inactive tab to monitor your currently inactive Amazon Marketplace listings.
 ---
 
 # Inactive listings

@@ -1,8 +1,9 @@
 ---
-title: Publish an Amazon Listing
+title: Manually Publish an Amazon Listing
+description: WHen needed, you can manually publish your ended Amazon listings from your Commerce Admin.
 ---
 
-# Publish an Amazon listing
+# Manually publish an Amazon listing
 
 ## Publish a single or multiple Amazon listing that has been ended
 

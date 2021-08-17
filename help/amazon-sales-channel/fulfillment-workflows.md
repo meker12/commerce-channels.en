@@ -1,5 +1,6 @@
 ---
 title: Amazon Fulfillment Workflows
+description: Fulfillment for an order from an Amazon listing follows a specific sequence from order submission to shipping.
 ---
 
 # Amazon fulfillment workflows

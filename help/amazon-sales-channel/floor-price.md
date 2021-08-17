@@ -1,5 +1,6 @@
 ---
 title: 'Intelligent Repricing Rule: Floor Price'
+description: Use floor price settings to determine the lowest price for an intelligent pricing rule to manage your Amazon listings.
 ---
 
 # Intelligent repricing rule: floor price

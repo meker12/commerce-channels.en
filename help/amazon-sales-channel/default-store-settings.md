@@ -1,5 +1,6 @@
 ---
 title: Default Store Settings
+description: Modify the default Commerce settings to customize the Amazon Sales Channel for your store. 
 ---
 
 # Default store settings

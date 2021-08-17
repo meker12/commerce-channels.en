@@ -1,5 +1,6 @@
 ---
 title: Price Rule Actions
+description: Use the price rule actions to define the adjustment calculations that will be applied to the price source to determine the Amazon listing price.
 redirect_from:
   - /sales-channels/asc/ob-pricing-rules-actions.html
 ---

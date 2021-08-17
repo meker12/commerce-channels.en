@@ -1,5 +1,6 @@
 ---
 title: Price Rule Conditions
+description: Use the price rule conditions to determine which products will be eligible for the listing price rule.
 redirect_from:
   - /sales-channels/asc/ob-pricing-rules-conditions.html
 ---

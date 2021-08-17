@@ -1,5 +1,6 @@
 ---
 title: New Third Party Listings
+description: Manage new Amazon listings by matching them to a product in your Commerce catalog.
 ---
 
 # New third party listings

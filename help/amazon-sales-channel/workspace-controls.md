@@ -1,5 +1,6 @@
 ---
 title: Workspace Controls
+description: Amazon Sales Channel provides workspace controls help you locate listings, view information, and easily and apply actions.
 ---
 
 # Workspace controls

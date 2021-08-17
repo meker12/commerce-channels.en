@@ -1,8 +1,9 @@
 ---
 title: Create and Edit Overrides
+description: Use Amazon Sales Channel overrides to apply your changes to a single Amazon listing, or to multiple listings.
 ---
 
-# Create and Edit Overrides
+# Create and edit overrides
 
 You can create and override for a listing or edit or remove an override that has been applied to a listing. Overrides set a defined value for a specific listing.
 

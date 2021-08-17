@@ -1,5 +1,6 @@
 ---
 title: Renewed Products
+description: If your Seller Central account is registered for the Renewed Program,  you can manage your renewed listings in Amazon Sales Channel.
 ---
 
 # Renewed products

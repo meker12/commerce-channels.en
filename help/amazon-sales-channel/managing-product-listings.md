@@ -1,5 +1,6 @@
 ---
 title: Manage Amazon Listings
+description: Amazon Sales Channel provides multiple tools to help you manage your Amazon listings from the Commerce Admin.
 ---
 
 # Manage Amazon listings

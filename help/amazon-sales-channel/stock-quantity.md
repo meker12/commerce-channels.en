@@ -1,5 +1,6 @@
 ---
 title: Stock/Quantity
+description: Update the Stock/Quantity settings to control syncing of product quantity details from your Commerce store to your Amazon Seller Central account. 
 redirect_from:
   - /sales-channels/asc/ob-stock-quantity.html
 ---

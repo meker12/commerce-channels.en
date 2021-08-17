@@ -1,8 +1,9 @@
 ---
 title: View Amazon Orders
+description: View your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
 ---
 
-# View Amazon Orders
+# View Amazon orders
 
 There are two ways to view your Amazon orders: _Recent Orders_ and _All Orders_.
 

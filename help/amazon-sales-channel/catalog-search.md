@@ -1,5 +1,6 @@
 ---
 title: Catalog Search
+description: Update the Catalog Search settings to set the attribute matching that helps to map eligible Commerce catalog products with Amazon listings.
 redirect_from:
   - /sales-channels/asc/ob-catalog-search.html
 ---

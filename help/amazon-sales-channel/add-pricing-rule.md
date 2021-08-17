@@ -1,5 +1,6 @@
 ---
 title: Add Pricing Rules
+description: Use pricing rules to manage listing prices on the Amazon Marketplace for your Commerce product catalog.
 ---
 
 # Add pricing rules

@@ -1,5 +1,6 @@
 ---
 title: Listing Rules
+description: Use listing rules determine the Commerce catalog products that are published as Amazon Marketplace listings.
 redirect_from:
   - /sales-channels/asc/ob-listing-rules.html
   - /sales-channels/asc/ob-listing-preview.html

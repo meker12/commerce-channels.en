@@ -1,5 +1,6 @@
 ---
 title: Product Listing Actions
+description: Use the Product Listing Actions settings to define how your Commerce catalog interacts with Amazon.
 redirect_from:
   - /sales-channels/asc/ob-product-listing-actions.html
 ---

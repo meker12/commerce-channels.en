@@ -1,5 +1,6 @@
 ---
 title: Incomplete Listings
+description: Amazon Sales Channel provides the Incomplete tab to help you identify and meet eligibility requirements for your incomplete Amazon listings.
 ---
 
 # Incomplete listings

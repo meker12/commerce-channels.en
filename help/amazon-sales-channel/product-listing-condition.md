@@ -1,5 +1,6 @@
 ---
 title: Product Listing Condition
+description: Use the Product Listing Condition settings to map your Commerce products to an Amazon product condition, such as "New" or "Refurbished".
 redirect_from:
   - /sales-channels/asc/ob-product-listing-condition.html
 ---

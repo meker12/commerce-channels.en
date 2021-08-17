@@ -1,5 +1,6 @@
 ---
 title: Price Scope
+description: Use the Commerce pricing scope to manage pricing according to multiple websites or globally.
 ---
 
 # Price scope

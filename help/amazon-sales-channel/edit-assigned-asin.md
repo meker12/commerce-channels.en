@@ -1,5 +1,6 @@
 ---
 title: Edit an Assigned ASIN
+description: Change the ASIN value for a Commerce product if it was improperly matched to one of your Amazon listings. 
 ---
 
 # Edit an assigned ASIN

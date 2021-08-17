@@ -1,5 +1,6 @@
 ---
 title: Price Rule Examples
+description: To help you design your pricing rules for Amazon listings, review these examples based on common scenarios.
 ---
 
 # Price Rule Examples

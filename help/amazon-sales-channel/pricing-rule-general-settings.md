@@ -1,5 +1,6 @@
 ---
 title: Pricing Rule General Settings
+description: Use the price rule general settings to define the primary characteristics of a listing price rule.
 redirect_from:
   - /sales-channels/asc/ob-pricing-rules-general-settings.html
 ---

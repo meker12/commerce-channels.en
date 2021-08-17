@@ -1,5 +1,6 @@
 ---
 title: End an Amazon Listing
+description: In the Commerce Admin, you can end an Amazon listing from the Amazon Sales Channel dashboard.
 ---
 
 # End an Amazon listing

@@ -1,8 +1,9 @@
 ---
 title: Create [!DNL Commerce] Attributes for Amazon
+description: Before completing the Amazon Sales Channel onboarding process, make sure you have the needed Commerce product attributes.
 ---
 
-# Create [!DNL Commerce] Attributes for Amazon
+# Create [!DNL Commerce] attributes for Amazon
 
 Prior to onboarding your [!DNL Amazon Seller Central] accounts, we recommend adding [!DNL Commerce] [product attributes](https://docs.magento.com/user-guide/stores/attributes-product.md) to map your product listings. After you complete onboarding, you can manage your product attributes through the [Attributes](./managing-attributes.md) tab of the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page.
 

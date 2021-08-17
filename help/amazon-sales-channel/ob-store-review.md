@@ -1,5 +1,6 @@
 ---
 title: Store Settings
+description: After you complete the Amazon Sales Channel onboarding process, review and update the Commerce store settings.
 ---
 
 # Store settings

@@ -1,5 +1,6 @@
 ---
 title: Communication Errors Log
+description: The Communication Errors Log displays any communication errors between Amazon and Commerce.
 ---
 
 # Communication Errors Log

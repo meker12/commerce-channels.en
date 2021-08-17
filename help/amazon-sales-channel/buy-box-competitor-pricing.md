@@ -1,5 +1,6 @@
 ---
 title: Buy Box Competitor Pricing
+description: Amazon Sales Channel provides the Buy Box Competitor Pricing tab to help you understand the price positioning of your competitors on Amazon.
 ---
 
 # [!DNL Buy Box] Competitor Pricing

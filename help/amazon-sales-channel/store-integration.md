@@ -1,5 +1,6 @@
 ---
 title: Store Integration
+description: Before you start the onboarding process, you must create (add) an Amazon Sales Channel store and connect it to your Amazon Seller Account.
 ---
 
 # Store integration

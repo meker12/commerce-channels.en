@@ -1,5 +1,6 @@
 ---
 title: View Listing Details
+description: Review the Product Listing Details page to understand competitive metrics on your Amazon listings and on individual SKU/product changes.
 ---
 
 # View Listing Details

@@ -1,5 +1,6 @@
 ---
 title: Price Priority Logic
+description: Amazon Sales Channel applies prioritization in determining the published price for an AMazon listing.
 ---
 
 # Price priority logic

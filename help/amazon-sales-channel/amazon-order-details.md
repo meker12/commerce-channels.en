@@ -1,5 +1,6 @@
 ---
 title: Amazon Order Details
+description: View details for your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
 ---
 
 # Amazon order details

@@ -1,10 +1,11 @@
 ---
 title: Store Integration Settings
+description: After you complete the Amazon Sales Channel onboarding process, review and configure the store integration settings through the Amazon Store Dashboard
 ---
 
 # Store integration settings
 
-After integrating your store, review and configure the integration settings store through the Amazon Store Dashboard. These settings display for **Inactive** and **Active** stores. Here you can change the name of your Amazon store and the email address you associated with the store during store integration.
+After integrating your store, review and configure the store integration settings through the Amazon Store Dashboard. These settings display for **Inactive** and **Active** stores. Here you can change the name of your Amazon store and the email address you associated with the store during store integration.
 
 ## Modify store integration settings
 

@@ -1,5 +1,6 @@
 ---
 title: View Amazon Attribute Mapping
+description: Verify values for your linked Commerce attributes to correctly sync between Commerce and Amazon.
 ---
 
 # View Amazon attribute mapping

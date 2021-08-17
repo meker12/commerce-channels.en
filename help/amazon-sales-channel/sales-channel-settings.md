@@ -1,5 +1,6 @@
 ---
 title: Sales Channel Admin Settings
+description: Update the Commerce configuration to manage logging, cron source, and synchronization for Amazon Sales Channel functions.
 ---
 
 # Sales Channel Admin settings

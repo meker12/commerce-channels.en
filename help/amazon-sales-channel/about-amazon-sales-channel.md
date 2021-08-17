@@ -1,6 +1,6 @@
 ---
 title: About Amazon Sales Channel
-description: Use the Amazon sales channel extension to seamlessly integrate Adobe Commerce or Magento Open Source with your [!DNL Amazon Seller Central] account.
+description: Use the Amazon sales channel extension to seamlessly integrate Adobe Commerce or Magento Open Source with your Amazon Seller Central account.
 ---
 
 # About [!DNL Amazon Sales Channel]

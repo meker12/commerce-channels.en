@@ -1,5 +1,6 @@
 ---
 title: Lowest Competitor Pricing
+description: The Amazon Sales Channel provides the Lowest Competitor Pricing tab to help you to understand the price positioning of your competitors on Amazon.
 ---
 
 # Lowest competitor pricing

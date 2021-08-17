@@ -1,5 +1,6 @@
 ---
 title: Create an Alias Amazon Seller SKU
+description: You can leverage the Alias Amazon Seller SKU to create multi-regional Amazon listings from your Commerce catalog products.
 ---
 
 # Create an Alias Amazon Seller SKU

@@ -1,5 +1,6 @@
 ---
 title: Order Settings
+description: Use the Order settings to determine how Amazon orders are imported into and processed in your Commerce store.
 redirect_from:
   - /sales-channels/asc/ob-order-settings.html
 ---

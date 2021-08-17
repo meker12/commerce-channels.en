@@ -1,5 +1,6 @@
 ---
 title: Create and Edit Attributes
+description: Amazon Sales Channel provides the Attributes view to help you review the current Amazon attributes and linked Commerce attributes.
 ---
 
 # Create and edit attributes

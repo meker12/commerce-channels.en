@@ -1,5 +1,6 @@
 ---
 title: Pre-Setup Tasks
+description: Review the required tasks to complete before integrating your Adobe Commerce or Magento Open Source store in Amazon Sales Channel.
 ---
 
 # Pre-setup tasks

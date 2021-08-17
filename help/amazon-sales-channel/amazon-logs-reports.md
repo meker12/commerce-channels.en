@@ -1,5 +1,6 @@
 ---
 title: Logs and Store Reports
+description: Use the logs and store reports to see what is happening in your Adobe Commerce or Magento Open Source store and your Amazon Marketplace listings.
 ---
 
 # Logs and store reports

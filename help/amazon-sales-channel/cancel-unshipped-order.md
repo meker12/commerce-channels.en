@@ -1,5 +1,6 @@
 ---
 title: Cancel an Unshipped Order
+description: Cancel a pending or partially shipped (unshipped) order through your Amazon Seller Central account. 
 ---
 
 # Cancel an unshipped order

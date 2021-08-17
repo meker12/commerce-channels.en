@@ -1,5 +1,6 @@
 ---
 title: About Amazon and the Commerce Catalog
+description: The Amazon Sales Channel imports your Amazon listings into your Commerce backend, and continually syncs with products and sales.
 ---
 
 # About Amazon and the [!DNL Commerce] catalog

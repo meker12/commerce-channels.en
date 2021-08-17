@@ -1,5 +1,6 @@
 ---
 title: Ineligible Listings
+description: Amazon Sales Channel provides the Ineligible tab to help you manage items are not not eligible as a listing based on your current listing rules.
 ---
 
 # Ineligible listings

@@ -1,5 +1,6 @@
 ---
 title: 'Intelligent Repricing Rule: Optional Ceiling Price'
+description: Use optional ceiling price settings to protect your highest product price against the intelligent pricing rules that manage your Amazon listings.
 ---
 
 # Intelligent repricing rule: optional ceiling price

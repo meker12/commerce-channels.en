@@ -1,12 +1,13 @@
 ---
 title: Manage Attributes
+description: You can manage the mapping of Commerce product attributes to the Amazon attributes to ensure accurate product information between the systems. 
 ---
 
 # Manage attributes
 
 Amazon and [!DNL Commerce] both use a system of product properties, known as attributes, used to define a product. Attributes define the description, content, images, prices, and various data for your products.
 
-Successful communication between Magneto and Amazon requires that [!DNL Commerce] attributes be correctly mapped (or matched) to the corresponding Amazon attribute. When integrating with Amazon, you will map these attributes to Amazon attributes. When complete, [!DNL Commerce] can sync and maintain your Amazon listings with your [!DNL Commerce] product catalog.
+Successful communication between Commerce and Amazon requires that [!DNL Commerce] attributes be correctly mapped (or matched) to the corresponding Amazon attribute. When integrating with Amazon, you will map these attributes to Amazon attributes. When complete, [!DNL Commerce] can sync and maintain your Amazon listings with your [!DNL Commerce] product catalog.
 
 For example, imagine you have the same item in your [!DNL Commerce] catalog and Amazon listings. One attribute for the product might be the listing price of the item. The name for the listing price in [!DNL Commerce] might be named `Price`, while the listing price for Amazon might be named `ListingPrice`. You'll need to tell [!DNL Commerce] that when communicating with Amazon, the [!DNL Commerce] attribute named `Price` is the same as the Amazon attribute named `ListingPrice`. This process is called managing attributes, and includes creating new and editing existing attributes. Making sure that attributes are properly matched will ensure correct communication between [!DNL Commerce] and Amazon.
 

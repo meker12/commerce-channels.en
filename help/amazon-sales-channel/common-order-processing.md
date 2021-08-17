@@ -1,10 +1,11 @@
 ---
 title: Common Order Processing Tasks
+description: Use the corresponding Commerce orders created for Amazon orders to manage order activity and processing in the Commerce Admin.
 ---
 
 # Common order processing tasks
 
-[[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the *Recent Orders* section of the store dashboard.
+[[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set to `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the *Recent Orders* section of the store dashboard.
 
 When enabled, corresponding [!DNL Commerce] orders are created for Amazon orders, and the Amazon order number shows in the _Order Number_ column. If a corresponding [!DNL Commerce] order is created, click the order number to open the order in the [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} page. You can manage the order as you do your other [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}.
 

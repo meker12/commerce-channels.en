@@ -1,5 +1,6 @@
 ---
 title: Manage Amazon Pricing
+description: You can set pricing for your Amazon listings to differ from your COmmerce store by using the pricing rules.
 redirect_from:
   - /sales-channels/asc/ob-pricing-rules.html
 ---
