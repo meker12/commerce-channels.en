@@ -41,8 +41,7 @@ The initial listing import initiates when [store integration](./store-integratio
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-third-party-listings.png)
-_Third Party Listings_
+![Third party listings](assets/amazon-third-party-listings.png)
 
 |Field|Description|
 |---|---|

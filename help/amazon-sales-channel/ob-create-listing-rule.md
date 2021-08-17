@@ -23,8 +23,7 @@ Listing rules can be defined during onboarding, but can also be modified at any 
 
 1. Review your listings in the Listing Preview:
 
-   ![](assets/amazon-ob-listing-preview.png)
-   _Listing Preview_
+   ![Listing preview](assets/amazon-ob-listing-preview.png)
 
    - **Ineligible Listings** - Products listed on this tab are not eligible for Amazon listing based on your current listing rule settings.
 

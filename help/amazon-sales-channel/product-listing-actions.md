@@ -35,8 +35,7 @@ These settings define how your catalog interacts with Amazon. These settings inc
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-product-listing-actions.png)
-_Product Listing Actions_
+![Product listing actions](assets/amazon-product-listing-actions.png)
 
 |Field|Description|
 |--- |--- |

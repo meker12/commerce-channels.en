@@ -51,8 +51,7 @@ If you only create the Amazon ASIN attribute (without adding ASIN values per pr
 
 1. Click **[!UICONTROL Save Attribute]**.
 
-![](assets/creating-asin-attribute.png)
-_Amazon ASIN Attribute_
+![Amazon ASIN attribute](assets/creating-asin-attribute.png)
 
 ## Create the Amazon Condition product attribute
 
@@ -107,7 +106,6 @@ _Amazon ASIN Attribute_
 
 1. Click **[!UICONTROL Save Attribute]**.
 
-![](assets/creating-amazon-condition-attribute.png)
-_Amazon Condition Attribute_
+![Amazon Condition attribute](assets/creating-amazon-condition-attribute.png)
 
 ![Next icon](assets/btn-next.png) [**Continue to Add or Verify API Key**](./amazon-verify-api-key.md)

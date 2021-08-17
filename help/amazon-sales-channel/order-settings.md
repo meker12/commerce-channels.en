@@ -65,8 +65,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
 1. When complete, click **Save order settings**.
 
-![](assets/amazon-order-settings.png)
-_Order Settings_
+![Order settings](assets/amazon-order-settings.png)
 
 |Field|Description|
 |---|---|

@@ -13,8 +13,7 @@ Options under **Actions** can apply the action to multiple listings, while optio
 
 See also [Manage Listings by Action](./managing-listings-by-action.md).
 
-![](assets/amazon-product-listings-tabs.png)
- _Product Listings tabs_
+![Product Listings tabs](assets/amazon-product-listings-tabs.png)
 
 |Tab|Description|Actions|
 |--- |--- |--- |

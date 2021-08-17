@@ -26,8 +26,7 @@ You have a few options to manually [publish a new listing to Amazon](./publish-l
 >[!NOTE]
 >If you have listings in process, the number of listings will display in a message above the tabs.
 
-![](assets/amazon-ready-to-list.png)
-_Ready to List_
+![Ready to list](assets/amazon-ready-to-list.png)
 
 ## Default columns
 

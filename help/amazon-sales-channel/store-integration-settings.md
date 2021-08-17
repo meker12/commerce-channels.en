@@ -25,5 +25,4 @@ After integrating your store, review and configure the store integration setting
 >
 >The _[!UICONTROL Amazon Marketplace Country]_ setting defined during [store integration](./store-integration.md) cannot be updated. To edit the country setting, you must delete the store (under _Action_ on the store card) and add a new store for the different country.
 
-![](assets/amazon-store-settings.png)
-_Store Integration Settings_
+![Store integration settings](assets/amazon-store-settings.png)

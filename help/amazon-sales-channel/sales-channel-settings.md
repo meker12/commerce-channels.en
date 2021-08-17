@@ -1,9 +1,9 @@
 ---
-title: Sales Channel Admin Settings
+title: Sales Channel Settings
 description: Update the Commerce configuration to manage logging, cron source, and synchronization for Amazon Sales Channel functions.
 ---
 
-# Sales Channel Admin settings
+# Sales Channel settings
 
 When the [!DNL Amazon Sales Channel] extension is installed, default values are set in the Admin for [!DNL Amazon Sales Channel]. These settings can be modified in your configuration settings for your Amazon store. These settings include:
 
@@ -11,7 +11,7 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 - Cron source selection
 - Log synchronization options
 
-## Modify the Admin settings
+## Modify the Commerce channels settings
 
 1. On the _Admin_ sidebar, go to **Stores** > _Settings_ > **Configuration**.
 
@@ -35,5 +35,4 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. Click **[!UICONTROL Save Config]**.
 
-![](assets/config-sales-channel-global-settings.png)
-[_Sales Channel Settings_](https://docs.magento.com/user-guide/configuration/sales-channels/global-settings.html)
+![Sales Channel configuration settings](assets/config-sales-channel-global-settings.png)

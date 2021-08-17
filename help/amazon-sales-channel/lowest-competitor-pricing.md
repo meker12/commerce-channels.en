@@ -9,8 +9,7 @@ The _Lowest Competitor Pricing_ tab on the _Product Listing Details_ page shows 
 
 [Intelligent repricing rules](./intelligent-repricing-rules.md) can be configured to adjust your pricing based on the competitor prices.
 
-![](assets/amazon-listing-details-lowest-comp.png)
-_Lowest Competitor Pricing_
+![Lowest competitor pricing](assets/amazon-listing-details-lowest-comp.png)
 
 ## Access lowest competitor pricing details
 

@@ -48,8 +48,7 @@ For example, you can define and set the conditions for a price rule that, when t
 
 Another pricing option is a [price override](./overrides.md), which is set at the individual listing level. A [price override](./overrides.md) can be set, and an override ignores/takes priority over all other defaults, settings, and rules. An [override](./overrides.md) can be set for price, handling time, condition, and seller notes (with a few exceptions).
 
- ![](assets/amazon-pricing-rules.png)
- _Pricing Rules_
+ ![Pricing rules](assets/amazon-pricing-rules.png)
 
 ## Default columns
 

@@ -23,8 +23,7 @@ Conditions are based on your [product attributes](https://docs.magento.com/user-
 >
 >If you want to define a condition based on a specific product attribute, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html) for the attribute.
 
-![](assets/ob-price-rules-condition-1.png)
-_Condition - Line 1_
+![Price rule condition - line 1](assets/ob-price-rules-condition-1.png)
 
 This example defines a rule that applies a 25% discount to all products that are defined in the `Books` category.
 
@@ -42,15 +41,13 @@ You can create different conditions by changing the combination of these values.
 
    **Conditions Combination** -  Choose to create an additional set of `All/Any` and `True/False` conditions inside the existing condition.
 
-   ![](assets/ob-conditions-combinations.png)
-   _Conditions Combination_
+   ![Price rule conditions combination](assets/ob-conditions-combinations.png)
 
    **Product Attribute** - The available product attributes depend on the [setup of the attribute](https://docs.magento.com/user-guide/stores/attribute-product-create.html). For an attribute to show in the list, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html).
 
    - For **Product Attribute**, choose the attribute that you want to define as the base of the condition. For this example, the selected condition is `Category`.
 
-      ![](assets/ob-price-rule-condition-2.png)
-      _Condition Line 2, Part 2_
+      ![Price rule condition - line 2, part 2](assets/ob-price-rule-condition-2.png)
 
       The selected condition appears in the statement, followed by two more bold links. The options differ depending on the product attribute you select.
 
@@ -64,13 +61,11 @@ You can create different conditions by changing the combination of these values.
 
       You might be prompted to select an option or enter a value for the condition. For this example, the field appears blank. To select your category(ies) for the rule, click the chooser icon (![Chooser icon](assets/btn-chooser.png)) to show your selection options. This rule is for Books, select the **Books** checkbox. The category number populates. Click the green check mark icon (![Check mark icon](assets/btn-check-mark-green.png)) to accept your category selection(s).
 
-      ![](assets/ob-price-rule-condition-3.png)
-      _Condition Line 2, Part 3_
+      ![Price rule condition - line 2, part 3](assets/ob-price-rule-condition-3.png)
 
       The selected item appears in the statement to complete the condition.
 
-      ![](assets/ob-price-rule-condition-4.png)
-      _Condition Line 2, Part 4_
+      ![Price rule condition - line 2, part 4](assets/ob-price-rule-condition-4.png)
 
       This example condition is complete. As stated, this condition means that any product in your [!DNL Commerce] catalog that has a defined category of Books (`4`) is eligible for this pricing rule. You can add more condition lines to further narrow your eligible products.
 

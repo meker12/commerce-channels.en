@@ -25,8 +25,7 @@ Under **Select**:
 >
 >If you have listings in process, a message will appear above the tabs indicating the number of listings.
 
-![](assets/amazon-listings-new-third-party.png)
-_New Third Party listings_
+![New third party listings](assets/amazon-listings-new-third-party.png)
 
 [!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 

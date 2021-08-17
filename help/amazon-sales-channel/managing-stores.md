@@ -7,8 +7,7 @@ description: Go to the Amazon Stores view to quickly review basic statistics for
 
 When viewing the [!DNL Amazon Sales Channel] home page, the _Amazon Stores_ view opens by default.
 
-![](assets/amazon-sales-channel-home-tabs.png)
-_Amazon Stores view_
+![Amazon Stores view](assets/amazon-sales-channel-home-tabs.png)
 
 The _Amazon Stores_ view shows a "store card" for each of your Amazon stores along with some basic statistics and management options. Summary information shown in each card includes each store status, date created, last updated date, listings that need attention (example: Incomplete Listings) and the assigned [!DNL Commerce] website.
 

@@ -43,8 +43,7 @@ Define your pricing adjustment in the _Price Adjustment_ section.
 
    - When **Apply** is set to `Apply as fixed amount`, enter the numerical value for the fixed amount (example: enter `25` for a $25 fixed adjustment).
 
-![](assets/amazon-price-adjustment.png)
-_Intelligent Repricing Rule: Price Adjustment_
+![Intelligent repricing rule - price adjustment](assets/amazon-price-adjustment.png)
 
 |Field|Description|
 |---|---|

@@ -37,8 +37,7 @@ Define your optional highest price settings in the **Optional Ceiling Price** se
 
 In this example, the ceiling price is set to be 2% below the MSRP of the item.
 
-![](assets/ob-intelligent-price-rule-ceiling.png)
-_Intelligent Repricing Rule: Optional Ceiling Price_
+![Intelligent repricing rule - optional ceiling price](assets/ob-intelligent-price-rule-ceiling.png)
 
 |Field |Description|
 |---|---|

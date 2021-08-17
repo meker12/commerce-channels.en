@@ -22,8 +22,7 @@ Shows product information includes:
 - _Catalog (Magento) SKU_
 - _Amazon Seller SKU_
 
-![](assets/amazon-product-listing-details.png)
-_Listing Details_
+![Listing details](assets/amazon-product-listing-details.png)
 
 ## Listing Activity Log {#listing-activity-log}
 
@@ -35,8 +34,8 @@ Shows all recent activity for the Amazon listing. Information shown includes:
 - Comments: Provides additional details related to the type of listing action that occurred.
 - Executed At: Identifies the date and time the action occurred.
 
-![](assets/amazon-listing-activity-log.png)
-_Product Listing Details: Listing Activity Log_
+![Product listing details - Listing Activity log](assets/amazon-listing-activity-log.png)
+__
 
 ## Buy Box Competitor Pricing {#buy-box-competitor-pricing}
 
@@ -50,8 +49,7 @@ Shows information for the Amazon merchant who holds the [[!DNL Buy Box]](./buy-b
 - Landed Price: Identifies the listing price plus the shipping price for the listing.
 - Last Updated: Identifies the date and time the pricing information was updated from Amazon.
 
-![](assets/amazon-listing-details-buy-box-2.png)
-_Product Listing Details: Buy Box Competitor Pricing_
+![Product listing details: Buy Box competitor pricing](assets/amazon-listing-details-buy-box-2.png)
 
 ## Lowest Competitor Pricing {#lowest-competitor-pricing}
 
@@ -67,5 +65,4 @@ Shows information about Amazon competitors for the same listing. This can be use
 - Feedback Count: Identifies the Amazon feedback count for the lowest price merchant.
 - Last Updated: Identifies the date and time the pricing information was updated from Amazon.
 
-![](assets/amazon-listing-details-lowest-comp.png)
-_Product Listing Details: Lowest Competitor Pricing_
+![Product listing details - lowest competitor pricing](assets/amazon-listing-details-lowest-comp.png)

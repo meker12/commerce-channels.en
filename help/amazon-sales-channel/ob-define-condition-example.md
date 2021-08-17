@@ -27,8 +27,7 @@ Conditions are based on existing product attribute values. To apply the rule to 
 >
 >If you want to define a condition based on a specific product attribute, **Use for Promo Rule Conditions** for the attribute must be set to `Yes`. The field is located on the [Storefront Properties](https://docs.magento.com/user-guide/catalog/product-attributes-add.html) page for the attribute.
 
-![](assets/ob-listing-rule-conditions-start.png)
-_Condition - Line 1_
+![Condition - line 1](assets/ob-listing-rule-conditions-start.png)
 
 The rule in this example will define a rule that sets Amazon eligibility for all catalog products that have the _Amazon FBA_ attribute set to `Yes`.
 
@@ -46,15 +45,13 @@ You can create different conditions by changing the combination of these values.
 
    - **Conditions Combination** - Choose to allow you to create an additional set of `All/Any` and `True/False` conditions inside the existing set.
 
-      ![](assets/ob-conditions-combinations.png)
-      _Conditions Combination_
+      ![Conditions combination](assets/ob-conditions-combinations.png)
 
    - **Product Attribute** - The product attributes depend on the setup of the attribute. For an attribute to show in the list, it must be configured to be used in promo rule conditions. See the **Use for Promo Rule Conditions** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html).
 
       In the list under **Product Attribute**, choose the attribute that you want to use as the basis of the condition. For this example, the selected condition is `Amazon FBA`.
 
-      ![](assets/ob-condition-attribute-dropdown.png)
-      _Condition Line 2, Part 2_
+      ![Condition line 2, part 2](assets/ob-condition-attribute-dropdown.png)
 
       The selected condition appears in the statement, followed by two more bold links. The options differ depending on the product attribute you select.
 
@@ -66,8 +63,7 @@ You can create different conditions by changing the combination of these values.
 
          The selected item appears in the statement to complete the condition.
 
-        ![](assets/ob-listing-rule-condition-is.png)
-        _Condition Line 2, Part 3_
+        ![Condition line 2, part 3](assets/ob-listing-rule-condition-is.png)
 
    This condition is complete. As stated, this condition means that any product in your [!DNL Commerce] catalog that has the Amazon FBA attribute set to a value of `Yes` is eligible for listing to Amazon for the region and store you are setting up. You can add more condition lines to further narrow your eligible products.
 

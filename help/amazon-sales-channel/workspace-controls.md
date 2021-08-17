@@ -7,8 +7,7 @@ description: Amazon Sales Channel provides workspace controls help you locate li
 
 The [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages will have the same control options.
 
-![](assets/amazon-workspace-controls.png)
-_[!DNL Amazon Sales Channel] workspace controls examples_
+![Amazon Sales Channel workspace control examples](assets/amazon-workspace-controls.png)
 
 ## Actions
 
@@ -16,8 +15,7 @@ _Actions_ include a list of actions that are available to a user for a page. Whe
 
 For example, the **Actions** selector on the Attributes page includes the _Re-import Product Attribute Values_ action. Choosing this action will ping the corresponding [!DNL Amazon Seller Central] account and refresh the [!DNL Commerce] data for each of the Amazon store items checked in the left-side column.
 
-![](assets/amazon-sales-channel-home-actions-option.png)
-_Actions menu example_
+![Actions menu example](assets/amazon-sales-channel-home-actions-option.png)
 
 ## Filters
 
@@ -33,13 +31,11 @@ The example below shows the settings for filtering the list of orders to show on
 
 When you have your filtering options set, click **Apply Filters** to filter the data listed. Click Cancel to exit the Filters control without applying.
 
-![](assets/workspace-controls-filters.png)
-_Filters control example_
+![Filters control example](assets/workspace-controls-filters.png)
 
 After you apply filters to your data, **Active Filters** information will appear. You can click the ![Clear filters icon](assets/x-icon-clear-filters.png) icon to clear a specific filter option or click **Clear All** to clear all applied filters.
 
-![](assets/applied-filters-line.png)
-_Active filters example_
+![Active filters example](assets/applied-filters-line.png)
 
 ## View
 
@@ -53,8 +49,7 @@ When you have your columns added or removed from the page display:
 
 1. Click the arrow icon to save the custom view.
 
-![](assets/workspace-controls-view.png)
-_View control example_
+![View control example](assets/workspace-controls-view.png)
 
 In this example, we added the _Order Id_ column in the Column control and saved it as a custom view. Notice that after we saved our custom view name, the name of the View changed from Default View to the name we entered.
 
@@ -71,8 +66,7 @@ The example below shows a Columns control. The checked options correspond to the
 - To add a data column to your page, select the checkbox.
 - To remove a data column from your page, do not select the checkbox.
 
-![](assets/workspace-controls-columns.png)
-<br>_Columns control example_
+![Columns control example](assets/workspace-controls-columns.png)
 
 Checkbox changes display immediately. If you make changes and exit the page, the page returns to the default column display. For changes you make regularly, you can save the columns changes as a custom view in the View control. Then you can toggle in the View control without having to add or remove columns manually.
 
@@ -89,5 +83,4 @@ When ready to export your data, choose an export format option and click **Expor
 
 The generated data file saves automatically to your designated folder for downloads.
 
-![](assets/workspace-controls-export.png)
-<br>_Export control_
+![Export control](assets/workspace-controls-export.png)

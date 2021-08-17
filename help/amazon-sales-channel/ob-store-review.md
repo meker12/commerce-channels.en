@@ -21,5 +21,4 @@ After you create and integrate your [!DNL Amazon Sales Channel] store, you shoul
    - **Logs** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
    - [**Store integration settings**](./store-integration-settings.md) - Review email and [!DNL Amazon Sales Channel] store name settings in the [!DNL Commerce Admin].
 
-![](assets/ob-store-review.png)
-_Store Dashboard_
+![Store dashboard](assets/ob-store-review.png)

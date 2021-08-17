@@ -40,8 +40,7 @@ Sections of a standard price rule action include:
 
 1. When complete, click **Save pricing rule**.
 
-![](assets/ob-price-rule-action-standard-example.png)
-_Standard Price Rule_
+![Standard price rule](assets/ob-price-rule-action-standard-example.png)
 
 |Field|Description|
 |---|---|

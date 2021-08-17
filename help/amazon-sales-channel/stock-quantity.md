@@ -37,8 +37,7 @@ Quantity is a regional attribute and based on the **[!DNL Amazon Marketplace] Co
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-stock-quantity.png)
-_Stock/Quantity_
+![Stock/quantity settings](assets/amazon-stock-quantity.png)
 
 |Field|Description|
 |---|---|
@@ -63,10 +62,10 @@ When an item is sold, the Amazon listing will re-list it at this quantity.
 
 For example, if we set **Maximum Listed Quantity** as `12`, the Amazon listing will show a quantity of 12 even though the product has a [!DNL Commerce] quantity of 80:
 
-![](assets/amazon-max-listed-quantity.png)
+![Maximum listed quantity example 1](assets/amazon-max-listed-quantity.png)
 
 If you set your **Maximum Listed Quantity** as `1`, all eligible products will be listed with a quantity of `1`. When an item is sold, the system will look to your [!DNL Commerce] product and, if additional stock exists, re-list the item on Amazon with a quantity of `1`.
 
 This option might be valuable for products that are typically ordered at a quantity of 1. This will also increase urgency for the shopper when viewing your Amazon listing.
 
-![](assets/amazon-max-listed-quantity-1.png)
+![Maximum listed quantity example 2](assets/amazon-max-listed-quantity-1.png)

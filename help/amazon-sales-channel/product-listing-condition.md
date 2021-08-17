@@ -52,8 +52,7 @@ During [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), you are encouraged to cre
 
 1. When complete, click **Save listing settings**.
 
-![](assets/amazon-product-listing-condition.png)
-_Product Listing Condition_
+![Product listing condition](assets/amazon-product-listing-condition.png)
 
 |Field|Description|
 |---|---|

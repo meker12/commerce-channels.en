@@ -7,7 +7,7 @@ description: Amazon Sales Channel applies prioritization in determining the publ
 
 In the example below, how does the system determine if we should publish $31.99, $24.99, or $27.99?
 
-![](assets/amazon-price-scope.png)
+![Commerce price scope](assets/amazon-price-scope.png)
 
 To determine which price will be used if a product is on two websites and has a varying price per website, we use price priority logic (determined by the [Sort Order](https://docs.magento.com/user-guide/stores/stores-all-create-view.html) value).
 

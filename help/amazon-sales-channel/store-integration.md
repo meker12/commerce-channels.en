@@ -23,8 +23,7 @@ _You will need the primary log-in credentials for your [!DNL Amazon Seller Centr
 
     The _Add Amazon sales channel_ page opens.
 
-    ![](assets/amazon-store-integration.png)
-    _Add [!DNL Amazon Sales Channel] Store_
+    ![Add the Amazon Sales Channel store](assets/amazon-store-integration.png)
 
 1. For **Magento Website to use for Amazon Listing**, choose which of your [!DNL Commerce] websites to connect for this [!DNL Amazon Sales Channel] store.
 
@@ -79,8 +78,7 @@ _You will need the primary log-in credentials for your [!DNL Amazon Seller Centr
 
    To view the store dashboard, click **View Store** on the store card.
 
-![](assets/asc-dashboard-after-2fa.png)
-_[!DNL Amazon Sales Channel] home with new store card_
+![Amazon Sales Channel home with new store card](assets/asc-dashboard-after-2fa.png)
 
 Your new [!DNL Amazon Sales Channel] store is now connected to your [!DNL Amazon Seller Central] account.
 
