@@ -7,7 +7,7 @@ description: Amazon Sales Channel provides the Incomplete tab to monitor Commerc
 
 Listings displayed on the _Incomplete_ tab include your [!DNL Commerce] catalog products that meet your Amazon eligibility requirements as defined in your listing rules but are missing information required by Amazon before listing.
 
-## Update required info (Unable to Assign To Amazon Listing) {#update-required-info-unable-to-assign-to-amazon-listing}
+## Update required info (Unable to assign to Amazon listing) {#update-required-info-unable-to-assign-to-amazon-listing}
 
 1. View the listing(s) on the _Incomplete_ tab in [Manage Listings](./managing-product-listings.md).
 
@@ -24,7 +24,7 @@ The listing is now matched to your catalog, and the listing will be updated and 
 ![](assets/amazon-listing-update-assign-asin.png)
 _Example: Manually assign ASIN for no listing match_
 
-## Update required info (Multiple Matches Found) {#update-required-info-multiple-matches-found}
+## Update required info (Multiple matches found) {#update-required-info-multiple-matches-found}
 
 1. View the listing(s) on the _Incomplete_ tab in [Manage Listings](./managing-product-listings.md).
 
@@ -43,7 +43,7 @@ _Example: Manually assign ASIN for no listing match_
 ![](assets/amazon-listing-update-multiple-matches.png)
 _Example: Manually select ASIN from multiple possible matches_
 
-## Update required info (Has Variants) {#update-required-info-has-variants}
+## Update required info (has variants) {#update-required-info-has-variants}
 
 1. View the listing(s) on the _Incomplete_ tab in [Manage Listings](./managing-product-listings.md).
 
@@ -62,7 +62,7 @@ _Example: Manually select ASIN from multiple possible matches_
 ![](assets/amazon-listing-update-multiple-matches.png)
 _Example: Manually select ASIN from possible variant matches_
 
-## Update required info (Missing Condition) {#update-required-info-missing-condition}
+## Update required info (missing condition) {#update-required-info-missing-condition}
 
 1. View the listing(s) on the Incomplete tab in [Manage Listings](./managing-product-listings.md).
 

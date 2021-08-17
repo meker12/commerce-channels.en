@@ -21,7 +21,7 @@ description: Use the Amazon sales channel extension to seamlessly integrate Adob
 
 Access your Amazon stores to view and manage all of these features, account information, listings, orders, and more on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page.
 
-## Promotions and Pricing
+## Promotions and pricing
 
 With [!DNL Amazon Sales Channel], you can:
 
@@ -35,7 +35,7 @@ With [!DNL Amazon Sales Channel], you can:
 
 - Set a custom value for "available quantity" in your [stock / quantity settings](./stock-quantity.md#configure-stock--quantity-settings) to show with your Amazon listings to increase buyer urgency.
 
-## Pricing Rules
+## Pricing rules
 
 With [!DNL Amazon Sales Channel], you can:
 
@@ -45,7 +45,7 @@ With [!DNL Amazon Sales Channel], you can:
 
 - Create and manage [intelligent repricing rules](./intelligent-repricing-rules.md) that will automatically adjust your product pricing relative to other Amazon competitors ([lowest competitor](./lowest-competitor-pricing.md) and [Buy Box](./buy-box-competitor-pricing.md) price).
 
-## Catalog Feed Management
+## Catalog feed management
 
 With [!DNL Amazon Sales Channel], you can:
 
@@ -71,7 +71,7 @@ With [!DNL Amazon Sales Channel], you can:
 
 - View recommended [listing improvements](./listing-improvements.md).
 
-## Order Management and Customer Service
+## Order management and customer service
 
 With [!DNL Amazon Sales Channel], you can:
 

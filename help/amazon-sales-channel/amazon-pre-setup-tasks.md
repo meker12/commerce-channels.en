@@ -35,7 +35,7 @@ It is also important to ensure that you have configured the following in your [!
 
 - Ensure that your shipping methods are configured accurately. To set up the shipping methods that [!DNL Commerce] will offer to customers to fulfill your Amazon orders, update the [Amazon: Shipping Settings][7] in your [!DNL Amazon Seller Central] account.
 
-## 4. Make sure your Value Added Tax (VAT) is configured for your store(s)
+## 4. Make sure your value added tax (VAT) is configured for your store(s)
 
 (Primarily used by UK sellers.) Amazon recommends signing up for the [Amazon VAT Calculation Service](https://sell.amazon.co.uk/learn/vat-resources#vat-services-on-amazon){target="_blank"}. If you choose a different method, you are responsible for VAT compliance.
 

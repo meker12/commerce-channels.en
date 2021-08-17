@@ -57,7 +57,7 @@ _Stock/Quantity_
 - [Catalog Search](./catalog-search.md)
 - [Product Listing Condition](./product-listing-condition.md)
 
-## Example: Maximum Listed Quantity
+## Example: Maximum listed quantity
 
 When an item is sold, the Amazon listing will re-list it at this quantity.
 

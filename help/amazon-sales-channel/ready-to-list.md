@@ -42,7 +42,7 @@ _Ready to List_
 |Status|The status of the listing, defined by Amazon.|
 |Action|List of available actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column to show your options:<ul><li>[Publish on Amazon](./publish-listings-manually.md)</li><li>[View Details](./product-listing-details.md)</li></ul>|
 
-### Common Causes of Ready to List Listings
+### Common causes of Ready to List listings
 
 - **Ready to List** - Product has been matched to an Amazon ASIN and is scheduled to be listed. If [**Automatic List Action**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`, the _Ready to List_ status represents the products which are ready to be manually listed.
 

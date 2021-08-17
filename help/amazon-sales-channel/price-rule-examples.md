@@ -3,9 +3,9 @@ title: Price Rule Examples
 description: To help you design your pricing rules for Amazon listings, review these examples based on common scenarios.
 ---
 
-# Price Rule Examples
+# Price rule examples
 
-## Standard Price Rule Examples
+## Standard price rule examples
 
 ### Discard Subsequent Rules
 
@@ -54,7 +54,7 @@ Rule 2 applied: $42.98 - $10.00 = $32.98
 
 The final price after rule 1 and rule 2 are applied: $32.98
 
-## Intelligent Repricing Rule Examples
+## Intelligent repricing rule examples
 
 ### Buy Box price with Floor Price Source = Price
 

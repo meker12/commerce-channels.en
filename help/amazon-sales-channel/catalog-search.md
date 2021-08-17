@@ -23,7 +23,7 @@ We recommend mapping these attributes and values if available. Completing this m
 
 If you want to add attributes, see [Create Product Attributes for Amazon Matching](./ob-creating-magento-attributes.md).
 
-## Configure Search Catalog settings
+## Configure Catalog Search settings
 
 1. Click **Listing Settings** on the store dashboard.
 
