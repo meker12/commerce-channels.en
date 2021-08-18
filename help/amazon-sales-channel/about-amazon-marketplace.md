@@ -37,7 +37,7 @@ Amazon offers two options for order fulfillment and shipping:
 
 Amazon follows a set of policies and workflows to ensure that all sellers and products adhere to specified guidelines. To ensure that your products and account are approved and eligible for listing, you should review the following Amazon information and policies:
 
-- [Help for Amazon sellers](https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&amp;language=en_US&amp;ref=efph_2_bred_200390640/)
+- [Help for Amazon sellers](https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=2&language=en_US/){target="_blank"}
 - [Shipping policies](https://sellercentral.amazon.com/gp/help/external/201901620?language=en-US){target="_blank"}
 - [Program policies](https://sellercentral.amazon.com/gp/help/external/521?language=en-US){target="_blank"}
 - [Selling policies and code of conduct](https://sellercentral.amazon.com/gp/help/external/1801?language=en-US){target="_blank"}
