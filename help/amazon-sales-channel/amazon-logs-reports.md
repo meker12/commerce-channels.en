@@ -17,7 +17,7 @@ The following logs can be accessed from the [store dashboard](./amazon-store-das
 
 The following store-specific reports can be accessed from the [store dashboard](./amazon-store-dashboard.md).
 
-- The [Competitive Price Analysis](./competitive-price-analysis.md) report shows your Amazon landed price (listing price plus shipping price) in relation to the [Buy Box](./buy-box-competitor-pricing.md) price and [lowest competitor](./lowest-competitor-pricing.md) price.
+- The [Competitive Price Analysis](./competitive-price-analysis.md) report shows that your Amazon _landed price_ (listing price plus shipping price) in relation to the [Buy Box](./buy-box-competitor-pricing.md) price and [lowest competitor](./lowest-competitor-pricing.md) price.
 
 - The [Listing Improvements](./listing-improvements.md) report shows all suggested listing improvements provided by Amazon for the selected store.
 
