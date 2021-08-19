@@ -25,13 +25,13 @@ Before you begin to set up your [!DNL Amazon Sales Channel], you must have an ac
 
 ## 3. Make sure you are an approved Amazon seller
 
-To integrate, you must have an approved [!DNL Amazon Seller Central] account. Your account must not have any restrictions for products or categories. Some products and categories require approval before creating listings. Review Amazon policies for category and product approval to ensure that your products are approved. See [Amazon: Categories and products requiring approval](https://sellercentral.amazon.com/gp/help/200333160){target="_blank"}.
+To integrate, you must have an approved [!DNL Amazon Seller Central] account. Your account must not have any restrictions for products or categories. Some products and categories require approval before creating listings. Review Amazon policies for category and product approval to ensure that your products are approved. See [Amazon: Categories and products requiring approval](https://sellercentral.amazon.com/gp/help/200333160){target="_blank"} (Seller Central login required).
 
 It is also important to ensure that you have configured the following in your [!DNL Amazon Seller Central] account:
 
 - Ensure that your return policy is as good as or better than the Amazon return policy. See [Amazon: Return Policy](https://www.amazon.com/gp/help/customer/display.html){target="_blank"}.
 
-- Ensure that your tax settings are configured. See [Amazon: Tax Policies](https://sellercentral.amazon.com/gp/help/external/help.html){target="_blank"}.
+- Ensure that your tax settings are configured. See [Amazon: Tax Policies](https://sellercentral.amazon.com/gp/help/external/help.html){target="_blank"} (Seller Central login required).
 
 - Ensure that your shipping methods are configured accurately. To set up the shipping methods that [!DNL Commerce] are offered to customers to fulfill your Amazon orders, update the [Amazon: Shipping Settings](https://sellercentral.amazon.com/sbr/ref=xx_shipset_dnav_xx#shipping_templates){target="_blank"} in your [!DNL Amazon Seller Central] account.
 
@@ -51,7 +51,7 @@ To have the highest number of [!DNL Commerce] products automatically match with 
 
 ## 6. Configure your currency and conversion (as needed)
 
-If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html){target="_blank"} and set the [currency conversion rate](https://docs.magento.com/user-guide/tores/currency-update.html){target="_blank"}.
+If your Amazon store uses a different currency than is configured for your [!DNL Commerce] store, [enable the currency](https://docs.magento.com/user-guide/configuration/general/currency-setup.html){target="_blank"} and set the [currency conversion rate](https://docs.magento.com/user-guide/stores/currency-update.html){target="_blank"}.
 
 ## 7. Create a Product Condition attribute (as needed)
 
@@ -74,14 +74,3 @@ You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channe
 To help facilitate error-free data transition during integration, it is recommended that you set your Amazon region to `Inactive` status in Settings > Account Info > Vacation Settings. Refer to [Amazon: Listing Status for Vacations][11]. When your setup is complete, change the status back to `Active` in Amazon.
 
 ![Next icon](assets/btn-next.png) [**Continue to Creating [!DNL Commerce] Attributes**](./ob-creating-magento-attributes.md)
-
-[1]: https://sell.amazon.com/"target="_blank
-[2]: https://sell.amazon.com/"target="_blank
-[3]: https://sell.amazon.com/pricing.html/"target="_blank
-[4]: https://sellercentral.amazon.com/gp/help/200333160/"target="_blank
-[5]: https://www.amazon.com/gp/help/customer/display.html/"target="_blank
-[6]: https://sellercentral.amazon.com/gp/help/external/help.html/"target="_blank
-[7]: https://sellercentral.amazon.com/sbr/ref=xx_shipset_dnav_xx#shipping_templates/"target="_blank
-[10]: https://sellercentral.amazon.com/gp/help/G891/"target="_blank
-[11]: https://sellercentral.amazon.com/gp/help/help.html?itemID=200135620/"target="_blank
-[12]: https://services.amazon.co.uk/services/sell-online/how-it-works.html/"target="_blank

@@ -13,7 +13,7 @@ Sections of an intelligent repricing rule include:
 - Floor Price
 - [Optional Ceiling Price](./optional-ceiling-price.md)
 
-The [floor price](./floor-price.md) settings automatically protect your lowest product price against the intelligent pricing rules. This allows the store owner to set a floor (lowest price) for their intelligent pricing rules. This means that your products will not be listed below a desired price.
+The [floor price](./floor-price.md) settings automatically protect your lowest product price against the intelligent pricing rules. Use these settings to set a floor (lowest price) for your intelligent pricing rules, ensuring that your products are not listed below a desired price.
 
 Floor price attributes are based on the website scope if your [!DNL Commerce] store is using website pricing scope. See [Price Scope](./price-scope.md).
 
@@ -23,7 +23,7 @@ Floor price is only used when **Rule Type** is set to `Intelligent repricing rul
 
 Define your lowest price setting in the _Floor Price_ section.
 
-1. For **Floor Price Source**, choose an price source attribute.
+1. For **Floor Price Source**, choose a price source attribute.
 
    Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"} that indicates your relative floor limit. For example, if you do not want your Amazon listing price to go below the cost of your item, you would choose the *Cost* attribute.
 

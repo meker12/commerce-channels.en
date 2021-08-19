@@ -5,11 +5,11 @@ description: Amazon Sales Channel provides the Ended tab to review ended Amazon 
 
 # Ended listings
 
-The _Ended_ tab shows all the Amazon products that have been manually ended (removed) from your [!DNL Amazon Seller Central] account. These products meet all of the listing requirements and can be republished at any time and do not require additional information. If a product is in the _Ineligible_ tab, you may need to modify your [listing settings](./listing-settings.md) to so that your product meets listing eligibility.
+The _Ended_ tab shows all the Amazon products that have been manually ended (removed) from your [!DNL Amazon Seller Central] account. These products meet all listing requirements and can be republished at any time and do not require additional information. If a product is in the _Ineligible_ tab, you could choose to modify your [listing settings](./listing-settings.md) so that your product meets listing eligibility.
 
 >[!NOTE]
 >
->If you have listings in process, the number of listings will display in a message above the tabs.
+>If you have listings in process, the number of listings is displayed in a message above the tabs.
 
 Under _Actions_:
 
@@ -21,17 +21,11 @@ Under **Select** in the _Action_ column:
 
 - **Publish On Amazon**: Choose to republish the listing to the [!DNL Amazon Marketplace]. See [Publish an Amazon Listing](./publish-listings-manually.md).
 
-- **Create Alias Seller SKU**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
+- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU that can be used to create an Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
 
-For ending listings, see:
+For ending listings, see [End an Amazon Listing](./end-listings-manually.md).
 
-- [Manually end a single or multiple Amazon listings](./end-listings-manually.md)
-- [Manually end a single Amazon listing](./end-listings-manually.md)
-
-For publishing listings, see:
-
-- [Publish a single or multiple Amazon listing that has been ended](./publish-listings-manually.md)
-- [Publish a single Amazon listing that has been ended](./publish-listings-manually.md)
+For publishing listings, see [Manually Publish an Amazon Listing](./publish-listings-manually.md).
 
 ![Ended Amazon listings](assets/amazon-ended-listings.png)
 

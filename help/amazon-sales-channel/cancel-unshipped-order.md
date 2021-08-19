@@ -32,4 +32,4 @@ Amazon orders can only be canceled if they are in an `Unshipped` status. If the 
 
     The order is canceled, and the status is updated to `Canceled` in the order details.
 
-The cancellation notification will be sent to your [!DNL Amazon Seller Central] account, and the customer associated with the order will be notified. The status of the corresponding [!DNL Commerce] order, if any, will change to `Complete`.
+The cancellation notification is sent to your [!DNL Amazon Seller Central] account, and the customer associated with the order is also notified. The status of the corresponding [!DNL Commerce] order, if any, changes to `Complete`.

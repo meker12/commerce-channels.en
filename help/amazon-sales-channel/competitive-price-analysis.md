@@ -20,5 +20,5 @@ The Competitive Price Analysis report shows your Amazon listings per marketplace
 |Lowest Landed Price|The lowest landed price (listing price plus its shipping price) from your Amazon competitors. |
 |Condition (lowest price)|The condition of the product listed at the lowest price. |
 |Buy Box Landed Price|The landed price (listing price plus its shipping price) of the [Buy Box](./buy-box-competitor-pricing.md) position listing. |
-|Is Seller (Buy Box)|Whether or not you have won the [Buy Box](./buy-box-competitor-pricing.md) position for the listing (NA indicates there is no [Buy Box](./buy-box-competitor-pricing.md) price for the listing). |
+|Is Seller (Buy Box)|Indicates if you have won the [Buy Box](./buy-box-competitor-pricing.md) position for the listing (NA means that there is no [Buy Box](./buy-box-competitor-pricing.md) price for the listing). |
 |Condition (Buy Box)|The condition of the [Buy Box](./buy-box-competitor-pricing.md) position listing. |

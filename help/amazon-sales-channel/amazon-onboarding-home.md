@@ -14,7 +14,7 @@ This section describes the pre-setup tasks, steps for onboarding, and some key c
 >[!TIP]
 >
 >**Helpful onboarding tips**<br><br>
->[!DNL Amazon Sales Channel] requires a [Professional Seller account](https://sell.amazon.com/){target="_blank"} on [!DNL Amazon Seller Central] in the North America or European (UK) region. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.<br><br>
+>A [Professional Seller account](https://sell.amazon.com/){target="_blank"} on [!DNL Amazon Seller Central] in the North America or European (UK) region is required. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.<br><br>
 >Onboarding is simple. Simply create your store and then integrate (connect) it to your [!DNL Amazon Seller Central] account.
 >When your store is connected, [!DNL Amazon Sales Channel] attempts to import your Amazon listings and match them to your catalog, based on your [attribute mapping](./attributes-view.md).<br><br>
 >Your [!DNL Amazon Sales Channel] settings affect your Amazon listings. Your initial listing, pricing, and product settings are defaulted for you. You can modify your [store settings](./ob-store-review.md) (listing, pricing, order, and reporting) after your store is connected to your [!DNL Amazon Seller Central] account.

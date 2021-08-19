@@ -1,6 +1,6 @@
 ---
 title: Amazon Store Dashboard
-description: Use the Amazon store dashboard as the primary location to view the activity for your Amazon stores from the Commerce Admin. 
+description: View the activity for your Amazon stores from the Commerce Admin using the Amazon store dashboard.
 ---
 
 # Amazon Store dashboard
@@ -8,7 +8,7 @@ description: Use the Amazon store dashboard as the primary location to view the 
 
 In the _Amazon Stores_ view on [!DNL Amazon Sales Channel] home page, you can click **View Store** on a store card to open the store dashboard.
 
-The store dashboard is the primary location for you to view the activity for each of your Amazon stores. With your [!DNL Amazon Seller] stores added and integrated, orders and sales track through your store data view. On the dashboard, you can view revenue, track trends, and review sales data for your listings. Listings and sales are further grouped and tracked by listing type, including active, inactive, and in-progress.
+The store dashboard is the primary location for you to view the activity for each of your Amazon stores. With your [!DNL Amazon Seller] stores added and integrated, the orders and sales track through your store data view. On the dashboard, you can view revenue, track trends, and review sales data for your listings. Listings and sales are further grouped and tracked by listing type, including active, inactive, and in-progress.
 
 You can also access your [store settings](./ob-store-review.md), [manage your listings](./managing-product-listings.md), and view sales data and recent order information.
 
@@ -32,7 +32,7 @@ The store dashboard also includes store data and links to settings or more infor
 
   - [**Listing rules**](./listing-rules.md) - Define which catalog products are eligible to be listed on Amazon.
 
-  - [**Pricing rules**](./pricing-products.md) - Define how the Amazon list price will be altered for qualified listings.
+  - [**Pricing rules**](./pricing-products.md) - Define how the Amazon list price is altered for qualified listings.
 
   - [**Store reports**](./amazon-logs-reports.md) - [Competitive price analysis](./competitive-price-analysis.md) and [listing improvements](./listing-improvements.md).
 
@@ -46,6 +46,6 @@ The store dashboard also includes store data and links to settings or more infor
 
 - **Recent Orders** - Shows information for your most recent Amazon orders. The information listed is based on the information received from Amazon. This table does not update with [!DNL Commerce] order information, even when [order import](./order-settings.md) is enabled. To view all your Amazon orders, click **All Orders**.
 
-   See [View Amazon Orders](./amazon-orders-all.md) for column descriptions,  and see [Manage Orders](./managing-orders.md) for order management information.
+   See [View Amazon Orders](./amazon-orders-all.md) for column descriptions,  and see [Manage Orders](./managing-orders.md) for more information.
 
 - **Seller Central links** - Provides links to important [!DNL Amazon Seller Central] information.

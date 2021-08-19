@@ -5,13 +5,13 @@ description: Change the ASIN value for a Commerce product if it was improperly m
 
 # Edit an assigned ASIN
 
-You can edit the Amazon ASIN value assigned to a product in your [!DNL Commerce] catalog. This is a helpful feature if a catalog product was improperly matched to one of your Amazon listings. Changing the assigned ASIN for the listing does not change the ASIN assigned to a product by Amazon. It only changes the Amazon listing to which your catalog product is matched.
+You can edit the Amazon ASIN value assigned to a product in your [!DNL Commerce] catalog. This feature is helpful if a catalog product was improperly matched to one of your Amazon listings. Changing the assigned ASIN for the listing does not change the ASIN assigned to a product by Amazon. It only changes the Amazon listing to which your catalog product is matched.
 
 When an assigned ASIN is changed:
 
 - [!DNL Commerce] ends your Amazon listings attached to the old ASIN
 - Validates the ASIN with Amazon
-- Creates a new listing for the updated ASIN
+- Creates a listing for the updated ASIN
 - Updates listing information in [!DNL Amazon Sales Channel]
 
 ## Edit an assigned ASIN
@@ -20,10 +20,10 @@ When an assigned ASIN is changed:
 
 1. Under _Actions_, click **Edit Assigned ASIN**.
 
-   This opens the _Product Listing Update_ page.
+   This action opens the _Product Listing Update_ page.
 
 1. For **Assign ASIN**, enter the new ASIN value.
 
-1. Click **[!UICONTROL Save Listing Update]** to save your changes.
+1. To save your changes, click **[!UICONTROL Save Listing Update]**.
 
 ![Edit an assigned ASIN](assets/amazon-assigned-asin-edit.png)

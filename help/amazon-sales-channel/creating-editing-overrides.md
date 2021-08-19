@@ -17,7 +17,7 @@ The _Create Override_ action is available when viewing listings on the _Inactive
 
    ![create Amazon listing override](assets/amazon-select-create-override.png)
 
-1. Verify the Listing Details to ensure you are viewing the correct listing.
+1. To ensure you are viewing the correct listing, verify the _[!UICONTROL Listing Details]_.
 
 1. Determine the type of override you are creating.
 
@@ -48,11 +48,11 @@ The _Edit Overrides_ action is available when viewing listings on the _Overrides
 
     ![Select an Amazon listing override](assets/amazon-select-edit-overrides.png)
 
-1. Verify the Listing Details to ensure you are viewing the correct listing.
+1. To ensure you are overriding the correct listing, verify the _[!UICONTROL Listing Details]_.
 
 1. To edit your _Override_ settings, define the sections for the type you want to change (Price, Handling Time, Condition, Seller Notes).
 
-    To keep an override type the same, To keep an override the same, select `No Change To <override type>`. `No Change To` is the default setting. This is the default setting. This leaves the previously defined override value unchanged.
+    To keep an override type the same, select `No Change To <override type>` (the default). This setting leaves the previously defined override value unchanged.
 
    - **Price** - Click **Change Listing Price** and enter your defined price value for **Price Override**.
    - **Handling Time** - Click **Change Handling Time** and enter the defined time value (in days) for **Handling Time Override**.
@@ -80,7 +80,7 @@ The _Edit Listing Overrides_ action is available on the _Inactive_, _Active_, _O
 
 1. View the listing on a _Products Listings_ page (_Inactive_, _Active_, _Overrides_, or _Ineligible_ tab).
 
-1. Select the checkbox in the left-side column to select each of the listings you want to modify.
+1. Select the checkbox in the left-side column for each of the listings you want to modify.
 
 1. Under _Actions_, click **Edit Listing Overrides**.
 
@@ -90,7 +90,7 @@ The _Edit Listing Overrides_ action is available on the _Inactive_, _Active_, _O
 
 1. To edit your _Override_ settings, define the sections for the type you want to change (Price, Handling Time, Condition, Seller Notes).
 
-    To keep an override the same, select `No Change To <override type>`. `No Change To` is the default setting. This leaves the previously defined override value unchanged.
+    To keep an override the same, select `No Change To <override type>` (default). This setting leaves the previously defined override value unchanged.
 
    - **Price** - Click **Change Listing Price** and enter your defined price value for **Price Override**.
    - **Handling Time** - Click **Change Handling Time** and enter the defined time value (in days) for **Handling Time Override**.
@@ -108,6 +108,6 @@ The _Edit Listing Overrides_ action is available on the _Inactive_, _Active_, _O
 |Override|Description|
 |--- |--- |
 |Price Override|A price override defines the price for the listings. This override takes priority over all automated settings until the override is removed.<br><br>To override the price of your product, choose **Change Listing Price** and enter the new price for **Price Override**. |
-|Handling Time Override|A handling time override defines the time it takes (in days) to process and ship products. A handling time override takes priority over all automated and default handling time settings until the override is removed.<br><br>The value that exists in the _Handling Time Override_ box is either your default handling time defined in your [listing settings](./listing-settings.md) or your defined override handling time. If you remove a handling time override, the listing will default to the handling time defined in your listing settings.<br><br>To define a handling time override, choose **Change Handling Time** and enter the new handling time (in days) for **Handling Time Override**. |
+|Handling Time Override|A handling time override defines the time it takes (in days) to process and ship products. A handling time override takes priority over all automated and default handling time settings until the override is removed.<br><br>The value that exists in the _Handling Time Override_ box is either your default handling time defined in your [listing settings](./listing-settings.md) or your defined override handling time. If you remove a handling time override, the listing defaults to the handling time defined in your listing settings.<br><br>To define a handling time override, choose **Change Handling Time** and enter the new handling time (in days) for **Handling Time Override**. |
 |Condition Override|To override the Listing Condition, choose **Change Condition** and choose the new condition from **Condition Override**. |
-|Seller Notes Override|For products in your catalog that are defined with a condition other than `New`, a seller note can be added to further detail your product and its condition to potential buyers. You can enter a seller note override for a `New` condition product, but Amazon will not display the note.<br><br>To override the Seller Notes, choose **Change Seller Notes** and enter the new note for **Seller Notes Override**.|
+|Seller Notes Override|For products in your catalog that are defined with a condition other than `New`, a seller note can be added to further detail your product and its condition to potential buyers. You can enter a seller note override for a `New` condition product, but Amazon does not display the note.<br><br>To override the Seller Notes, choose **Change Seller Notes** and enter the new note for **Seller Notes Override**.|
