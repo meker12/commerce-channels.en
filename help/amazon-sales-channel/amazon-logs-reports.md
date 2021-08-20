@@ -23,4 +23,4 @@ The following store-specific reports can be accessed from the [store dashboard](
 
 >[!TIP]
 >
->You can also check the log file for additional information when troubleshooting is needed. See [Sales Channel Admin Settings](./sales-channel-settings.md). [!DNL Amazon Sales Channel] synchronization logging is written to the `{[!DNL Commerce] Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){target="_blank"}.
+>You can also check the log file for additional information when troubleshooting is needed. See [Sales Channel Admin Settings](./sales-channel-settings.md). [!DNL Amazon Sales Channel] synchronization logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){target="_blank"}.

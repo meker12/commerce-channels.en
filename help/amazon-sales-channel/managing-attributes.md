@@ -17,7 +17,7 @@ When attribute mapping is set up, [!DNL Commerce] can communicate product inform
 
 For more information about [!DNL Commerce] and Amazon attribute sets and values, see:
 
-- [Manage attributes basics](https://docs.magento.com/user-guide/catalog/product-attributes.md)
+- [Manage attributes basics](https://docs.magento.com/user-guide/catalog/product-attributes.html){target="_blank"}
 - [Create a new attribute](./creating-attributes.md#create-an-attribute)
 - [Edit an existing attribute](./creating-attributes.md#edit-an-attribute)
 - [View Attribute Mapping](./amazon-matching-attributes-values.md)

@@ -37,7 +37,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
 1. For **Import Amazon Orders Into Magento Store**, choose which [!DNL Commerce] store the Amazon orders will be associated with when the corresponding order is created in [!DNL Commerce].
 
-   This setting defaults to the Store View for the website selected when you [added the Amazon store](./store-integration.md). If you want to change this setting, the list of options depends on the [!DNL Commerce] stores you have set up in your configuration. See [Stores](https://docs.magento.com/user-guide/stores/stores-all-create-view.md#create-a-new-store-view).
+   This setting defaults to the Store View for the website selected when you [added the Amazon store](./store-integration.md). If you want to change this setting, the list of options depends on the [!DNL Commerce] stores you have set up in your configuration. See [Stores](https://docs.magento.com/user-guide/stores/stores-all-create-view.html#create-a-new-store-view).
 
 1. For **Customer Creation**, choose an option:
 

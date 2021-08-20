@@ -15,7 +15,7 @@ Any areas in the conditions that are bold can be clicked to see the various opti
 >
 >There is a complex set of back-end processes to communicate with Amazon's systems directly. Based on the number of items you are attempting to list and how busy Amazon's systems are (for example, Black Friday can be a slow time to list new products), it may take additional time for your items to be listed on Amazon.
 
-See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.md).
+See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html).
 
 ## Define a condition
 

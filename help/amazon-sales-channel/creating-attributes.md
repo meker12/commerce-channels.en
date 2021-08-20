@@ -5,7 +5,7 @@ description: Amazon Sales Channel provides the Attributes view to help you revie
 
 # Create and edit attributes
 
-Create or update [!DNL Commerce] attributes as you sell through Amazon and update your stores. Review the current Amazon attributes and linked [!DNL Commerce] attributes through the [_Attributes_ view](./attributes-view.md) of the [!DNL Amazon Sales Channel] home page. The _Action_ column shows the available actions for the attribute. You can either create and map a new [!DNL Commerce] attribute for an unlinked Amazon attribute, or you can edit an existing [!DNL Commerce] attribute and its mapping to an Amazon attribute. Both actions are described below.
+Create or update [!DNL Commerce] attributes as you sell through Amazon and update your stores. Review the current Amazon attributes and linked [!DNL Commerce] attributes through the [_Attributes_ view](./attributes-view.md) of the [!DNL Amazon Sales Channel] home page. The _Action_ column shows the available actions for the attribute. You can either create and map a new [!DNL Commerce] attribute for an unlinked Amazon attribute, or you can edit an existing [!DNL Commerce] attribute and its mapping to an Amazon attribute.
 
 As you create and update attributes, you may want to verify the attribute values for [!DNL Commerce] and Amazon products. These values may differ if you do not sync and import values from Amazon. To review Amazon values for these attributes, see [Reviewing Amazon Attribute Mapping](./amazon-matching-attributes-values.md). If you want to change those values, you can [edit or create a mapping](./amazon-manually-update-incomplete-listing.md) between Amazon and [!DNL Commerce].
 

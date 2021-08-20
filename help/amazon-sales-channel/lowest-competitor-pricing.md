@@ -5,7 +5,7 @@ description: The Amazon Sales Channel provides the Lowest Competitor Pricing tab
 
 # Lowest competitor pricing
 
-The _Lowest Competitor Pricing_ tab on the _Product Listing Details_ page shows the lowest final landed price, but is broken down into shipping price and listing price. This can be used to understand the price positioning of your competitors on Amazon.
+The _Lowest Competitor Pricing_ tab on the _Product Listing Details_ page shows the lowest final landed price, but is broken down into shipping price and listing price. This information can be used to understand the price positioning of your competitors on Amazon.
 
 [Intelligent repricing rules](./intelligent-repricing-rules.md) can be configured to adjust your pricing based on the competitor prices.
 

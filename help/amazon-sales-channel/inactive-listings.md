@@ -5,31 +5,31 @@ description: Amazon Sales Channel provides the Inactive tab to monitor your curr
 
 # Inactive listings
 
-The _Inactive_ tab shows your products that have been published to Amazon but are not active on the [!DNL Amazon Marketplace]. Your listings could be inactive for a few different reasons. For example, you might not be eligible to list that particular brand. Inactive listings are dictated by Amazon's listing standards and your [!DNL Amazon Seller Central] account permissions.
+The _[!UICONTROL Inactive]_ tab shows your products that have been published to Amazon but are not active on the [!DNL Amazon Marketplace]. Your listings could be inactive for a few different reasons. For example, you might not be eligible to list that particular brand. Inactive listings are dictated by Amazon's listing standards and your [!DNL Amazon Seller Central] account permissions.
 
-Under _Actions_:
+Under _[!UICONTROL Actions]_:
 
-- **End Listing(s) on Amazon**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing(s) on Amazon]**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
-- **Edit Listing Overrides**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
+- **[!UICONTROL Edit Listing Overrides]**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
 
-Under **Select** in the _Action_ column:
+Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
-- **View Details**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
+- **[!UICONTROL View Details]**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
 
-- **Create Override**: Choose to create a new override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
+- **[!UICONTROL Create Override]**: Choose to create an override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
 
-- **Edit Assigned ASIN**: Choose to modify the ASIN assigned to your catalog product. This would be used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
+- **[!UICONTROL Edit Assigned ASIN]**: Choose to modify the ASIN assigned to your catalog product. This action is used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
 
-- **Create Alias Seller SKU**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
+- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU (stock Keeping unit) that can be used to create an Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
 
-- **Switch to Fulfilled by Amazon/Merchant**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
+- **[!UICONTROL Switch to Fulfilled by Amazon/Merchant]**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
 
-- **End Listing**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing]**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
 >[!NOTE]
 >
->If you have listings in process, a message will appear above the tabs indicating the number of listings.
+>If you have listings in process, a message appears above the tabs indicating the number of listings.
 
 ![Inactive Amazon listings](assets/amazon-inactive-listings.png)
 
@@ -44,5 +44,5 @@ Under **Select** in the _Action_ column:
 |Landed Price|The listing price for the product plus its shipping price.|
 |Amazon Quantity|The quantity available when the product is actively listed on Amazon.|
 |Status|The status of the listing, defined by Amazon.|
-|Inactive Reason (if provided by Amazon)|Amazon will not always provide a reason for inactive listings, and you may need to reach out to customer support to resolve listing issues. In some instances, Amazon will notify you of a reason. To view these responses, click **View Details** in the _Action_ column. If these issues are resolved and Amazon removes the error, the products will move to the _Active_ tab.|
-|Action|List of available actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul>|
+|Inactive Reason (if provided by Amazon)|Amazon does not always provide a reason for inactive listings, and you can reach out to customer support to resolve listing issues. In some instances, Amazon notifies you of a reason. To view these responses, click **[!UICONTROL View Details]** in the _[!UICONTROL Action]_ column. If these issues are resolved and Amazon removes the error, the products move to the _[!UICONTROL Active]_ tab.|
+|Action|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul>|

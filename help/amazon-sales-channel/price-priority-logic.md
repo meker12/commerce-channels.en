@@ -5,7 +5,7 @@ description: Amazon Sales Channel applies prioritization in determining the publ
 
 # Price priority logic
 
-In the example below, how does the system determine if we should publish $31.99, $24.99, or $27.99?
+In the following example, how does the system determine if we should publish $31.99, $24.99, or $27.99?
 
 ![Commerce price scope](assets/amazon-price-scope.png)
 

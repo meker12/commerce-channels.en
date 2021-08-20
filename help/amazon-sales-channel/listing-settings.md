@@ -11,9 +11,13 @@ Listing settings are accessed from the [store dashboard](./amazon-store-dashboar
 
 These settings define how your [!DNL Commerce] catalog products are listed on Amazon. Your listing settings consist of several categories that allow you to define the interactions and communication between [!DNL Amazon Sales Channel] and your respective [!DNL Amazon Seller Central] account.
 
-When configuring your listing settings, you define your eligibility rules for your [!DNL Commerce] catalog products to automatically published to Amazon as new listings, set up your Amazon listing prices based on your [!DNL Commerce] catalog or on competitor pricing, define your fulfillment method, and more.
+When configuring your listing settings, you determine some basic functional parameters:
 
-You should expand each of the sections and configure as needed.
+- Define your eligibility rules for your [!DNL Commerce] catalog products to automatically published to Amazon as new listings
+- Set up your Amazon listing prices based on your [!DNL Commerce] catalog or on competitor pricing
+- Define your fulfillment method
+
+Expand each of the sections and configure as needed.
 
 ## Manage listing settings
 

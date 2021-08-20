@@ -23,7 +23,7 @@ The Filters control shows options for narrowing the data shown in the table. Fil
 
 Filters controls can include dynamic calendars to narrow data for specified dates, drop-down menus for columns that have pre-defined selections, and free-text fields that may contain custom data.
 
-The example below shows the settings for filtering the list of orders to show only orders that meet the following criteria:
+The following example shows the settings for filtering the list of orders to show only orders that meet the following criteria:
 
 - Orders placed between 2/01/2019 and 2/07/2019, and
 - Orders with a buyer named of `Smith`, and
@@ -61,7 +61,7 @@ If you want to delete or change the name of your custom view, click the pencil i
 
 The Columns control allows you to add or remove columns of data from the page display. Each [!DNL Amazon Sales Channel] page has a preset combination of data columns, but most pages have additional columns available. If no additional columns are available, you can still remove default columns from display.
 
-The example below shows a Columns control. The checked options correspond to the column headers that are shown on the page.
+The following example shows a Columns control. The checked options correspond to the column headers that are shown on the page.
 
 - To add a data column to your page, select the checkbox.
 - To remove a data column from your page, do not select the checkbox.
