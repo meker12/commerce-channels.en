@@ -15,7 +15,7 @@ Quantity is a regional attribute and based on the **[!DNL Amazon Marketplace] Co
 
 >[!NOTE]
 >
->For Adobe Commerce and Magento Open Source 2.3.x users, [!DNL Amazon Sales Channel] supports the use of the Multi Source Inventory (MSI) extension without any additional setup. See [Managing Inventory](https://docs.magento.com/user-guide/v2.3/catalog/inventory-management.html).
+>For Adobe Commerce and Magento Open Source 2.3.x users, [!DNL Amazon Sales Channel] supports the use of the Multi Source Inventory (MSI) extension without any additional setup. See [Managing Inventory](https://docs.magento.com/user-guide/v2.3/catalog/inventory-management.html){:target="_blank"}.
 
 ## Configure Stock / Quantity settings {#configure-stock--quantity-settings}
 

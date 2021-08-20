@@ -13,25 +13,25 @@ The _Amazon Stores_ view shows a "store card" for each of your Amazon stores alo
 
 When viewing the _Amazon Store_ view, each store card allows you to:
 
-- Click **View Store** to open a store [dashboard](./amazon-store-dashboard.md).
+- To open a store [dashboard](./amazon-store-dashboard.md), click **[!UICONTROL View Store]**.
 
-- Click **Action** to change a store status or delete a store.
+- To change a store status or delete a store, click **[!UICONTROL Action]** and choose:
 
-  - **Activate** / **Deactivate** - Choose to change the status of the store to `Active` or `Inactive`, respectively.
+  - **[!UICONTROL Activate]** / **[!UICONTROL Deactivate]** - Choose to change the status of the store to `Active` or `Inactive`, respectively.
 
-      Changing an `Inactive` store to `Active` status will activate listings and order activity for the store, using the stores current store settings (listing settings, price rules, overrides, etc.)
+      Changing an `Inactive` store to `Active` status activates listings and order activity for the store, using the stores current store settings (such as listing settings, price rules, and overrides).
 
-      Changing a store status from `Active` to `Inactive` status will suspend listings and order activity for the store. An Inactive store will retain all store settings and listings, but will temporarily stop the synchronization of pricing, quantity, and order management until the store is changed back to `Active` status. This feature allows you to control your store activity at the Regional level without the need to recreate or reintegrate your Amazon store or the loss of historical order and sales data.
+      Changing a store status from `Active` to `Inactive` status suspends listings and order activity for the store. An Inactive store retains all store settings and listings, but temporarily stops the synchronization of pricing, quantity, and order management until the store is changed back to `Active` status. This feature allows you to control your store activity at the Regional level without the need to recreate or reintegrate your Amazon store or the loss of historical order and sales data.
 
-  - **Delete** - Choose to delete a store that is no longer needed.
+  - **[!UICONTROL Delete]** - Choose to delete a store that is no longer needed.
 
-      Choose when you wish to delete an existing Amazon store and its integration settings with your [!DNL Amazon Seller Central] account. Deleting the account will remove the store from [!DNL Amazon Sales Channel], along with all account settings, listings, logs and other information related to this store. The store cannot be retrieved after deletion, a new store must be created.
+      Choose when you wish to delete an existing Amazon store and its integration settings with your [!DNL Amazon Seller Central] account. Deleting the account removes the store from [!DNL Amazon Sales Channel], along with all account settings, listings, logs, and other information related to this store. The store cannot be retrieved after deletion, a new store must be created.
 
 >[!NOTE]
 >To change the website assigned to the store during integration, you must delete the store and add the store again with the different website defined during store integration.
 
 |Store Card|Description|
 |--- |--- |
-|Top section|Includes: <br>The region icon for the store, defined during [store integration](./store-integration.md).<br> The assigned **Magento Website**, defined during store integration.<br>The **Status** of your store. Options: **Active** - Store integration is complete and verified with Amazon and is available for sales activity. **Inactive** - Store integration is complete, but is not in use or available for sales activity. When `Inactive`, your Amazon sales are paused. When `Active`, sales revenue and additional settings save to update prior to activating.<br>The **Last Updated** date of the most recent change to the Amazon store setup.<br>The **Created** date when the Amazon store was created in [!DNL Amazon Sales Channel].|
-|Middle Section|Includes a store activity summary chart for the last 30 days and includes and alert for any listings that need attention.|
-|Bottom section|Includes the View Store and Action options.<br>Click **View Store** to open the store [dashboard](./amazon-store-dashboard.md).<br> Click **Actions** to activate, deactivate, or delete a store.|
+|Top section|Includes: <br>The region icon for the store, defined during [store integration](./store-integration.md).<br> The assigned _[!UICONTROL Magento Website]_, defined during store integration.<br>The _[!UICONTROL Status]_ of your store. Options: **[!UICONTROL Active]** - Store integration is complete and verified with Amazon and is available for sales activity. **[!UICONTROL Inactive]** - Store integration is complete, but is not in use or available for sales activity. When `Inactive`, your Amazon sales are paused. When `Active`, sales revenue and additional settings save to update before activating.<br>The *[!UICONTROL Last Updated]* date of the most recent change to the Amazon store setup.<br>The *[!UICONTROL Created]* date when the Amazon store was created in [!DNL Amazon Sales Channel].|
+|Middle section|Includes a store activity summary chart for the last 30 days and includes and alert for any listings that need attention.|
+|Bottom section|Includes the View Store and Action options.<br>To open the store [dashboard](./amazon-store-dashboard.md), click **[!UICONTROL View Store]**.<br>To activate, deactivate, or delete a store, click **[!UICONTROL Actions]**. |

@@ -5,7 +5,7 @@ description: After you complete the Amazon Sales Channel onboarding process, rev
 
 # Store settings
 
-After you create and integrate your [!DNL Amazon Sales Channel] store, you should review your store default settings to ensure your product, listing, pricing, and other settings are correct for your store.
+After you create and integrate your [!DNL Amazon Sales Channel] store, review your store default settings to ensure that your product, listing, pricing, and other settings are correct.
 
 1. On the _Admin_ sidebar, go to **Marketing** > _Channels_ > **Amazon Sales Channel**.
 
@@ -16,7 +16,7 @@ After you create and integrate your [!DNL Amazon Sales Channel] store, you shoul
    - [**Listing settings**](./listing-settings.md) - Control how your product catalog interacts with the [!DNL Amazon Marketplace].
    - [**Order settings**](./order-settings.md) - Control how Amazon orders are managed.
    - [**Listing rules**](./listing-rules.md) - Define which catalog products are eligible to be listed on Amazon.
-   - [**Pricing rules**](./pricing-products.md) - Define how the Amazon list price will be altered for qualified listings.
+   - [**Pricing rules**](./pricing-products.md) - Define how the Amazon list price is altered for qualified listings.
    - **Store reports** - [Competitive price analysis](./competitive-price-analysis.md) and [listing improvements](./listing-improvements.md).
    - **Logs** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
    - [**Store integration settings**](./store-integration-settings.md) - Review email and [!DNL Amazon Sales Channel] store name settings in the [!DNL Commerce Admin].

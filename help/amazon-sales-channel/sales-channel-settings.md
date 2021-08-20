@@ -31,7 +31,7 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. For **Enable Debug Logging**, choose `Enabled` to collect additional synchronization data when troubleshooting is needed.
 
-   [!DNL Amazon Sales Channel] logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html). Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
+   [!DNL Amazon Sales Channel] logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){:target="_blank"}. Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
 
 1. Click **[!UICONTROL Save Config]**.
 

@@ -5,9 +5,9 @@ description: Use the Commerce pricing scope to manage pricing according to multi
 
 # Price scope
 
-[!DNL Commerce] provides configuration for your [pricing scope](https://docs.magento.com/user-guide/configuration/catalog/catalog.md#price) to be set to `Global` or `Website`. If pricing is set to `Global`, there will be a single price source for all websites. If pricing is set to `Website`, your websites can vary their pricing across and also have a fallback default pricing value. See [Catalog Price](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#price).
+[!DNL Commerce] provides configuration for your [pricing scope](https://docs.magento.com/user-guide/configuration/catalog/catalog.md#price){:target="_blank"} to be set to `Global` or `Website`. If pricing is set to `Global`, there will be a single price source for all websites. If pricing is set to `Website`, your websites can vary their pricing across and also have a fallback default pricing value. See [Catalog Price](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#price){:target="_blank"}.
 
-If you change your catalog price scope from `Global` to `Website`, all price type attributes will also change to `Website`. See [Adding Websites](https://docs.magento.com/user-guide/stores/stores-all-create-website.html).
+If you change your catalog price scope from `Global` to `Website`, all price type attributes will also change to `Website`. See [Adding Websites](https://docs.magento.com/user-guide/stores/stores-all-create-website.html){:target="_blank"}.
 
 When a website price is chosen, there are two price sources:
 

@@ -17,8 +17,8 @@ No actions are available for the log. It is a review-only feature.
 
 |Column|Description|
 |--- |--- |
-|Amazon Store Name|The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
-|Seller SKU |The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
-|Listing Action |The type of change that was made to the listing. |
-|Comments |Additional information about the listing change. |
-|Created On |The date and time the change was made. |
+|[!UICONTROL Amazon Store Name] |The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
+|[!UICONTROL Seller SKU] |The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
+|[!UICONTROL Listing Action] |The type of change that was made to the listing. |
+|[!UICONTROL Comments] |Additional information about the listing change. |
+|[!UICONTROL Created On] |The date and time the change was made. |

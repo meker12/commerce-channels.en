@@ -5,7 +5,7 @@ description: Amazon Sales Channel provides the Learning and Preparation view tab
 
 # Learning and Preparation
 
-The _Learning and Preparation_ view shows the list of pre-setup tasks that are recommended prior to integrating your Amazon stores. It also provides links to learning materials, such as:
+The _Learning and Preparation_ view shows the list of pre-setup tasks that are recommended before integrating your Amazon stores. It also provides links to learning materials, such as:
 
 - This [user guide](./overview.md)
 - Video tutorials

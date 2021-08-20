@@ -7,7 +7,7 @@ redirect_from:
 
 # Price rule conditions
 
-Conditions determine which products will be eligible for the price rule. Defining the conditions for your Amazon pricing rules follow the same logic and process as defining the conditions for [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html) in [!DNL Commerce].
+Conditions determine which products will be eligible for the price rule. Defining the conditions for your Amazon pricing rules follow the same logic and process as defining the conditions for [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){:target="_blank"} in [!DNL Commerce].
 
 **Important:** If your price rule applies to all products in your [!DNL Commerce] catalog, then leave this section blank.
 
@@ -17,11 +17,11 @@ Any areas in the conditions that are bold can be clicked to see the various opti
 
 This process can be simple or detailed, depending on your catalog configuration. You can define your conditions so that when `ALL` or `ANY` of the conditions are either `TRUE` or `FALSE` for a product, then the product is eligible for the pricing rule to be applied.
 
-Conditions are based on your [product attributes](https://docs.magento.com/user-guide/catalog/product-attributes.html). To apply the rule to all products, leave the conditions section blank.
+Conditions are based on your [product attributes](https://docs.magento.com/user-guide/catalog/product-attributes.html){:target="_blank"}. To apply the rule to all products, leave the conditions section blank.
 
 >[!NOTE]
 >
->If you want to define a condition based on a specific product attribute, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html) for the attribute.
+>If you want to define a condition based on a specific product attribute, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"} for the attribute.
 
 ![Price rule condition - line 1](assets/ob-price-rules-condition-1.png)
 
@@ -43,7 +43,7 @@ You can create different conditions by changing the combination of these values.
 
    ![Price rule conditions combination](assets/ob-conditions-combinations.png)
 
-   **Product Attribute** - The available product attributes depend on the [setup of the attribute](https://docs.magento.com/user-guide/stores/attribute-product-create.html). For an attribute to show in the list, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html).
+   **Product Attribute** - The available product attributes depend on the [setup of the attribute](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}. For an attribute to show in the list, **Use for Promo Rule Conditions** for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}.
 
    - For **Product Attribute**, choose the attribute that you want to define as the base of the condition. For this example, the selected condition is `Category`.
 

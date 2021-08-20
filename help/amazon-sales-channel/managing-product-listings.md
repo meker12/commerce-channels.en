@@ -25,6 +25,6 @@ See [Manage Listings by Status / Tab](./managing-listings-by-tab.md) and [Manage
 
 1. On the store dashboard, click **Manage Listings** in the _Store Listings_ section.
 
-1. Click a tab to view listings in that status.
+1. To view listings in that status, click a tab.
 
    The _Active_ tab displays by default.

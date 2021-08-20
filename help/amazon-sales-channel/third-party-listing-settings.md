@@ -27,7 +27,7 @@ The initial listing import initiates when [store integration](./store-integratio
 
     - **Import Listing** - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. This is the recommended and the default setting.
 
-    - **Do Not Import Listing** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html) to your [!DNL Commerce] catalog for your Amazon listings.
+    - **Do Not Import Listing** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){:target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.
 
    >[!NOTE]
    >The following options fields are only active when set to `Import Listing`.
@@ -45,7 +45,7 @@ The initial listing import initiates when [store integration](./store-integratio
 
 |Field|Description|
 |---|---|
-|Import Third Party Listings|Required. Options:<ul><li>**Import Listing** - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. </li><li>**Do Not Import Listing** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html) to your [!DNL Commerce] catalog for your Amazon listings.</li></ul>|
+|Import Third Party Listings|Required. Options:<ul><li>**Import Listing** - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. </li><li>**Do Not Import Listing** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){:target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.</li></ul>|
 |Attribute That Contains Amazon Seller SKU|Only active when set to `Import Listing`.<br>Choose the [!DNL Commerce] attribute to match to the Amazon attribute for the Amazon Seller SKU. If this attribute does not exist, see [Creating Amazon Product Attributes for Amazon Matching](./ob-creating-magento-attributes.md). You may need to review your [!DNL Commerce] [attributes](./managing-attributes.md) and create or edit an attribute to match to this Amazon data.|
 |Attribute That Contains Amazon ASIN|Only active when set to `Import Listing`.<br>Choose the [!DNL Commerce] attribute that matches to the Amazon attribute for the Amazon ASIN. If this attribute does not exist, see [Creating Amazon Product Attributes for Amazon Matching](./ob-creating-magento-attributes.md). You may need to review your [!DNL Commerce] [attributes](./managing-attributes.md) and create or edit an attribute to match to this Amazon data.|
 

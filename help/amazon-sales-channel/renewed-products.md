@@ -5,7 +5,7 @@ description: If your Seller Central account is registered for the Renewed Progra
 
 # Renewed products
 
-Before you can list your high-quality, like-new products (refurbished, pre-owned, and open-box) on Amazon, you must first register and be approved for the [[!DNL Amazon Renewed Program]](https://sell.amazon.com/programs/renewed.html).
+Before you can list your high-quality, like-new products (refurbished, pre-owned, and open-box) on Amazon, you must first register and be approved for the [[!DNL Amazon Renewed Program]](https://sell.amazon.com/programs/renewed.html){:target="_blank"}.
 
 After you are approved and your Seller Central account is updated, you can manage your renewed listings in [!DNL Amazon Sales Channel]. Renewed listings require the following steps in [!DNL Amazon Sales Channel]:
 
@@ -19,8 +19,8 @@ After you are approved and your Seller Central account is updated, you can manag
 
 For more information, see related Amazon documentation:
 
-- [Amazon Renewed Program](https://sell.amazon.com/programs/renewed.html)
+- [Amazon Renewed Program](https://sell.amazon.com/programs/renewed.html){:target="_blank"}
 
-- [Renewed - Getting Started](https://sellercentral.amazon.com/gp/help/help.html/?itemID=201648580)
+- [Renewed - Getting Started](https://sellercentral.amazon.com/gp/help/help.html/?itemID=201648580){:target="_blank"} (Seller Central login required)
 
-- [Amazon Renewed FAQ](https://sellercentral.amazon.com/gp/help/help.html?itemID=202190060)
+- [Amazon Renewed FAQ](https://sellercentral.amazon.com/gp/help/help.html?itemID=202190060){:target="_blank"} (Seller Central login required)

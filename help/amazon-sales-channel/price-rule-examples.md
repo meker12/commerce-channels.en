@@ -15,7 +15,7 @@ If **Discard Subsequent Rules** is set to `Yes`, the rules with lower priority (
 
 For example, let's say we have three pricing rules:
 
-| Example|Rule Name | [Priority](https://docs.magento.com/user-guide/configuration/scope.html) | Discard Subsequent Rule |
+| Example|Rule Name | [Priority](https://docs.magento.com/user-guide/configuration/scope.html){:target="_blank"} | Discard Subsequent Rule |
 |----------|----|----|----|
 | 1| 10% off sale products | 1 | No |
 | 2| $2 off sale products | 2 | Yes |

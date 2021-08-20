@@ -1,38 +1,38 @@
 ---
 title: Ineligible Listings
-description: Amazon Sales Channel provides the Ineligible tab to help you manage items are not not eligible as a listing based on your current listing rules.
+description: Amazon Sales Channel provides the Ineligible tab to help you manage items are not eligible as a listing based on your current listing rules.
 ---
 
 # Ineligible listings
 
-The _Ineligible_ tab shows a list of all the products that are currently published on Amazon but are not eligible as a listing based on your current listing rules. If a previous product was eligible and the listing rules are modified making some products ineligible, the quantity associated with a product drops to 0 and the product is marked as ineligible but will still be present on your [!DNL Amazon Seller Account].
+The _Ineligible_ tab shows a list of all the products that are currently published on Amazon but are not eligible as a listing based on your current listing rules. If a previous product was eligible and the listing rules are modified to make it now ineligible, the quantity associated with a product drops to 0 and the product is marked as _ineligible_. However, it is still present on your [!DNL Amazon Seller Account].
 
-To move a product out of the _Ineligible_ tab, you may need to [modify your listing rules](./listing-rules.md) to allow your products to be eligible.
+To move a product out of the _Ineligible_ tab, you can [modify your listing rules](./listing-rules.md) to allow your products to be eligible.
 
 The available actions on the _Ineligible_ tab include:
 
 Under _Actions_:
 
-- **End Listing(s) on Amazon**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing(s) on Amazon]**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
-- **Edit Listing Overrides**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
+- **[!UICONTROL Edit Listing Overrides]**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
 
-Under **Select** in the _Action_ column:
+Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
-- **View Details**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
+- **[!UICONTROL View Details]**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
 
-- **Create Override**: Choose to create a new override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
+- **[!UICONTROL Create Override]**: Choose to create an override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
 
-- **Edit Assigned ASIN**: Choose to modify the ASIN assigned to your catalog product. This would be used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
+- **[!UICONTROL Edit Assigned ASIN]**: Choose to modify the ASIN assigned to your catalog product. This action is used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
 
-- **Create Alias Seller SKU**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
+- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU that can be used to create an Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
 
-- **Switch to Fulfilled by Amazon/Merchant**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
+- **[!UICONTROL Switch to Fulfilled by Amazon/Merchant]**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
 
-- **End Listing**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing]**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
 >[!NOTE]
->If you have listings in process, the number of listings will display in a message above the tabs.
+>If you have listings in process, the number of listings is displayed in a message above the tabs.
 
 ![Ineligible Amazon listings](assets/amazon-ineligible-listings.png)
 

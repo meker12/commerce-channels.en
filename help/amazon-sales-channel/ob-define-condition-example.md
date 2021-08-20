@@ -13,9 +13,9 @@ Any areas in the conditions that are bold can be clicked to see the various opti
 
 >[!NOTE]
 >
->There is a complex set of back-end processes to communicate with Amazon's systems directly. Based on the number of items you are attempting to list and how busy Amazon's systems are (for example, Black Friday can be a slow time to list new products), it may take additional time for your items to be listed on Amazon.
+>There is a complex set of back-end processes to communicate with Amazon's systems directly. Based on the number of items you are attempting to list, and how busy Amazon's systems might be (such as Black Friday), it could take time for your items to be listed on Amazon.
 
-See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html).
+See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html){:target="_blank"}.
 
 ## Define a condition
 
@@ -25,11 +25,11 @@ Conditions are based on existing product attribute values. To apply the rule to 
 
 >[!NOTE]
 >
->If you want to define a condition based on a specific product attribute, **Use for Promo Rule Conditions** for the attribute must be set to `Yes`. The field is located on the [Storefront Properties](https://docs.magento.com/user-guide/catalog/product-attributes-add.html) page for the attribute.
+>If you want to define a condition based on a specific product attribute, set the **[!UICONTROL Use for Promo Rule Conditions]** setting for the attribute to `Yes`. You can access this setting on the [Storefront Properties](https://docs.magento.com/user-guide/catalog/product-attributes-add.html){:target="_blank"} page for the attribute.
 
 ![Condition - line 1](assets/ob-listing-rule-conditions-start.png)
 
-The rule in this example will define a rule that sets Amazon eligibility for all catalog products that have the _Amazon FBA_ attribute set to `Yes`.
+The rule in this example defines a rule that sets Amazon eligibility for all catalog products that have the _Amazon FBA_ attribute set to `Yes`.
 
 The rule statement has two bold links, which, when clicked, display the options for that part of the statement. If you save the condition without making changing a bold option, the rule applies to all your products.
 
@@ -41,13 +41,13 @@ You can create different conditions by changing the combination of these values.
 
 `If ALL of these conditions are TRUE:`
 
-1. Click the Add (![Add icon](assets/btn-add-grn.png)) icon at the beginning of the condition line to show available attributes on which the condition function, and select an attribute on which to base the condition, such as a conditions combination or a product attribute.
+1. Click the Add (![Add icon](assets/btn-add-grn.png)) icon at the beginning of the condition line and select an attribute on which to base the condition, such as a conditions combination or a product attribute.
 
-   - **Conditions Combination** - Choose to allow you to create an additional set of `All/Any` and `True/False` conditions inside the existing set.
+   - **[!UICONTROL Conditions Combination]** - Choose to allow you to create another set of `All/Any` and `True/False` conditions inside the existing set.
 
       ![Conditions combination](assets/ob-conditions-combinations.png)
 
-   - **Product Attribute** - The product attributes depend on the setup of the attribute. For an attribute to show in the list, it must be configured to be used in promo rule conditions. See the **Use for Promo Rule Conditions** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html).
+   - **[!UICONTROL Product Attribute]** - The product attributes depend on the setup of the attribute. For an attribute to appear in the list, it must be configured for usage in promotional rule conditions. See the _Use for Promo Rule Conditions_ in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
 
       In the list under **Product Attribute**, choose the attribute that you want to use as the basis of the condition. For this example, the selected condition is `Amazon FBA`.
 
@@ -57,16 +57,20 @@ You can create different conditions by changing the combination of these values.
 
       After you set the attribute, it cannot be changed. To change the attribute, you must delete the line and add the new attribute. You can delete a condition line by clicking the Delete (![Delete icon](assets/btn-del-red.png)) icon at the end of the line.
 
-     1. Click **is** and choose the comparison operator that describes the condition for products to meet. For this example, the comparison operator is `is`. The available options depend on the attribute selected in the previous step and may include different comparison options such as matching values, not including or including at least one of a value, and greater than, equal to, and less than a numerical amount. In this example, the options are `is` and `is not`.
+     1. Click **[!UICONTROL is]** and choose the comparison operator that describes the condition for products to meet.
 
-     1. Click **...** and choose the attribute value upon which the condition is based. The options depend on the attribute's setup. You may be asked to select an option from a drop-down, or you may need to enter text or numerical values for the condition. For this example the selection is `Yes`.
+         For this example, the comparison operator is `is`. The available options depend on the attribute selected in the previous step. Options could include different comparison options, such as matching values, not including or including at least one of a value, and greater than, equal to, and less than a numerical amount. In this example, the options are `is` and `is not`.
+
+     1. Click **...** and choose the attribute value upon which the condition is based.
+
+         The options depend on the attribute's setup. You may be prompted to select an option, or to enter text or numerical values for the condition. For this example, the selection is `Yes`.
 
          The selected item appears in the statement to complete the condition.
 
-        ![Condition line 2, part 3](assets/ob-listing-rule-condition-is.png)
+         ![Condition line 2, part 3](assets/ob-listing-rule-condition-is.png)
 
-   This condition is complete. As stated, this condition means that any product in your [!DNL Commerce] catalog that has the Amazon FBA attribute set to a value of `Yes` is eligible for listing to Amazon for the region and store you are setting up. You can add more condition lines to further narrow your eligible products.
+   This condition is complete. As stated, this condition means that any product in your [!DNL Commerce] catalog that has the Amazon FBA attribute set to a value of `Yes` is eligible for listing to Amazon for the region and store. You can add more condition lines to further narrow your eligible products.
 
-To add another condition line to the statement, return to step 1 and repeat the process until all desired conditions are complete.
+1, To add another condition line to the statement, return to step 1 and repeat the process until all desired conditions are complete.
 
 You can delete a line of the condition statement at any time by clicking the Delete (![Delete icon](assets/btn-del-red.png)) icon at the end of the line.
