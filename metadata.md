@@ -3,7 +3,7 @@ solution: Adobe Commerce
 product: magento
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/commerce-test.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/commerce-channels.en
 index: no
 hide: yes
 ---
