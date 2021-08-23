@@ -15,7 +15,7 @@ After you are approved and your Seller Central account is updated, you can manag
 
 >[!IMPORTANT]
 >
->Your renewed product listings that do not meet the requirements set by Amazon will change to `Inactive` status and move from the [Active Listings](./active-listings.md) tab to the [Inactive Listings](./inactive-listings.md) tab. Also, the [Listings Changes Log](./listing-changes-log.md) will show a `Refurbished` error message.
+>Your renewed product listings that do not meet the requirements set by Amazon change to `Inactive` status and move from the *[Active Listings](./active-listings.md)* tab to the *[Inactive Listings](./inactive-listings.md)* tab. Also, the [Listings Changes Log](./listing-changes-log.md) displays a `Refurbished` error message.
 
 For more information, see related Amazon documentation:
 

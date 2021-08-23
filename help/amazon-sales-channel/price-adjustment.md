@@ -25,7 +25,7 @@ Define your pricing adjustment in the _Price Adjustment_ section.
 
 1. For **Price Action**, choose an option:
 
-   - **Decrease By** - Choose when you want the defined price source value to be to be adjusted down, creating a lower price for the rule, before listing to Amazon.
+   - **Decrease By** - Choose when you want the defined price source value to be adjusted down, creating a lower price for the rule, before listing to Amazon.
 
    - **Increase By** - Choose when you want the defined price source value to be adjusted up, creating a higher price for the rule, before listing to Amazon.
 
@@ -47,6 +47,6 @@ Define your pricing adjustment in the _Price Adjustment_ section.
 
 |Field|Description|
 |---|---|
-|Price Action|Choose a pricing adjustment action. Options:<br>**Decrease By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) to be to be adjusted down, creating a lower price for the rule, before listing to Amazon.<br>**Increase By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) to be adjusted up, creating a higher price for the rule, before listing to Amazon.<br>**Match Competitor Price** - (Intelligent repricing rule only) Choose when you want to change your Amazon listing price to match the [lowest competitor](./lowest-competitor-pricing.md) price, based on your competitor feedback and variance parameters. When chosen, the _Apply_ and _Adjustment Amount_ fields are removed.|
+|Price Action|Choose a pricing adjustment action. Options:<br>**Decrease By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) to be adjusted down, creating a lower price for the rule, before listing to Amazon.<br>**Increase By** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) to be adjusted up, creating a higher price for the rule, before listing to Amazon.<br>**Match Competitor Price** - (Intelligent repricing rule only) Choose when you want to change your Amazon listing price to match the [lowest competitor](./lowest-competitor-pricing.md) price, based on your competitor feedback and variance parameters. When chosen, the _Apply_ and _Adjustment Amount_ fields are removed.|
 |Apply|Options:<br>**Apply as percentage** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) adjusted by a percentage.<br>**Apply as fixed amount** - Choose when you want the defined **Magento Price Source** defined in your [Listing Price](./listing-price.md) adjusted by a fixed amount.|
 |Adjustment Amount|Required.<br>If you chose `Apply as percentage` for **Apply**, enter the percent value (example: enter `25` for a 25% percent adjustment).<br>If you chose `Apply as fixed amount` for **Apply**, enter the  numerical value for the fixed amount (example: enter `25` for a $25 fixed adjustment).|

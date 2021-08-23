@@ -5,21 +5,21 @@ description: Amazon Sales Channel provides workspace controls help you locate li
 
 # Workspace controls
 
-The [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages will have the same control options.
+The [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages have the same control options.
 
 ![Amazon Sales Channel workspace control examples](assets/amazon-workspace-controls.png)
 
 ## Actions
 
-_Actions_ include a list of actions that are available to a user for a page. When chosen, the action is applied to all selected items. To apply an action to a specific item, select the checkbox in the first column of each item and choose an option under _Actions_.
+The _[!UICONTROL Actions]_ selector provides a list of actions that are available to a user for a page. When chosen, the action is applied to all selected items. To apply an action to a specific item, select the checkbox in the first column of each item and choose an option under _[!UICONTROL Actions]_.
 
-For example, the **Actions** selector on the Attributes page includes the _Re-import Product Attribute Values_ action. Choosing this action will ping the corresponding [!DNL Amazon Seller Central] account and refresh the [!DNL Commerce] data for each of the Amazon store items checked in the left-side column.
+For example, when the selector is displayed on the _[!UICONTROL Attributes]_ page, it includes the _[!UICONTROL Re-import Product Attribute Values]_ action. Choosing this action pings the corresponding [!DNL Amazon Seller Central] account and refreshes the [!DNL Commerce] data for each of the Amazon store items checked in the left-side column.
 
 ![Actions menu example](assets/amazon-sales-channel-home-actions-option.png)
 
 ## Filters
 
-The Filters control shows options for narrowing the data shown in the table. Filter options are based on the columns selected in the Columns control. Filter options only display for columns enabled in the Columns control.
+The _[!UICONTROL Filters]_ control shows options for narrowing the data shown in the table. Filter options are based on the columns selected in the Columns control. Filter options only display for columns enabled in the Columns control.
 
 Filters controls can include dynamic calendars to narrow data for specified dates, drop-down menus for columns that have pre-defined selections, and free-text fields that may contain custom data.
 
@@ -29,11 +29,11 @@ The following example shows the settings for filtering the list of orders to sho
 - Orders with a buyer named of `Smith`, and
 - Orders with a status of `Shipped`.
 
-When you have your filtering options set, click **Apply Filters** to filter the data listed. Click Cancel to exit the Filters control without applying.
+When you have your filtering options set, click **[!UICONTROL Apply Filters]** to filter the data listed. Click Cancel to exit the Filters control without applying.
 
 ![Filters control example](assets/workspace-controls-filters.png)
 
-After you apply filters to your data, **Active Filters** information will appear. You can click the ![Clear filters icon](assets/x-icon-clear-filters.png) icon to clear a specific filter option or click **Clear All** to clear all applied filters.
+After you apply filters to your data, **[!UICONTROL Active Filters]** information will appear. You can click the ![Clear filters icon](assets/x-icon-clear-filters.png) icon to clear a specific filter option or click **[!UICONTROL Clear All]** to clear all applied filters.
 
 ![Active filters example](assets/applied-filters-line.png)
 
@@ -43,17 +43,17 @@ The View control is based on the default columns for page, thus it is named the 
 
 When you have your columns added or removed from the page display:
 
-1. Click **Default View** > **Save View As...**.
+1. Click **[!UICONTROL Default View]** > **[!UICONTROL Save View As...]**.
 
 1. Enter a name for view.
 
-1. Click the arrow icon to save the custom view.
+1. To save the custom view, click the arrow icon.
 
 ![View control example](assets/workspace-controls-view.png)
 
-In this example, we added the _Order Id_ column in the Column control and saved it as a custom view. Notice that after we saved our custom view name, the name of the View changed from Default View to the name we entered.
+In this example, the _Order Id_ column is added in the Column control and saved as a custom view. Notice that after the custom view name was saved, the name of the View changed from _Default View_ to the entered name.
 
-You can toggle between the views by selecting the desired view in the _View_ menu.
+You can toggle between the views by selecting the desired view in the _[!UICONTROL View]_ menu.
 
 If you want to delete or change the name of your custom view, click the pencil icon. You can then enter a different name, or you can click the trash can icon to delete the custom view. The Default View cannot be deleted.
 
@@ -68,15 +68,15 @@ The following example shows a Columns control. The checked options correspond to
 
 ![Columns control example](assets/workspace-controls-columns.png)
 
-Checkbox changes display immediately. If you make changes and exit the page, the page returns to the default column display. For changes you make regularly, you can save the columns changes as a custom view in the View control. Then you can toggle in the View control without having to add or remove columns manually.
+Checkbox changes display immediately. If you make changes and exit the page, the page returns to the default column display. For changes that you make regularly, you can save the columns changes as a custom view in the View control. Then you can toggle in the View control without having to add or remove columns manually.
 
-You can click **Reset** to set the options back to default settings, or you can click **Cancel** to exit without your changes.
+You can click **[!UICONTROL Reset]** to set the options back to default settings, or you can click **[!UICONTROL Cancel]** to exit without your changes.
 
 ## Export
 
-The Export option allows you to export the data to a data file than can be imported to a third-party software or separate database. Data exported is limited to the data shown. You'll want to make sure you add or remove columns if needed prior to using the Export control.
+The Export option allows you to export the data to a data file than can be imported to a third-party software or separate database. Data exported is limited to the data shown. If needed, make sure that you add or remove columns before using the Export control.
 
-When ready to export your data, choose an export format option and click **Export**.
+When ready to export your data, choose an export format option and click **[!UICONTROL Export]**.
 
 - CSV - a comma-separated value file containing plain text data
 - Excel XML - an XML-based, spreadsheet data format (typically used for Excel users)

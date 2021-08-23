@@ -1,28 +1,20 @@
 ---
-title: Manually Publish an Amazon Listing
+title: Manually Publish Amazon Listings
 description: WHen needed, you can manually publish your ended Amazon listings from your Commerce Admin.
 ---
 
-# Manually publish an Amazon listing
+# Manually publish Amazon listings
 
-## Publish a single or multiple Amazon listing that has been ended
+You can manually publish one or more Amazon listings that have been ended.
 
-1. View the listing(s) on the _Ended_ tab on the [Product Listings](./managing-product-listings.md) page (_Inactive_, _Active_, or _Ineligible_ tab).
+1. View one or more listings on the _Ended_ tab on the [Product Listings](./managing-product-listings.md) page (_Inactive_, _Active_, or _Ineligible_ tab).
 
 1. In the left column, click to check each of the listings you want to republish.
 
 1. Under _Actions_, click **Publish Product to Amazon**.
 
-1. Click **OK** on the confirmation message.
+1. Click **OK** in the confirmation message.
 
-## Publish a single Amazon listing that has been ended
+   A message is displayed to confirm that the selected listings are being processed to publish to Amazon.
 
-1. View the listing(s) on the _Ended_ tab on the [Product Listings](./managing-product-listings.md) page (_Inactive_, _Active_, or _Ineligible_ tab).
-
-1. In the _Action_ column, click **Select** > **Publish On Amazon**.
-
-1. Click **OK** on the confirmation message.
-
-    A confirmation message will display that the selected listing is being processed to publish to Amazon.
-
-    Listing information is published to Amazon based on your cron settings. Listing information is sent to Amazon at the next data sync. Until Amazon replies with the listing confirmation, the manually published listing(s) remains on the _Ready to List_ tab with a `List in Progress` status. When the listing confirmation is received from Amazon, the listing(s) moves to the _Active_ tab with an `Active` status.
+   Listing information is published to Amazon based on your cron settings. Listing information is sent to Amazon at the next data sync. Until Amazon replies with the listing confirmation, the manually published listings remain on the _Ready to List_ tab with a `List in Progress` status. When the listing confirmation is received from Amazon, the listings move to the _Active_ tab with an `Active` status.

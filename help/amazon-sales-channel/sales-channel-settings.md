@@ -1,6 +1,6 @@
 ---
 title: Sales Channel Settings
-description: Update the Commerce configuration to manage logging, cron source, and synchronization for Amazon Sales Channel functions.
+description: To manage logging, cron source, and synchronization for Amazon Sales Channel functions, update the Commerce configuration.
 ---
 
 # Sales Channel settings
@@ -15,19 +15,19 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. On the _Admin_ sidebar, go to **Stores** > _Settings_ > **Configuration**.
 
-1. Scroll down and click **Sales Channels** and then **Global Settings**.
+1. In the left panel, expand **Sales Channels** and choose **Global Settings**.
 
-1. For **Clear Log History**, choose an option.
+1. For **Clear Log History**, choose an option:
 
-   - **Once Daily** - Choose to clear your store activity history once daily.
+   - `Once Daily` - Choose to clear your store activity history once daily.
 
-   - **Once Weekly** - Choose to clear your store activity history once weekly.
+   - `Once Weekly` - Choose to clear your store activity history once weekly.
 
-   - **Once Monthly** - (Default) Choose to clear your store activity history once monthly.
+   - `Once Monthly` - (Default) Choose to clear your store activity history once monthly.
 
 1. For **Background Tasks (CRON) Source**, choose `Magento CRON`.
 
-   This tells [!DNL Amazon Sales Channel] to used your [!DNL Commerce] [Cron](https://docs.magento.com/user-guide/system/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
+   This option allows [!DNL Amazon Sales Channel] to use your [!DNL Commerce] [Cron](https://docs.magento.com/user-guide/system/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
 
 1. For **Enable Debug Logging**, choose `Enabled` to collect additional synchronization data when troubleshooting is needed.
 

@@ -7,7 +7,7 @@ description: Before you start the onboarding process, you must create (add) an A
 
 To get started with [!DNL Amazon Sales Channel], you must create (add) an [!DNL Amazon Sales Channel] store and connect it to your Amazon Seller Account. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
 
-_You will need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) to connect your store._
+_You need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) to connect your store._
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ _You will need the primary log-in credentials for your [!DNL Amazon Seller Centr
 
    >[!NOTE]
    >
-   >This name is used as a [!DNL Commerce] reference only and will identify the store on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page. You want to make it something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
+   >This name is used as a [!DNL Commerce] reference only and identifies the store on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page. You want to make it something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
 
 1. For **[!DNL Amazon Marketplace] Country**, choose the region/country in which this [!DNL Amazon Sales Channel] store sells products. Options:
 
@@ -44,19 +44,19 @@ _You will need the primary log-in credentials for your [!DNL Amazon Seller Centr
     - Mexico
     - United Kingdom
 
-1. In the _Map your Magento attributes to Amazon_ section, do the following:
+1. In the _[!UICONTROL Map your Magento attributes to Amazon]_ section, do the following:
 
-    - For **Product ID on the Amazon market**, choose the Amazon attribute to map to the [!DNL Commerce] attribute selected below.
+    - For **[!UICONTROL Product ID on the Amazon market]**, choose the Amazon attribute to map to the [!DNL Commerce] attribute selected below.
 
-       This helps to correctly match corresponding products in your [!DNL Commerce] catalog.
+      This ID helps to correctly match corresponding products in your [!DNL Commerce] catalog.
 
-    - For **Map a Magento attribute**, choose the [!DNL Commerce] product attribute to map to the Amazon attribute selected above.
+    - For **[!UICONTROL Map a Magento attribute]**, choose the [!DNL Commerce] product attribute to map to the Amazon attribute selected above.
 
-       [Mapping attributes](./ob-creating-magento-attributes.md) helps ensure your Amazon listing correctly matches to the corresponding product in your [!DNL Commerce] catalog.
+      [Mapping attributes](./ob-creating-magento-attributes.md) helps ensure that your Amazon listing correctly matches to the corresponding product in your [!DNL Commerce] catalog.
 
 1. Click **[!UICONTROL Connect]**.
 
-   The modal will close and the new store will appear on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page with a confirmation message.
+   The dialog closes and the new store appears on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page with a confirmation message.
 
 ## Connect a store to Amazon Seller Central
 

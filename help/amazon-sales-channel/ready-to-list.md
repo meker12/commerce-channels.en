@@ -24,7 +24,7 @@ Under **Select** in the _Action_ column:
 You have a few options to manually [publish a new listing to Amazon](./publish-listings-manually.md).
 
 >[!NOTE]
->If you have listings in process, the number of listings will display in a message above the tabs.
+>If you have listings in process, the number of listings are displayed in a message above the tabs.
 
 ![Ready to list](assets/amazon-ready-to-list.png)
 
@@ -43,6 +43,6 @@ You have a few options to manually [publish a new listing to Amazon](./publish-l
 
 ### Common causes of Ready to List listings
 
-- **Ready to List** - Product has been matched to an Amazon ASIN and is scheduled to be listed. If [**Automatic List Action**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`, the _Ready to List_ status represents the products which are ready to be manually listed.
+- **[!UICONTROL Ready to List]** - Product is matched to an Amazon ASIN and is scheduled for listing. If [**[!UICONTROL Automatic List Action]**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`, this status represents the products which are ready to be manually listed.
 
-- **List in Progress** - The product listing has been submitted to Amazon and is awaiting confirmation of acceptance from Amazon.
+- **[!UICONTROL List in Progress]** - The product listing has been submitted to Amazon and is awaiting confirmation of acceptance from Amazon.

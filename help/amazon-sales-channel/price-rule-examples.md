@@ -11,9 +11,9 @@ description: To help you design your pricing rules for Amazon listings, review t
 
 The ability to discard subsequent rules is a great feature inside pricing rules that prevents multiple pricing rules from stacking and providing unintended additional discounts. To discard subsequent rules, a pricing rule must use the priorities that are set in the _Priority_ section of [Pricing Rule General Settings](./pricing-rule-general-settings.md).
 
-If **Discard Subsequent Rules** is set to `Yes`, the rules with lower priority (higher numbers) will not apply to the eligible products.
+If **Discard Subsequent Rules** is set to `Yes`, the rules with lower priority (higher numbers) do not apply to the eligible products.
 
-For example, let's say we have three pricing rules:
+For example, let's say there are three pricing rules:
 
 | Example|Rule Name | [Priority](https://docs.magento.com/user-guide/configuration/scope.html){:target="_blank"} | Discard Subsequent Rule |
 |----------|----|----|----|
@@ -21,7 +21,7 @@ For example, let's say we have three pricing rules:
 | 2| $2 off sale products | 2 | Yes |
 | 3| 5% off all products | 3 | No |
 
-In this scenario, rules #1 and #2 applies to the eligible products. Rule #3 only applies to eligible products not contained within rule #2. This is because it has a lower priority than example #2 and **Discard Subsequent Rules** is set to `Yes`. So, the eligible products in the sale category would receive 10% off and $2 off the Amazon listing price.
+In this scenario, rule #1 and #2 apply to the eligible products. Rule #3 only applies to eligible products not contained within rule #2 because it has a lower priority than example #2 and **Discard Subsequent Rules** is set to `Yes`. So, the eligible products in the sale category would receive a 10% discount and $2 off the Amazon listing price.
 
 ### Applying two standard price rules
 
@@ -217,25 +217,25 @@ Final price after VAT: $12.50 x (1.1) = $13.75
 | Apply | Apply as fixed amount |
 | Adjustment Amount | $5.00 |
 
-When the [ceiling price](./optional-ceiling-price.md) is hit, the standard pricing rule will be applied on top of the intelligent pricing rule.
+When the [ceiling price](./optional-ceiling-price.md) is hit, the standard pricing rule is applied on top of the intelligent pricing rule.
 
 Final price after the standard pricing rule is applied: $13.75 + $5.00 = $18.75
 
 ### Price adjustment
 
-In this example, we have chosen to define our most competitive price by looking at our Amazon [competitor's lowest price](./lowest-competitor-pricing.md) who also have 95% positive feedback and a minimum feedback count of 1,000 merchant reviews.
+In this example, the most competitive price is defined by looking at the Amazon [competitor's lowest price](./lowest-competitor-pricing.md) with a 95% positive feedback and a minimum feedback count of 1,000 merchant reviews.
 
 ![Price adjustment example](assets/amazon-price-adjustment-example.png)
 
-After running this search based on these parameters, our competitive price comes back at $25.
+After running this search based on these parameters, the competitive price comes back at $25.
 
-From here, we have three different [Price Rule Action](./pricing-rule-actions.md) choices based on this lowest price.
+From here, there are three different [Price Rule Action](./pricing-rule-actions.md) choices based on this lowest price.
 
 |Field|Description|
 |--- |--- |
-|Price Action|Options:<ul><li>**Decrease By** – This option will decrease your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**Increase By** – This option will increase your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**Match Competitor Price** – This option will change your Amazon listing price to match the lowest price based on our parameters. In our example, the  Amazon listing price will be $25.</li></ul>|
+|Price Action|Options:<ul><li>**Decrease By** – This option decreases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**Increase By** – This option increases your listing price relative to the [lowest competitor price](./lowest-competitor-pricing.md).</li><li>**Match Competitor Price** – This option changes your Amazon listing price to match the lowest price based on the parameters. In the example, the Amazon listing price is $25.</li></ul>|
 |Apply|Options: Apply as percentage / Apply as fixed amount|
-|Adjustment Amount|Numerical value to define the percentage or fixed amount for the discount to be applied. <br>These selections mean that we are going to take the lowest price and set ours $0.01 less.|
+|Adjustment Amount|Numerical value to define the percentage or fixed amount for the discount to be applied. <br>These selections result in taking the lowest price and setting it at $0.01 less.|
 
 ### Floor price
 
@@ -248,4 +248,4 @@ From here, we have three different [Price Rule Action](./pricing-rule-actions.md
 
 [Floor price](./floor-price.md) calculation = Floor Price Source `$5` x Floor Adjustment Amount `5%` = $5.25
 
-This means that when our intelligent pricing rule is applied, it will not allow the listing price to be lower than $5.25 for this specific product when the cost is $5.
+When the intelligent pricing rule is applied, it does allow the listing price to be lower than $5.25 for this specific product when the cost is $5.
