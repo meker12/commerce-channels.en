@@ -5,7 +5,7 @@ description: Amazon Sales Channel provides the Listing Improvements report to gi
 
 # Listing Improvements
 
-The Listing Improvements report shows products with suggestions from Amazon to improve the listing quality. You can review these suggestions, which could help the performance of products within the Amazon listing. No actions are available for the log. It is a review-only feature.
+The [!UICONTROL Listing Improvements] report shows products with suggestions from Amazon to improve the listing quality. You can review these suggestions, which could help the performance of products within the Amazon listing. No actions are available for the log. It is a review-only feature.
 
 A listing improvement received from Amazon does not prevent your product from being listed with Amazon.
 

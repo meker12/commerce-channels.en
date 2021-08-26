@@ -16,13 +16,13 @@ When an assigned ASIN is changed:
 
 ## Edit an assigned ASIN
 
-1. View the listing on the _Product Listings_ page (_Inactive_, _Active_, or _Ineligible_ tab).
+1. View the listing on the _[!UICONTROL Product Listings]_ page (_[!UICONTROL Inactive]_, _[!UICONTROL Active]_, or _[!UICONTROL Ineligible]_ tab).
 
-1. Under _Actions_, click **Edit Assigned ASIN**.
+1. Under _[!UICONTROL Actions]_, click **[!UICONTROL Edit Assigned ASIN]**.
 
-   This action opens the _Product Listing Update_ page.
+   This action opens the _[!UICONTROL Product Listing Update]_ page.
 
-1. For **Assign ASIN**, enter the new ASIN value.
+1. For **[!UICONTROL Assign ASIN]**, enter the new ASIN value.
 
 1. To save your changes, click **[!UICONTROL Save Listing Update]**.
 

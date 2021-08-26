@@ -23,7 +23,7 @@ The available actions on the _[!UICONTROL Incomplete]_ tab include:
 
 Under _[!UICONTROL Actions]_:
 
-- **[!UICONTROL Re-attempt to auto match to Amazon listings]**: Choose to initiate the automatic process for matching your Amazon listings data to your [!DNL Commerce] catalog. If products are not automatically matching, revisit your [_Catalog Search_](./catalog-search.md) options in your listing lettings. If listings do not automatically match after updating your _[!UICONTROL Catalog Search]_ options, you can match products manually in the [Update Required Info](./amazon-manually-update-incomplete-listing.md#update-required-info-multiple-matches-found) action.
+- **[!UICONTROL Re-attempt to auto match to Amazon listings]**: Choose to initiate the automatic process for matching your Amazon listings data to your [!DNL Commerce] catalog. If products are not automatically matching, revisit your [_[!UICONTROL Catalog Search]_](./catalog-search.md) options in your listing lettings. If listings do not automatically match after updating your _[!UICONTROL Catalog Search]_ options, you can match products manually in the [[!UICONTROL Update Required Info]](./amazon-manually-update-incomplete-listing.md#update-required-info-multiple-matches-found) action.
 
 Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
@@ -48,4 +48,4 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 |[!UICONTROL Landed Price]|The listing price for the product plus its shipping price.|
 |[!UICONTROL Amazon Quantity]|The quantity available when the product is actively listed on Amazon.|
 |[!UICONTROL Status]|The status of the listing, defined by Amazon. See the Status table above.|
-|[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column to show your options:<ul><li>[[!UICONTROL Update Required Info]](./amazon-manually-update-incomplete-listing.md)</li><li>[[!UICONTROL View Details]](./product-listing-details.md)</li></ul>|
+|[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column and select an option:<ul><li>[[!UICONTROL Update Required Info]](./amazon-manually-update-incomplete-listing.md)</li><li>[[!UICONTROL View Details]](./product-listing-details.md)</li></ul>|

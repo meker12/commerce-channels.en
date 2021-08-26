@@ -1,6 +1,6 @@
 ---
 title: View Listing Settings
-description: Use the listing settings to define how your Commerce catalog products are listed on Amazon Marketplace.
+description: Use the listing settings to define how your [!DNL Commerce] catalog products are listed on [!DNL Amazon Marketplace].
 redirect_from:
   - /sales-channels/asc/ob-listing-settings.html
 ---

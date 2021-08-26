@@ -21,35 +21,35 @@ If you only create the Amazon ASIN attribute (without adding ASIN values per pr
 
 ## Create the Amazon ASIN product attribute
 
-1. Log into your [!DNL Commerce Admin].
+1. Log into your [!DNL Commerce] Admin.
 
-1. Click **Stores** in the left-side menu.
+1. Click **[!UICONTROL Stores]** in the left-side menu.
 
-1. In the _Attributes_ section, click **Product**.
+1. In the _[!UICONTROL Attributes]_ section, click **[!UICONTROL Product]**.
 
-1. To open the attributes properties, click **Add New Attribute**.
+1. To open the attributes properties, click **[!UICONTROL Add New Attribute]**.
 
-1. For **Default Label**, enter `Amazon ASIN` (the name for your attribute).
+1. For **[!UICONTROL Default Label]**, enter `Amazon ASIN` (the name for your attribute).
 
-1. For **Catalog Input Type for Store Owner**, choose **Text Field**.
+1. For **[!UICONTROL Catalog Input Type for Store Owner]**, choose `Text Field`.
 
-1. For **Values Required**, choose **No**.
+1. For **[!UICONTROL Values Required]**, choose `No`.
 
     Although an Amazon ASIN is required to list a product on Amazon, some of your catalog products may not be listed on Amazon.
 
-1. Expand the _Advanced Attribute Properties_ section.
+1. Expand the _[!UICONTROL Advanced Attribute Properties]_ section and set the options:
 
-1. For **Attribute Code**, enter `amazon_asin`.
+   - For **[!UICONTROL Attribute Code]**, enter `amazon_asin`.
 
-1. For **Scope**, choose `Global`.
+   - For **[!UICONTROL Scope]**, choose `Global`.
 
-1. For **Unique Value**, choose `No`.
+   - For **[!UICONTROL Unique Value]**, choose `No`.
 
-1. For **Input Validation for Store Owner**, choose `None`.
+   - For **[!UICONTROL Input Validation for Store Owner]**, choose `None`.
 
-1. For **Add to Column Options**, choose `Yes`.
+   - For **[!UICONTROL Add to Column Options]**, choose `Yes`.
 
-1. For **Use in Filter Options**, choose `Yes`.
+   - For **[!UICONTROL Use in Filter Options]**, choose `Yes`.
 
 1. Click **[!UICONTROL Save Attribute]**.
 
@@ -59,21 +59,21 @@ If you only create the Amazon ASIN attribute (without adding ASIN values per pr
 
 1. Log into your [!DNL Commerce Admin].
 
-1. Click **Stores** in the left-side menu.
+1. Click **[!UICONTROL Stores]** in the left-side menu.
 
-1. In the _Attributes_ section, click **Product**.
+1. In the _[!UICONTROL Attributes]_ section, click **[!UICONTROL Product]**.
 
-1. To open the attribute properties, click **Add New Attribute**.
+1. To open the attribute properties, click **[!UICONTROL Add New Attribute]**.
 
-1. For **Default Label**, enter `Amazon Condition` (the name for your attribute).
+1. For **[!UICONTROL Default Label]**, enter `Amazon Condition` (the name for your attribute).
 
-1. For **Catalog Input Type for Store Owner**, choose `Dropdown`.
+1. For **[!UICONTROL Catalog Input Type for Store Owner]**, choose `Dropdown`.
 
-   The _Manage Options (Values of your Attribute)_ section appears.
+   The _[!UICONTROL Manage Options (Values of your Attribute)]_ section appears.
 
-1. For **Values Required**, choose `No`.
+1. For **[!UICONTROL Values Required]**, choose `No`.
 
-1. For **Manage Options (Values for your Attribute)**, add each of your condition options.
+1. For **[!UICONTROL Manage Options (Values for your Attribute)]**, add each of your condition options.
 
    Standard Amazon conditions include:
 
@@ -86,27 +86,27 @@ If you only create the Amazon ASIN attribute (without adding ASIN values per pr
    - `Very Good: Collectible`
    - `Good: Collectible; Acceptable`
 
-1. Click **Add Option**.
+1. Click **[!UICONTROL Add Option]**.
 
-1. Select the **Is Default** option for the condition you wish to be the default selection.
+1. Select the **[!UICONTROL Is Default]** option for the condition you wish to be the default selection.
 
-1. In the _Admin_ column, enter the text for the label of the condition you are adding (such as `New`, `Used`, and `Used-Like New`)
+1. In the _[!UICONTROL Admin]_ column, enter the text for the label of the condition you are adding (such as `New`, `Used`, and `Used-Like New`)
 
-1. Click **Add Option** to add more options, as needed.
+1. Click **[!UICONTROL Add Option]** to add more options, as needed.
 
-1. Expand _Advanced Attribute Properties_ section.
+1. Expand _[!UICONTROL Advanced Attribute Properties]_ section and set the options.
 
-1. For **Attribute Code**, enter `amazon_condition`.
+   - For **[!UICONTROL Attribute Code]**, enter `amazon_condition`.
 
-1. For **Scope**, choose `Global`.
+   - For **[!UICONTROL Scope]**, choose `Global`.
 
-1. For **Unique Value**, choose `No`.
+   - For **[!UICONTROL Unique Value]**, choose `No`.
 
-1. For **Input Validation for Store Owner**, choose `None`.
+   - For **[!UICONTROL Input Validation for Store Owner]**, choose `None`.
 
-1. For **Add to Column Options**, choose `Yes`.
+   - For **[!UICONTROL Add to Column Options]**, choose `Yes`.
 
-1. For **Use in Filter Options**, choose `Yes`.
+   - For **[!UICONTROL Use in Filter Options]**, choose `Yes`.
 
 1. Click **[!UICONTROL Save Attribute]**.
 

@@ -5,13 +5,13 @@ description: Amazon Sales Channel provides the Ineligible tab to help you manage
 
 # Ineligible listings
 
-The _Ineligible_ tab shows a list of all the products that are currently published on Amazon but are not eligible as a listing based on your current listing rules. If a previous product was eligible and the listing rules are modified to make it now ineligible, the quantity associated with a product drops to 0 and the product is marked as _ineligible_. However, it is still present on your [!DNL Amazon Seller Account].
+The _[!UICONTROL Ineligible]_ tab shows a list of all the products that are currently published on Amazon but are not eligible as a listing based on your current listing rules. If a previous product was eligible and the listing rules are modified to make it now ineligible, the quantity associated with a product drops to 0 and the product is marked as _ineligible_. However, it is still present on your [!DNL Amazon Seller Account].
 
-To move a product out of the _Ineligible_ tab, you can [modify your listing rules](./listing-rules.md) to allow your products to be eligible.
+To move a product out of the _[!UICONTROL Ineligible]_ tab, you can [modify your listing rules](./listing-rules.md) to allow your products to be eligible.
 
-The available actions on the _Ineligible_ tab include:
+The available actions on the _[!UICONTROL Ineligible]_ tab include:
 
-Under _Actions_:
+Under _[!UICONTROL Actions]_:
 
 - **[!UICONTROL End Listing(s) on Amazon]**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
@@ -42,10 +42,10 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 |Column|Description|
 |--- |--- |
-|Amazon Seller SKU|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
-|ASIIN|A unique block of 10 letters and/or numbers that identify items.<br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item. |
-|Product Listing Name|The name of the product. |
-|[Condition](./product-listing-condition.md)|The condition of the product. |
-|Landed Price|The listing price for the product plus its shipping price. |
-|Amazon Quantity|The quantity available when the product is actively listed on Amazon. |
-|Action|List of available actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul> |
+|[!UICONTROL Amazon Seller SKU]|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer. |
+|[!UICONTROL ASIN]|A unique block of 10 letters and/or numbers that identify items.<br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item. |
+|[!UICONTROL Product Listing Nam]e|The name of the product. |
+|[!UICONTROL Condition]|The [condition](./product-listing-condition.md) of the product. |
+|[!UICONTROL Landed Price]|The listing price for the product plus its shipping price. |
+|[!UICONTROL Amazon Quantity]|The quantity available when the product is actively listed on Amazon. |
+|[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column and select an option:<ul><li>[[!UICONTROL View Details]](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[[!UICONTROL Edit Assigned ASIN]](./edit-assigned-asin.md)</li><li>[[!UICONTROL Create Alias Seller SKU]](./create-alias-seller-sku.md#region-specific)</li><li>[[!UICONTROL Switch to Fulfilled By Amazon/Merchant]](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[[!UICONTROL End Listing]](./end-listings-manually.md)</li></ul> |
