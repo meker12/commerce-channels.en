@@ -7,7 +7,7 @@ description: Review the required tasks to be completed before integrating your A
 
 Before [Store Integration](./store-integration.md), you must ensure that your [!DNL Amazon Seller Central] account and your [!DNL Commerce] account are ready for the integration. To successfully integrate, there are some required pre-setup tasks.
 
-When you set up your first Amazon store in [!DNL Amazon Sales Channel], a list of setup tasks appears. It is recommended that you review these tasks before you [add an Amazon store](./store-integration.md). After adding your first store, you can review these tasks in the Learning and Preparation view of the [[!DNL Amazon Sales Channel] home page](./amazon-sales-channel-home.md).
+When you set up your first Amazon store in [!DNL Amazon Sales Channel], a list of setup tasks appears. It is recommended that you review these tasks before you [add an Amazon store](./store-integration.md). After adding your first store, you can review these tasks in the Learning and Preparation view of the [!DNL Amazon Sales Channel] [home page](./amazon-sales-channel-home.md).
 
 ## 1. Enable background tasks in [!DNL Commerce]
 
@@ -67,7 +67,7 @@ When your Amazon account is set up and active, there are several [!DNL Commerce]
 
 ### Review and note any products that you want to exclude
 
-You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channel] has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility must have **Use for Promo Rule Conditions** set to `Yes`. See the **Use for Promo Rule Conditions** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
+You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channel] has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility must have **[!UICONTROL Use for Promo Rule Conditions]** set to `Yes`. See the **[!UICONTROL Use for Promo Rule Conditions]** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
 
 ### Set your [!DNL Amazon Seller Central] region to inactive
 

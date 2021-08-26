@@ -1,6 +1,6 @@
 ---
 title: Cancel an Unshipped Order
-description: Cancel a pending or partially shipped (unshipped) order through your Amazon Seller Central account. 
+description: Cancel a pending or partially shipped (unshipped) order through your Amazon [!DNL Seller Central] account. 
 ---
 
 # Cancel an unshipped order
@@ -16,19 +16,19 @@ Amazon orders can only be canceled if they are in an `Unshipped` status. If the 
 
 ## Cancel an order in `Unshipped` status
 
-1. Click **View Store** on the store card.
+1. Click **[!UICONTROL View Store]** on the store card.
 
-1. In the _Recent Orders_ section of the store dashboard, click an order number.
+1. In the _[!UICONTROL Recent Orders]_ section of the store dashboard, click an order number.
 
-    The _Amazon Order Details_ page appears.
+    The _[!UICONTROL Amazon Order Details]_ page appears.
 
-1. Click **Cancel Order** in the header bar.
+1. Click **[!UICONTROL Cancel Order]** in the header bar.
 
-    **Cancel Order** only appears for orders in `Unshipped` status.
+   This option only appears for orders in `Unshipped` status.
 
-1. For **Reason for cancellation**, choose an option.
+1. For **[!UICONTROL Reason for cancellation]**, choose an option.
 
-1. Click **Confirm**.
+1. Click **[!UICONTROL Confirm]**.
 
     The order is canceled, and the status is updated to `Canceled` in the order details.
 

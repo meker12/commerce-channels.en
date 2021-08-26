@@ -9,7 +9,7 @@ redirect_from:
 
 This section describes the pre-setup tasks, steps for onboarding, and some key concepts of how Amazon works with the [!DNL Amazon Sales Channel] in Adobe Commerce and Magento Open Source.
 
-[!DNL Amazon Sales Channel] supports multiple [!DNL Amazon Sales Channel] stores. For a single [!DNL Amazon Seller Central] account that operates in the Amazon U.S./Canada/Mexico region, create three [!DNL Amazon Sales Channel] stores (one each for U.S. sales, Mexico sales, and Canada sales). Each of the three stores defines the Marketplace country during its creation. If you have more than one [!DNL Amazon Seller Central] account, you could potentially have up to three [!DNL Amazon Sales Channel] stores for each of your [!DNL Amazon Seller Central] accounts. If you also sell in the U.K., you would have a fourth Amazon store.
+[!DNL Amazon Sales Channel] supports multiple [!DNL Amazon Sales Channel] stores. For a single [!DNL Amazon Seller Central] account that operates in the Amazon U.S./Canada/Mexico region, create three [!DNL Amazon Sales Channel] stores (one each for U.S. sales, Mexico sales, and Canada sales). Each of the three stores defines the marketplace country during its creation. If you have more than one [!DNL Amazon Seller Central] account, you could potentially have up to three [!DNL Amazon Sales Channel] stores for each of your [!DNL Amazon Seller Central] accounts. If you also sell in the U.K., you would have a fourth Amazon store.
 
 >[!TIP]
 >

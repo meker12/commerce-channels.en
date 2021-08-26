@@ -1,6 +1,6 @@
 ---
 title: Communication Errors Log
-description: The Communication Errors Log displays any communication errors between Amazon and Commerce.
+description: The Communication Errors Log displays any communication errors between Amazon and [!DNL Commerce].
 ---
 
 # Communication Errors Log
@@ -17,7 +17,7 @@ No actions are available for the log. It is a review-only feature.
 
 |Column|Description|
 |--- |--- |
-|Amazon Store Name|The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
-|Error Code|The code received from Amazon to identify the error type. |
-|Message|The message that describes the error associated to the error code. |
-|Created On|The date and time the error occurred. |
+|[!UICONTROL Amazon Store Name]|The name of the store defined when the Amazon store was set up. Refer to [Store Integration](./store-integration.md). |
+|[!UICONTROL Error Code]|The code received from Amazon to identify the error type. |
+|[!UICONTROL Message]|The message that describes the error associated to the error code. |
+|[!UICONTROL Created On]|The date and time the error occurred. |

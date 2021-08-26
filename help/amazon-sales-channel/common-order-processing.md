@@ -1,15 +1,15 @@
 ---
 title: Common Order Processing Tasks
-description: Use the corresponding Commerce orders created for Amazon orders to manage order activity and processing in the Commerce Admin.
+description: Use the corresponding [!DNL Commerce] orders created for Amazon orders to manage order activity and processing in the [!UICONTROL Commerce] Admin.
 ---
 
 # Common order processing tasks
 
-[[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set to `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the *Recent Orders* section of the store dashboard.
+[[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} can manage your Amazon orders, including emailing the buyer, fulfilling the order (shipping), issuing credits/refunds, adding comments, and more. To manage your Amazon orders, your [**Import Amazon Orders**](./order-settings.md) setting must be set to `Enabled` so that corresponding [!DNL Commerce] orders are created when Amazon orders are received. Amazon order information shows in the *[!UICONTROL Recent Orders]* section of the store dashboard.
 
-When enabled, corresponding [!DNL Commerce] orders are created for Amazon orders, and the Amazon order number shows in the _Order Number_ column. If a corresponding [!DNL Commerce] order is created, click the order number to open the order in the [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} page. You can manage the order as you do your other [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}.
+When enabled, corresponding [!DNL Commerce] orders are created for Amazon orders, and the Amazon order number shows in the _[!UICONTROL Order Number]_ column. If a corresponding [!DNL Commerce] order is created, click the order number to open the order in the [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} page. You can manage the order as you do your other [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}.
 
-The [!DNL Commerce] order number does not show with the _Recent Orders_ information. The [!DNL Commerce] order number only shows when you click the Order Number on the store dashboard and open the order in [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}. When viewing the [!DNL Commerce] order, the Amazon Order number appears in the *Payment & Shipping Method* section. It also includes options to *View or Cancel Amazon Order* and *View all Amazon Orders*, depending on the order shipping status.
+The [!DNL Commerce] order number does not show with the _[!UICONTROL Recent Orders]_ information. The [!DNL Commerce] order number only shows when you click the order number on the store dashboard and open the order in [[!DNL Commerce] order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"}. When viewing the [!DNL Commerce] order, the Amazon Order number appears in the *[!UICONTROL Payment & Shipping Method]* section. It also includes options to *[!UICONTROL View or Cancel Amazon Order]* and *[!UICONTROL View all Amazon Orders]*, depending on the order shipping status.
 
 See [cancel an unshipped order](./cancel-unshipped-order.md).
 
@@ -35,6 +35,6 @@ Common [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sa
 
 >[!NOTE]
 >
->If an order is in `Unshipped` status, you can [cancel an Amazon order](./cancel-unshipped-order.md) on the [Amazon Order Details](./amazon-order-details.md) page. If an order has been shipped, it cannot be canceled.
+>If an order is in `Unshipped` status, you can [cancel an Amazon order](./cancel-unshipped-order.md) on the [[!UICONTROL Amazon Order Details]](./amazon-order-details.md) page. If an order has been shipped, it cannot be canceled.
 
 See [Commerce Order Management](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}.

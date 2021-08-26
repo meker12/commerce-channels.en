@@ -19,7 +19,7 @@ description: Use the Amazon sales channel extension to seamlessly integrate Adob
 
 - View logs for analysis and errors for [competitive prices](./competitive-price-analysis.md), [listing changes](./listing-changes-log.md), and [communication issues](./communication-errors-log.md).
 
-Access your Amazon stores to view and manage all of these features, account information, listings, orders, and more on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page.
+Access your Amazon stores to view and manage all of these features, account information, listings, orders, and more on the [!DNL Amazon Sales Channel] [home page](./amazon-sales-channel-home.md).
 
 ## Promotions and pricing
 

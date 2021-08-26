@@ -5,29 +5,29 @@ description: The Amazon Sales Channel provides the Active tab to monitor active 
 
 # Active listings
 
-The _Active_ tab shows your Amazon listings that are active on the [!DNL Amazon Marketplace] and that have been matched to a product in your [!DNL Commerce] catalog.
+The _[!UICONTROL Active]_ tab shows your Amazon listings that are active on the [!DNL Amazon Marketplace] and that have been matched to a product in your [!DNL Commerce] catalog.
 
-The available actions on the _Active_ tab include:
+The available actions on the _[!UICONTROL Active]_ tab include:
 
-Under _Actions_:
+Under _[!UICONTROL Actions]_:
 
-- **End Listing(s) on Amazon**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing(s) on Amazon]**: Choose to remove all selected listings from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
-- **Edit Listing Overrides**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
+- **[!UICONTROL Edit Listing Overrides]**: Choose to change the override settings for the listing. See [Overrides](./overrides.md) or [Edit or remove an override](./creating-editing-overrides.md#edit-override-single-listing).
 
-Under **Select** in the _Action_ column:
+Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
-- **View Details**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
+- **[!UICONTROL View Details]**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
 
-- **Create Override**: Choose to create a new override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
+- **[!UICONTROL Create Override]**: Choose to create a new override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
 
-- **Edit Assigned ASIN**: Choose to modify the ASIN assigned to your catalog product. This would be used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
+- **[!UICONTROL Edit Assigned ASIN]**: Choose to modify the ASIN assigned to your catalog product. This would be used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
 
-- **Create Alias Seller SKU**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
+- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
 
-- **Switch to Fulfilled by Amazon/Merchant**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
+- **[!UICONTROL Switch to Fulfilled by Amazon/Merchant]**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
 
-- **End Listing**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
+- **[!UICONTROL End Listing]**: Choose to remove the listing from the [!DNL Amazon Marketplace]. See [End an Amazon Listing](./end-listings-manually.md).
 
 >[!NOTE]
 >
@@ -47,4 +47,4 @@ Under **Select** in the _Action_ column:
 |Amazon Quantity|The quantity available after the product is actively listed on Amazon.|
 |Status|The status of the listing, defined by Amazon.|
 |Buy Box Won|Whether the product listing won the [Buy Box](./buy-box-competitor-pricing.md) position.|
-|Action|List of available actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant ](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul>|
+|Action|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant ](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul>|

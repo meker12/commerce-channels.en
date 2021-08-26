@@ -21,7 +21,7 @@ Product information provides data common to every instance of the same product l
 
 Listing information provides seller-specific information about products. These details often differ from other sellers' listing for the same product. For example, you may sell the same yoga pants as another seller, but your item number, condition, price, or shipping method/time may be different. These details are unique to your listing for the product.
 
-If you want to contribute product information or correct erroneous information on a product detail page, refer to [Amazon: Product Detail](https://sellercentral.amazon.com/gp/help/external/200335450?language=en_US&amp;ref=efph_200335450_cont_G200182950/){target="_blank"}.
+If you want to contribute product information or correct erroneous information on a product detail page, refer to [Amazon: Product Detail](https://sellercentral.amazon.com/gp/help/external/200335450){target="_blank"}.
 
 ## Amazon fulfillment
 
