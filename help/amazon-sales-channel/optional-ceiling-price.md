@@ -17,23 +17,23 @@ The automated ceiling price settings automatically protect your highest product 
 
 ## Configure optional ceiling price
 
-Define your optional highest price settings in the **Optional Ceiling Price** section.
+Define your optional highest price settings in the _[!UICONTROL Optional Ceiling Price]_ section.
 
-1. For **Ceiling Price Source**, choose an attribute.
+1. For **[!UICONTROL Ceiling Price Source]**, choose an attribute.
 
    Select your [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){:target="_blank"} that indicates your relative ceiling limit. For example, if you do not want your Amazon listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute.
 
-1. For **Ceiling Price Action**, choose an option.
+1. For **[!UICONTROL Ceiling Price Action]**, choose an option.
 
-   - **Decrease By** - Choose when you want the defined _Ceiling Price Source_ value to be adjusted down, creating a lower ceiling price for the rule, before listing to Amazon.
+   - `Decrease By` - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted down, creating a lower ceiling price for the rule, before listing to Amazon.
 
-   - **Increase By** - Choose when you want the defined _Ceiling Price Source_ value to be adjusted up, creating a higher ceiling price for the rule, before listing to Amazon.
+   - `Increase By` - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted up, creating a higher ceiling price for the rule, before listing to Amazon.
 
-   - **Match** - Choose when you do not want the listing price to fluctuate above the defined _Ceiling Price Source_ value. When set to `Match`, the _Apply_ and _Ceiling Adjustment Amount_ fields are disabled.
+   - `Match` - Choose when you do not want the listing price to fluctuate above the defined _[!UICONTROL Ceiling Price Source]_ value. When set to `Match`, the _[!UICONTROL Apply]_ and _[!UICONTROL Ceiling Adjustment Amount]_ fields are disabled.
 
-1. **Apply** defaults to `Apply as percentage`.
+1. Leave the **[!UICONTROL Apply]** default as `Apply as percentage`.
 
-1. For **Ceiling Adjustment Price**, enter the numerical value for the percent to adjust your _Ceiling Price Source_ value.
+1. For **[!UICONTROL Ceiling Adjustment Price]**, enter the numerical value for the percent to adjust your _[!UICONTROL Ceiling Price Source]_ value.
 
 In this example, the ceiling price is set to be 2% below the MSRP of the item.
 
@@ -41,7 +41,7 @@ In this example, the ceiling price is set to be 2% below the MSRP of the item.
 
 |Field |Description|
 |---|---|
-|Ceiling Price Source|Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){:target="_blank"} that indicates your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute. |
-|Ceiling Price Action |Choose a pricing adjustment action. Options:<ul><li>**Decrease By** - Choose when you want the defined _Ceiling Price Source_ value to be adjusted down, creating a lower ceiling price for the rule, before listing to Amazon.</li><li>**Increase By** - Choose when you want the defined _Ceiling Price Source_ value to be adjusted up, creating a higher ceiling price for the rule, before listing to Amazon.</li><li>**Match** - Choose when you do not want the listing price to fluctuate above the defined _Ceiling Price Source_ value. When set to `Match`, the _Apply_ and _Ceiling Adjustment Amount_ fields are disabled.</li></ul> |
-|Apply|**Apply as percentage** - A percentage adjustment relative to the _Ceiling Price Source_ value. |
-|Ceiling Price Adjustment|Enter the numerical value for the percent to adjust your _Ceiling Price Source_ value. |
+|[!UICONTROL Ceiling Price Source]|Choose the [!DNL Commerce] [product attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html){:target="_blank"} that indicates your relative ceiling limit. For example, if you do not want your product listing price to go above the MSRP of your item, you would choose the `Manufacturer's Suggested Retail Price` attribute. |
+|[!UICONTROL Ceiling Price Action] |Choose a pricing adjustment action. Options:<ul><li>**[!UICONTROL Decrease By]** - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted down, creating a lower ceiling price for the rule, before listing to Amazon.</li><li>**[!UICONTROL Increase By]** - Choose when you want the defined _[!UICONTROL Ceiling Price Source]_ value to be adjusted up, creating a higher ceiling price for the rule, before listing to Amazon.</li><li>**[!UICONTROL Match]** - Choose when you do not want the listing price to fluctuate above the defined _[!UICONTROL Ceiling Price Source]_ value. When set to `Match`, the _[!UICONTROL Apply]_ and _[!UICONTROL Ceiling Adjustment Amount]_ fields are disabled.</li></ul> |
+|[!UICONTROL Apply]|**[!UICONTROL Apply as percentage]** - A percentage adjustment relative to the _[!UICONTROL Ceiling Price Source]_ value. |
+|[!UICONTROL Ceiling Price Adjustment]|Enter the numerical value for the percent to adjust your _[!UICONTROL Ceiling Price Source]_ value. |

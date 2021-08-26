@@ -5,19 +5,19 @@ description: You can enable order import in your Order Settings to more easily m
 
 # Manage orders
 
-You can view your Amazon order information, as received from Amazon, in the _Recent Orders_ section of the [store dashboard](./amazon-store-dashboard.md) or on the _Amazon orders_ page (also called the _All Orders_ view).
+You can view your Amazon order information, as received from Amazon, in the _[!UICONTROL Recent Orders]_ section of the [store dashboard](./amazon-store-dashboard.md) or on the _[!UICONTROL Amazon orders]_ page (also called the _[!UICONTROL All Orders]_ view).
 
 How you manage your Amazon orders depends on whether the order import is enabled or disabled in your [Order Settings](./order-settings.md#configure-order-settings).
 
 ## With order import enabled
 
-After [store integration](./store-integration.md), the [**Import Amazon Orders**](./order-settings.md#configure-order-settings) setting is `Enabled` by default. With this setting, corresponding [!DNL Commerce] orders are created for your Amazon orders and can be managed in the [[!DNL Commerce] Orders](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"} workflow.
+After [store integration](./store-integration.md), the [**[!UICONTROL Import Amazon Orders]**](./order-settings.md#configure-order-settings) setting is `Enabled` by default. With this setting, corresponding [!DNL Commerce] orders are created for your Amazon orders and can be managed in the [[!DNL Commerce] Orders](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"} workflow.
 
 >[!NOTE]
 >
 >Regardless of your order import settings, Amazon orders that existed in your [!DNL Amazon Seller Central] account before your [store integration](./store-integration.md) are not imported.
 
-Imported Amazon orders are managed in the [[!DNL Commerce] Orders](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"} workflow, just like your other [!DNL Commerce] stores. Click the Amazon order number in the *Order Number* column to open the order in the [[!DNL Commerce] order process](https://docs.magento.com/user-guide/sales/order-processing.html#order-view-descriptions){target="_blank"}. See [View Amazon Orders](./amazon-orders-all.md).
+Imported Amazon orders are managed in the [[!DNL Commerce] Orders](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"} workflow, just like your other [!DNL Commerce] stores. Click the Amazon order number in the *[!UICONTROL Order Number]* column to open the order in the [[!DNL Commerce] order process](https://docs.magento.com/user-guide/sales/order-processing.html#order-view-descriptions){target="_blank"}. See [View Amazon Orders](./amazon-orders-all.md).
 
 ### Order import process
 
@@ -47,8 +47,8 @@ When the issue is resolved, the [!DNL Commerce] order is created on the next syn
 
 ## With order import disabled
 
-If you do not want to import and manage your Amazon orders in [!DNL Commerce], you can change the [**Import Amazon Orders**](./order-settings.md#configure-order-settings) setting to `Disabled`. This setting means that when new orders are received from Amazon, corresponding [!DNL Commerce] orders are not created.
+If you do not want to import and manage your Amazon orders in [!DNL Commerce], you can change the [**[!UICONTROL Import Amazon Orders]**](./order-settings.md#configure-order-settings) setting to `Disabled`. This setting means that when new orders are received from Amazon, corresponding [!DNL Commerce] orders are not created.
 
-When disabled, order information received from Amazon appears in the _Recent Orders_ section of the store dashboard and in the _All Orders_ view. This order information is view-only, and you must manage these orders in [!DNL Amazon Seller Central]. To open the order details in [!DNL Amazon Seller Central], click the Amazon order number in the _Order Number_ column.
+When disabled, order information received from Amazon appears in the _[!UICONTROL Recent Orders]_ section of the store dashboard and in the _[!UICONTROL All Orders]_ view. This order information is view-only, and you must manage these orders in [!DNL Amazon Seller Central]. To open the order details in [!DNL Amazon Seller Central], click the Amazon order number in the _[!UICONTROL Order Number]_ column.
 
 See also [View Amazon Orders](./amazon-orders-all.md), [View Amazon Order Details](./amazon-order-details.md), and [Common Order Processing Tasks](./common-order-processing.md).

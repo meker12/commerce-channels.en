@@ -1,6 +1,6 @@
 ---
 title: 'Onboarding: Create listing rule'
-description: While completing the Amazon Sales Channel onboarding process, create the initial listing rules for generating Amazon listings for your Commerce products.
+description: While completing the [!DNL Amazon Sales Channel] onboarding process, create the initial listing rules for generating Amazon listings for your [!DNL Commerce] products.
 ---
 
 # Onboarding: Create listing rule
@@ -27,7 +27,7 @@ Listing rules can be defined during onboarding, but can also be modified at any 
 
    - **[!UICONTROL Ineligible Listings]** - Products listed on this tab are not eligible for Amazon listing based on your current listing rule settings.
 
-      Ineligible products are not published to Amazon. If an ineligible product is already listed on Amazon and you match the Amazon listing to your [!DNL Commerce] catalog product, the quantity for the Amazon listing changes to `0` to prevent sales of the product. To manually remove a listing from Amazon, see [Ending an Amazon Listing](./end-listings-manually.md). Products that are not eligible by Amazon requirements are not listed here. Those products are listed on the [Inactive Listings tab](./inactive-listings.md).
+      Ineligible products are not published to Amazon. If an ineligible product is already listed on Amazon and you match the Amazon listing to your [!DNL Commerce] catalog product, the quantity for the Amazon listing changes to `0` to prevent sales of the product. To manually remove a listing from Amazon, see [Ending an Amazon Listing](./end-listings-manually.md). Products that are not eligible by Amazon requirements are not listed here. Those products are listed on the [[!UICONTROL Inactive Listings] tab](./inactive-listings.md).
 
       To change an `Ineligible` listing to an `Eligible` listing, repeat this process and modify your listing rules.
 

@@ -19,7 +19,7 @@ See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.
 
 ## Define a condition
 
-This process can be simple or detailed, depending on your catalog setup. You can set up your conditions so that when "ALL" or "ANY" of the define conditions are either "TRUE" or "FALSE" for a product, then the product is eligible to be listed on Amazon.
+This process can be simple or detailed, depending on your catalog setup. You can set up your conditions so that when `ALL` or `ANY` of the define conditions are either `TRUE` or `FALSE` for a product, then the product is eligible to be listed on Amazon.
 
 Conditions are based on existing product attribute values. To apply the rule to all products, leave the conditions section blank.
 
@@ -33,8 +33,8 @@ The rule in this example defines a rule that sets Amazon eligibility for all cat
 
 The rule statement has two bold links, which, when clicked, display the options for that part of the statement. If you save the condition without making changing a bold option, the rule applies to all your products.
 
-- Click **ALL** and chose either `ALL` or `ANY`.
-- Click **TRUE** and choose either `TRUE` or `FALSE`.
+- Click **[!UICONTROL ALL]** and chose either `ALL` or `ANY`.
+- Click **[!UICONTROL TRUE]** and choose either `TRUE` or `FALSE`.
 - To apply the rule to all products, leave the condition unchanged.
 
 You can create different conditions by changing the combination of these values. For this example, the following condition is used:
@@ -49,7 +49,7 @@ You can create different conditions by changing the combination of these values.
 
    - **[!UICONTROL Product Attribute]** - The product attributes depend on the setup of the attribute. For an attribute to appear in the list, it must be configured for usage in promotional rule conditions. See the _Use for Promo Rule Conditions_ in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
 
-      In the list under **Product Attribute**, choose the attribute that you want to use as the basis of the condition. For this example, the selected condition is `Amazon FBA`.
+      In the list under **[!UICONTROL Product Attribute]**, choose the attribute that you want to use as the basis of the condition. For this example, the selected condition is `Amazon FBA`.
 
       ![Condition line 2, part 2](assets/ob-condition-attribute-dropdown.png)
 
@@ -61,7 +61,7 @@ You can create different conditions by changing the combination of these values.
 
          For this example, the comparison operator is `is`. The available options depend on the attribute selected in the previous step. Options could include different comparison options, such as matching values, not including or including at least one of a value, and greater than, equal to, and less than a numerical amount. In this example, the options are `is` and `is not`.
 
-     1. Click **...** and choose the attribute value upon which the condition is based.
+     1. Click **[!UICONTROL ...]** and choose the attribute value upon which the condition is based.
 
          The options depend on the attribute's setup. You may be prompted to select an option, or to enter text or numerical values for the condition. For this example, the selection is `Yes`.
 

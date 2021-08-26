@@ -23,59 +23,59 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 
 ## Configure order settings {#configure-order-settings}
 
-1. Click **Order Settings** on the store dashboard.
+1. Click **[!UICONTROL Order Settings]** on the store dashboard.
 
-1. For **Import Amazon Orders** (required), choose an option:
+1. For **[!UICONTROL Import Amazon Orders]** (required), choose an option:
 
-    - **Disabled** - Choose when you do not want to create corresponding orders in [!DNL Commerce] when new orders are received from Amazon. When chosen, all other fields on this page are disabled.
+    - `Disabled` - Choose when you do not want to create corresponding orders in [!DNL Commerce] when new orders are received from Amazon. When chosen, all other fields on this page are disabled.
 
-    - **Enabled** - (Default) Choose when you want to create corresponding [!DNL Commerce] orders when new orders are received from Amazon. [!DNL Commerce] orders are created based on Amazon status and stock levels.
+    - `Enabled` - (Default) Choose when you want to create corresponding [!DNL Commerce] orders when new orders are received from Amazon. [!DNL Commerce] orders are created based on Amazon status and stock levels.
 
       >[!NOTE]
       >
       >Import Amazon Orders must be set to `Enabled` to manage Amazon orders in the [!DNL Commerce] [orders](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"} workflow. When set to `Disabled`, your Amazon orders do not have a corresponding [!DNL Commerce] order number and cannot be managed in [!DNL Commerce]. You manage these orders in your [!DNL Amazon Seller Central] account.
 
-1. For **Import Amazon Orders Into Magento Store**, choose which [!DNL Commerce] store the Amazon orders are associated with when the corresponding order is created in [!DNL Commerce].
+1. For **[!UICONTROL Import Amazon Orders Into Magento Store]**, choose which [!DNL Commerce] store the Amazon orders are associated with when the corresponding order is created in [!DNL Commerce].
 
    This setting defaults to the Store View for the website selected when you [added the Amazon store](./store-integration.md). If you want to change this setting, the list of options depends on the [!DNL Commerce] stores you have set up in your configuration. See [Stores](https://docs.magento.com/user-guide/stores/stores-all-create-view.html#create-a-new-store-view){:target="_blank"}.
 
-1. For **Customer Creation**, choose an option:
+1. For **[!UICONTROL Customer Creation]**, choose an option:
 
-    - **No Customer Creation (guest)** - (Default) Choose when you do not want to create a customer account in [!DNL Commerce] using the imported customer data from the Amazon order. When chosen, [!DNL Commerce] processes an imported Amazon order the same way it processes a guest checkout in [!DNL Commerce].
+    - `No Customer Creation (guest)` - (Default) Choose when you do not want to create a customer account in [!DNL Commerce] using the imported customer data from the Amazon order. When chosen, [!DNL Commerce] processes an imported Amazon order the same way it processes a guest checkout in [!DNL Commerce].
 
-    - **Build New Customer Account** - Choose when you want to create a New Customer Account in [!DNL Commerce] using the customer data imported with the Amazon order. This option helps build your customer database from your Amazon orders.
+    - `Build New Customer Account` - Choose when you want to create a New Customer Account in [!DNL Commerce] using the customer data imported with the Amazon order. This option helps build your customer database from your Amazon orders.
 
-1. For **Order Number Source**, choose an option:
+1. For **[!UICONTROL Order Number Source]**, choose an option:
 
-    - **Build Using Magento Order Number** - (Default) Choose when you want to create a unique [!DNL Commerce] order number for the corresponding Amazon order using the [!DNL Commerce] incrementally assigned order ID.
+    - `Build Using Magento Order Number` - (Default) Choose when you want to create a unique [!DNL Commerce] order number for the corresponding Amazon order using the [!DNL Commerce] incrementally assigned order ID.
 
-    - **Build Using Amazon Order Number** - Choose when you want to create the [!DNL Commerce] order number using the corresponding Amazon-assigned order number.
+    - `Build Using Amazon Order Number` - Choose when you want to create the [!DNL Commerce] order number using the corresponding Amazon-assigned order number.
 
     >[!NOTE]
     >
-    >After an order is imported, the Amazon order number shows in the _Recent Orders_ list on the store dashboard. The [!DNL Commerce] order number shows when viewing the order details in the [!DNL Commerce] [Orders](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"} workspace.
+    >After an order is imported, the Amazon order number shows in the _[!UICONTROL Recent Orders]_ list on the store dashboard. The [!DNL Commerce] order number shows when viewing the order details in the [!DNL Commerce] [Orders](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"} workspace.
 
-1. For **Order Status** (required), choose an option:
+1. For **[!UICONTROL Order Status]** (required), choose an option:
 
-    - **Default Order Status** - (Default) Choose when you want newly created orders imported from Amazon to be assigned your defined default order status for new orders. The default status for new orders (unless you have created a custom order status for new orders) is `Pending`. See [Processing Orders](https://docs.magento.com/user-guide/sales/order-processing.html){:target="_blank"}.
+    - `Default Order Status` - (Default) Choose when you want newly created orders imported from Amazon to be assigned your defined default order status for new orders. The default status for new orders (unless you have created a custom order status for new orders) is `Pending`. See [Processing Orders](https://docs.magento.com/user-guide/sales/order-processing.html){:target="_blank"}.
 
-    - **Custom Order Status** - Choose when you want newly created orders imported from Amazon to be assigned a status other than the default.
+    - `Custom Order Status` - Choose when you want newly created orders imported from Amazon to be assigned a status other than the default.
 
-    - **Processing Order Status** - Enables when **Order Status** is set to `Custom Order Status`. Choose the status you want to use for newly created orders imported from Amazon. The options in this field are based on the default status options in [!DNL Commerce]. See [Order Status](https://docs.magento.com/user-guide/sales/order-status.html). You can also create a custom order status to show here for selection. To create a custom order status, see [Custom Order Status](https://docs.magento.com/user-guide/sales/order-status-custom.html){:target="_blank"}.
+    - `Processing Order Status` - Enabled when **[!UICONTROL Order Status]** is set to `Custom Order Status`. Choose the status you want to use for newly created orders imported from Amazon. The options in this field are based on the default status options in [!DNL Commerce]. See [Order Status](https://docs.magento.com/user-guide/sales/order-status.html). You can also create a custom order status to show here for selection. To create a custom order status, see [Custom Order Status](https://docs.magento.com/user-guide/sales/order-status-custom.html){:target="_blank"}.
 
-1. When complete, click **Save order settings**.
+1. When complete, click **[!UICONTROL Save order settings]**.
 
 ![Order settings](assets/amazon-order-settings.png)
 
 |Field|Description|
 |---|---|
-|Import Amazon Orders|Options:<ul><li>**Disabled** - Choose when you do not want to create corresponding orders in [!DNL Commerce] when new orders are received from Amazon. When chosen, all other fields on this page are disabled.</li><li>**Enabled** - (Default) Choose when you want to create corresponding [!DNL Commerce] orders when new orders are received from Amazon. [!DNL Commerce] orders are created based on Amazon status and stock levels.</li></ul><br><br>`Enabled` must be chosen to manage Amazon orders in [!DNL Commerce]. When `Disabled` is chosen, your Amazon orders are displayed on the store dashboard, but the orders must be managed in your [!DNL Amazon Seller Central] account. |
-|Import Amazon Orders Into Magento Store|Choose which [!DNL Commerce] store the Amazon orders are associated with when they are created in the [!DNL Commerce] [Orders](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"} workspace. This setting defaults to the Store View for the [!DNL Commerce] website selected when you [added the Amazon store](./store-integration.md). If you want to change this setting, the list of options depends on the [!DNL Commerce] stores you have set up in your configuration. See [Stores](https://docs.magento.com/user-guide/stores/stores-all-stores.html){:target="_blank"}. |
-|Customer Creation|Options:<ul><li>**No Customer Creation (guest)** - (Default) Choose when you do not want to create a customer account in [!DNL Commerce] using the imported customer data from the Amazon order. When chosen, this option tells [!DNL Commerce] to process an imported Amazon order the same way it processes a guest checkout.</li><li>**Build New Customer Account** - Choose when you want to create a New Customer Account in your [!DNL Commerce] customer database using the customer data imported with the Amazon order. This option helps build your [!DNL Commerce] customer database from your Amazon orders.</li></ul> |
-|Order Number Source|Options:<ul><li>**Build Using Magento Order Number** - (Default) Choose when you want to create a unique [!DNL Commerce] order number for the corresponding Amazon order using the [!DNL Commerce] incrementally assigned order ID. </li><li>**Build Using Amazon Order Number** - Choose when you want to create the [!DNL Commerce] order number using the corresponding Amazon-assigned order number.</li></ul> |
-|Pending Orders|Options:<ul><li>**Do Not Reserve Quantity** - Choose when you do not want your [!DNL Commerce] stock quantity affected by your Amazon orders. Choose if you use Amazon for your fulfillment process (FBA). When chosen and you receive an Amazon order, the quantity ordered does not affect your [!DNL Commerce] stock quantity.</li><li>**Reserve Quantity** - Choose when you want the order quantity in the Amazon order to be "reserved" in your [!DNL Commerce] stock quantity. When chosen and you receive an Amazon order, the quantity ordered will "reserve" in your [!DNL Commerce] stock quantity to prevent your [!DNL Commerce] stock from "over selling." The "reserved" quantity is not available for purchase through your [!DNL Commerce] storefront.</li></ul> |
-|Order Status|Options:<ul><li>**Default Order Status** - (Default) Choose when you want newly created orders imported from Amazon to be assigned your default order status for new orders. The default status for new orders (unless you have created a custom order status for new orders) is `Pending`. See [Processing Orders](https://docs.magento.com/user-guide/sales/order-processing.html).</li><li>>**Custom Order Status** - Choose when you want newly created orders imported from Amazon to be assigned a status other than the default. When chosen, **Processing Order Status** enables for you to choose the status you want to use for newly created orders imported from Amazon.</li></ul> |
-|Processing Orders Status|Enables when **Order Status** is set to `Custom Order Status`. Choose the order status you want to assign to new orders. The options in this field depend on the default status options in [!DNL Commerce]. See [Order Status](https://docs.magento.com/user-guide/sales/order-status.html){:target="_blank"}. You can also create a custom order status to show here. To create a custom order status, see [Custom Order Status](https://docs.magento.com/user-guide/sales/order-status-custom.html){:target="_blank"}. |
+|[!UICONTROL Import Amazon Orders]|Options:<ul><li>**[!UICONTROL Disabled]** - Choose when you do not want to create corresponding orders in [!DNL Commerce] when new orders are received from Amazon. When chosen, all other fields on this page are disabled.</li><li>**[!UICONTROL Enabled]** - (Default) Choose when you want to create corresponding [!DNL Commerce] orders when new orders are received from Amazon. [!DNL Commerce] orders are created based on Amazon status and stock levels.</li></ul><br><br>`Enabled` must be chosen to manage Amazon orders in [!DNL Commerce]. When `Disabled` is chosen, your Amazon orders are displayed on the store dashboard, but the orders must be managed in your [!DNL Amazon Seller Central] account. |
+|[!UICONTROL Import Amazon Orders Into Magento Store]|Choose which [!DNL Commerce] store the Amazon orders are associated with when they are created in the [!DNL Commerce] [Orders](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"} workspace. This setting defaults to the Store View for the [!DNL Commerce] website selected when you [added the Amazon store](./store-integration.md). If you want to change this setting, the list of options depends on the [!DNL Commerce] stores you have set up in your configuration. See [Stores](https://docs.magento.com/user-guide/stores/stores-all-stores.html){:target="_blank"}. |
+|[!UICONTROL Customer Creation]|Options:<ul><li>**[!UICONTROL No Customer Creation (guest)]** - (Default) Choose when you do not want to create a customer account in [!DNL Commerce] using the imported customer data from the Amazon order. When chosen, this option tells [!DNL Commerce] to process an imported Amazon order the same way it processes a guest checkout.</li><li>**[!UICONTROL Build New Customer Account]** - Choose when you want to create a New Customer Account in your [!DNL Commerce] customer database using the customer data imported with the Amazon order. This option helps build your [!DNL Commerce] customer database from your Amazon orders.</li></ul> |
+|Order Number Source|Options:<ul><li>**[!UICONTROL Build Using Magento Order Number]** - (Default) Choose when you want to create a unique [!DNL Commerce] order number for the corresponding Amazon order using the [!DNL Commerce] incrementally assigned order ID. </li><li>**Build Using Amazon Order Number** - Choose when you want to create the [!DNL Commerce] order number using the corresponding Amazon-assigned order number.</li></ul> |
+|Pending Orders|Options:<ul><li>**[!UICONTROL Do Not Reserve Quantity]** - Choose when you do not want your [!DNL Commerce] stock quantity affected by your Amazon orders. Choose if you use Amazon for your fulfillment process (FBA). When chosen and you receive an Amazon order, the quantity ordered does not affect your [!DNL Commerce] stock quantity.</li><li>**[!UICONTROL Reserve Quantity]** - Choose when you want the order quantity in the Amazon order to be "reserved" in your [!DNL Commerce] stock quantity. When chosen and you receive an Amazon order, the quantity ordered will "reserve" in your [!DNL Commerce] stock quantity to prevent your [!DNL Commerce] stock from "over selling." The "reserved" quantity is not available for purchase through your [!DNL Commerce] storefront.</li></ul> |
+|[!UICONTROL Order Status]|Options:<ul><li>**[!UICONTROL Default Order Status]** - (Default) Choose when you want newly created orders imported from Amazon to be assigned your default order status for new orders. The default status for new orders (unless you have created a custom order status for new orders) is `Pending`. See [Processing Orders](https://docs.magento.com/user-guide/sales/order-processing.html).</li><li>>**[!UICONTROL Custom Order Status]** - Choose when you want newly created orders imported from Amazon to be assigned a status other than the default. When chosen, **[!UICONTROL Processing Order Status]** enables for you to choose the status you want to use for newly created orders imported from Amazon.</li></ul> |
+|[!UICONTROL Processing Orders Status]|Enabled when _[!UICONTROL Order Status]_ is set to `Custom Order Status`. Choose the order status you want to assign to new orders. The options in this field depend on the default status options in [!DNL Commerce]. See [Order Status](https://docs.magento.com/user-guide/sales/order-status.html){:target="_blank"}. You can also create a custom order status to show here. To create a custom order status, see [Custom Order Status](https://docs.magento.com/user-guide/sales/order-status-custom.html){:target="_blank"}. |
 
 ## [!DNL Commerce] order creation
 
