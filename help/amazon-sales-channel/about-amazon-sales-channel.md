@@ -43,15 +43,15 @@ With [!DNL Amazon Sales Channel], you can:
 
 - Create [floor](./floor-price.md) and [ceiling](./optional-ceiling-price.md) prices to protect your lowest and highest prices.
 
-- Create and manage [intelligent repricing rules](./intelligent-repricing-rules.md) that will automatically adjust your product pricing relative to other Amazon competitors ([lowest competitor](./lowest-competitor-pricing.md) and [Buy Box](./buy-box-competitor-pricing.md) price).
+- Create and manage [intelligent repricing rules](./intelligent-repricing-rules.md) that automatically adjust your product pricing relative to other Amazon competitors ([lowest competitor](./lowest-competitor-pricing.md) and [Buy Box](./buy-box-competitor-pricing.md) price).
 
 ## Catalog feed management
 
 With [!DNL Amazon Sales Channel], you can:
 
-- Import your existing Amazon listings (products) and match to existing or create new products in your [!DNL Commerce] catalog.
+- Import your existing Amazon listings (products) and match to existing or create products in your [!DNL Commerce] catalog.
 
-- Publish your [!DNL Commerce] products to Amazon to create new Amazon listings.
+- Publish your [!DNL Commerce] products to Amazon to create Amazon listings.
 
 - Create [overrides](./creating-editing-overrides.md) to set an individual price, handling time, condition, and seller notes message.
 
@@ -103,7 +103,7 @@ With [!DNL Amazon Sales Channel], you can review report information about:
 
 - Most recent orders.
 
-- Amazon [listing changes log](./listing-changes-log.md) to review product/listing feed changes (price, quantity, etc.).
+- Amazon [listing changes log](./listing-changes-log.md) to review product/listing feed changes (such as price and quantity).
 
 - Product [Buy Box](./buy-box-competitor-pricing.md) Competitor Pricing data.
 
@@ -121,4 +121,4 @@ With [!DNL Amazon Sales Channel], you can:
 
 ## Customer management
 
-Build your [!DNL Commerce] customer database by [importing customer data](./order-settings.md#configure-order-settings) associated with your Amazon orders. Leverage and expand your marketing potential through this expanded list of customers through your [!DNL Amazon Marketplace] listings and [!DNL Commerce] storefront.
+Build your [!DNL Commerce] customer database by [importing customer data](./order-settings.md#configure-order-settings) associated with your Amazon orders. Grow your marketing potential through this expanded list of customers through your [!DNL Amazon Marketplace] listings and [!DNL Commerce] storefront.

@@ -19,11 +19,11 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 - **[!UICONTROL View Details]**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
 
-- **[!UICONTROL Create Override]**: Choose to create a new override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
+- **[!UICONTROL Create Override]**: Choose to create an override and apply it to this listing. See [Create an override](./creating-editing-overrides.md).
 
-- **[!UICONTROL Edit Assigned ASIN]**: Choose to modify the ASIN assigned to your catalog product. This would be used if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
+- **[!UICONTROL Edit Assigned ASIN]**: Choose to modify the ASIN assigned to your catalog product. Use this action if a product in your catalog was matched to the wrong ASIN. See [Edit an Assigned ASIN](./edit-assigned-asin.md).
 
-- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU that can be used to create a new Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
+- **[!UICONTROL Create Alias Seller SKU]**: Choose to create an Alias SKU that can be used to create an Amazon listing from the same catalog product. See [Create an Alias Seller SKU](./create-alias-seller-sku.md).
 
 - **[!UICONTROL Switch to Fulfilled by Amazon/Merchant]**: Choose to change the fulfillment method associated to the order. See [Configure Fulfilled By settings](./fulfilled-by.md#configure-fulfilled-by-settings).
 
@@ -31,7 +31,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 >[!NOTE]
 >
->If you have listings in process, the number of listings will display in a message above the tabs.
+>If you have listings in process, the number of listings is displayed in a message above the tabs.
 
 ![Active Listings](assets/amazon-active-listings.png)
 

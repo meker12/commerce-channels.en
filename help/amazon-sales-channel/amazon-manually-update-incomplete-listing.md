@@ -9,7 +9,7 @@ Listings displayed on the _[!UICONTROL Incomplete]_ tab include your [!DNL Comme
 
 ## Update required info (Unable to assign to Amazon listing) {#update-required-info-unable-to-assign-to-amazon-listing}
 
-1. View the listing(s) on the _[!UICONTROL Incomplete]_ tab in [Manage Listings](./managing-product-listings.md).
+1. View the listings on the _[!UICONTROL Incomplete]_ tab in [Manage Listings](./managing-product-listings.md).
 
 1. In the _[!UICONTROL Action]_ column, click **[!UICONTROL Select]** > **[!UICONTROL Update Required Info]** for the listing you want to update.
 
@@ -17,15 +17,15 @@ Listings displayed on the _[!UICONTROL Incomplete]_ tab include your [!DNL Comme
 
 1. For **[!UICONTROL Assign ASIN]**, enter the ASIN assigned by Amazon for the listing you want to match to the catalog product.
 
-1. Click **[!UICONTROL Save Listing Update]** to save the product match.
+1. To save the product match, click **[!UICONTROL Save Listing Update]**.
 
-The listing is now matched to your catalog, and the listing will be updated and published to Amazon based on your cron and listing settings. The listing will remove from the _[!UICONTROL Incomplete]_ tab.
+The listing is now matched to your catalog, and the listing is then updated and published to Amazon based on your cron and listing settings. It is also removed from the _[!UICONTROL Incomplete]_ tab.
 
 ![Manually assign ASIN for no listing match](assets/amazon-listing-update-assign-asin.png)
 
 ## Update required info (Multiple matches found) {#update-required-info-multiple-matches-found}
 
-1. View the listing(s) on the _[!UICONTROL Incomplete]_ tab in [[!UICONTROL Manage Listings]](./managing-product-listings.md).
+1. View the listings on the _[!UICONTROL Incomplete]_ tab in [[!UICONTROL Manage Listings]](./managing-product-listings.md).
 
 1. In the _Action_ column, click **Select** > **Update Required Info** for the listing you want to update.
 
@@ -37,13 +37,13 @@ The listing is now matched to your catalog, and the listing will be updated and 
 
 1. If entering the ASIN manually, enter the correct ASIN for **[!UICONTROL Manually Assign ASIN]**.
 
-1. Click **[!UICONTROL Save Listing Update]** to save the product match.
+1. To save the product match, click **[!UICONTROL Save Listing Update]**.
 
 ![Manually select ASIN from multiple possible matches](assets/amazon-listing-update-multiple-matches.png)
 
 ## Update required info (has variants) {#update-required-info-has-variants}
 
-1. View the listing(s) on the _[!UICONTROL Incomplete]_ tab in [[!UICONTROL Manage Listings]](./managing-product-listings.md).
+1. View the listings on the _[!UICONTROL Incomplete]_ tab in [[!UICONTROL Manage Listings]](./managing-product-listings.md).
 
 1. In the _[!UICONTROL Action]_ column, click **[!UICONTROL Select]** > **[!UICONTROL Update Required Info]** for the listing you want to update.
 
@@ -55,13 +55,13 @@ The listing is now matched to your catalog, and the listing will be updated and 
 
 1. If entering the ASIN manually, enter the correct ASIN for **[!UICONTROL Manually Assign ASIN]**.
 
-1. Click **[!UICONTROL Save Listing Update]** to save the product match.
+1. To save the product match, click **[!UICONTROL Save Listing Update]**.
 
 ![Manually select ASIN from possible variant matches](assets/amazon-listing-update-multiple-matches.png)
 
 ## Update required info (missing condition) {#update-required-info-missing-condition}
 
-1. View the listing(s) on the Incomplete tab in [Manage Listings](./managing-product-listings.md).
+1. View the listings on the _[!UICONTROL Incomplete]_ tab in [Manage Listings](./managing-product-listings.md).
 
 1. In the _[!UICONTROL Action]_ column, click **[!UICONTROL Select]** > **[!UICONTROL Update Required Info]** for the listing you want to update.
 
@@ -71,6 +71,6 @@ The listing is now matched to your catalog, and the listing will be updated and 
 
    The list of available options depends on your [Product Listing Condition](./product-listing-condition.md) settings.
 
-1. Click **[!UICONTROL Save Listing Update]** to save the product match.
+1. To save the product match, click **[!UICONTROL Save Listing Update]** .
 
 ![Manually update missing condition](assets/amazon-update-listing-missing-condition.png)
