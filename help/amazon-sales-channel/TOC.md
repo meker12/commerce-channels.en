@@ -1,28 +1,28 @@
 ---
-user-guide-title: [!DNL Amazon Sales Channel] for Adobe Commerce
+user-guide-title: [!DNL Amazon sales channel] for Adobe Commerce
 user-guide-description: Learn how to generate sales through Amazon by integrating Adobe Commerce or Magento Open Source with your [!DNL Amazon Seller Central] account, which provides both automation and synchronization of catalog and order data. 
 product: commerce
 type: Documentation
 ---
 
-# [!DNL Amazon Sales Channel] for Adobe Commerce {#amazon}
+# [!DNL Channel manager] for Adobe Commerce - Amazon sales channel {#amazon}
 
-- [Amazon Sales Channel](overview.md)
-- Getting Started {#getting-started}
-  - [About Amazon Sales Channel](about-amazon-sales-channel.md)
+- [Amazon sales channel](overview.md)
+- Getting started {#getting-started}
+  - [About Amazon sales channel](about-amazon-sales-channel.md)
   - [About Amazon Marketplace](about-amazon-marketplace.md)
   - [About Amazon and your Commerce catalog](about-listings-and-catalog.md)
   - [Best practices and limitations](amazon-best-practices.md)
 - Onboarding {#onboarding}
-  - [Onboard Amazon Sales Channel](amazon-onboarding-home.md)
+  - [Onboard Amazon sales channel](amazon-onboarding-home.md)
   - [Pre-setup tasks](amazon-pre-setup-tasks.md)
   - [Create [!DNL Commerce] attributes for Amazon](ob-creating-magento-attributes.md)
-  - [Verify the Amazon API Key](amazon-verify-api-key.md)
+  - [Verify the Amazon API key](amazon-verify-api-key.md)
   - [Store integration](store-integration.md)
   - [Create listing rule](ob-create-listing-rule.md)
   - [Default store settings](default-store-settings.md)
 - Manage Your [!DNL Amazon Sales Channel] {#manage}
-  - [[!DNL Amazon Sales Channel] home](amazon-sales-channel-home.md)
+  - [[!DNL Amazon sales channel] home](amazon-sales-channel-home.md)
   - [Amazon stores](managing-stores.md)
   - [Workspace controls](workspace-controls.md)
   - [Learning and preparation](learning-preparation.md)
@@ -31,54 +31,54 @@ type: Documentation
     - [Manage attributes](managing-attributes.md)
     - [Create and edit attributes](creating-attributes.md)
     - [View attribute mapping](amazon-matching-attributes-values.md)
-  - [Sales Channel Admin settings](sales-channel-settings.md)
-  - [Amazon Store Dashboard](amazon-store-dashboard.md)
+  - [Sales channel Admin settings](sales-channel-settings.md)
+  - [Amazon Store dashboard](amazon-store-dashboard.md)
   - [Store settings](ob-store-review.md)
 - Listing Settings {#listing-settings}
-  - [View listing settings](listing-settings.md)
+  - [View Listing settings](listing-settings.md)
   - [Product listing actions](product-listing-actions.md)
-  - [Third party listings](third-party-listing-settings.md)
-  - [Listing price](listing-price.md)
+  - [Third Party Listings](third-party-listing-settings.md)
+  - [Listing Price](listing-price.md)
   - [(B2B) Business Pricing](business-pricing.md)
   - [Stock/Quantity](stock-quantity.md)
   - [Fulfilled By](fulfilled-by.md)
   - [Catalog Search](catalog-search.md)
   - [Product Listing Condition](product-listing-condition.md)
-  - [Renewed products](renewed-products.md)
+  - [Renewed Products](renewed-products.md)
 - [Order settings](order-settings.md)
 - [Store Integration settings](store-integration-settings.md)
 - Listing and Pricing Rules {#rules}
   - [Listing rules](listing-rules.md)
   - Pricing Rules {#pricing-rules}
-    - [Manage Pricing](pricing-products.md)
-    - [Add New Pricing Rule](add-pricing-rule.md)
-    - [Price Rule General Settings](pricing-rule-general-settings.md)
-    - [Price Rule Conditions](pricing-rule-conditions.md)
-    - [Price Rule Actions](pricing-rule-actions.md)
-    - [Standard Price Rule](standard-price-rules.md)
-    - [Intelligent Repricing Rule](intelligent-repricing-rules.md)
-    - [Competitor Conditional Variances](competitor-conditional-variances.md)
-    - [Price Adjustment](price-adjustment.md)
-    - [Floor Price](floor-price.md)
-    - [Optional Ceiling Price](optional-ceiling-price.md)
-    - [Price Scope](price-scope.md)
-    - [Price Priority Logic](price-priority-logic.md)
-    - [Buy Box Competitor Pricing](buy-box-competitor-pricing.md)
-    - [Lowest Competitor Pricing](lowest-competitor-pricing.md)
+    - [Manage pricing](pricing-products.md)
+    - [Add new pricing rule](add-pricing-rule.md)
+    - [Price rule general settings](pricing-rule-general-settings.md)
+    - [Price rule conditions](pricing-rule-conditions.md)
+    - [Price rule actions](pricing-rule-actions.md)
+    - [Standard price rule](standard-price-rules.md)
+    - [Intelligent repricing rule](intelligent-repricing-rules.md)
+    - [Competitor conditional variances](competitor-conditional-variances.md)
+    - [Price adjustment](price-adjustment.md)
+    - [Floor price](floor-price.md)
+    - [Optional ceiling price](optional-ceiling-price.md)
+    - [Price scope](price-scope.md)
+    - [Price priority logic](price-priority-logic.md)
+    - [Buy Box competitor pricing](buy-box-competitor-pricing.md)
+    - [Lowest competitor pricing](lowest-competitor-pricing.md)
   - Examples {#rules-examples}
     - [Define a condition](ob-define-condition-example.md)
     - [Price rule examples](price-rule-examples.md)
-- Reports and Logs {#reports-logs}
+- Reports and logs {#reports-logs}
   - [Logs and store reports](amazon-logs-reports.md)
   - Store Reports {#store-reports}
-    - [Competitive Price Analysis](competitive-price-analysis.md)
+    - [Competitive price analysis](competitive-price-analysis.md)
     - [Listing improvements](listing-improvements.md)
   - Logs {#logs}
     - [Listing Changes log](listing-changes-log.md)
     - [Communication Errors log](communication-errors-log.md)
-- Manage Listings {#admin-listings}
+- Manage listings {#admin-listings}
   - [Manage Amazon listings](managing-product-listings.md)
-  - By Status/Tab {#status-tab}
+  - By status/tab {#status-tab}
     - [Manage by status/tab](managing-listings-by-tab.md)
     - [Incomplete listings](incomplete-listings.md)
     - [New third party Listings](new-third-party-listings.md)
@@ -88,7 +88,7 @@ type: Documentation
     - [Overrides](overrides.md)
     - [Ineligible listings](ineligible-listings.md)
     - [Ended listings](ended-listings.md)
-  - By Actions {#actions}
+  - By actions {#actions}
     - [Manage by actions](managing-listings-by-action.md)
     - [Create and assign catalog products](creating-assigning-catalog-products.md)
     - [Create and edit overrides](creating-editing-overrides.md)
@@ -98,7 +98,7 @@ type: Documentation
     - [Publish an Amazon listing](publish-listings-manually.md)
     - [Update Required Info](amazon-manually-update-incomplete-listing.md)
     - [View details](product-listing-details.md)
-- Manage Orders {#admin-orders}
+- Manage orders {#admin-orders}
   - [Manage orders](managing-orders.md)
   - [View Amazon orders](amazon-orders-all.md)
   - [View Amazon order details](amazon-order-details.md)

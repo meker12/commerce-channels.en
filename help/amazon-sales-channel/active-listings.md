@@ -1,6 +1,6 @@
 ---
 title: Active Listings
-description: The Amazon Sales Channel provides the Active tab to monitor active Amazon listings and that are matched to a product in your Adobe Commerce catalog.
+description: The Amazon sales channel provides the Active tab to monitor active Amazon listings and that are matched to a product in your Adobe Commerce catalog.
 ---
 
 # Active listings
@@ -35,16 +35,16 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 ![Active Listings](assets/amazon-active-listings.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+[!DNL Amazon sales channel] home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 |Column|Description|
 |--- |--- |
-|Amazon Seller SKU|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer.|
-|ASIN|A unique block of 10 letters and/or numbers that identify items. <br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item.|
-|Product Listing Name|The name of the product.|
-|[Condition](./product-listing-condition.md)|The condition of the product.|
-|Landed Price|The listing price for the product plus its shipping price.|
-|Amazon Quantity|The quantity available after the product is actively listed on Amazon.|
-|Status|The status of the listing, defined by Amazon.|
-|Buy Box Won|Whether the product listing won the [Buy Box](./buy-box-competitor-pricing.md) position.|
-|Action|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column to show your options:<ul><li>[View Details](./product-listing-details.md)</li><li>[Create Override](./creating-editing-overrides.md)</li><li>[Edit Assigned ASIN](./edit-assigned-asin.md)</li><li>[Create Alias Seller SKU](./create-alias-seller-sku.md#region-specific)</li><li>[Switch to Fulfilled By Amazon/Merchant ](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[End Listing](./end-listings-manually.md)</li></ul>|
+|[!UICONTROL Amazon Seller SKU]|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer.|
+|[!UICONTROL ASIN]|A unique block of 10 letters and/or numbers that identify items. <br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item.|
+|[!UICONTROL Product Listing Name]|The name of the product.|
+|[!UICONTROL Condition]|The [condition](./product-listing-condition.md) of the product.|
+|[!UICONTROL Landed Price]|The listing price for the product plus its shipping price.|
+|[!UICONTROL Amazon Quantity]|The quantity available after the product is actively listed on Amazon.|
+|[!UICONTROL Status]|The status of the listing, defined by Amazon.|
+|[!UICONTROL Buy Box Won]|Whether the product listing won the [Buy Box](./buy-box-competitor-pricing.md) position.|
+|[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column to show your options:<ul><li>[[!UICONTROL View Details]](./product-listing-details.md)</li><li>[[!UICONTROL Create Override]](./creating-editing-overrides.md)</li><li>[[!UICONTROL Edit Assigned ASIN]](./edit-assigned-asin.md)</li><li>[[!UICONTROL Create Alias Seller SKU]](./create-alias-seller-sku.md#region-specific)</li><li>[[!UICONTROL Switch to Fulfilled By Amazon/Merchant]](./fulfilled-by.md#configure-fulfilled-by-settings)</li><li>[[!UICONTROL End Listing]](./end-listings-manually.md)</li></ul>|

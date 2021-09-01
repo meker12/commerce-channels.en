@@ -1,13 +1,13 @@
 ---
-title: [!DNL Amazon Sales Channel] Guide
-description: Amazon Sales Channel for Adobe Commerce and Magento Open Source enables merchants to seamlessly sell products in the Amazon Marketplace.
+title: [!DNL Amazon sales channel] user guide
+description: Channel manager for Adobe Commerce provides the Amazon sales channel extension to enable merchants to seamlessly sell products in the Amazon Marketplace.
 redirect_from:
   - /sales-channels/amazon/amazon-sales-channel.html
 ---
 
-# [!DNL Amazon Sales Channel] for Commerce Guide
+# [!DNL Amazon sales channel] user guide
 
-The [!DNL Amazon Sales Channel] for Adobe Commerce and Magento Open Source is a powerful, comprehensive extension that enables [!DNL Commerce] merchants to seamlessly sell products in the Amazon Marketplace, the world's largest global internet shopping destination. This extension enables Amazon sales by integrating [!DNL Commerce] with your [!DNL Amazon Seller Central] account and providing both automation and synchronization of catalog and order data. Completely manage all Amazon listings, implement simple or intelligent pricing rules, and maintain your orders and inventory through a single [!DNL Commerce] dashboard.
+The [!DNL Amazon sales channel] extension enables Adobe Commerce and Magento Open Source merchants to seamlessly sell products in the Amazon Marketplace, the world's largest global internet shopping destination. This extension enables Amazon sales by integrating [!DNL Commerce] with your [!DNL Amazon Seller Central] account and providing both automation and synchronization of catalog and order data. Completely manage all Amazon listings, implement simple or intelligent pricing rules, and maintain your orders and inventory through a single [!DNL Commerce] dashboard.
 
 Getting started is easy. A short onboarding process guides you in creating an [!DNL Amazon Seller Central] account and integrating with your [!DNL Amazon Sales Channel] store and your [!DNL Commerce] catalog to manage Amazon listings, orders, inventory, and fulfillment. A central dashboard shows status updates for all your [!DNL Amazon Sales Channel] store integrations and Amazon listings. Reach new customers in the global [!DNL Amazon Marketplace] with simplified and automated processes – all at little or none of the cost and labor of setting up a new system.
 
