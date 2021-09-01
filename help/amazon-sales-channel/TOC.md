@@ -1,8 +1,8 @@
 ---
-user-guide-title: Channel manager for Adobe Commerce
+user-guide-title: Amazon Sales Channel User Guide
 user-guide-description: Learn how to generate sales through Amazon by integrating Adobe Commerce or Magento Open Source with your [!DNL Amazon Seller Central] account, which provides both automation and synchronization of catalog and order data.
 product: commerce
-breadcrumb-title: Amazon sales channel guide
+breadcrumb-title: channel manager for Adobe Commerce
 ---
 
 # Amazon sales channel - [!DNL channel manager] for Adobe Commerce {#amazon}
@@ -21,7 +21,7 @@ breadcrumb-title: Amazon sales channel guide
   - [Store integration](store-integration.md)
   - [Create listing rule](ob-create-listing-rule.md)
   - [Default store settings](default-store-settings.md)
-- Manage Your [!DNL Amazon Sales Channel] {#manage}
+- Manage Your [!DNL Amazon sales channel] {#manage}
   - [[!DNL Amazon sales channel] home](amazon-sales-channel-home.md)
   - [Amazon stores](managing-stores.md)
   - [Workspace controls](workspace-controls.md)
