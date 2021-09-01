@@ -3,6 +3,8 @@ title: Install the Amazon sales channel
 description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller Accounts] and sell through the [!DNL Amazon Marketplace], download and install the Amazon sales channel extension.
 ---
 
+# Install the Amazon sales channel
+
 >[!IMPORTANT]
 >
 >Only Amazon Sales Channel extension 4.0+ versions are supported when integrated with Adobe Commerce and Magento Open Source 2.4.x versions.

@@ -41,7 +41,7 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
 1. On the _[!UICONTROL Welcome to Amazon Sales Channel]_ page, click **[!UICONTROL Add the key]**.
 
-    The browser exits [!DNL Amazon Sales Channel] and a store configuration page opens the _[!UICONTROL Api Keys]_ page in the [!DNL Commerce Admin]. You can open this page manually when you go to **[!UICONTROL Stores]** > _[!UICONTROL Settings]_ > **[!UICONTROL Configuration]**, expand **[!UICONTROL Services]** in the left panel, and choose **[!UICONTROL Magento Services]**.
+   The browser exits [!DNL Amazon Sales Channel] and a store configuration page opens the _[!UICONTROL Api Keys]_ page in the [!DNL Commerce Admin]. You can open this page manually when you go to **[!UICONTROL Stores]** > _[!UICONTROL Settings]_ > **[!UICONTROL Configuration]**, expand **[!UICONTROL Services]** in the left panel, and choose **[!UICONTROL Magento Services]**.
 
 1. Paste the copied key for **[!UICONTROL Production Api key]**.
 
@@ -51,7 +51,7 @@ The API key is validated each time you access your [!DNL Amazon Sales Channel].
 
 1. On the _[!UICONTROL Admin]_ sidebar, go to **[!UICONTROL Marketing]** > _[!UICONTROL Channels]_ > **[!UICONTROL Amazon Sales Channel]**.
 
-   Reaccessing [!DNL Amazon Sales Channel] triggers [!DNL Commerce] verify and validate your API key and allows you to continue.
+   Re-accessing [!DNL Amazon Sales Channel] triggers [!DNL Commerce] verify and validate your API key and allows you to continue.
 
    If you are prompted to verify the key again, repeat this _Add and Verify_ process.
 
