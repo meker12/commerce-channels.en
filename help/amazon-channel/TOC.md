@@ -13,6 +13,7 @@ breadcrumb-title: channel manager for Adobe Commerce
   - [About Amazon Marketplace](about-amazon-marketplace.md)
   - [About Amazon and your Commerce catalog](about-listings-and-catalog.md)
   - [Best practices and limitations](amazon-best-practices.md)
+  - [Install the extension](install.md)
 - Onboarding {#onboarding}
   - [Onboard Amazon sales channel](amazon-onboarding-home.md)
   - [Pre-setup tasks](amazon-pre-setup-tasks.md)

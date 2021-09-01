@@ -5,19 +5,18 @@ redirect_from:
   - /sales-channels/amazon/amazon-onboarding-home.html
 ---
 
-# Onboard Amazon Sales Channel
+# Onboard Amazon sales channel
 
 This section describes the pre-setup tasks, steps for onboarding, and some key concepts of how Amazon works with the [!DNL Amazon Sales Channel] in Adobe Commerce and Magento Open Source.
 
-[!DNL Amazon Sales Channel] supports multiple [!DNL Amazon Sales Channel] stores. For a single [!DNL Amazon Seller Central] account that operates in the Amazon U.S./Canada/Mexico region, create three [!DNL Amazon Sales Channel] stores (one each for U.S. sales, Mexico sales, and Canada sales). Each of the three stores defines the marketplace country during its creation. If you have more than one [!DNL Amazon Seller Central] account, you could potentially have up to three [!DNL Amazon Sales Channel] stores for each of your [!DNL Amazon Seller Central] accounts. If you also sell in the U.K., you would have a fourth Amazon store.
+The [!DNL Amazon sales channel] extension supports multiple Amazon stores. For a single [!DNL Amazon Seller Central] account that operates in the Amazon U.S./Canada/Mexico region, create three Amazon stores (one each for U.S. sales, Mexico sales, and Canada sales). Each of the three stores defines the marketplace country during its creation. If you have more than one [!DNL Amazon Seller Central] account, you could potentially have up to three Amazon stores for each of your [!DNL Amazon Seller Central] accounts. If you also sell in the U.K., you would have a fourth Amazon store.
 
 >[!TIP]
 >
->**Helpful onboarding tips**<br><br>
 >A [Professional Seller account](https://sell.amazon.com/){target="_blank"} on [!DNL Amazon Seller Central] in the North America or European (UK) region is required. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.<br><br>
->Onboarding is simple. Simply create your store and then integrate (connect) it to your [!DNL Amazon Seller Central] account.
->When your store is connected, [!DNL Amazon Sales Channel] attempts to import your Amazon listings and match them to your catalog, based on your [attribute mapping](./attributes-view.md).<br><br>
->Your [!DNL Amazon Sales Channel] settings affect your Amazon listings. Your initial listing, pricing, and product settings are defaulted for you. You can modify your [store settings](./ob-store-review.md) (listing, pricing, order, and reporting) after your store is connected to your [!DNL Amazon Seller Central] account.
+>Onboarding is simple---create your store and then connect it to your [!DNL Amazon Seller Central] account.
+>When your store is connected, the Amazon channel attempts to import your Amazon listings and match them to your catalog, based on your [attribute mapping](./attributes-view.md).<br><br>
+>Your Amazon sales channel settings affect your Amazon listings. Your initial listing, pricing, and product settings are defaulted for you. You can modify your [store settings](./ob-store-review.md) (listing, pricing, order, and reporting) after your store is connected to your [!DNL Amazon Seller Central] account.
 
 |Steps|What Happens|
 |--- |--- |
