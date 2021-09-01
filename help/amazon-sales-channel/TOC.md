@@ -21,7 +21,7 @@ breadcrumb-title: channel manager for Adobe Commerce
   - [Store integration](store-integration.md)
   - [Create listing rule](ob-create-listing-rule.md)
   - [Default store settings](default-store-settings.md)
-- Manage Your [!DNL Amazon sales channel] {#manage}
+- Manage the sales channel {#manage}
   - [[!DNL Amazon sales channel] home](amazon-sales-channel-home.md)
   - [Amazon stores](managing-stores.md)
   - [Workspace controls](workspace-controls.md)
