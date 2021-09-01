@@ -7,7 +7,7 @@ description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller 
 
 >[!IMPORTANT]
 >
->Only Amazon Sales Channel extension 4.0+ versions are supported when integrated with Adobe Commerce and Magento Open Source 2.4.x versions.
+>Only Amazon Sales Channel extension 4.0+ versions are supported for Adobe Commerce and Magento Open Source 2.4.x versions. If you are running a 2.3.x version, refer to the documentation for the [compatible Amazon sales channel release](https://docs.magento.com/user-guide/v2.3/sales-channels/amazon/amazon-sales-channel.html){target="_blank"}. For more information about version compatibility, see the [Availability](https://devdocs.magento.com/release/availability.html){target="_blank"} page in the developer documentation.
 
 The [!UICONTROL Amazon Sales Channel] extension installs and adds features to integrate your Commerce catalog with [!DNL Amazon Seller Accounts] to sell through the [!DNL Amazon Marketplace]. To review additional information, see the [Amazon Sales Channel](https://marketplace.magento.com/magento-module-amazon.html) page in [!DNL Commerce Marketplace] and the [release notes](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) in the developer documentation.
 
