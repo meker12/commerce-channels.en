@@ -17,7 +17,7 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 ## Example 1
 
-||[Website Priority](https://docs.magento.com/user-guide/configuration/scope.html){:target="_blank"}|Price (Website)|Use Default|
+||Website Priority|Price (Website)|Use Default|
 |---|---|---|---|
 |Default|0|$31.99|--|
 |Store 1|1|$24.99|No|
@@ -29,20 +29,20 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 ## Example 2
 
-||[Website Priority](https://docs.magento.com/user-guide/configuration/scope.html){:target="_blank"}|Price [Website]|Use Default|
+||Website Priority|Price Website|Use Default|
 |---|---|---|---|
 |Default|0|$31.99|--|
 |Store 1|1|$24.99|Yes|
 |Store 2|2|$27.99|No|
 
 - The **[!UICONTROL Magento Price Source]** (defined in your [Listing Price](./listing-price.md) is set to the `Price` attribute.
-- Look at the website with the highest website priority, which is Store 1 (defined by the [Sort Order](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){:target="_blank"} value).
+- Look at the website with the highest website priority, which is Store 1 (defined by the [sort order](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){:target="_blank"} value).
 - Since Store 1 **is not** set to use the website price (Use Default = Yes), look at the next website in the sort order.
 - Since Store 2 **is** set to use the website price (Use Default = No), the published price is $27.99.
 
 ## Example 3
 
-||[Website Priority](https://docs.magento.com/user-guide/configuration/scope.html){:target="_blank"}|Price [Website]|Use Default|
+||Website Priority|Price Website|Use Default|
 |---|---|---|---|
 |Default|0|$31.99|$30.00|
 |Store 1|1|$24.99|--|
@@ -50,7 +50,7 @@ If the product price is set to `Use Default`, it falls back to the default price
 
 This example adds the non-price value, which is used if you select another value for the _[!UICONTROL Magento Price Source_] (defined in your [Listing Price](./listing-price.md) settings). The non-price value always uses price as the fallback price.
 
-- The **[!UICONTROL Magento Price Source]** (defined in your [Listing Price](./listing-price.md) settings) is set to `Non-Price`.
+- The **[!UICONTROL Magento Price Source]** (defined in your [[!UICONTROL Listing Price]](./listing-price.md) settings) is set to `Non-Price`.
 - Look at the website with the highest website priority, which is `Store 1`(defined by the [Sort Order](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){:target="_blank"} value).
 - Since Store 1 **is not** set to use the `Non-Price` attribute, look at the next website in the sort order.
 - Since Store 2 **is** set to use the `Non-Price` attribute (Non-Price [Website] = $20.00), the published price is $20.00.

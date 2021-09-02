@@ -7,7 +7,7 @@ redirect_from:
 
 # Third-party listings
 
-The Third-party listing settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
+The third-party listing settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
 These settings determine if your [!DNL Commerce] catalog imports products from your existing [!DNL Amazon Seller Central] listings. It is a best practice to import listings from Amazon, to ensure that all listings have matching [!DNL Commerce] products. When your listings are part of your [!DNL Commerce] catalog, you can manage all of your products from a single catalog and use [!DNL Amazon Sales Channel] features. These features include fulfillment and order management with Amazon, intelligent repricing, and quantity management.
 
@@ -15,11 +15,11 @@ When configured to import your Amazon listings, [!DNL Amazon Sales Channel] impo
 
 If you choose to import your Amazon listings, choose the [!DNL Commerce] attributes with values for Amazon Seller SKU and Amazon ASIN. If you do not have [!DNL Commerce] [product attributes](./ob-creating-magento-attributes.md), consider creating and assigning them. Mapping these attributes helps correctly match imported Amazon listings to your [!DNL Commerce] products.
 
-The initial listing import initiates when [store integration](./store-integration.md) is complete. Afterward and based on your cron settings, [!DNL Commerce] continually checks for newly added Amazon listings (not created in Amazon Sales Channel) and updates your [!DNL Commerce] catalog according to your _Third Party Listings_ settings.
+The initial listing import initiates when [store integration](./store-integration.md) is complete. Afterward and based on your cron settings, [!DNL Commerce] continually checks for newly added Amazon listings (not created in Amazon Sales Channel) and updates your [!DNL Commerce] catalog according to your third-party listings settings.
 
 ## Configure third-party listing settings
 
-1. Click **Listing Settings** on the store dashboard.
+1. Click **[!UICONTROL Listing Settings]** on the store dashboard.
 
 1. Expand the _[!UICONTROL Third Party Listings]_ section.
 

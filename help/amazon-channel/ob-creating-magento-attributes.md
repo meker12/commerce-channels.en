@@ -1,6 +1,6 @@
 ---
 title: Create [!DNL Commerce] Attributes for Amazon
-description: Before completing the Amazon Sales Channel onboarding process, make sure you have the needed Commerce product attributes.
+description: Before completing the Amazon sales channel onboarding process, make sure you have the needed [!UICONTROL Commerce] product attributes.
 ---
 
 # Create [!DNL Commerce] attributes for Amazon
@@ -11,7 +11,7 @@ These instructions detail how to create [!DNL Commerce] attributes for Amazon AS
 
 Catalog Search settings enable you to set matching search parameters that help to map eligible [!DNL Commerce] products with Amazon listings. When mapped, Amazon activates actions related to pricing, quantity, overrides, and order and product synchronization.
 
-Defining these values increases the potential for exact matches, minimizing the need for manually matching product listings later. Adding the attributes as part of your onboarding [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), [!DNL Amazon Sales Channel] has a higher potential for automatically matching your products during onboarding and syncs product data between Amazon and [!DNL Commerce] after onboarding.
+Defining these values increases the potential for exact matches, minimizing the need for manually matching product listings later. Adding the attributes as part of your onboarding [pre-setup tasks](./amazon-pre-setup-tasks.md), [!DNL Amazon sales channel] has a higher potential for automatically matching your products during onboarding and syncs product data between Amazon and [!DNL Commerce] after onboarding.
 
 If you only create the Amazon ASIN attribute (without adding ASIN values per product), your [!DNL Commerce] products might not automatically match to your Amazon listings. You can manually match your products through _Store Review_. However, manual matching does not create the data elements that are required to share and sync your product data.
 
@@ -57,7 +57,7 @@ If you only create the Amazon ASIN attribute (without adding ASIN values per pr
 
 ## Create the Amazon Condition product attribute
 
-1. Log into your [!DNL Commerce Admin].
+1. Log into your [!DNL Commerce] Admin.
 
 1. Click **[!UICONTROL Stores]** in the left-side menu.
 

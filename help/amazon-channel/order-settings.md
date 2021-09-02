@@ -87,7 +87,7 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 >
 >Supported in Adobe Commerce and Magento Open Source 2.3.x integrations only.
 
-|Fulfillment Channel|[!DNL Commerce] Inventory Status|Amazon Order Status|Create Magento Order Setting|Inventory Reserved|
+|Fulfillment Channel|[!DNL Commerce] Inventory Status|Amazon Order Status|[!UICONTROL Create Magento Order] Setting|Inventory Reserved|
 |---|---|---|---|---|
 |FBA|In-stock<br>Out-of-stock<br>Do Not Manage|Pending|No|No|
 |FBA|In-stock<br>Out-of-stock<br>Do Not Manage|PendingAvailability|No|No|

@@ -3,11 +3,11 @@ title: About Amazon sales channel
 description: Use the Amazon sales channel extension to seamlessly integrate Adobe Commerce or Magento Open Source with your Amazon Seller Central account.
 ---
 
-# About the [!DNL Amazon sales channel]
+# About the Amazon sales channel
 
-Channel manager for Adobe Commerce provides the [!DNL Amazon sales channel] extension, which seamlessly integrates your [!DNL Commerce Admin] with your [!DNL Amazon Seller Central] account. After [onboarding](./amazon-onboarding-home.md), [!DNL Commerce] becomes a "central command center" for managing and controlling your Amazon listings, orders and inventory, and pricing for your Amazon store.
+Channel manager for Adobe Commerce provides the Amazon sales channel extension, which seamlessly integrates your [!DNL Commerce Admin] with your [!DNL Amazon Seller Central] account. After [onboarding](./amazon-onboarding-home.md), [!DNL Commerce] becomes a "central command center" for managing and controlling your Amazon listings, orders and inventory, and pricing for your Amazon store.
 
-[Store integration](./store-integration.md) connects your [!DNL Commerce] instance and Amazon to sync data between both platforms. [!DNL Amazon sales channel] enables you to:
+[Store integration](./store-integration.md) connects your [!DNL Commerce] instance and Amazon to sync data between both platforms. Amazon sales channel enables you to:
 
 - [Onboard](./amazon-onboarding-home.md) and integrate one or more [!DNL Amazon Seller Central] accounts with Adobe Commerce or Magento Open Source.
 
@@ -19,11 +19,11 @@ Channel manager for Adobe Commerce provides the [!DNL Amazon sales channel] exte
 
 - View logs for analysis and errors for [competitive prices](./competitive-price-analysis.md), [listing changes](./listing-changes-log.md), and [communication issues](./communication-errors-log.md).
 
-Access your Amazon stores to view and manage all of these features, account information, listings, orders, and more on the [!DNL Amazon Sales Channel] [home page](./amazon-sales-channel-home.md).
+Access your Amazon stores to view and manage all of these features, account information, listings, orders, and more on the Amazon sales channel [home page](./amazon-sales-channel-home.md).
 
 ## Promotions and pricing
 
-With the [!DNL Amazon sales channel] extension, you can:
+With the [!DNL Amazon Sales Channel] extension, you can:
 
 - Synchronize Amazon listing pricing to [!DNL Commerce] catalog price (or alternate price attribute).
 
@@ -37,7 +37,7 @@ With the [!DNL Amazon sales channel] extension, you can:
 
 ## Pricing rules
 
-With the [!DNL Amazon sales channel] extension, you can:
+With the [!DNL Amazon Sales Channel] extension, you can:
 
 - Create stackable, flexible, and complex [pricing rules](./pricing-products.md) to manage your Amazon pricing for everyday sale or seasonal promotions.
 
@@ -73,7 +73,7 @@ With the [!DNL Amazon sales channel], you can:
 
 ## Order management and customer service
 
-With the [!DNL Amazon sales channel] extension, you can:
+With the [!DNL Amazon Sales Channel] extension, you can:
 
 - Support and process orders in Amazon and [!DNL Commerce].
 
@@ -95,7 +95,7 @@ With the [!DNL Amazon sales channel] extension, you can:
 
 ## Reporting
 
-With the [!DNL Amazon sales channel] extension, you can review report information about:
+With the [!DNL Amazon Sales Channel] extension, you can review report information about:
 
 - Listings by statuses of active, inactive, eligible, and incomplete.
 
@@ -111,7 +111,7 @@ With the [!DNL Amazon sales channel] extension, you can review report informatio
 
 ## Support for global sales
 
-With the [!DNL Amazon sales channel] extension, you can:
+With the [!DNL Amazon Sales Channel] extension, you can:
 
 - Manage multiple [!DNL Amazon Marketplace] regions (countries).
 

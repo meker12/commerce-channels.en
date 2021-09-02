@@ -7,7 +7,7 @@ description: Review the required tasks to be completed before integrating your A
 
 Before [Store Integration](./store-integration.md), you must ensure that your [!DNL Amazon Seller Central] account and your [!DNL Commerce] account are ready for the integration. To successfully integrate, there are some required pre-setup tasks.
 
-When you set up your first Amazon store in [!DNL Amazon Sales Channel], a list of setup tasks appears. It is recommended that you review these tasks before you [add an Amazon store](./store-integration.md). After adding your first store, you can review these tasks in the Learning and Preparation view of the [!DNL Amazon Sales Channel] [home page](./amazon-sales-channel-home.md).
+When you set up your first Amazon store in Amazon sales channel, a list of setup tasks appears. It is recommended that you review these tasks before you [add an Amazon store](./store-integration.md). After adding your first store, you can review these tasks in the Learning and Preparation view of the Amazon sales channel [home page](./amazon-sales-channel-home.md).
 
 ## 1. Enable background tasks in [!DNL Commerce]
 
@@ -19,9 +19,9 @@ All products and data synced between [!DNL Commerce] and Amazon is managed by a 
 
 ## 2. Create your [!DNL Amazon Seller Central] account
 
-Before you begin to set up your [!DNL Amazon Sales Channel], you must have an active [!DNL Amazon Seller Central] account. If you don't have an existing Amazon Seller account in the [North America (US, CA, MX)](https://sell.amazon.com/){target="_blank"} or [European (UK)](https://sell.amazon.co.uk/sell-online/beginners-guide){target="_blank"} region, you can complete Amazon's seller account setup process.
+Before you begin to set up your Amazon sales channel, you must have an active [!DNL Amazon Seller Central] account. If you don't have an existing Amazon Seller account in the [North America (US, CA, MX)](https://sell.amazon.com/){target="_blank"} or [European (UK)](https://sell.amazon.co.uk/sell-online/beginners-guide){target="_blank"} region, you can complete Amazon's seller account setup process.
 
-[!DNL Amazon Sales Channel] requires a [Professional Seller account](/){target="_blank"} on [!DNL Amazon Seller Central]. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.
+Amazon sales channel requires a [!DNL Professional Seller] account on [!DNL Amazon Seller Central]. Amazon charges a monthly subscription and fees for selling. See [Amazon: Choose your selling plan](https://sell.amazon.com/pricing.html){target="_blank"}.
 
 ## 3. Make sure you are an approved Amazon seller
 
@@ -45,7 +45,7 @@ It is also important to ensure that you have configured the following in your [!
 
 ## 5. Increase the number of automatic catalog matches
 
-During onboarding, [!DNL Amazon Sales Channel] uses product attributes to match your existing Amazon listings (if applicable) to existing products in your [!DNL Commerce] catalog. After onboarding, these product attributes are used to publish your [!DNL Commerce] catalog items to an Amazon listing and to sync your product data between [!DNL Commerce] and Amazon.
+During onboarding, Amazon sales channel uses product attributes to match your existing Amazon listings (if applicable) to existing products in your [!DNL Commerce] catalog. After onboarding, these product attributes are used to publish your [!DNL Commerce] catalog items to an Amazon listing and to sync your product data between [!DNL Commerce] and Amazon.
 
 To have the highest number of [!DNL Commerce] products automatically match with Amazon listings, you should create a set of product attributes for your [!DNL Commerce] catalog. Before you set up your [!DNL Amazon Sales Channel] store, you should add [!DNL Commerce] product attributes to match these Amazon attributes, for example: ASIN, EAN, ISBN, UPC, or GCID. See [Create a product attribute in [!DNL Commerce]](./ob-creating-magento-attributes.md).
 

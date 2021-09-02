@@ -1,11 +1,11 @@
 ---
 title: Store Integration Settings
-description: After you complete the Amazon Sales Channel onboarding process, review and configure the store integration settings through the Amazon Store Dashboard
+description: After you complete the Amazon sales channel onboarding process, review and configure the store integration settings through the [!UICONTROL Amazon Store] dashboard
 ---
 
 # Store integration settings
 
-After integrating your store, review and configure the store integration settings through the Amazon Store Dashboard. These settings display for *Inactive* and *Active* stores. Here you can change the name of your Amazon store and the email address you associated with the store during store integration.
+After integrating your store, review and configure the store integration settings through the [!UICONTROL Amazon Store] dashboard. These settings display for *Inactive* and *Active* stores. Here you can change the name of your Amazon store and the email address you associated with the store during store integration.
 
 ## Modify store integration settings
 
@@ -25,6 +25,6 @@ After integrating your store, review and configure the store integration setting
 
 >[!NOTE]
 >
->The _[!UICONTROL Amazon Marketplace Country]_ setting defined during [store integration](./store-integration.md) cannot be updated. To edit the country setting, you must delete the store (under _Action_ on the store card) and add a store for the different country.
+>The _[!UICONTROL Amazon Marketplace Country]_ setting defined during [store integration](./store-integration.md) cannot be updated. To edit the country setting, you must delete the store (under _[!UICONTROL Action]_ on the store card) and add a store for the different country.
 
 ![Store integration settings](assets/amazon-store-settings.png)

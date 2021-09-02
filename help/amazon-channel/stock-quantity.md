@@ -1,6 +1,6 @@
 ---
 title: Stock/Quantity
-description: To control syncing of product quantity details from your Commerce store to your Amazon Seller Central account, update the Stock/Quantity settings. 
+description: To control syncing of product quantity details from your Commerce store to your [!DNL Amazon Seller Central] account, update the Stock/Quantity settings. 
 redirect_from:
   - /sales-channels/asc/ob-stock-quantity.html
 ---
@@ -11,13 +11,13 @@ redirect_from:
 
 These settings are used to sync the product quantity details from your [!DNL Commerce] storefront to the quantity on your [!DNL Amazon Seller Central] account. This tool is powerful and can be used for additional advertising by displaying urgency to the buyer while keeping your inventory organized. For example, some merchants may have 150 items of a particular SKU in stock in their warehouse and want to make sure that Amazon shoppers can purchase all of their inventory. Other merchants may wish to only list one item at a time to create a sense of scarcity to the end user. In this case, set the *[!UICONTROL Maximum Listed Quantity]* to `1`.
 
-Quantity is a regional attribute and based on the **[!DNL Amazon Marketplace] Country** setting define during [store integration](./store-integration.md). When a change is made to a product's quantity, the change affects all Amazon listings that share that [!DNL Amazon Seller SKU] in your Amazon stores that sell in the same country. A change to a shared [!DNL Amazon Seller SKU] in the United States does not affect your Amazon stores set up for a different country. Your first Amazon store that is integrated (with the oldest creation date) controls priority in the quantity settings.
+Quantity is a regional attribute and based on the **[!UICONTROL Amazon Marketplace Country]** setting define during [store integration](./store-integration.md). When a change is made to a product's quantity, the change affects all Amazon listings that share that [!DNL Amazon Seller SKU] in your Amazon stores that sell in the same country. A change to a shared [!DNL Amazon Seller SKU] in the United States does not affect your Amazon stores set up for a different country. Your first Amazon store that is integrated (with the oldest creation date) controls priority in the quantity settings.
 
 >[!NOTE]
 >
 >For Adobe Commerce and Magento Open Source 2.3.x users, [!DNL Amazon Sales Channel] supports the use of the Inventory Management extension without any additional setup. See [Managing Inventory](https://docs.magento.com/user-guide/v2.3/catalog/inventory-management.html){:target="_blank"}.
 
-## Configure Stock / Quantity settings {#configure-stock--quantity-settings}
+## Configure stock / quantity settings {#configure-stock--quantity-settings}
 
 1. Click **[!UICONTROL Listing Settings]** on the store dashboard.
 
@@ -45,16 +45,16 @@ Quantity is a regional attribute and based on the **[!DNL Amazon Marketplace] Co
 |[!UICONTROL Maximum Listed Quantity]|Enter a numerical value for the quantity you want to show in your Amazon listing.<br><br>When an item is sold, the Amazon listing republishes with the quantity entered here. This setting is typically used when you do not manage product inventory.<br><br>For example, you enter the Maximum Listed Quantity value as `10`. Your actual quantity for a product is `80`. Because you have set this value at `10`, the Amazon listing always displays a quantity available of `10`. The quantity available is always displayed with the value defined, even when your stock quantity is lower.|
 |[!UICONTROL "Do Not Manage Stock" Quantity]|Enter a value for your display quantity for your Amazon listings.<br><br>Amazon requires that you publish an available quantity. For [!DNL Commerce] products that are set to not manage stock but you want to list them on Amazon, the listing is published with available quantity of the value entered here.|
 
-**Quick Access** - Listing Settings sections
+**Quick Access** - [!UICONTROL Listing Settings] sections
 
-- [Product Listing Actions](./product-listing-actions.md)
-- [Third Party Listings](./third-party-listing-settings.md)
-- [Listing Price](./listing-price.md)
-- [(B2B) Business Price](./business-pricing.md)
-- [Stock / Quantity](./stock-quantity.md)
-- [Fulfilled By](./fulfilled-by.md)
-- [Catalog Search](./catalog-search.md)
-- [Product Listing Condition](./product-listing-condition.md)
+- [[!UICONTROL Product Listing Actions]](./product-listing-actions.md)
+- [[!UICONTROL Third Party Listings]](./third-party-listing-settings.md)
+- [[!UICONTROL Listing Price]](./listing-price.md)
+- [[!UICONTROL (B2B) Business Price]](./business-pricing.md)
+- [[!UICONTROL Stock / Quantity]](./stock-quantity.md)
+- [[!UICONTROL Fulfilled By]](./fulfilled-by.md)
+- [[!UICONTROL Catalog Search]](./catalog-search.md)
+- [[!UICONTROL Product Listing Condition]](./product-listing-condition.md)
 
 ## Example: Maximum listed quantity
 

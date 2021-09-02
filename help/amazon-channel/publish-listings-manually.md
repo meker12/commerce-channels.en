@@ -7,13 +7,13 @@ description: WHen needed, you can manually publish your ended Amazon listings fr
 
 You can manually publish one or more Amazon listings that have been ended.
 
-1. View one or more listings on the _Ended_ tab on the [Product Listings](./managing-product-listings.md) page (_Inactive_, _Active_, or _Ineligible_ tab).
+1. View one or more listings on the _[!UICONTROL Ended]_ tab on the [Product Listings](./managing-product-listings.md) page (_[!UICONTROL Inactive]_, _[!UICONTROL Active]_, or _[!UICONTROL Ineligible]_ tab).
 
 1. In the left column, click to check each of the listings you want to republish.
 
-1. Under _Actions_, click **Publish Product to Amazon**.
+1. Under _[!UICONTROL Actions]_, click **[!UICONTROL Publish Product to Amazon]**.
 
-1. Click **OK** in the confirmation message.
+1. Click **[!UICONTROL OK]** in the confirmation message.
 
    A message is displayed to confirm that the selected listings are being processed to publish to Amazon.
 

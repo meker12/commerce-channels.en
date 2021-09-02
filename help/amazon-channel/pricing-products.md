@@ -7,7 +7,7 @@ redirect_from:
 
 # Manage Amazon pricing
 
-[!DNL Amazon Sales Channel] allows you to set pricing rules, which allow you to set your Amazon listing price different than the defined **Magento Price Source** in your [Listing Price](./listing-price.md). You can also stack multiple rules and even use the intelligent pricing to adjust your Amazon listing price based on competitors' [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or the [lowest competitor price](./lowest-competitor-pricing.md).
+[!DNL Amazon Sales Channel] allows you to set pricing rules, which allow you to set your Amazon listing price different than the defined **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md). You can also stack multiple rules and even use the intelligent pricing to adjust your Amazon listing price based on competitors' [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or the [lowest competitor price](./lowest-competitor-pricing.md).
 
 There are two types of pricing rules:
 
@@ -26,19 +26,19 @@ You can add pricing rules for your Amazon listings. Price rules can be used to a
 
 >[!NOTE]
 >
->The price source for your Amazon listings is defined for **Magento Price Source** in your [Listing Price](./listing-price.md) settings. Any adjustment calculations defined in the pricing rule use price source as the starting value.
+>The price source for your Amazon listings is defined for **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md) settings. Any adjustment calculations defined in the pricing rule use price source as the starting value.
 
-Pricing rules allow you to set your Amazon listing price different than your **Magento Price Source** in your [Listing Price](./listing-price.md) settings. You can also stack multiple rules that work together to adjust your price.
+Pricing rules allow you to set your Amazon listing price different than your **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md) settings. You can also stack multiple rules that work together to adjust your price.
 
 A pricing/repricing rule requires three sets of information during its setup:
 
-- [Pricing Rule General Settings](./pricing-rule-general-settings.md): Defines the name, description, active dates, priority for a rule and sets the behavior of subsequent rules, based on its priority setting.
-- [Pricing Rule Conditions](./pricing-rule-conditions.md): Determine which products are eligible for the price rule.
-- [Pricing Rule Actions](./pricing-rule-actions.md): Define the adjustment calculations that are applied to the price source to determine the listing price.
+- [General settings](./pricing-rule-general-settings.md): Defines the name, description, active dates, priority for a rule and sets the behavior of subsequent rules, based on its priority setting.
+- [Conditions](./pricing-rule-conditions.md): Determine which products are eligible for the price rule.
+- [Actions](./pricing-rule-actions.md): Define the adjustment calculations that are applied to the price source to determine the listing price.
 
-You can create [standard pricing rules](./standard-price-rules.md) that automatically adjust your Amazon listing price relative to the selected **Magento Price Source** in your [Listing Price](./listing-price.md) settings. This feature allows you to manipulate your Amazon prices in a way that is similar to the [!DNL Commerce] [Catalog Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){:target="_blank"}. You can create complex rules that automatically change prices for specific products, products inside of specific categories, or products with specific attributes. You can complete traditional settings and reprice your products to increase or decrease based on a fixed amount or a percentage.
+You can create [standard pricing rules](./standard-price-rules.md) that automatically adjust your Amazon listing price relative to the selected **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md) settings. This feature allows you to manipulate your Amazon prices in a way that is similar to the [!DNL Commerce] [catalog price rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){:target="_blank"}. You can create complex rules that automatically change prices for specific products, products inside of specific categories, or products with specific attributes. You can complete traditional settings and reprice your products to increase or decrease based on a fixed amount or a percentage.
 
-Another powerful tool is the [Intelligent Repricing](./intelligent-repricing-rules.md) feature that adjusts your Amazon listing price based on competitor [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md). Similar to the [!DNL Commerce] [Catalog Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){:target="_blank"}, this advanced feature allows you to manipulate your Amazon prices by creating complex rules. Rules can define the scope for a price change for specific products, products inside of specific categories, or even with specific product attributes.
+Another powerful tool is the [Intelligent Repricing](./intelligent-repricing-rules.md) feature that adjusts your Amazon listing price based on competitor [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md). Similar to the [!DNL Commerce] [catalog price rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){:target="_blank"}, this advanced feature allows you to manipulate your Amazon prices by creating complex rules. Rules can define the scope for a price change for specific products, products inside of specific categories, or even with specific product attributes.
 
 Using intelligent repricing to adjust your Amazon listing prices, based on competitor's pricing. [!DNL Amazon Sales Channel] has built in safeguards for you to configure to protect margins or avoid matching the prices of a merchant with low feedback. Using [intelligent repricing rules](./intelligent-repricing-rules.md), Amazon listing prices can be automatically manipulated as a fixed or percentage amount (up or down) or even synchronized to the [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md) on a per item basis. Rules can even be stacked to provide unlimited flexibility.
 
@@ -48,17 +48,17 @@ For example, you can define and set the conditions for a price rule that, when t
 
 Another pricing option is a [price override](./overrides.md), which is set at the individual listing level. A [price override](./overrides.md) can be set, and an override ignores/takes priority over all other defaults, settings, and rules. An [override](./overrides.md) can be set for price, handling time, condition, and seller notes (with a few exceptions).
 
- ![Pricing rules](assets/amazon-pricing-rules.png)
+![Pricing rules](assets/amazon-pricing-rules.png)
 
 ## Default columns
 
 |Column|Description|
 |---|---|
-|Name|The name of the pricing rule, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|Rule Type|The rule type, as set in [Pricing Rule Actions](./pricing-rule-actions.md) (either Standard price rule or Intelligent repricing rule)|
-|Is Active|Whether the rule is active, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|Priority|The priority over other pricing conditions, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|Stop Further Rules Processing|Indicates if any further price rules are processed on products eligible for this rule, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
-|From Date|The beginning of the time period in which the rule is active|
-|To Date|The end of the time period in which the rule is active|
-|Action|Lists all actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column. Options: Edit Price Rule / Delete Price Rule|
+|[!UICONTROL Name]|The name of the pricing rule, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
+|[!UICONTROL Rule Type]|The rule type, as set in [Pricing Rule Actions](./pricing-rule-actions.md) (either Standard price rule or Intelligent repricing rule)|
+|[!UICONTROL Is Active]|Whether the rule is active, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
+|[!UICONTROL Priority]|The priority over other pricing conditions, as set in [Pricing Rule General Settings](./pricing-rule-general-settings.md)|
+|[!UICONTROL Stop Further Rules Processing]|Indicates if any further price rules are processed on products eligible for this rule, as set in [pricing rule general settings](./pricing-rule-general-settings.md)|
+|[!UICONTROL From Date]|The beginning of the time period in which the rule is active|
+|[!UICONTROL To Date]|The end of the time period in which the rule is active|
+|[!UICONTROL Action]|Lists all actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column. Options: `Edit Price Rule` / `Delete Price Rule`|

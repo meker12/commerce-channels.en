@@ -7,7 +7,7 @@ redirect_from:
 
 # Product listing condition
 
-Product Listing Condition settings are part of your store listing settings. You can access the listing settings on the [store dashboard](./amazon-store-dashboard.md).
+Product listing condition settings are part of your store listing settings. You can access the listing settings on the [store dashboard](./amazon-store-dashboard.md).
 
 Amazon requires a product listing to have a defined condition. If all your products are the same condition, you can select one of the Amazon condition options to represent all of your products as your global condition value. Standard Amazon conditions include:
 
@@ -26,9 +26,9 @@ Amazon requires a product listing to have a defined condition. If all your produ
 >
 >If you sell renewed (refurbished) products, you must enroll in the [!DNL Amazon Renewed Program]. See [Renewed Products](./renewed-products.md).
 
-However, if your catalog contains products in different conditions (such as New, Used, Refurbished), you must choose **[!UICONTROL Assign Condition Using Product Attribute]**. This setting allows you to map your [!DNL Commerce] condition attribute and values to your Amazon listing's conditions.
+However, if your catalog contains products in different conditions (such as New, Used, and Refurbished), you must choose **[!UICONTROL Assign Condition Using Product Attribute]**. This setting allows you to map your [!DNL Commerce] condition attribute and values to your Amazon listing's conditions.
 
-During [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), you are encouraged to create a [!DNL Commerce] product attribute for a product's condition. If you offer products in various conditions and you have not created a condition attribute, see [Create a product attribute in [!DNL Commerce]](./ob-creating-magento-attributes.md). After the condition attribute is created, you can assign a condition value to each of your products in your [!DNL Commerce] catalog.
+During [Pre-setup tasks](./amazon-pre-setup-tasks.md), you are encouraged to create a [!DNL Commerce] product attribute for a product's condition. If you offer products in various conditions and you have not created a condition attribute, see [Create a product attribute in [!DNL Commerce]](./ob-creating-magento-attributes.md). After the condition attribute is created, you can assign a condition value to each of your products in your [!DNL Commerce] catalog.
 
 ## Configure settings
 
@@ -60,7 +60,7 @@ During [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), you are encouraged to cre
 |[!UICONTROL Condition Attribute]|The [!DNL Commerce] attribute that defines the condition for your products. Select the Magneto attribute you created to map to the Amazon condition attribute. In the [Pre-Setup Tasks example](./ob-creating-magento-attributes.md) recommends naming it as `Amazon Condition`. When chosen, additional fields appear for mapping the standard Amazon conditions.|
 |[!UICONTROL Additional Condition fields]|For each of the standard Amazon conditions, choose the corresponding condition. The options are the condition labels you added when you [created your Amazon condition attribute](./ob-creating-magento-attributes.md).<br><br>If you have products in the `Used` or `Collectible` condition but you do not distinguish further, you can map to a single `Used` or `Collectible` Amazon condition and leave the others blank. This method maps all `Used` or `Collectible` conditions to the single Amazon Used or Collectible condition.|
 
-**Quick Access** - Listing Settings sections
+**Quick Access** - [!UICONTROL Listing Settings] sections
 
 - [[!UICONTROL Product Listing Actions]](./product-listing-actions.md)
 - [[!UICONTROL Third Party Listings]](./third-party-listing-settings.md)

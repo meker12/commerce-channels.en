@@ -19,7 +19,7 @@ The [!UICONTROL Amazon Sales Channel] extension installs and adds features to in
 
 ## Install
 
-The Amazon sales channel extension installs from a `.zip` file, which is available from the [!DNL Commerce Marketplace]. It includes a composer.json which provides the name `magento/amazon-sales-channel` and the available version.
+For more detailed information about this process, see the [extension installation](https://devdocs.magento.com/extensions/install/){target="_blank"} instructions in the developer documentation.
 
 1. Log in to the [Commerce Marketplace](https://marketplace.magento.com/customer/account/){target="_blank"}.
 
@@ -31,13 +31,7 @@ The Amazon sales channel extension installs from a `.zip` file, which is availab
 
 1. For the component name and version, click **[!UICONTROL Technical Details]**.
 
-1. Click **[!UICONTROL Download]**.
-
-1. Export the contents to your Magento root.
-
-1. Follow all instructions for [extension installation](https://devdocs.magento.com/extensions/install/){target="_blank"} in the developer documentation.
-
-1. Update the services connector entry in your `composer.json` file.
+1. Use the name and version information to update the services connector entry in your `composer.json` file.
 
    -  Add the extension's name and version to your composer.json file.
 
@@ -50,6 +44,8 @@ The Amazon sales channel extension installs from a `.zip` file, which is availab
    -  Enter your [authentication keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"}. Your public key is your username; your private key is your password.
 
    -  Wait for Composer to finish updating your project dependencies and ensure that there are no errors.
+
+1. [Verify the extension](https://devdocs.magento.com/extensions/install/#verify-the-extension){target="_blank"}.
 
 ## Add the Amazon sales channel API key
 
@@ -69,9 +65,9 @@ You have the following options for configuring the Amazon sales channel. You do 
 
    Options include `Once Daily`, `Once Weekly`, and `Once Monthly` (default).
 
-1. For **Background Tasks (CRON) Source**, leave the `Magento CRON` setting.
+1. (Optional) For **Background Tasks (CRON) Source**, change the setting to `Command Line (CLI) CRON`.
    
-   **_Advanced users recommendation_** - Advanced users can change this setting to Command Line (CLI) CRON.
+   This is setting is recommended for **_advanced users/administrators_**. 
 
 1. Click **[!UICONTROL Save Config]**.
 
@@ -87,6 +83,4 @@ You have the following options for configuring the Amazon sales channel. You do 
 
 1. For the component name and version, click **[!UICONTROL Technical Details]**.
 
-1. Click **[!UICONTROL Download]**.
-
-Complete the [extension upgrade instructions](https://devdocs.magento.com/extensions/install/#upgrade-an-extension){target="_blank"} in the developer documentation.
+1. Complete the [extension upgrade instructions](https://devdocs.magento.com/extensions/install/#upgrade-an-extension){target="_blank"} in the developer documentation.

@@ -41,13 +41,13 @@ You can create different conditions by changing the combination of these values.
 
 1. To show available attributes for which the condition applies, click the Add (![Add icon](assets/btn-add-grn.png)) icon at the beginning of the condition line and select an attribute on which to base the condition.
 
-   **Conditions Combination** -  Choose to create another set of `All/Any` and `True/False` conditions inside the existing condition.
+   **[!UICONTROL Conditions Combination]** -  Choose to create another set of `All/Any` and `True/False` conditions inside the existing condition.
 
    ![Price rule conditions combination](assets/ob-conditions-combinations.png)
 
-   **Product Attribute** - The available product attributes depend on the [setup of the attribute](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}. For an attribute to show in the list, *[!UICONTROL Use for Promo Rule Conditions]* for the attribute must be set to `Yes` in your [Storefront Properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}.
+   **[!UICONTROL Product Attribute]** - The available product attributes depend on the [setup of the attribute](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}. For an attribute to show in the list, *[!UICONTROL Use for Promo Rule Conditions]* for the attribute must be set to `Yes` in your [storefront properties](https://docs.magento.com/user-guide/stores/attribute-product-create.html){:target="_blank"}.
 
-   - For **Product Attribute**, choose the attribute that you want to define as the base of the condition. For this example, the selected condition is `Category`.
+   - For **[!UICONTROL Product Attribute]**, choose the attribute that you want to define as the base of the condition. For this example, the selected condition is `Category`.
 
       ![Price rule condition - line 2, part 2](assets/ob-price-rule-condition-2.png)
 
@@ -61,7 +61,7 @@ You can create different conditions by changing the combination of these values.
 
    - Click **[!UICONTROL ...]** and choose the attribute value upon which the condition is based. The options depend on the attribute's setup.
 
-      You might be prompted to select an option or enter a value for the condition. For this example, the field appears blank. To select your category(ies) for the rule, click the chooser icon (![Chooser icon](assets/btn-chooser.png)) to show your selection options. This rule is for Books, select the **Books** checkbox. The category number populates. To accept your category selections, click the green check mark icon (![Check mark icon](assets/btn-check-mark-green.png)).
+      You might be prompted to select an option or enter a value for the condition. For this example, the field appears blank. To select your category(ies) for the rule, click the chooser icon (![Chooser icon](assets/btn-chooser.png)) to show your selection options. This rule is for _Books_, select the **[!UICONTROL Books]** checkbox. The category number populates. To accept your category selections, click the green check mark icon (![Check mark icon](assets/btn-check-mark-green.png)).
 
       ![Price rule condition - line 2, part 3](assets/ob-price-rule-condition-3.png)
 

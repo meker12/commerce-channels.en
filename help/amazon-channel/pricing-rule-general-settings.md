@@ -29,7 +29,7 @@ Define the name, description, active dates, and priority for the rule.
 
    You can also click the calendar icon to select a date from the dynamic calendar. This automatic start and stop option is beneficial when setting up limited-time or seasonal promotions with definite begin and end dates.
 
-1. For **[!UICONTROL Priority]**, enter a numerical value for the rule's priority.
+1. For **[!UICONTROL Priority]**, enter a numerical value for the rule priority.
 
    Priority value equal to `1` is the highest priority. When you have multiple active pricing rules, you can use this priority value to determine which rule is applied first. This field is required to use the _[!UICONTROL Discard Subsequent Rules]_ feature.
 

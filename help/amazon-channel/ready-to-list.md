@@ -1,25 +1,25 @@
 ---
 title: Ready to List
-description: Amazon Sales Channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
+description: The Amazon sales channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
 ---
 
-# Ready to List
+# [!UICONTROL Ready to List]
 
-The _Ready to List_ tab shows your [!DNL Commerce] catalog products that meet your listing settings and are ready to publish to Amazon as a **new** listing. Unlike other listing tabs, this tab does not always appear on the [_Product Listings_](./managing-product-listings.md) page.
+The _[!UICONTROL Ready to List]_ tab shows your [!DNL Commerce] catalog products that meet your listing settings and are ready to publish to Amazon as a **new** listing. Unlike other listing tabs, this tab does not always appear on the [_[!UICONTROL Product Listings]_](./managing-product-listings.md) page.
 
-The _Ready to List_ tab appears only when [**Automatic List Action**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`. This setting tells [!DNL Amazon Sales Channel] that any new Amazon listings must be published manually.
+The _[!UICONTROL Ready to List]_ tab appears only when [**[!UICONTROL Automatic List Action]**](./product-listing-actions.md) in your listing settings is set to `Do Not Automatically List Eligible Products`. This setting tells Amazon sales channel that any new Amazon listings must be published manually.
 
-When [**Automatic List Action**](./product-listing-actions.md) is set to `Automatically List Eligible Products`, [!DNL Amazon Sales Channel] automatically publishes new listings for your eligible catalog products. Because new listings are published automatically, the _Ready to List_ tab is not displayed.
+When [**[!UICONTROL Automatic List Action]**](./product-listing-actions.md) is set to `Automatically List Eligible Products`, Amazon sales channel automatically publishes new listings for your eligible catalog products. Because new listings are published automatically, the _[!UICONTROL Ready to List]_ tab is not displayed.
 
-Under _Actions_:
+Under _[!UICONTROL Actions]_:
 
-- **Publish Product to Amazon**: Choose to republish the listing to the [!DNL Amazon Marketplace]. See [Publish an Amazon Listing](./publish-listings-manually.md)
+- **[!UICONTROL Publish Product to Amazon]**: Choose to republish the listing to the [!DNL Amazon Marketplace]. See [Publish an Amazon Listing](./publish-listings-manually.md)
 
-Under **Select** in the _Action_ column:
+Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
-- **Publish On Amazon**: Choose to republish the listing to the [!DNL Amazon Marketplace]. See [Publish an Amazon Listing](./publish-listings-manually.md).
+- **[!UICONTROL Publish On Amazon]**: Choose to republish the listing to the [!DNL Amazon Marketplace]. See [Publish an Amazon Listing](./publish-listings-manually.md).
 
-- **View Details**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
+- **[!UICONTROL View Details]**: Choose to view listing details, including the [Listing Activity Log](./product-listing-details.md#listing-activity-log), [Buy Box Competitor Pricing](./product-listing-details.md#buy-box-competitor-pricing), and [Lowest Competitor Pricing](./product-listing-details.md#lowest-competitor-pricing). This action is for viewing only. No changes can be made in the listing details. See [View Details](./product-listing-details.md).
 
 You have a few options to manually [publish a new listing to Amazon](./publish-listings-manually.md).
 
@@ -32,14 +32,14 @@ You have a few options to manually [publish a new listing to Amazon](./publish-l
 
 |Column|Description|
 |---|---|
-|Amazon Seller SKU|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer.|
-|ASIN|A unique block of 10 letters and/or numbers that identify items.<br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item.|
-|Product Listing Name|The name of the product.|
-|[Condition](./product-listing-condition.md)|The condition of the product.|
-|Landed Price|The listing price for the product plus its shipping price.|
-|Amazon Quantity|The quantity available when the product is actively listed on Amazon.|
-|Status|The status of the listing, defined by Amazon.|
-|Action|List of available actions that can be applied to a specific listing. To apply an action, click **Select** in the _Action_ column to show your options:<ul><li>[Publish on Amazon](./publish-listings-manually.md)</li><li>[View Details](./product-listing-details.md)</li></ul>|
+|[!UICONTROL Amazon Seller SKU]|The SKU (Stock Keeping Unit) assigned by Amazon to a product to identify the product, options, price, and manufacturer.|
+|[!UICONTROL ASIN]|A unique block of 10 letters and/or numbers that identify items.<br><br>ASIN stands for the [!DNL Amazon Standard Identification Number]. An ASIN is a unique block of 10 letters and/or numbers that identify items. For books, the ASIN is the same as the ISBN number, but for all other products a new ASIN is created when the item is uploaded to their catalog. You can find an items ASIN on the product detail page on Amazon, along with further details relating to the item.|
+|[!UICONTROL Product Listing Name]|The name of the product.|
+|[!UICONTROL Condition]|The [condition](./product-listing-condition.md) of the product.|
+|[!UICONTROL Landed Price]|The listing price for the product plus its shipping price.|
+|[!UICONTROL Amazon Quantity]|The quantity available when the product is actively listed on Amazon.|
+|[!UICONTROL Status]|The status of the listing, defined by Amazon.|
+|[!UICONTROL Action]|List of available actions that can be applied to a specific listing. To apply an action, click **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column and choose an option:<ul><li>[[!UICONTROL Publish on Amazon]](./publish-listings-manually.md)</li><li>[[!UICONTROL View Details]](./product-listing-details.md)</li></ul>|
 
 ### Common causes of Ready to List listings
 

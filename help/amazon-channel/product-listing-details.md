@@ -18,9 +18,9 @@ The _[!UICONTROL Product Listing Details]_ page shows additional information on 
 
 The displayed product information includes:
 
-- _Amazon Name_
-- _Catalog (Magento) SKU_
-- _Amazon Seller SKU_
+- _[!UICONTROL Amazon Name]_
+- _[!UICONTROL Catalog (Magento) SKU]_
+- _[!UICONTROL Amazon Seller SKU]_
 
 ![Listing details](assets/amazon-product-listing-details.png)
 

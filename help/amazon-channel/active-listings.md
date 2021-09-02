@@ -35,7 +35,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 ![Active Listings](assets/amazon-active-listings.png)
 
-[!DNL Amazon sales channel] home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 |Column|Description|
 |--- |--- |

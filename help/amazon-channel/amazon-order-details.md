@@ -36,7 +36,7 @@ The _[!UICONTROL Order and Shipping Details]_ tab shows detailed order informati
 
 >[!IMPORTANT]
 >
->Amazon accepts non-standard address information that cannot be imported into [!DNL Amazon Sales Channel], thus preventing the state/country codes from updating correctly for some orders. To correct address errors, the following fields are editable in the order details:
+>Amazon accepts non-standard address information that cannot be imported into Amazon sales channel, thus preventing the state/country codes from updating correctly for some orders. To correct address errors, the following fields are editable in the order details:
 >
 >- `Shipping address 1`
 >- `Shipping address 2`

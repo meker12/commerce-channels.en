@@ -5,13 +5,13 @@ description: Use the logs and store reports to see what is happening in your Ado
 
 # Logs and store reports
 
-The [!DNL Amazon sales channel] extension includes some valuable logs and store reports that allow you to view the changes that are affecting your Amazon listings and orders. You can use these reports to see what is happening in your store and to understand various listing statuses.
+The Amazon sales channel extension includes some valuable logs and store reports that allow you to view the changes that are affecting your Amazon listings and orders. You can use these reports to see what is happening in your store and to understand various listing statuses.
 
 No actions are available for the logs or store reports, as they are review-only features.
 
 The following logs can be accessed from the [store dashboard](./amazon-store-dashboard.md).
 
-- The [Listing Changes Log](./listing-changes-log.md) shows the changes that have occurred in your Amazon Seller Account as a reflection of your [!DNL Amazon Sales Channel] settings.
+- The [Listing Changes Log](./listing-changes-log.md) shows the changes that have occurred in your Amazon Seller Account as a reflection of your Amazon sales channel settings.
 
 - The [Communication Errors Log](./communication-errors-log.md) shows any reported communication errors with Amazon.
 
@@ -23,4 +23,4 @@ The following store-specific reports can be accessed from the [store dashboard](
 
 >[!TIP]
 >
->You can also check the log file for additional information when troubleshooting is needed. See [sales channel Admin settings](./sales-channel-settings.md). [!DNL Amazon sales channel] synchronization logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){target="_blank"}.
+>You can also check the log file for additional information when troubleshooting is needed. See [sales channel Admin settings](./sales-channel-settings.md). Amazon sales channel synchronization logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){target="_blank"}.

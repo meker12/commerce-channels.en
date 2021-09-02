@@ -31,7 +31,7 @@ Amazon offers two options for order fulfillment and shipping:
 
 - **Fulfilled by Amazon (FBA)**: Third-party sellers store inventory in Amazon's fulfillment centers around the world. When a customer places an order, Amazon handles the packaging and shipping to the customer. Order details and status are sent to Adobe Commerce or Magento Open Source.
 
-The [!DNL Amazon sales channel] extension supports both options, receiving and tracking these orders. As you complete fulfillment, order statuses update automatically. See [Fulfillment Workflows](./fulfillment-workflows.md).
+The [!DNL Amazon Sales Channel] extension supports both options, receiving and tracking these orders. As you complete fulfillment, order statuses update automatically. See [Fulfillment Workflows](./fulfillment-workflows.md).
 
 ## Before selling on Amazon
 

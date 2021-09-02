@@ -1,6 +1,6 @@
 ---
 title: Update Required Info (Incomplete Listing)
-description: [!DNL Amazon sales channel] provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
+description: Amazon sales channel provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
 ---
 
 # Update Required Info (incomplete listing)

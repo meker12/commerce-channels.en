@@ -15,7 +15,7 @@ Listing rules can be defined during onboarding, but can also be modified at any 
 
 1. Click **[!UICONTROL Preview and List Eligible Products]**.
 
-   The _Listing Rules_ page appears.
+   The _[!UICONTROL Listing Rules]_ page appears.
 
 1. Define your desired conditions for the eligibility of products to be listed on Amazon and click **[!UICONTROL Preview changes]**, or click **[!UICONTROL Preview changes]** to skip this step.
 
@@ -41,10 +41,10 @@ Listing rules can be defined during onboarding, but can also be modified at any 
 
 After onboarding a store is complete, the information sync between [!DNL Commerce] and Amazon is initiated. Your Amazon listings are imported into [!DNL Commerce] and attempt to match with products in your [!DNL Commerce] Catalog.
 
-You can view your Amazon order information in the _Recent Orders_ section of the store dashboard. See [Store Dashboard](./amazon-store-dashboard.md) or [Manage Orders](./managing-orders.md).
+You can view your Amazon order information in the _[!UICONTROL Recent Orders]_ section of the store dashboard. See [Store Dashboard](./amazon-store-dashboard.md) or [Manage Orders](./managing-orders.md).
 
 >[!IMPORTANT]
 >
->There are some important store settings (listings, pricing, rules, fulfillment, more) that have default values for a new store. To ensure that your store is set up for your specific needs, review your [Store Settings](./default-store-settings.md) .
+>There are some important store settings (listings, pricing, rules, fulfillment, more) that have default values for a new store. To ensure that your store is set up for your specific needs, review your [store settings](./default-store-settings.md) .
 
 ![Next icon](assets/btn-next.png) [**Continue to Default Store Settings**](./default-store-settings.md)
