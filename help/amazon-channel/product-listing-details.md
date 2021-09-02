@@ -12,7 +12,7 @@ The _[!UICONTROL Product Listing Details]_ page shows additional information on 
 - **[!UICONTROL Buy Box Competitor Pricing]** - Data for Amazon's [[!DNL Buy Box]](./buy-box-competitor-pricing.md) status and competitor pricing
 - **[!UICONTROL Lowest Competitor Pricing]** - Information about the lowest Amazon competitor's pricing and feedback information
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 ## Listing details
 

@@ -5,7 +5,7 @@ description: To manage logging, cron source, and synchronization for Amazon sale
 
 # Sales Channel settings
 
-When the [!DNL Amazon Sales Channel] extension is installed, default values are set in the Admin for [!DNL Amazon Sales Channel]. These settings can be modified in your configuration settings for your Amazon store. These settings include:
+When the [!DNL Amazon Sales Channel] extension is installed, default values are set in the Admin for Amazon sales channel. These settings can be modified in your configuration settings for your Amazon store. These settings include:
 
 - Intervals for clearing Activity Log history
 - Cron source selection
@@ -27,11 +27,11 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
 1. For **[!UICONTROL Background Tasks (CRON) Source]**, choose `Magento CRON`.
 
-   This option allows [!DNL Amazon Sales Channel] to use your [!DNL Commerce] [Cron](https://docs.magento.com/user-guide/system/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
+   This option allows Amazon sales channel to use your [!DNL Commerce] [Cron](https://docs.magento.com/user-guide/system/cron.html) settings to determine communication and data sync intervals with [!DNL Amazon Seller Central].
 
 1. For **[!UICONTROL Enable Debug Logging]**, choose `Enabled` to collect additional synchronization data when troubleshooting is needed.
 
-   [!DNL Amazon Sales Channel] logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){:target="_blank"}. Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
+   Amazon sales channel logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){:target="_blank"}. Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
 
 1. Click **[!UICONTROL Save Config]**.
 

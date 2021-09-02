@@ -5,11 +5,11 @@ description: The Communication Errors Log displays any communication errors betw
 
 # Communication Errors Log
 
-The Communication Errors Log shows any reported communication errors with Amazon. Information includes the affected [!DNL Amazon Sales Channel] store, error code and brief description, and the date and time of the error.
+The Communication Errors Log shows any reported communication errors with Amazon. Information includes the affected Amazon sales channel store, error code and brief description, and the date and time of the error.
 
 No actions are available for the log. It is a review-only feature.
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 ![Communication Errors Log](assets/amazon-comm-errors-log.png)
 

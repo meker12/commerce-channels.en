@@ -6,7 +6,7 @@ description: View the activity for your Amazon stores from the Commerce Admin us
 # Amazon Store dashboard
 
 
-In the _[!UICONTROL Amazon Stores]_ view on [!DNL Amazon Sales Channel] home page, you can click **[!UICONTROL View Store]** on a store card to open the store dashboard.
+In the _[!UICONTROL Amazon Stores]_ view on Amazon sales channel home page, you can click **[!UICONTROL View Store]** on a store card to open the store dashboard.
 
 The store dashboard is the primary location for you to view the activity for each of your Amazon stores. With your [!DNL Amazon Seller] stores added and integrated, the orders and sales track through your store data view. On the dashboard, you can view revenue, track trends, and review sales data for your listings. Listings and sales are further grouped and tracked by listing type, including active, inactive, and in-progress.
 
@@ -38,7 +38,7 @@ The store dashboard also includes store data and links to settings or more infor
 
   - [**[!UICONTROL Logs]**](./amazon-logs-reports.md) - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
 
-  - [**[!UICONTROL Store integration settings]**](./store-integration-settings.md) - Review email and [!DNL Amazon Sales Channel] store name settings in the [!DNL Commerce Admin].
+  - [**[!UICONTROL Store integration settings]**](./store-integration-settings.md) - Review email and Amazon sales channel store name settings in the [!DNL Commerce] Admin.
 
 - **[!UICONTROL Store Listings]** - Shows a graphical representation for the store sales for the last 7 or 30 days along with lifetime sales data.
 

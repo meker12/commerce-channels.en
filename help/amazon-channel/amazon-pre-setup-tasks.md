@@ -47,7 +47,7 @@ It is also important to ensure that you have configured the following in your [!
 
 During onboarding, Amazon sales channel uses product attributes to match your existing Amazon listings (if applicable) to existing products in your [!DNL Commerce] catalog. After onboarding, these product attributes are used to publish your [!DNL Commerce] catalog items to an Amazon listing and to sync your product data between [!DNL Commerce] and Amazon.
 
-To have the highest number of [!DNL Commerce] products automatically match with Amazon listings, you should create a set of product attributes for your [!DNL Commerce] catalog. Before you set up your [!DNL Amazon Sales Channel] store, you should add [!DNL Commerce] product attributes to match these Amazon attributes, for example: ASIN, EAN, ISBN, UPC, or GCID. See [Create a product attribute in [!DNL Commerce]](./ob-creating-magento-attributes.md).
+To have the highest number of [!DNL Commerce] products automatically match with Amazon listings, you should create a set of product attributes for your [!DNL Commerce] catalog. Before you set up your Amazon sales channel store, you should add [!DNL Commerce] product attributes to match these Amazon attributes, for example: ASIN, EAN, ISBN, UPC, or GCID. See [Create a product attribute in [!DNL Commerce]](./ob-creating-magento-attributes.md).
 
 ## 6. Configure your currency and conversion (as needed)
 
@@ -63,11 +63,11 @@ To set up shipping methods that you want to offer for fulfilling your Amazon ord
 
 ## Additional configurations
 
-When your Amazon account is set up and active, there are several [!DNL Commerce] recommendations that help streamline the [!DNL Amazon Sales Channel] onboarding process.
+When your Amazon account is set up and active, there are several [!DNL Commerce] recommendations that help streamline the Amazon sales channel onboarding process.
 
 ### Review and note any products that you want to exclude
 
-You may not want some products to be listed on Amazon. [!DNL Amazon Sales Channel] has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility must have **[!UICONTROL Use for Promo Rule Conditions]** set to `Yes`. See the **[!UICONTROL Use for Promo Rule Conditions]** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
+You may not want some products to be listed on Amazon. Amazon sales channel has a listing rule engine that is used to determine which products are eligible for publishing to Amazon. [Listing rules](./listing-rules.md) allow you to select subsets of products to be published (or not published) to your [!DNL Amazon Seller Central] account, such as by category selection or by defining one or more product attributes. Like [!DNL Commerce] [catalog](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"} or [shopping cart](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"} price rules, product attributes used for Amazon listing eligibility must have **[!UICONTROL Use for Promo Rule Conditions]** set to `Yes`. See the **[!UICONTROL Use for Promo Rule Conditions]** in [Product Attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"}.
 
 ### Set your [!DNL Amazon Seller Central] region to inactive
 

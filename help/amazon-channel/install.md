@@ -1,25 +1,25 @@
 ---
-title: Install the Amazon sales channel
-description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller Accounts] and sell through the [!DNL Amazon Marketplace], download and install the Amazon sales channel extension.
+title: Install the extension
+description: To integrate your [!DNL Commerce] catalog with [!DNL Amazon Seller Accounts] and sell through the [!DNL Amazon Marketplace], download and install the Amazon Sales Channel extension.
 ---
 
-# Install the Amazon sales channel
+# Install the extension
 
 >[!IMPORTANT]
 >
->Only Amazon Sales Channel extension 4.0+ versions are supported for Adobe Commerce and Magento Open Source 2.4.x versions. If you are running a 2.3.x version, refer to the documentation for the [compatible Amazon sales channel release](https://docs.magento.com/user-guide/v2.3/sales-channels/amazon/amazon-sales-channel.html){target="_blank"}. For more information about version compatibility, see the [Availability](https://devdocs.magento.com/release/availability.html){target="_blank"} page in the developer documentation.
+>Only [!DNL Amazon Sales Channel] extension 4.0+ versions are supported for Adobe Commerce and Magento Open Source 2.4.x versions. If you are running a 2.3.x version, refer to the documentation for the [compatible Amazon sales channel release](https://docs.magento.com/user-guide/v2.3/sales-channels/amazon/amazon-sales-channel.html){target="_blank"}. For more information about version compatibility, see the [Availability](https://devdocs.magento.com/release/availability.html){target="_blank"} page in the developer documentation.
 
 The [!UICONTROL Amazon Sales Channel] extension installs and adds features to integrate your Commerce catalog with [!DNL Amazon Seller Accounts] to sell through the [!DNL Amazon Marketplace]. To review additional information, see the [Amazon Sales Channel](https://marketplace.magento.com/magento-module-amazon.html) page in [!DNL Commerce Marketplace] and the [release notes](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) in the developer documentation.
 
 ## Requirements
 
--  **Commerce instance**: The Amazon sales channel extension can be installed on instances with Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure versions 2.3.x or later. It is no longer supported on 2.1, 2.2, or 1.x releases.
+-  **Commerce instance**: The [!DNL Amazon Sales Channel] extension can be installed on instances with Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure versions 2.3.x or later. It is no longer supported on 2.1, 2.2, or 1.x releases.
 -  **Commerce web account**: You should have a Commerce web account, which is used to create and track an API key.
 -  **API key**: Create an Amazon sales channel API key through your Commerce web account. The following instructions include these steps.
 
 ## Install
 
-For more detailed information about this process, see the [extension installation](https://devdocs.magento.com/extensions/install/){target="_blank"} instructions in the developer documentation.
+For more detailed information about using Composer for this process, see the [extension installation](https://devdocs.magento.com/extensions/install/){target="_blank"} instructions in the developer documentation.
 
 1. Log in to the [Commerce Marketplace](https://marketplace.magento.com/customer/account/){target="_blank"}.
 
@@ -33,9 +33,9 @@ For more detailed information about this process, see the [extension installatio
 
 1. Use the name and version information to update the services connector entry in your `composer.json` file.
 
-   -  Add the extension's name and version to your composer.json file.
+   -  Add the extension's name and version to your `composer.json` file.
 
-   -  Navigate to your Commerce project directory and update your composer.json file.
+   -  Navigate to your [!DNL Commerce] project directory and update your `composer.json` file.
 
      ```bash
      composer require magento/services-connector:~1.0.3

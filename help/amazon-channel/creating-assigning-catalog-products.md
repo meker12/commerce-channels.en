@@ -7,7 +7,7 @@ description: Amazon Sales Channel provides the [!UICONTROL New Third Party] tab 
 
 When viewing _[!UICONTROL New Third Party]_ tab, you can match your [!DNL Commerce] catalog products to an existing Amazon listing. There are two options for this matching. You can assign a listing to an existing catalog product, or you can use the information from the listing to create catalog products. These options are helpful when your Amazon listings do not automatically match to your [!DNL Commerce] catalog.
 
-Matching (or assigning) your products to your Amazon listings is necessary to use the full feature set of [!DNL Amazon Sales Channel].
+Matching (or assigning) your products to your Amazon listings is necessary to use the full feature set of Amazon sales channel.
 
 When you create a catalog product from an Amazon listing:
 
@@ -31,7 +31,7 @@ When created and matched, the listings remove from the _[!UICONTROL New Third Pa
 
 1. When the correct product appears in the list, click **[!UICONTROL Assign Catalog Product]** in the _[!UICONTROL Action]_ column.
 
-Your product and listing are now matched. [!DNL Amazon Sales Channel] can now share product and listing data with Amazon and manage your listing and its information, including listing price, shipping price, stock/quantity, order information and status, and more.
+Your product and listing are now matched. Amazon sales channel can now share product and listing data with Amazon and manage your listing and its information, including listing price, shipping price, stock/quantity, order information and status, and more.
 
 ## Create a single catalog product using the Amazon listing information
 

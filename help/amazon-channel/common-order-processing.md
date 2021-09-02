@@ -15,7 +15,7 @@ See [cancel an unshipped order](./cancel-unshipped-order.md).
 
 ![Amazon Order info in the Commerce order](assets/amazon-order-number-payment-info.png)
 
-When processing an Amazon order, [!DNL Amazon Sales Channel] updates and syncs the order information with your [!DNL Amazon Seller Central] account. Your cron settings determine how often order information is synced between Amazon and [!DNL Amazon Sales Channel].
+When processing an Amazon order, Amazon sales channel updates and syncs the order information with your [!DNL Amazon Seller Central] account. Your cron settings determine how often order information is synced between Amazon and Amazon sales channel.
 
 Common [!DNL Commerce] [order processing](https://docs.magento.com/user-guide/sales/order-processing.html){target="_blank"} tasks include:
 

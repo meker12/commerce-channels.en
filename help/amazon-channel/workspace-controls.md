@@ -5,7 +5,7 @@ description: Amazon Sales Channel provides workspace controls help you locate li
 
 # Workspace controls
 
-The [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages have the same control options.
+The Amazon sales channel [home page](./amazon-sales-channel-home.md) has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages have the same control options.
 
 ![Amazon Sales Channel workspace control examples](assets/amazon-workspace-controls.png)
 
@@ -59,7 +59,7 @@ If you want to delete or change the name of your custom view, click the pencil i
 
 ## Columns
 
-The Columns control allows you to add or remove columns of data from the page display. Each [!DNL Amazon Sales Channel] page has a preset combination of data columns, but most pages have additional columns available. If no additional columns are available, you can still remove default columns from display.
+The Columns control allows you to add or remove columns of data from the page display. Each Amazon sales channel page has a preset combination of data columns, but most pages have additional columns available. If no additional columns are available, you can still remove default columns from display.
 
 The following example shows a Columns control. The checked options correspond to the column headers that are shown on the page.
 

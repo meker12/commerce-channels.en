@@ -11,7 +11,7 @@ redirect_from:
 
 You can access the listing rules for store in the [store dashboard](./amazon-store-dashboard.md).
 
-Listing rules define the rules to determine which products [!DNL Amazon Sales Channel] publishes to Amazon. These rules provide many options to create simple to complex rules to include or exclude products as listings. Each rule consists of conditions that set the requirements for product listing eligibility.
+Listing rules define the rules to determine which products Amazon sales channel publishes to Amazon. These rules provide many options to create simple to complex rules to include or exclude products as listings. Each rule consists of conditions that set the requirements for product listing eligibility.
 
 Your listing rules are continually synchronized with your [!DNL Commerce] catalog. When you add new [!DNL Commerce] products that meet eligibility requirements set by your listing rules, the products are automatically processed for listing on Amazon.
 
@@ -37,7 +37,7 @@ See [Example: Define a Condition](./ob-define-condition-example.md).
 
 |Field|Description|
 |---|---|
-|[!UICONTROL Websites]|The available options depend on the [websites](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in [!DNL Amazon Sales Channel]. |
+|[!UICONTROL Websites]|The available options depend on the [websites](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"} you have set up in your [!DNL Commerce] configuration. Select the website for the eligible products listed on Amazon. Only one website can be selected, as each website requires a unique Amazon store created in Amazon sales channel. |
 |[!UICONTROL Conditions]|Used to define the [!DNL Commerce] attributes for product eligibility within your Amazon region. See [Example: Define a Condition](./ob-define-condition-example.md). |
 
 ## Conditions workspace

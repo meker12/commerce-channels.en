@@ -15,11 +15,11 @@ After integrating your store, review and configure the store integration setting
 
 1. For **[!UICONTROL Email Address]**, update your preferred contact email address.
 
-1. For **[!UICONTROL New Store Name]**, update the descriptive name for your new [!DNL Amazon Sales Channel] store. 
+1. For **[!UICONTROL New Store Name]**, update the descriptive name for your new Amazon sales channel store. 
 
    This name appears on the [_[!UICONTROL Amazon Stores]_](./managing-stores.md) tab.
 
-   It is used as a [!DNL Commerce] reference only and identifies the store in the list on the [!DNL Amazon Sales Channel] home page. It should be something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
+   It is used as a [!DNL Commerce] reference only and identifies the store in the list on the Amazon sales channel home page. It should be something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
 
 1. Click **[!UICONTROL Save]**.
 

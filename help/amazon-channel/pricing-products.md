@@ -7,7 +7,7 @@ redirect_from:
 
 # Manage Amazon pricing
 
-[!DNL Amazon Sales Channel] allows you to set pricing rules, which allow you to set your Amazon listing price different than the defined **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md). You can also stack multiple rules and even use the intelligent pricing to adjust your Amazon listing price based on competitors' [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or the [lowest competitor price](./lowest-competitor-pricing.md).
+Amazon sales channel allows you to set pricing rules, which allow you to set your Amazon listing price different than the defined **[!UICONTROL Magento Price Source]** in your [listing price](./listing-price.md). You can also stack multiple rules and even use the intelligent pricing to adjust your Amazon listing price based on competitors' [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or the [lowest competitor price](./lowest-competitor-pricing.md).
 
 There are two types of pricing rules:
 
@@ -40,7 +40,7 @@ You can create [standard pricing rules](./standard-price-rules.md) that automati
 
 Another powerful tool is the [Intelligent Repricing](./intelligent-repricing-rules.md) feature that adjusts your Amazon listing price based on competitor [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md). Similar to the [!DNL Commerce] [catalog price rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){:target="_blank"}, this advanced feature allows you to manipulate your Amazon prices by creating complex rules. Rules can define the scope for a price change for specific products, products inside of specific categories, or even with specific product attributes.
 
-Using intelligent repricing to adjust your Amazon listing prices, based on competitor's pricing. [!DNL Amazon Sales Channel] has built in safeguards for you to configure to protect margins or avoid matching the prices of a merchant with low feedback. Using [intelligent repricing rules](./intelligent-repricing-rules.md), Amazon listing prices can be automatically manipulated as a fixed or percentage amount (up or down) or even synchronized to the [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md) on a per item basis. Rules can even be stacked to provide unlimited flexibility.
+Using intelligent repricing to adjust your Amazon listing prices, based on competitor's pricing. Amazon sales channel has built in safeguards for you to configure to protect margins or avoid matching the prices of a merchant with low feedback. Using [intelligent repricing rules](./intelligent-repricing-rules.md), Amazon listing prices can be automatically manipulated as a fixed or percentage amount (up or down) or even synchronized to the [[!DNL Buy Box]](./buy-box-competitor-pricing.md) price or [Lowest Competitor Price](./lowest-competitor-pricing.md) on a per item basis. Rules can even be stacked to provide unlimited flexibility.
 
 You can control important aspects of rules, such as active/inactive status, website eligibility, optional date ranges, and optional priority levels (used for rule stacking).
 

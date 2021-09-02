@@ -1,6 +1,6 @@
 ---
 title: Price Priority Logic
-description: [!DNL Amazon Sales Channel] applies prioritization in determining the published price for an Amazon listing.
+description: Amazon sales channel applies prioritization in determining the published price for an Amazon listing.
 ---
 
 # Price priority logic

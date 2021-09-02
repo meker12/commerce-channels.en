@@ -32,7 +32,7 @@ See [Create and Edit Overrides](./creating-editing-overrides.md).
 
 ![Overrides tab](assets/amazon-overrides.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 ## Default columns
 

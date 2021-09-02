@@ -9,9 +9,9 @@ redirect_from:
 
 The third-party listing settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
-These settings determine if your [!DNL Commerce] catalog imports products from your existing [!DNL Amazon Seller Central] listings. It is a best practice to import listings from Amazon, to ensure that all listings have matching [!DNL Commerce] products. When your listings are part of your [!DNL Commerce] catalog, you can manage all of your products from a single catalog and use [!DNL Amazon Sales Channel] features. These features include fulfillment and order management with Amazon, intelligent repricing, and quantity management.
+These settings determine if your [!DNL Commerce] catalog imports products from your existing [!DNL Amazon Seller Central] listings. It is a best practice to import listings from Amazon, to ensure that all listings have matching [!DNL Commerce] products. When your listings are part of your [!DNL Commerce] catalog, you can manage all of your products from a single catalog and use Amazon sales channel features. These features include fulfillment and order management with Amazon, intelligent repricing, and quantity management.
 
-When configured to import your Amazon listings, [!DNL Amazon Sales Channel] imports your Amazon listings into your [!DNL Commerce] catalog, attempting to match them to existing products. If a match is not automatically found, you can import the Amazon listing as a new [!DNL Commerce] product or manually match the listing to a product.
+When configured to import your Amazon listings, Amazon sales channel imports your Amazon listings into your [!DNL Commerce] catalog, attempting to match them to existing products. If a match is not automatically found, you can import the Amazon listing as a new [!DNL Commerce] product or manually match the listing to a product.
 
 If you choose to import your Amazon listings, choose the [!DNL Commerce] attributes with values for Amazon Seller SKU and Amazon ASIN. If you do not have [!DNL Commerce] [product attributes](./ob-creating-magento-attributes.md), consider creating and assigning them. Mapping these attributes helps correctly match imported Amazon listings to your [!DNL Commerce] products.
 

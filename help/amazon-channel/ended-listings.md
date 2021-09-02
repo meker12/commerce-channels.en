@@ -29,7 +29,7 @@ For publishing listings, see [Manually Publish an Amazon Listing](./publish-list
 
 ![Ended Amazon listings](assets/amazon-ended-listings.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 |Column|Description|
 |--- |--- |

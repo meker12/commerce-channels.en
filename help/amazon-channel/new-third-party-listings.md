@@ -27,7 +27,7 @@ Under _[!UICONTROL Select]_:
 
 ![New third party listings](assets/amazon-listings-new-third-party.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 ## Default columns
 

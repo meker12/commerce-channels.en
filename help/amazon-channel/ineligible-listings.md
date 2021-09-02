@@ -1,6 +1,6 @@
 ---
 title: Ineligible Listings
-description: Amazon Sales Channel provides the Ineligible tab to help you manage items are not eligible as a listing based on your current listing rules.
+description: Amazon sales channel provides the [!UICONTROL Ineligible] tab to help you manage items are not eligible as a listing based on your current listing rules.
 ---
 
 # Ineligible listings
@@ -36,7 +36,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 ![Ineligible Amazon listings](assets/amazon-ineligible-listings.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 ## Default columns
 

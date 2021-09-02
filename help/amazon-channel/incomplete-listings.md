@@ -1,6 +1,6 @@
 ---
 title: Incomplete Listings
-description: Amazon Sales Channel provides the Incomplete tab to help you identify and meet eligibility requirements for your incomplete Amazon listings.
+description: Amazon sales channel provides the [!UICONTROL Incomplete] tab to help you identify and meet eligibility requirements for your incomplete Amazon listings.
 ---
 
 # Incomplete listings
@@ -37,7 +37,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 ![Incomplete Amazon listings](assets/amazon-incomplete-listings.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 |Column|Description|
 |--- |--- |

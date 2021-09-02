@@ -5,7 +5,7 @@ description: Go to the Amazon Stores view to quickly review basic statistics for
 
 # Amazon Stores view
 
-When viewing the [!DNL Amazon Sales Channel] home page, the _Amazon Stores_ view opens by default.
+When viewing the Amazon sales channel home page, the _Amazon Stores_ view opens by default.
 
 ![Amazon Stores view](assets/amazon-sales-channel-home-tabs.png)
 
@@ -25,13 +25,13 @@ When viewing the _[!UICONTROL Amazon Store]_ view, each store card allows you to
 
   - **[!UICONTROL Delete]** - Choose to delete a store that is no longer needed.
 
-      Choose when you wish to delete an existing Amazon store and its integration settings with your [!DNL Amazon Seller Central] account. Deleting the account removes the store from [!DNL Amazon Sales Channel], along with all account settings, listings, logs, and other information related to this store. The store cannot be retrieved after deletion, a new store must be created.
+      Choose when you wish to delete an existing Amazon store and its integration settings with your [!DNL Amazon Seller Central] account. Deleting the account removes the store from Amazon sales channel, along with all account settings, listings, logs, and other information related to this store. The store cannot be retrieved after deletion, a new store must be created.
 
 >[!NOTE]
 >To change the website assigned to the store during integration, you must delete the store and add the store again with the different website defined during store integration.
 
 |Store Card|Description|
 |--- |--- |
-|Top section|Includes: <br>The region icon for the store, defined during [store integration](./store-integration.md).<br> The assigned _[!UICONTROL Magento Website]_, defined during store integration.<br>The _[!UICONTROL Status]_ of your store. Options: **[!UICONTROL Active]** - Store integration is complete and verified with Amazon and is available for sales activity. **[!UICONTROL Inactive]** - Store integration is complete, but is not in use or available for sales activity. When `Inactive`, your Amazon sales are paused. When `Active`, sales revenue and additional settings save to update before activating.<br>The *[!UICONTROL Last Updated]* date of the most recent change to the Amazon store setup.<br>The *[!UICONTROL Created]* date when the Amazon store was created in [!DNL Amazon Sales Channel].|
+|Top section|Includes: <br>The region icon for the store, defined during [store integration](./store-integration.md).<br> The assigned _[!UICONTROL Magento Website]_, defined during store integration.<br>The _[!UICONTROL Status]_ of your store. Options: **[!UICONTROL Active]** - Store integration is complete and verified with Amazon and is available for sales activity. **[!UICONTROL Inactive]** - Store integration is complete, but is not in use or available for sales activity. When `Inactive`, your Amazon sales are paused. When `Active`, sales revenue and additional settings save to update before activating.<br>The *[!UICONTROL Last Updated]* date of the most recent change to the Amazon store setup.<br>The *[!UICONTROL Created]* date when the Amazon store was created in Amazon sales channel.|
 |Middle section|Includes a store activity summary chart for the last 30 days and includes and alert for any listings that need attention.|
 |Bottom section|Includes the View Store and Action options.<br>To open the store [dashboard](./amazon-store-dashboard.md), click **[!UICONTROL View Store]**.<br>To activate, deactivate, or delete a store, click **[!UICONTROL Actions]**. |

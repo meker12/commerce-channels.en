@@ -21,7 +21,7 @@ Store settings include:
 
 - **[!UICONTROL Logs]** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
 
-- [**[!UICONTROL Store integration settings]**](./store-integration-settings.md) - Review email and [!DNL Amazon Sales Channel] store name settings in the [!DNL Commerce] Admin.
+- [**[!UICONTROL Store integration settings]**](./store-integration-settings.md) - Review email and Amazon sales channel store name settings in the [!DNL Commerce] Admin.
 
 ## Some important default settings
 
@@ -33,7 +33,7 @@ Store settings include:
 |[!UICONTROL Magento Price Source]|`Price`|Defines the price source attribute used as the base for your Amazon listings. If you do not want to use the [!DNL Commerce] `Price` attribute as your base price to which your pricing rules are based, you should change this setting to a different attribute.|[Listing Price](./listing-price.md)|
 |[!UICONTROL Product Fulfilled By]|`Fulfilled by Merchant`|The merchant fulfills all orders. If you use Fulfillment by Amazon or use a mix of fulfillment methods, you should change this setting.|[Fulfilled by](./listing-price.md)|
 |[!UICONTROL Listing Product Condition]|`New`|If all your products are the same condition, you can select one of the Amazon condition options to represent all of your products. If your catalog contains products in different conditions (such as New, Used, and Refurbished), you must change this setting to `Assign Condition Using Product Attribute` and map your [!DNL Commerce] condition attributes to your Amazon listing conditions.|[Product Listing Condition](./product-listing-condition.md)|
-|[!UICONTROL Listing Rules]|none|Define the rules used to determine which products [!DNL Amazon Sales Channel] publishes to Amazon. These rules provide many options to create simple to complex rules to include or exclude products as listings.|[Listing Rules](./listing-rules.md)|
+|[!UICONTROL Listing Rules]|none|Define the rules used to determine which products Amazon sales channel publishes to Amazon. These rules provide many options to create simple to complex rules to include or exclude products as listings.|[Listing Rules](./listing-rules.md)|
 |Pricing Rules|none|Define your Amazon listing price attribute different than the defined _[!UICONTROL Magento Price Source]_ in your [Listing Price](./listing-price.md). To adjust your listing price (up or down) against your _[!UICONTROL Magento Price Source]_ setting, create rules.|[Pricing Rules](./pricing-products.md)|
 
 For more information, see [Store Settings](./ob-store-review.md).

@@ -1,6 +1,6 @@
 ---
 title: 'Onboarding: Create listing rule'
-description: While completing the [!DNL Amazon Sales Channel] onboarding process, create the initial listing rules for generating Amazon listings for your [!DNL Commerce] products.
+description: While completing the Amazon sales channel onboarding process, create the initial listing rules for generating Amazon listings for your [!DNL Commerce] products.
 ---
 
 # Onboarding: Create listing rule

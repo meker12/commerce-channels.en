@@ -1,11 +1,11 @@
 ---
 title: Store Settings
-description: After you complete the [!DNL Amazon Sales Channel] onboarding process, review and update the [!DNL Commerce] store settings.
+description: After you complete the Amazon sales channel onboarding process, review and update the [!DNL Commerce] store settings.
 ---
 
 # Store settings
 
-After you create and integrate your [!DNL Amazon Sales Channel] store, review your store default settings to ensure that your product, listing, pricing, and other settings are correct.
+After you create and integrate your Amazon sales channel store, review your store default settings to ensure that your product, listing, pricing, and other settings are correct.
 
 1. On the _Admin_ sidebar, go to **[!UICONTROL Marketing]** > _[!UICONTROL Channels]_ > **[!UICONTROL Amazon Sales Channel]**.
 
@@ -19,6 +19,6 @@ After you create and integrate your [!DNL Amazon Sales Channel] store, review yo
    - [**[!UICONTROL Pricing rules]**](./pricing-products.md) - Define how the Amazon list price is altered for qualified listings.
    - **[!UICONTROL Store reports]** - [Competitive price analysis](./competitive-price-analysis.md) and [listing improvements](./listing-improvements.md).
    - **[!UICONTROL Logs]** - [Listing changes](./listing-changes-log.md) and [communication errors](./communication-errors-log.md).
-   - [**[!UICONTROL Store integration setting]s**](./store-integration-settings.md) - Review email and [!DNL Amazon Sales Channel] store name settings in the [!DNL Commerce] Admin.
+   - [**[!UICONTROL Store integration setting]s**](./store-integration-settings.md) - Review email and Amazon sales channel store name settings in the [!DNL Commerce] Admin.
 
 ![Store dashboard](assets/ob-store-review.png)

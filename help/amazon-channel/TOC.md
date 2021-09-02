@@ -23,11 +23,11 @@ breadcrumb-title: channel manager for Adobe Commerce
   - [Create listing rule](ob-create-listing-rule.md)
   - [Default store settings](default-store-settings.md)
 - Manage the sales channel {#manage}
-  - [[!DNL Amazon sales channel] home](amazon-sales-channel-home.md)
+  - [Home page](amazon-sales-channel-home.md)
   - [Amazon stores](managing-stores.md)
   - [Workspace controls](workspace-controls.md)
   - [Learning and preparation](learning-preparation.md)
-  - Attributes {#attributes}
+  - Attributes
     - [View attributes](attributes-view.md)
     - [Manage attributes](managing-attributes.md)
     - [Create and edit attributes](creating-attributes.md)
@@ -50,7 +50,7 @@ breadcrumb-title: channel manager for Adobe Commerce
 - [Store Integration settings](store-integration-settings.md)
 - Listing and Pricing Rules {#rules}
   - [Listing rules](listing-rules.md)
-  - Pricing Rules {#pricing-rules}
+  - Pricing Rules
     - [Manage pricing](pricing-products.md)
     - [Add new pricing rule](add-pricing-rule.md)
     - [Price rule general settings](pricing-rule-general-settings.md)
@@ -66,20 +66,20 @@ breadcrumb-title: channel manager for Adobe Commerce
     - [Price priority logic](price-priority-logic.md)
     - [Buy Box competitor pricing](buy-box-competitor-pricing.md)
     - [Lowest competitor pricing](lowest-competitor-pricing.md)
-  - Examples {#rules-examples}
+  - Examples {#examples}
     - [Define a condition](ob-define-condition-example.md)
     - [Price rule examples](price-rule-examples.md)
 - Reports and logs {#reports-logs}
   - [Logs and store reports](amazon-logs-reports.md)
-  - Store Reports {#store-reports}
+  - Store Reports
     - [Competitive price analysis](competitive-price-analysis.md)
     - [Listing improvements](listing-improvements.md)
-  - Logs {#logs}
+  - Logs
     - [Listing Changes log](listing-changes-log.md)
     - [Communication Errors log](communication-errors-log.md)
 - Manage listings {#admin-listings}
   - [Manage Amazon listings](managing-product-listings.md)
-  - By status/tab {#status-tab}
+  - By status/tab
     - [Manage by status/tab](managing-listings-by-tab.md)
     - [Incomplete listings](incomplete-listings.md)
     - [New third party Listings](new-third-party-listings.md)
@@ -89,7 +89,7 @@ breadcrumb-title: channel manager for Adobe Commerce
     - [Overrides](overrides.md)
     - [Ineligible listings](ineligible-listings.md)
     - [Ended listings](ended-listings.md)
-  - By actions {#actions}
+  - By actions
     - [Manage by actions](managing-listings-by-action.md)
     - [Create and assign catalog products](creating-assigning-catalog-products.md)
     - [Create and edit overrides](creating-editing-overrides.md)

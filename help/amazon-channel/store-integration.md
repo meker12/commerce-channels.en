@@ -5,19 +5,19 @@ description: Before you start the onboarding process, you must create (add) an A
 
 # Store integration
 
-To get started with [!DNL Amazon Sales Channel], you must create (add) an [!DNL Amazon Sales Channel] store and connect it to your Amazon Seller Account. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
+To get started with Amazon sales channel, you must create (add) an Amazon sales channel store and connect it to your Amazon Seller Account. These two steps integrate your [!DNL Commerce] and Amazon accounts to share data, sync products, and more.
 
 _You need the primary log-in credentials for your [!DNL Amazon Seller Central] account (the email or phone used to create the seller account) to connect your store._
 
 >[!NOTE]
 >
->After your first store integration, you will be prompted annually to renew your [!DNL Amazon Sales Channel] connection to Amazon by granting access again. You can renew or revoke this authorization in the _Current Authorizations_ table in the _Amazon MWS Developer Permissions_ section of the **Settings** > **User Permissions** page of your Seller Central account.
+>After your first store integration, you will be prompted annually to renew your Amazon sales channel connection to Amazon by granting access again. You can renew or revoke this authorization in the _Current Authorizations_ table in the _Amazon MWS Developer Permissions_ section of the **Settings** > **User Permissions** page of your Seller Central account.
 
 ## Add an Amazon store
 
 1. On the _Admin_ sidebar, go to **Marketing** > _Channels_ > **Amazon Sales Channel**.
 
-    When adding your first [!DNL Amazon Sales Channel] store, the _Pre-Setup Tasks_ modal appears. After your first store is added, pre-setup tasks can be accessed on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page under _Learning and Preparation_ in the left-side menu.
+    When adding your first Amazon sales channel store, the _Pre-Setup Tasks_ modal appears. After your first store is added, pre-setup tasks can be accessed on the [Amazon sales channel home](./amazon-sales-channel-home.md) page under _Learning and Preparation_ in the left-side menu.
 
 1. Click **[!UICONTROL Add Amazon Store]**.
 
@@ -31,13 +31,13 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
 1. For **[!UICONTROL Email Address]**, enter your preferred contact email address.
 
-1. For **[!UICONTROL New Store Name]**, enter a descriptive name for your new [!DNL Amazon Sales Channel] store.
+1. For **[!UICONTROL New Store Name]**, enter a descriptive name for your new Amazon sales channel store.
 
    >[!NOTE]
    >
-   >This name is used as a [!DNL Commerce] reference only and identifies the store on the [[!DNL Amazon Sales Channel] home](./amazon-sales-channel-home.md) page. You want to make it something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
+   >This name is used as a [!DNL Commerce] reference only and identifies the store on the [Amazon sales channel home](./amazon-sales-channel-home.md) page. You want to make it something your team can easily identify. For example, your Amazon store that sells in the United States region might be named `Amazon Store USA`.
 
-1. For **[!UICONTROL Amazon Marketplace Country]**, choose the region/country in which this [!DNL Amazon sales channel] store sells products. Options:
+1. For **[!UICONTROL Amazon Marketplace Country]**, choose the region/country in which this Amazon sales channel store sells products. Options:
 
     - United States
     - Canada
@@ -56,7 +56,7 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
 1. Click **[!UICONTROL Connect]**.
 
-   The dialog closes and the new store appears on the [[!DNL Amazon sales channel] home](./amazon-sales-channel-home.md) page with a confirmation message.
+   The dialog closes and the new store appears on the [Amazon sales channel home](./amazon-sales-channel-home.md) page with a confirmation message.
 
 ## Connect a store to [!DNL Amazon Seller Central]
 
@@ -72,14 +72,14 @@ _You need the primary log-in credentials for your [!DNL Amazon Seller Central] a
 
 1. On the _[!UICONTROL You are almost done]_ message, click **[!UICONTROL Continue]**.
 
-   You have granted [!DNL Amazon sales channel] permission to access and share data with your [!DNL Amazon Seller Central] account. The Amazon page closes and a confirmation message appears.
+   You have granted Amazon sales channel permission to access and share data with your [!DNL Amazon Seller Central] account. The Amazon page closes and a confirmation message appears.
 
-   The [[!DNL Amazon sales channel] home](./amazon-sales-channel-home.md) page opens showing your Amazon store cards.
+   The [Amazon sales channel home](./amazon-sales-channel-home.md) page opens showing your Amazon store cards.
 
    To view the store dashboard, click **[!UICONTROL View Store]** on the store card.
 
 ![Amazon sales channel home with new store card](assets/asc-dashboard-after-2fa.png)
 
-Your new [!DNL Amazon sales channel] store is now connected to your [!DNL Amazon Seller Central] account.
+Your new Amazon sales channel store is now connected to your [!DNL Amazon Seller Central] account.
 
 ![Next icon](assets/btn-next.png) [**Continue to Create a Listing Rule**](./ob-create-listing-rule.md)

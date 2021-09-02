@@ -14,4 +14,4 @@ When a website price is chosen, there are two price sources:
 - The website price
 - The default (fall back) price
 
-For the [!DNL Amazon Sales Channel] integration, based on your [listing rules](./listing-rules.md), you can map products from multiple websites into a single [!DNL Amazon Marketplace] Country (defined during [store integration](./store-integration.md)). However, this mapping introduces the issue of which price should be published if the product exists on multiple websites with differing prices.
+For the Amazon sales channel integration, based on your [listing rules](./listing-rules.md), you can map products from multiple websites into a single [!DNL Amazon Marketplace] Country (defined during [store integration](./store-integration.md)). However, this mapping introduces the issue of which price should be published if the product exists on multiple websites with differing prices.

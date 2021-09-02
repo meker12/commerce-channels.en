@@ -109,6 +109,6 @@ Orders imported from Amazon can be managed in the [!DNL Commerce] [orders workfl
 |FBM|Out-of-stock|Shipped|No|No|
 
 >[!NOTE]
->If an Amazon order is imported in a `Partially Shipped` or `Shipped` status, the inventory reservation that is created is for all items in the order. [!DNL Amazon Sales Channel] does not compensate for items that have been previously shipped.
+>If an Amazon order is imported in a `Partially Shipped` or `Shipped` status, the inventory reservation that is created is for all items in the order. Amazon sales channel does not compensate for items that have been previously shipped.
 >
 >If an order is Fulfilled by Amazon (FBA) but an item is in `out of stock` status, [!DNL Commerce] is unable to create a corresponding order. This is a limitation of Inventory Management integrations.

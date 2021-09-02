@@ -11,7 +11,7 @@ _Catalog Search_ settings are part of your store listing settings. Listing setti
 
 These settings enable you to set attribute matching that help to map eligible [!DNL Commerce] products with Amazon listings. When mapped, Amazon activates actions related to pricing, quantity, overrides, and order and product synchronization.
 
-Defining these mapping values increases the potential for exact matches, minimizing the need to manually match product listings. Adding the attributes as part of your [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), [!DNL Amazon Sales Channel] has a higher potential for automatically matching your products during onboarding and syncs product data between Amazon and [!DNL Commerce].
+Defining these mapping values increases the potential for exact matches, minimizing the need to manually match product listings. Adding the attributes as part of your [Pre-Setup Tasks](./amazon-pre-setup-tasks.md), Amazon sales channel has a higher potential for automatically matching your products during onboarding and syncs product data between Amazon and [!DNL Commerce].
 
 If you only create the Amazon ASIN attribute (without adding ASIN values per product), your [!DNL Commerce] products might not automatically match your Amazon listings. You can [manually assign](./creating-assigning-catalog-products.md) your products. However, manual matching does not create the data elements required to share and sync your product data.
 

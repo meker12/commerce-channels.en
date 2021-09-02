@@ -1,6 +1,6 @@
 ---
 title: Inactive Listings
-description: Amazon Sales Channel provides the Inactive tab to monitor your currently inactive Amazon Marketplace listings.
+description: Amazon sales channel provides the [!UICONTROL Inactive] tab to monitor your currently inactive [!DNL Amazon Marketplace] listings.
 ---
 
 # Inactive listings
@@ -33,7 +33,7 @@ Under **[!UICONTROL Select]** in the _[!UICONTROL Action]_ column:
 
 ![Inactive Amazon listings](assets/amazon-inactive-listings.png)
 
-[!DNL Amazon Sales Channel] Home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
+Amazon sales channel home pages share some common [workspace controls](./workspace-controls.md) that allow you to customize the data that is displayed.
 
 |Column|Description|
 |--- |--- |

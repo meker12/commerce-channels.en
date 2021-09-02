@@ -9,7 +9,7 @@ redirect_from:
 
 Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).
 
-These settings define how your [!DNL Commerce] catalog products are listed on Amazon. Your listing settings consist of several categories that allow you to define the interactions and communication between [!DNL Amazon Sales Channel] and your respective [!DNL Amazon Seller Central] account.
+These settings define how your [!DNL Commerce] catalog products are listed on Amazon. Your listing settings consist of several categories that allow you to define the interactions and communication between Amazon sales channel and your respective [!DNL Amazon Seller Central] account.
 
 When configuring your listing settings, you determine some basic functional parameters:
 

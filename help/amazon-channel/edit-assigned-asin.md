@@ -12,7 +12,7 @@ When an assigned ASIN is changed:
 - [!DNL Commerce] ends your Amazon listings attached to the old ASIN
 - Validates the ASIN with Amazon
 - Creates a listing for the updated ASIN
-- Updates listing information in [!DNL Amazon Sales Channel]
+- Updates listing information in Amazon sales channel
 
 ## Edit an assigned ASIN
 

@@ -13,7 +13,7 @@ For example, imagine you have the same item in your [!DNL Commerce] catalog and 
 
 When attribute mapping is set up, [!DNL Commerce] can communicate product information back and forth with Amazon. If you have Amazon product listings, [!DNL Commerce] can import your Amazon products and details into your [!DNL Commerce] catalog, allowing you to manage your Amazon listings from a single, central catalog of products.
 
-[!DNL Amazon Sales Channel] allows you to access, review, create, and manage attributes, as needed, in the [_[!UICONTROL Attributes]_ view](./attributes-view.md) on the [!DNL Amazon Sales Channel] home page. If you add an attribute to your [!DNL Commerce] catalog, it could require an update of those values across all products.
+Amazon sales channel allows you to access, review, create, and manage attributes, as needed, in the [_[!UICONTROL Attributes]_ view](./attributes-view.md) on the Amazon sales channel home page. If you add an attribute to your [!DNL Commerce] catalog, it could require an update of those values across all products.
 
 For more information about [!DNL Commerce] and Amazon attribute sets and values, see:
 
