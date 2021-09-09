@@ -1,8 +1,8 @@
 ---
 title: Price Priority Logic
 description: Amazon sales channel applies prioritization in determining the published price for an Amazon listing.
+exl-id: 3aa5ce5e-bb8b-4f9e-ae95-d961565474bd
 ---
-
 # Price priority logic
 
 In the following example, how does the system determine if you should publish $31.99, $24.99, or $27.99?

@@ -1,8 +1,8 @@
 ---
 title: About Amazon Marketplace
 description: Expand the reach of your Adobe Commerce or Magento Open Source store by leveraging your product catalog as listings in the Amazon Marketplace.
+exl-id: d4943d40-773e-4635-aca4-ae40f8ada7bd
 ---
-
 # About [!DNL Amazon Marketplace]
 
 [[!DNL Amazon Marketplace]](https://sell.amazon.com/){target="_blank"} is an e-commerce platform owned and operated by Amazon that enables third-party sellers to sell new or used products. Using [!DNL Amazon Marketplace], third-party sellers gain access to Amazon's world-wide customer base. Merchants who list products on Amazon for sale, including Adobe Commerce or Magento Open Source users, are defined by Amazon as "third-party sellers."

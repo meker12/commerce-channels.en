@@ -1,8 +1,8 @@
 ---
 title: Pre-Setup Tasks
 description: Review the required tasks to be completed before integrating your Adobe Commerce or Magento Open Source store in Amazon Sales Channel.
+exl-id: eb9d9136-925f-4b20-9d65-b166173f434b
 ---
-
 # Pre-setup tasks
 
 Before [Store Integration](./store-integration.md), you must ensure that your [!DNL Amazon Seller Central] account and your [!DNL Commerce] account are ready for the integration. To successfully integrate, there are some required pre-setup tasks.

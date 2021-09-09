@@ -1,8 +1,8 @@
 ---
 title: 'Intelligent Repricing Rule: Select Rule Type'
 description: Determine your Amazon listing price according to competitor pricing by creating an intelligent repricing rule.
+exl-id: 2690323a-a076-484b-a437-adadb08094f5
 ---
-
 # Intelligent repricing rule: select rule type
 
 >[!IMPORTANT]

@@ -1,8 +1,8 @@
 ---
 title: Ready to List
 description: The Amazon sales channel provides the Ready to List tab to help you review Commerce products that meet eligibility but are not automatically listed.
+exl-id: f62017fb-964f-43f0-b76b-8f39f447466a
 ---
-
 # [!UICONTROL Ready to List]
 
 The _[!UICONTROL Ready to List]_ tab shows your [!DNL Commerce] catalog products that meet your listing settings and are ready to publish to Amazon as a **new** listing. Unlike other listing tabs, this tab does not always appear on the [_[!UICONTROL Product Listings]_](./managing-product-listings.md) page.

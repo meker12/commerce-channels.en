@@ -1,10 +1,10 @@
 ---
 title: Pricing Rule General Settings
 description: Use the price rule general settings to define the primary characteristics of a listing price rule.
-redirect_from:
-  - /sales-channels/asc/ob-pricing-rules-general-settings.html
+redirect_from: 
+  - /sales-channels/asc/ob-pricing-rules-general-settings.html: 
+exl-id: 915b3eed-997e-4f94-a23f-0553a9dfe30c
 ---
-
 # Pricing rule general settings
 
 Define the name, description, active dates, and priority for the rule.

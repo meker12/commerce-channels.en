@@ -1,10 +1,10 @@
 ---
 title: (B2B) Business Price
-description: You can list your [!DNL Commerce] store products on the Amazon Business (B2B) site by enabling business in your Amazon [!DNL Seller Central] account. 
-redirect_from:
-  - /sales-channels/asc/ob-business-pricing.html
+description: You can list your [!DNL Commerce] store products on the Amazon Business (B2B) site by enabling business in your Amazon [!DNL Seller Central] account.
+redirect_from: 
+  - /sales-channels/asc/ob-business-pricing.html: 
+exl-id: 12a6cb2d-7a22-4b6d-9e94-ce91d564f42f
 ---
-
 # (B2B) Business Price
 
 (B2B) Business Price settings are part of your store listing settings. Listing settings are accessed from the [store dashboard](./amazon-store-dashboard.md).

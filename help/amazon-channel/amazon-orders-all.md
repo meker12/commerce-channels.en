@@ -1,8 +1,8 @@
 ---
 title: View Amazon Orders
 description: View your Amazon Marketplace orders in the Adobe Commerce or Magento Open Source Admin.
+exl-id: d7811604-8e15-4d1a-a0e7-9fa61c61ef5d
 ---
-
 # View Amazon orders
 
 There are two ways to view your Amazon orders: _[!UICONTROL Recent Orders]_ and _[!UICONTROL All Orders]_.

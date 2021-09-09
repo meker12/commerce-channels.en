@@ -1,8 +1,8 @@
 ---
 title: Workspace Controls
 description: Amazon Sales Channel provides workspace controls help you locate listings, view information, and easily and apply actions.
+exl-id: 4f76b1d0-ae58-435b-bd6d-50155a023421
 ---
-
 # Workspace controls
 
 The Amazon sales channel [home page](./amazon-sales-channel-home.md) has some common workspace controls including Filters, Default View, Columns, and Export. Not all pages have the same control options.

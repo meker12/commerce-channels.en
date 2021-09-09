@@ -1,10 +1,10 @@
 ---
 title: Price Rule Conditions
 description: Use the price rule conditions to determine which products are eligible for the listing price rule.
-redirect_from:
-  - /sales-channels/asc/ob-pricing-rules-conditions.html
+redirect_from: 
+  - /sales-channels/asc/ob-pricing-rules-conditions.html: 
+exl-id: 39b03a2e-15c6-4c56-b0e0-7c6823e95fa8
 ---
-
 # Price rule conditions
 
 Conditions determine which products are eligible for the price rule. Defining the conditions for your Amazon pricing rules follow the same logic and process as defining the conditions for [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){:target="_blank"} in [!DNL Commerce].
