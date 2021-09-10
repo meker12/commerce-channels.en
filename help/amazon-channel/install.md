@@ -49,7 +49,7 @@ For more detailed information about using Composer for this process, see the [ex
 
 ## Add the Amazon sales channel API key
 
-After installing, enter an [API Key](./amazon-verify-api-key.md)) to complete configuration.
+After installing, enter an [API Key](./amazon-verify-api-key.md) to complete configuration.
 
 ## Set the Amazon channel configuration options
 
