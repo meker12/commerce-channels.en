@@ -4,10 +4,9 @@ product: magento
 type: Documentation
 audience: end-user
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/commerce-channels.en
+git-repo: https://github.com/AdobeDocs/commerce-channels.en
 role: User
-index: no
-hide: yes
+index: yes
 ---
 
 # Metadata for internal use
