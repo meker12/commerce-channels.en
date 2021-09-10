@@ -1,8 +1,8 @@
 ---
 title: Buy Box Competitor Pricing
 description: Amazon Sales Channel provides the [!UICONTROL Buy Box Competitor Pricing] tab to help you understand the price positioning of your competitors on Amazon.
+exl-id: 2d03565a-5246-435a-8da8-55b7e67c4ad8
 ---
-
 # [!DNL Buy Box] Competitor Pricing
 
 The [!DNL Buy Box] is awarded by Amazon to the seller who has the product listed usually at the best price, along with other factors such as FBA/Prime shipping offered, availability, and the seller's performance.

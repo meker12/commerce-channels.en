@@ -1,8 +1,8 @@
 ---
 title: Create an Alias Amazon Seller SKU
 description: You can use the Alias Amazon Seller SKU to create multi-regional Amazon listings from your Commerce catalog products.
+exl-id: df3cafbf-58df-4c93-9e63-20feb6f4e7ed
 ---
-
 # Create an Alias Amazon Seller SKU
 
 An [!DNL Alias Amazon Seller SKU] is used to create an Amazon listing from same product in your [!DNL Commerce] catalog. If you are an experienced Amazon seller, you may be familiar with the [Amazon Global SKU](https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201394090){target="_blank"} and Marketplace-specific SKU for inventory and shipping. Following similar principles for Amazon sales channel, the Amazon Seller SKU controls product listing information at multi-regional level, and the [!DNL Alias Amazon Seller SKU] can be used to control product listing information at a region-specific level.

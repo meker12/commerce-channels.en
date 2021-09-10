@@ -1,8 +1,8 @@
 ---
 title: 'Example: Define a Condition'
 description: When creating your listing rules, define conditions for identifying the Commerce catalog products to be listed on the Amazon Marketplace.
+exl-id: 8a48acfc-d31b-4919-bef7-8c300f0f9d94
 ---
-
 # Example: Define a Condition
 
 ## Conditions

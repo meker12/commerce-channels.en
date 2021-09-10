@@ -1,8 +1,8 @@
 ---
 title: 'Intelligent Repricing Rule: Floor Price'
 description: Use floor price settings to determine the lowest price for an intelligent pricing rule to manage your Amazon listings.
+exl-id: e00cac95-eef8-4d4d-b578-287a91f54bdf
 ---
-
 # Intelligent repricing rule: floor price
 
 Sections of an intelligent repricing rule include:

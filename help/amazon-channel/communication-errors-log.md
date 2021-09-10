@@ -1,8 +1,8 @@
 ---
 title: Communication Errors Log
 description: The Communication Errors Log displays any communication errors between Amazon and [!DNL Commerce].
+exl-id: 0d9f54ba-0fb7-4cd8-a18e-3335f37097a4
 ---
-
 # Communication Errors Log
 
 The Communication Errors Log shows any reported communication errors with Amazon. Information includes the affected Amazon sales channel store, error code and brief description, and the date and time of the error.

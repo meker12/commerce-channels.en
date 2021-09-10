@@ -1,8 +1,8 @@
 ---
 title: Update Required Info (Incomplete Listing)
 description: Amazon sales channel provides the Incomplete tab to monitor Commerce catalog products that are missing information required by Amazon.
+exl-id: f278cd50-8f04-452e-b9c2-c87820f9faf2
 ---
-
 # Update Required Info (incomplete listing)
 
 Listings displayed on the _[!UICONTROL Incomplete]_ tab include your [!DNL Commerce] catalog products that meet your Amazon eligibility requirements as defined in your listing rules but are missing information required by Amazon before listing.
