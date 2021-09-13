@@ -1,8 +1,7 @@
 ---
 title: Onboard Amazon Sales Channel
 description: Learn about the pre-setup tasks, onboarding steps, and how Amazon works with Amazon Sales Channel in Adobe Commerce and Magento Open Source.
-redirect_from: 
-  - /sales-channels/amazon/amazon-onboarding-home.html: 
+redirect_from: /sales-channels/amazon/amazon-onboarding-home.html
 exl-id: 99b64083-36e6-442e-9d20-4676e78ec3ae
 ---
 # Onboard Amazon sales channel
