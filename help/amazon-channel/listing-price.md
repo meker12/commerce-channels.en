@@ -1,8 +1,7 @@
 ---
 title: Listing Price
 description: Use the Listing Price settings to determine price source and the base (default) price value for your Amazon listings.
-redirect_from: 
-  - /sales-channels/asc/ob-listing-price.html: 
+redirect_from: sales-channels/asc/ob-listing-price.html
 exl-id: d97d81fa-c298-423f-9072-050ee72e707e
 ---
 # Listing Price

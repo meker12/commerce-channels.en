@@ -1,8 +1,7 @@
 ---
 title: Stock/Quantity
 description: To control syncing of product quantity details from your Commerce store to your [!DNL Amazon Seller Central] account, update the Stock/Quantity settings.
-redirect_from: 
-  - /sales-channels/asc/ob-stock-quantity.html: 
+redirect_from: /sales-channels/asc/ob-stock-quantity.html
 exl-id: a8b7ab6c-393c-43c6-b5ef-68845177edff
 ---
 # Stock/Quantity
