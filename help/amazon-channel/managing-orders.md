@@ -26,8 +26,8 @@ When an order is placed on Amazon and [order import](./order-settings.md) is ena
 |Change |Actions|
 |---|---|
 |An order is placed on Amazon. |<ul><li>Amazon sets the order status to `Pending`.</li><li>Order information is sent to [!DNL Commerce].</li><li>Order is added to [_Amazon orders_ table](./amazon-orders-all.md) with a `Pending` status.</li></ul>|
-|Amazon changes the order status to `Unshipped`. |<ul><li>The status change is sent to [!DNL Commerce].</li><li>In the [_Amazon orders_ table](./amazon-orders-all.md), the order status changes to `Unshipped`.</li><li>In the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"}, a corresponding [!DNL Commerce] order is created with a `Processing` status.</li></ul>|
-|In [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"}, the [!DNL Commerce] order is processed and the status changes to `Shipped`. |<ul><li>In the [_Amazon orders_ table](./amazon-orders-all.md), the order status changes to `Shipped`.</li><li>On the next cron job, the order status changes to `Complete` in the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){:target="_blank"}.</li></ul>|
+|Amazon changes the order status to `Unshipped`. |<ul><li>The status change is sent to [!DNL Commerce].</li><li>In the [_Amazon orders_ table](./amazon-orders-all.md), the order status changes to `Unshipped`.</li><li>In the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"}, a corresponding [!DNL Commerce] order is created with a `Processing` status.</li></ul>|
+|In [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"}, the [!DNL Commerce] order is processed and the status changes to `Shipped`. |<ul><li>In the [_Amazon orders_ table](./amazon-orders-all.md), the order status changes to `Shipped`.</li><li>On the next cron job, the order status changes to `Complete` in the [[!DNL Commerce] orders workflow](https://docs.magento.com/user-guide/sales/orders.html){target="_blank"}.</li></ul>|
 
 ### Order creation blockers
 
@@ -36,8 +36,8 @@ There are a few scenarios that prevent the creation of the corresponding [!DNL C
 |Scenario|Solution|
 |---|---|
 |The item does not exist in the [!DNL Commerce] catalog. |[Create the product](./creating-assigning-catalog-products.md) in your [!DNL Commerce] catalog and [manually match](./creating-assigning-catalog-products.md) it to the product. |
-|The item in the catalog is disabled. |Make sure that the [product status](https://docs.magento.com/user-guide/catalog/inventory-product-stock-options.html){:target="_blank"} is enabled. |
-|The ordered item is out of stock. |Update or configure the [product options](https://docs.magento.com/user-guide/catalog/inventory-product-stock-options.html){:target="_blank"} for quantity and source. |
+|The item in the catalog is disabled. |Make sure that the [product status](https://docs.magento.com/user-guide/catalog/inventory-product-stock-options.html){target="_blank"} is enabled. |
+|The ordered item is out of stock. |Update or configure the [product options](https://docs.magento.com/user-guide/catalog/inventory-product-stock-options.html){target="_blank"} for quantity and source. |
 
 When orders cannot be imported, a system message similar to the following appears at the top of the screen:
 
