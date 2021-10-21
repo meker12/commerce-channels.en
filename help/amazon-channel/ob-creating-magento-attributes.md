@@ -5,7 +5,7 @@ exl-id: eebad794-c171-40a3-aa24-d5509e2b5797
 ---
 # Create [!DNL Commerce] attributes for Amazon
 
-Before onboarding your [!DNL Amazon Seller Central] accounts, it is a best practice to add [!DNL Commerce] [product attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){:target="_blank"} to map your product listings. After you complete onboarding, you can manage your product attributes through the [Attributes](./managing-attributes.md) tab of the [Amazon sales channel home](./amazon-sales-channel-home.md) page.
+Before onboarding your [!DNL Amazon Seller Central] accounts, it is a best practice to add [!DNL Commerce] [product attributes](https://docs.magento.com/user-guide/stores/attributes-product.html){target="_blank"} to map your product listings. After you complete onboarding, you can manage your product attributes through the [Attributes](./managing-attributes.md) tab of the [Amazon sales channel home](./amazon-sales-channel-home.md) page.
 
 These instructions detail how to create [!DNL Commerce] attributes for Amazon ASIN and Amazon Condition. Creating additional attributes including Amazon EAN, Amazon ISBN, and Amazon UPC is recommended. You may want to also create an Amazon Price attribute if you want to use your Amazon listing price as a price source for pricing rules. These attributes are used when configuring your listing and pricing settings during onboarding. Also use these attributes when creating Amazon listings and when updating and syncing your [!DNL Commerce] catalog with your Amazon listings.
 
