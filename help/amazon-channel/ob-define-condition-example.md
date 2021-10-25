@@ -15,7 +15,7 @@ Any areas in the conditions that are bold can be clicked to see the various opti
 >
 >There is a complex set of back-end processes to communicate with Amazon's systems directly. Based on the number of items you are attempting to list, and how busy Amazon's systems might be (such as Black Friday), it could take time for your items to be listed on Amazon.
 
-See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html){:target="_blank"}.
+See the Conditions section of [Creating a Cart Price Rule](https://docs.magento.com/user-guide/marketing/price-rules-catalog-create.html){target="_blank"}.
 
 ## Define a condition
 
@@ -25,7 +25,7 @@ Conditions are based on existing product attribute values. To apply the rule to 
 
 >[!NOTE]
 >
->If you want to define a condition based on a specific product attribute, set the **[!UICONTROL Use for Promo Rule Conditions]** setting for the attribute to `Yes`. You can access this setting on the [Storefront Properties](https://docs.magento.com/user-guide/catalog/product-attributes-add.html){:target="_blank"} page for the attribute.
+>If you want to define a condition based on a specific product attribute, set the **[!UICONTROL Use for Promo Rule Conditions]** setting for the attribute to `Yes`. You can access this setting on the [Storefront Properties](https://docs.magento.com/user-guide/catalog/product-attributes-add.html){target="_blank"} page for the attribute.
 
 ![Condition - line 1](assets/ob-listing-rule-conditions-start.png)
 

@@ -26,7 +26,7 @@ The initial listing import initiates when [store integration](./store-integratio
 
     - `Import Listing` - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. This option is the default and is recommended.
 
-    - `Do Not Import Listing` - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){:target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.
+    - `Do Not Import Listing` - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.
 
    >[!NOTE]
    >The following options fields are only active when set to `Import Listing`.
@@ -44,7 +44,7 @@ The initial listing import initiates when [store integration](./store-integratio
 
 |Field|Description|
 |---|---|
-|[!UICONTROL Import Third Party Listings]|Required. Options:<ul><li>**[!UICONTROL Import Listing]** - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. </li><li>**[!UICONTROL Do Not Import Listing]** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){:target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.</li></ul>|
+|[!UICONTROL Import Third Party Listings]|Required. Options:<ul><li>**[!UICONTROL Import Listing]** - (Default) Choose when you want product information from your Amazon listings to import into your [!DNL Commerce] product catalog. </li><li>**[!UICONTROL Do Not Import Listing]** - Choose when you want to manually [create and assign new products](https://docs.magento.com/user-guide/catalog/products.html){target="_blank"} to your [!DNL Commerce] catalog for your Amazon listings.</li></ul>|
 |[!UICONTROL Attribute That Contains Amazon Seller SKU]|Only active when set to `Import Listing`.<br>Choose the [!DNL Commerce] attribute as a match to the Amazon attribute for the Amazon Seller SKU. If this attribute does not exist, see [Creating Amazon Product Attributes for Amazon Matching](./ob-creating-magento-attributes.md). If needed, review your [!DNL Commerce] [attributes](./managing-attributes.md) and create or edit an attribute to match to this Amazon data.|
 |[!UICONTROL Attribute That Contains Amazon ASIN]|Only active when set to `Import Listing`.<br>Choose the [!DNL Commerce] attribute that matches to the Amazon attribute for the Amazon ASIN. If this attribute does not exist, see [Creating Amazon Product Attributes for Amazon Matching](./ob-creating-magento-attributes.md). If needed, review your [!DNL Commerce] [attributes](./managing-attributes.md) and create or edit an attribute to match to this Amazon data.|
 

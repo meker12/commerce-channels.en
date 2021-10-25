@@ -31,5 +31,5 @@ This guide reviews some basic [!DNL Amazon Seller Central] information, the requ
 
 ## Additional Adobe Commerce documentation
 
-- [Adobe Commerce User Guide](https://docs.magento.com/user-guide/){:target="_blank"}
-- [Adobe Commerce Developer Guide](https://devdocs.magento.com/){:target="_blank"}
+- [Adobe Commerce User Guide](https://docs.magento.com/user-guide/){target="_blank"}
+- [Adobe Commerce Developer Guide](https://devdocs.magento.com/){target="_blank"}
