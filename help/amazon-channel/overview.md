@@ -1,6 +1,6 @@
 ---
-title: [!DNL Amazon Sales Channel] User Guide
-description: [!DNL Channel manager] for Adobe Commerce provides the Amazon sales channel extension to enable merchants to seamlessly sell products in the [!DNL Amazon Marketplace].
+title: "[!DNL Amazon Sales Channel] User Guide"
+description: "[!DNL Channel manager] for Adobe Commerce provides the Amazon sales channel extension to enable merchants to seamlessly sell products in the [!DNL Amazon Marketplace]."
 redirect_from: /sales-channels/amazon/amazon-sales-channel.html
 exl-id: a4a6f446-7029-4c92-bce3-5b857cc33056
 ---
