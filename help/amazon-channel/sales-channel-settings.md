@@ -33,6 +33,16 @@ When the [!DNL Amazon Sales Channel] extension is installed, default values are 
 
    Amazon sales channel logging is written to the `{Commerce Root}/var/log/channel_amazon.log` file and can be viewed in [developer mode](https://docs.magento.com/user-guide/magento/installation-modes.html){:target="_blank"}. Logging should only be `Enabled` during troubleshooting and should be `Disabled` when troubleshooting is complete.
 
+1. For **[!UICONTROL Read-Only Mode]**, select `Enabled` to block all outgoing state-changing API requests.
+   
+   With this setting, potential changes are saved, but not sent, until [!UICONTROL Read-Only Mode] is disabled. The configuration cache must be cleared for Read-Only Mode to enable. To start the data transfers again, select `Disabled`. 
+
+   >[!IMPORTANT]
+   >
+   >[!UICONTROL Read-Only Mode] is designed for copies of the Production instance, such as staging or QA, and should not be used on the production instance.
+   >
+   >When a database is migrated to a new copy of the instance (detected when a store’s URL changes in the configuration), [!UICONTROL Read-Only Mode] is automatically enabled.
+
 1. Click **[!UICONTROL Save Config]**.
 
 ![Sales Channel configuration settings](assets/config-sales-channel-global-settings.png)

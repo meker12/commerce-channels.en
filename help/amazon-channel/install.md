@@ -9,7 +9,7 @@ exl-id: ebf22e28-b6a2-420b-80ca-2d750839286c
 >
 >Only [!DNL Amazon Sales Channel] extension 4.0+ versions are supported for Adobe Commerce and Magento Open Source 2.4.x versions. If you are running a 2.3.x version, refer to the documentation for the [compatible Amazon sales channel release](https://docs.magento.com/user-guide/v2.3/sales-channels/amazon/amazon-sales-channel.html){target="_blank"}. For more information about version compatibility, see the [Availability](https://devdocs.magento.com/release/availability.html){target="_blank"} page in the developer documentation.
 
-The [!UICONTROL Amazon Sales Channel] extension installs and adds features to integrate your Commerce catalog with [!DNL Amazon Seller Accounts] to sell through the [!DNL Amazon Marketplace]. To review additional information, see the [Amazon Sales Channel](https://marketplace.magento.com/magento-module-amazon.html) page in [!DNL Commerce Marketplace] and the [release notes](https://devdocs.magento.com/extensions/amazon-sales/release-notes/) in the developer documentation.
+The [!UICONTROL Amazon Sales Channel] extension installs and adds features to integrate your Commerce catalog with [!DNL Amazon Seller Accounts] to sell through the [!DNL Amazon Marketplace]. To review additional information, see the [Amazon Sales Channel](https://marketplace.magento.com/magento-module-amazon.html) page in [!DNL Commerce Marketplace] and the [release notes](release-notes.md).
 
 ## Requirements
 
@@ -67,7 +67,7 @@ You have the following options for configuring the Amazon sales channel. You do 
 
 1. (Optional) For **Background Tasks (CRON) Source**, change the setting to `Command Line (CLI) CRON`.
    
-   This is setting is recommended for **_advanced users/administrators_**. 
+   This setting is recommended for **_advanced users/administrators_**. 
 
 1. Click **[!UICONTROL Save Config]**.
 
