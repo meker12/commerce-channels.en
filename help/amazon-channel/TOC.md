@@ -1,12 +1,14 @@
 ---
 user-guide-title: Amazon Sales Channel User Guide
 user-guide-description: Generate sales through Amazon by integrating Adobe Commerce or Magento Open Source with your [!DNL Amazon Seller Central] account.
-breadcrumb-title: Channel manager for Commerce
+breadcrumb-title: Amazon sales channel
 ---
 
 # Amazon sales channel - [!DNL channel manager] for Adobe Commerce {#amazon}
 
-- [Amazon sales channel](overview.md)
+- [Guide overview](guide-overview.md)
+- [Introduction to Amazon sales channel](overview.md)
+- [Release notes](release-notes.md)
 - Getting started {#getting-started}
   - [About Amazon sales channel](about-amazon-sales-channel.md)
   - [About Amazon Marketplace](about-amazon-marketplace.md)
