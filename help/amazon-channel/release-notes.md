@@ -1,5 +1,5 @@
 ---
-title: [!DNL Amazon Sales Channel] Release Notes
+title: "[!DNL Amazon Sales Channel] Release Notes"
 description: Review the release notes for information about all [!DNL Amazon Sales Channel] releases.
 ---
 # Release Notes
