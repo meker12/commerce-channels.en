@@ -114,7 +114,7 @@ Use these instructions to install on Adobe Commerce and Magento Open Source plat
     $ bin/magento maintenance:enable
    ```
 
-## Install on an Adobe Commerce on cloud infrastructure instance
+### Install on an Adobe Commerce on cloud infrastructure instance
 
 Work in a development branch when adding an extension to your cloud instance.
 

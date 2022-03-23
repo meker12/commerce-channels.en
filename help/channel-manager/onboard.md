@@ -12,6 +12,14 @@ After you complete onboarding, you can configure and manage sales channel operat
 
 ![[!DNL Channel Manager] option in Admin view](assets/channel-manager-admin-view.png)
 
+## Onboarding overview
+
+1. [Install the [!DNL Channel Manager] extension](install.md).
+
+1. [Configure the [!DNL Commerce Services Connector]](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
+
+1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect.md).
+
 ## Prerequisites
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires an ID and credentials from a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"} with Owner access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
@@ -49,11 +57,3 @@ After you complete onboarding, you can configure and manage sales channel operat
 - Adobe Commerce on Cloud (ECE) : 2.4.x
 - Adobe Commerce on premises (EE) : 2.4.x
 - Magento Open Source 2.4.x
-
-## Onboarding steps
-
-1. [Install the [!DNL Channel Manager] extension](install.md).
-
-2. [Configure the [!DNL Commerce Services Connector]](connect.md) to integrate Channel Manager with the Commerce instance, and other supporting services.
-
-3. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect.md).

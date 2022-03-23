@@ -2,9 +2,9 @@
 title: Connect sales channel to [!DNL Walmart Marketplace] 
 description: Configure the sales channel and connect to the marketplace.
 ---
-# Create the sales channel for Walmart Marketplace
+# Connect to [!DNL Walmart Marketplace]
 
-After installing Channel Manager on your [!DNL Commerce] instance, create the sales channel for Walmart Marketplace by connecting a Commerce store to the Walmart Marketplace.
+After installing Channel Manager on your [!DNL Commerce] instance, connect a Commerce store to Walmart Marketplace.
 
 1. Create the sales channel by selecting the Commerce store for product listings.
 
@@ -16,20 +16,20 @@ After installing Channel Manager on your [!DNL Commerce] instance, create the sa
 
 ## Select the Commerce store for the sales channel
 
-1. In the Admin, select [!UICONTROL Marketing > _Channels_ > Channel Manager].
+1. Open Channel Manager.
 
-   ![Connect Commerce store to [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/connect-commerce-store-to-marketplace.png)   
+   - In the Admin, select [!UICONTROL Marketing > _Channels_ > Channel Manager]. 
 
-1. Select [!UICONTROL Connect New Store].  
+   - Select [!UICONTROL Connect New Store].  
      
-   ![Connect Commerce store to [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/connect-commerce-store-to-marketplace.png)   
+     ![Connect Commerce store to [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/connect-commerce-store-to-marketplace.png)   
 
 
 1. Configure the store and connection:
 
    - Enter a unique [!UICONTROL store name].
 
-   - Select the [!UICONTROL Adobe Commerce store view] for product listings.
+   - Select the [!UICONTROL Adobe Commerce site] for product listings.
 
    - Add an [!UICONTROL email address] to receive service notifications related to [!DNL Channel Manager].
 
@@ -60,11 +60,11 @@ Connect the selected Commerce store to Walmart Marketplace by adding the Walmart
        
      When you add the values to [!DNL Channel Manager], Adobe hides the client secret and stores the value in a secure vault to maintain security.  
 
-1. [!UICONTROL Save] the configuration and connect to the marketplace.
+1. [!UICONTROL Save] the configuration to connect to Walmart.
 
-   After connecting the Commerce store to marketplace, you can manage it from [!UICONTROL Channel Manager > Marketplace Stores].
+   After connecting successfully, you can manage the channel from [!UICONTROL Channel Manager > Marketplace Stores].
 
-   ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png)
+   ![[!DNL Walmart Marketplace API key] configuration page](assets/manage-connected-stores.png)
 
 
 ### Troubleshoot connection issues
@@ -86,7 +86,7 @@ To complete store setup:
 
 1. From the Admin, select [!UICONTROL Marketing > Channel Manager] to open the Channel Manager Marketplace Stores page.
 
-   ![[!DNL Walmart Marketplace API key] configuration page](assets/walmart-api-key-management-form.png)
+   ![[!DNL Walmart Marketplace API key] configuration page](assets/connect-commerce-store-config.png)
 
 1. Open a connected sales channel by selecting the pencil icon in a store entry row.
 
