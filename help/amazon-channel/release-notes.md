@@ -20,11 +20,19 @@ These release notes describe the initial release of [!DNL Amazon sales channel] 
 
 See [Upcoming Releases](https://devdocs.magento.com/release/){target="_blank"} for versioning, support, and compatibility.
 
-## v4.4.2
+## v4.4.3
 
-[!DNL Amazon sales channel]  4.4.2 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure
+[!DNL Amazon sales channel]  4.4.3 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure.
 
 This version of [!DNL Amazon sales channel] includes the following fix.
+
+![Fix](../assets/fix.svg) Added support for Adobe Commerce 2.4.4.
+
+## v4.4.2
+
+[!DNL Amazon sales channel]  4.4.2 is compatible with Adobe Commerce versions 2.3.x and 2.4.0, but is only supported for versions 2.4.1+, of Magento Open Source, Adobe Commerce, and Adobe Commerce on cloud infrastructure.
+
+This version of [!DNL Amazon sales channel] includes the following fixes.
 
 ![Fix](../assets/fix.svg) Updated dependencies to support other updated extensions.
 ![Fix](../assets/fix.svg) Added support for PHP 8.1.
