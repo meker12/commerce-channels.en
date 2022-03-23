@@ -1,15 +1,14 @@
 ---
-title: Configure [!DNL Commerce Services Connector]
-description: Connect Channel Manager instance to the [!DNL Commerce instance] enable data synchronization and communication between the Commerce instance, Channel Manager, and other supporting services.
+title: Connect to Commerce Services
+description: Connect Channel Manager instance to [!DNL Commerce services] to enable data synchronization and communication between the Commerce instance, Channel Manager, and other supporting services.
 role: User
 level: Intermediate
 ---
+# Connect to Commerce Services
 
-# Configure the Commerce Services Connector
+The Commerce Services Connector integrates the Channel Manager service with Adobe Commerce and Magento Open Source instances. The connector enables data synchronization and communication between the [!DNL Commerce] instance, [!DNL Channel Manager], and other supporting services.
 
-The Commerce Services Connector integrates the Channel Manager service with Adobe Commerce and Magento Open Source instances. The connector enables data synchronization and communication between the Commerce instance, Channel Manager, and other supporting services.
-
- The Commerce Services Connector setup is a one-time process required to enable the integration between your Commerce instance and other [Commerce services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){_tra} like [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, you can skip this step.
+ The Commerce Services Connector setup is a one-time process required to integrate the Commerce instance with Adobe  [Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){target="_blank"}  Commerce services r Commerce instance and other [Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){target="_blank"}  like [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, you can skip this step.
 
 ## Prerequisites
 
