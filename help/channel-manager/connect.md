@@ -21,7 +21,13 @@ The Commerce Services Connector integrates the Channel Manager service with Adob
 
 ### Configure the Commerce Services Connector
 
-1. From the Admin, select**Stores** > _Settings_>**Configuration** > **Commerce Services > Services > Connector**
+1. Go to the Commerce Service Connector configuration.
+
+   - From the Admin, select [!UICONTROL Stores].
+
+   - Under *Settings*, select [!UICONTROL Configuration].
+
+   - On the [!UICONTROL Configuration] page, expand [!UICONTROL Services] and select [!UICONTROL Commerce Services Connector].
 
 1. Add Production API keys from your Adobe Commerce account.
 

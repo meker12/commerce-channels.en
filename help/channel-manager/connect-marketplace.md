@@ -2,8 +2,6 @@
 title: Connect sales channel to [!DNL Walmart Marketplace] 
 description: Configure the sales channel and connect to the marketplace.
 ---
-
-
 # Create the sales channel for Walmart Marketplace
 
 After installing Channel Manager on your [!DNL Commerce] instance, create the sales channel for Walmart Marketplace by connecting a Commerce store to the Walmart Marketplace.

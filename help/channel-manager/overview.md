@@ -34,7 +34,6 @@ This release supports the following capabilities to manage sales channel operati
 The data synchronization processes between [!DNL Channel Manager] and a linked [!DNL Walmart Marketplace] store require some time to complete. Review the expected processing time for [!DNL Channel Manager] operations to help plan sales channel operations work.
 
 **Estimated latency for Channel Manager operations**
-
 | **Operation**                              | **Description**                                                                                                                               | **Expected delay**                                                                                                        |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Add products to Channel Manager            | Select products from the Commerce product catalog and import them into Channel Manager.                                                       | **Up to 5 minutes**–If you select many products, for example, an entire product catalog, the import process takes longer. |
@@ -63,7 +62,7 @@ You need the following information from Walmart to integrate Commerce with the W
 
 1. Go to Walmart Marketplace to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
 
-2. Create the key and configure permissions: the following permissions for the API key
+1. Create the key and configure permissions: the following permissions for the API key
 
    * Select Adobe as the solution provider.
    
