@@ -158,16 +158,16 @@ When installing an extension, the extension name (&lt;VendorName>\_&lt;Component
 
 1. After installation completes successfully, log in to the [!UICONTROL Admin] to [configure the Commerce Services Connector](connect.md).
 
->[!NOTE]
->
->For instructions to update Channel Manager to a new release, see [Upgrade modules and extensions](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/modules/upgrade.html){target="_blank"}.
+   >[!NOTE]
+   >
+   >For instructions to update Channel Manager to a new release, see [Upgrade modules and extensions](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/modules/upgrade.html){target="_blank"}.
 
 
-### Troubleshooting
+## Troubleshooting
 
 Use the following information to resolve errors that occur during the Channel Manager installation process.
  
-#### Incorrect composer keys
+### Incorrect composer keys
 
 If the [access keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
@@ -193,7 +193,7 @@ Check the key configuration:
 1. Verify that the credentials in the auth.json match[ the keys associated with the MAGE ID](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to register for the Channel Manager service.
 
 
-#### Insufficient memory for PHP
+### Insufficient memory for PHP
 
 The following error displays if the system does not have enough memory allocated for PHP.
 
@@ -218,6 +218,6 @@ Use either of the following methods to resolve the memory issue:
   ```
 
 
-#### Cloud deployment errors
+### Cloud deployment errors
 
 For problems deploying the extension to the cloud, see[extension deployment failure](https://devdocs.magento.com/cloud/trouble/trouble_comp-deploy-fail.html){target="_blank"}.

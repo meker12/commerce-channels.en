@@ -19,9 +19,9 @@ The Commerce Services Connector integrates the Channel Manager service with Adob
   To provide the credentials, a Commerce license holder or account owner has options to 
   [share access](https://docs.magento.com/user-guide/magento/magento-account-share.html){target="_blank"}, or give the [API Key](https://docs.magento.com/user-guide/system/saas.html#apikey){target="_blank"} credentials to a trusted developer.
 
-### Configure the Commerce Services Connector
+## Configure the Commerce Services Connector
 
-1. Go to the Commerce Service Connector configuration.
+1. Open the Store Services Configuration.
 
    - From the Admin, select [!UICONTROL Stores].
 
