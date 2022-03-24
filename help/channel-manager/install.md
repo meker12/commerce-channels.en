@@ -9,7 +9,7 @@ Review the [prerequisites](onboard.md#prerequisites) and gather required informa
 
 ## Update minimum-stability setting
 
-Before installing the extension, you must update the `minimum-stability` requirement in your `composer.json` file so you can install early versions of Channel Manager using Composer.
+Before installing the extension, update the `minimum-stability` requirement in your `composer.json` file so you can install early versions of Channel Manager using Composer.
 
 To update the configuration, add the following lines to the `composer.json` file.
 
@@ -22,7 +22,7 @@ To update the configuration, add the following lines to the `composer.json` file
 
 ## Install the extension
 
-The installation instructions depend on whether you are installing Channel Manager on an on-premises or cloud Commerce instance:
+The Channel Manager installation instructions depend on whether Adobe Commerce or Magento Open Source is deployed on-premises or on cloud infrastructure.
 
 - Install on an [On-premises instance](#install-on-an-on-premises-instance).
 
@@ -120,12 +120,13 @@ Work in a development branch when adding an extension to your cloud instance.
 
 For help with using branches, see [Get started creating branches](https://devdocs.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"} in the Adobe Commerce developer documentation.
 
-When installing an extension, the extension name (&lt;VendorName>\_&lt;ComponentName>) is automatically inserted in the [app/etc/config.php](https://devdocs-beta.magento.com/guides/v2.3/config-guide/config/config-php.html){target="_blank"} file. You do not need to edit the file directly.
+During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) is automatically inserted in the [app/etc/config.php](https://devdocs-beta.magento.com/guides/v2.3/config-guide/config/config-php.html){target="_blank"} file. You do not need to edit the file directly.
 
 1. On your local workstation, change to the Cloud project root directory.
 
-1. Create or check out a development branch. See [branching](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
-1. Using the Composer name, add the extension to the `require` section of the composer.json file.  
+1. Create or check out a development [branch](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
+
+1. Using the Composer name, add the extension to the `require` section of the `composer.json` file.  
 
    ```bash  
    $ composer require magento/channel-manager --no-update
@@ -142,7 +143,7 @@ When installing an extension, the extension name (&lt;VendorName>\_&lt;Component
    ```
 
    ```bash
-   $ git push origin &lt;branch-name>
+   $ git push origin <branch-name>
    ``` 
   
 1. After build and deploy completes, use SSH to log in to the remote environment and verify that the extension installed correctly.
@@ -191,7 +192,7 @@ Check the key configuration:
    $ cat /path/to/auth.json
    ```
 
-1. Verify that the credentials in the auth.json match[ the keys associated with the MAGE ID](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to register for the Channel Manager service.
+1. Verify that the credentials in the auth.json match [the keys associated with the MAGE ID](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to register for the Channel Manager service.
 
 ### Insufficient memory for PHP
 
@@ -217,6 +218,14 @@ Use either of the following methods to resolve the memory issue:
   $ php-d memory_limit=-1 vendor/bin/composer require magento/channel-manager
   ```
 
+### Missing view
+
+If you get an error about a missing `process_catalog_exporter_view` during the Channel Manager installation, try [refreshing the indexers](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html#config-cli-subcommands-index-reindex){target="_blank"}.
+
+```bash
+php bin/magento indexer:refresh
+```
+
 ### Cloud deployment errors
 
-For problems deploying the extension to the cloud, see[extension deployment failure](https://devdocs.magento.com/cloud/trouble/trouble_comp-deploy-fail.html){target="_blank"}.
+For problems deploying the extension to the cloud, see [extension deployment failure](https://devdocs.magento.com/cloud/trouble/trouble_comp-deploy-fail.html){target="_blank"}.
