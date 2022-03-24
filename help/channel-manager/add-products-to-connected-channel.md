@@ -8,7 +8,7 @@ description: Create product assortment for Marketplace sales by adding products 
 
 From Channel Manager, select products from the [!DNL Commerce] catalog for Walmart Marketplace sales.
 
-To sync products to the sales channel, the selected products must have the following attribute configuration.
+To sync products to the sales channel, the selected products must have the following attribute configuration:
 
 - **[!UICONTROL Publish to Channel Manager]** attribute is enabled
 
