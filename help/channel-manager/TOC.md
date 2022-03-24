@@ -16,10 +16,10 @@ hide: yes
   - [Install the [!DNL Channel Manager] extension](install.md)
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
-  - [Complete store setup](complete-store-setup.md)
+  - [Complete Channel Setup](complete-store-setup.md)
 - List products {#list-products}
-  - [Add products to sales channel](add-products-to-connected-channel.md)
-  - [Configure product matching](map-product-attributes-for-matching.md)
-  - [Publish listings to Marketplace](publish-listing-to-marketplace.md)
+  - [Add Products to Channel Store](add-products-to-connected-channel.md)
+  - [Configure Product Matching](map-product-attributes-for-matching.md)
+  - [Publish Listings to Walmart](publish-listing-to-marketplace.md)
   - [Upload new listings]
   

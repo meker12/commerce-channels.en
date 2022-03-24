@@ -2,7 +2,7 @@
 title: Publish Listings to Walmart
 description: Publish listings for Commerce products to Walmart Marketplace to begin selling.
 --- 
-# Publish Listing to Walmart
+# Publish Listings to Walmart
 
 Like other marketplaces, Walmart allows third-party sellers to list items that are sold by others. 
 

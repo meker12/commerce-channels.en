@@ -1,11 +1,11 @@
 ---
-title: Configure product match criteria
+title: Configure Product Matching
 description: Map attributes for matching Commerce products to existing Walmart Marketplace listings
 ---
 
-# Map product attributes
+# Configure Product Matching
 
-Before you publish offers to the Walmart Marketplace, map at least one unique identifier from your product catalog attributes to one of the required Walmart Marketplace product identifiers. This step is required to match products on the Walmart Marketplace.
+Before you publish listing to Walmart Marketplace, map at least one unique identifier from your product catalog attributes to one of the required Walmart Marketplace product identifiers. This step is required to match products on the Walmart Marketplace.
 
 For product matching, the Commerce product must have at least one of the following Product Identifiers (Product IDs) in the catalog attributes.
 
