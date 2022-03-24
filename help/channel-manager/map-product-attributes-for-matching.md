@@ -20,7 +20,6 @@ For product matching, the Commerce product must have at least one of the followi
 
 If you have a different type of Product ID attribute in your catalog, convert it to one of the required types. Then, map it to the corresponding Walmart Marketplace attribute in the Listing configuration for the Channel Manager store.
 
-
 ## Configure product attribute settings
 
 1. On the product listing page for the connected sales channel,  select one or more products in *Draft* status.

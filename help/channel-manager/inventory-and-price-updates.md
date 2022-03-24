@@ -7,7 +7,6 @@ description: "[!DNL Channel Manager] syncs inventory and price updates between t
 
 Channel Manager tracks inventory and pricing for published products and syncs changes to Channel Manager and the Walmart Marketplace to reflect current stock quantity and pricing in product listings.**
 
-
 ## Inventory updates
 
 When inventory levels change, Channel Manager syncs updates between the Commerce product catalog and the Walmart Marketplace so that both Channel Manager and the Walmart Marketplace display the current stock quantity. 
@@ -21,7 +20,6 @@ It can take up to 5 minutes for inventory changes to display in Channel Manager 
 >[!IMPORTANT]
 >
 > After a Walmart Marketplace order syncs to Channel Manager, inventory quantities and other order processing information is updated only for refunds and cancellations initiated from Commerce. If an order is refunded or canceled from the Walmart Marketplace, process the change from Commerce to make sure that Commerce inventory quantities and order information are accurate.
-
 
 ## Price updates
 

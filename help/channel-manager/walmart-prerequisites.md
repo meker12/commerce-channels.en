@@ -16,7 +16,7 @@ Channel Manager requires the following resources and information to configure a 
 ## Set up a Marketplace Seller account
 
 1. [Submit your Walmart Seller application](https://marketplace-apply.walmart.com/apply?id=0014M00001zivMpQAI)
-2. After obtaining approval from Walmart, [set up your Walmart Seller account](https://sellerhelp.walmart.com/seller/s/guide?article=000008219).
+1. After obtaining approval from Walmart, [set up your Walmart Seller account](https://sellerhelp.walmart.com/seller/s/guide?article=000008219).
 
 ## Generate a Walmart Marketplace API key
 

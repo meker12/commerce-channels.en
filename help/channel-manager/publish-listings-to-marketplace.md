@@ -20,7 +20,6 @@ If a match is found, the existing product listing is updated to add your offer.
 
 Before matching products, verify that your product catalog attribute values meet Walmart requirements and configure attribute settings. See [Configure product matching](map-product-attributes-for-matching.md)
 
-
 ## Select and match products
 
 1. Open a connected sales channel.
@@ -62,7 +61,6 @@ Before matching products, verify that your product catalog attribute values meet
 If the product match operation fails, the Walmart Marketplace returns an error code and Channel Manager displays the error status in the product listing information.
 
 View error messages detail by hovering over the **Error** status label. Common errors returned are incorrectly formatted Product ID values or missing required attributes.
-
 
 ## Fix Product ID values
 
