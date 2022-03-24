@@ -21,5 +21,4 @@ hide: yes
   - [Add Products to Channel Store](add-products-to-connected-channel.md)
   - [Configure Product Matching](map-product-attributes-for-matching.md)
   - [Publish Listings to Walmart](publish-listing-to-marketplace.md)
-  - [Upload new listings]
   
