@@ -17,9 +17,9 @@ hide: yes
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
   - [Complete store setup](complete-store-setup.md)
-- Manage connected channels
 - List products {#list-products}
-  - Add products to sales channel
-  - Configure criteria for product matching
-  - Upload new listing
+  - [Add products to sales channel](add-products-to-connected-channel.md)
+  - [Configure product matching](map-product-attributes-for-matching.md)
+  - [Publish listings to Marketplace](publish-listing-to-marketplace.md)
+  - [Upload new listings]
   
