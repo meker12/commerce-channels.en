@@ -18,7 +18,7 @@ It can take up to 5 minutes for inventory changes to display in Channel Manager 
 
 * **Reduce stock quantity to reflect Walmart Marketplace orders**–After a Walmart Marketplace order syncs to Channel Manager, Channel Manager sends the update to the Commerce order system. Commerce adjusts stock quantities based on the order. Then, the updated quantity is synced to Walmart Marketplace. might be some differences in stock quantity shown in Channel Manager and the Marketplace until the sync operations complete. 
     
->[!WARNING]
+>[!IMPORTANT]
 >
 > After a Walmart Marketplace order syncs to Channel Manager, inventory quantities and other order processing information is updated only for refunds and cancellations initiated from Commerce. If an order is refunded or canceled from the Walmart Marketplace, process the change from Commerce to make sure that Commerce inventory quantities and order information are accurate.
 
