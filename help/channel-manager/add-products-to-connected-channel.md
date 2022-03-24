@@ -18,7 +18,6 @@ After you save selections, the Channel Manager imports the product data the chan
 
 ## Add products to sales channel
 
-
 1. Open the product catalog associated with your Channel Manager store.
 
    From a connected sales channel store, select **Add products**.
