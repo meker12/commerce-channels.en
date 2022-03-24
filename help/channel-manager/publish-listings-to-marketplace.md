@@ -1,9 +1,8 @@
 ---
-title: Publish Listings to Marketplace
+title: Publish Listings to Walmart
 description: Publish listings for Commerce products to Walmart Marketplace to begin selling.
 --- 
-
-# Match products on Walmart
+# Publish Listing to Walmart
 
 Like other marketplaces, Walmart allows third-party sellers to list items that are sold by others. 
 
@@ -58,9 +57,7 @@ Before matching products, verify that your product catalog attribute values meet
 
       * Match found, but product published as staged because the [Marketplace store is not active](walmart-prerequisites.md#walmart-marketplace-store-status).
 
-
 ## Troubleshoot product match errors
-
 
 If the product match operation fails, the Walmart Marketplace returns an error code and Channel Manager displays the error status in the product listing information.
 
