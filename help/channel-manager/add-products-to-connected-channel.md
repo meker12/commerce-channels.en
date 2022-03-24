@@ -14,7 +14,7 @@ To sync products to the sales channel, the selected products must have the follo
 
 - At least one product attribute must match one of the [required Walmart Marketplace attributes](map-product-attributes-for-matching.md)–GTIN, ISBN, ISSN, UPC, EAN
 
-After you save selections, the Channel Manager imports the product data to Channel Manager. This process can take up to 30 minutes.
+After you save selections, the Channel Manager imports the product data the channel. This process can take up to 30 minutes.
 
 ## Add products to sales channel
 
@@ -53,6 +53,6 @@ After you save selections, the Channel Manager imports the product data to Chann
   
 1. Return to the connected sales channel in [!DNL Channel Manager].
 
-   After the import operation completes, view products from Listings. Initially, the products are in *Draft* status. If you don’t see the products, select **[!UICONTROL Refresh products]** to update the table.  
+   After the import operation completes, view products from **[!UICONTROL Listings]**. Initially, the products are in *Draft* status. Select [!UICONTROL Refresh products]** to update the table.  
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)

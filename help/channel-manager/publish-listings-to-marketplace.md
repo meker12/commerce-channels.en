@@ -25,7 +25,7 @@ Before matching products, verify that your product catalog attribute values meet
 
 1. Open a connected sales channel.
 
-1. From Listings, select products for matching that are in *[!UICONTROL Draft]* status.
+1. From **[!UICONTROL Listings]**, select products for matching that are in *[!UICONTROL Draft]* status.
 
    ![Select products from Listings and send for matching](assets/products-in-marketplace-sales-channel.png)
 
