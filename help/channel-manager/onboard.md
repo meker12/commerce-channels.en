@@ -37,7 +37,7 @@ After you complete onboarding, configure and manage sales channel operations fro
 
     ![[!UICONTROL Commerce Marketplace access keys]](assets/commerce-marketplace-access-keys.png)
 
-    On Adobe Commerce and Magento Open Source projects, the Owner can set up [Shared Access](https://docs.magento.com/user-guide/magento/magento-account-share.html) to allow trusted employees and service providers to download extensions using credentials from the Owner or license holder account.
+    On Adobe Commerce and Magento Open Source projects, the owner can set up [Shared Access](https://docs.magento.com/user-guide/magento/magento-account-share.html) to allow trusted employees and service providers to download extensions using credentials from the Owner or license holder account.
 
     On [!DNL Adobe Commerce] on cloud infrastructure projects, software installers must have the following access the [!DNL Commerce] instance:
 
