@@ -32,6 +32,7 @@ For details about managing your [!DNL Commerce] platform, projects, and websites
 |----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | [Adobe Commerce 2.4 User Guide](https://docs.magento.com/user-guide) | Merchant-focused documentation for both Adobe  Commerce and Magento Open Source                    |
 | [Adobe Commerce 2.4 Developer Guide](https://devdocs.magento.com)    | Developer-focused documentation used for build and customize Adobe Commerce or Magento Open Source |
+
 ## Support
 
 Get additional information and help with Adobe Commerce and Magento Open Source from the following resources:
