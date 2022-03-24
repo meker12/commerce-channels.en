@@ -37,4 +37,3 @@ When the product price changes in Commerce, Channel Manager syncs the update fro
 Channel Manager syncs any price updates to the channel store and [!DNL Walmart Marketplace]. This operation can take up to 5 minutes.
 
 For details about manage product price configuration in Commerce, see [Manage Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}.
-
