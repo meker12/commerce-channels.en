@@ -1,6 +1,7 @@
 ---
-title: Connect Sales Channel to [!DNL Walmart Marketplace] 
+title: Connect Sales Channel to [!DNL Walmart Marketplace]
 description: Configure the sales channel and connect to Walmart Marketplace.
+exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 ---
 
 # Connect to [!DNL Walmart Marketplace]

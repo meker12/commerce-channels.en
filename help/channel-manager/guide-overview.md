@@ -1,8 +1,9 @@
 ---
-title: "[!DNL Channel Manager] Guide overview"
+title: '[!DNL Channel Manager] Guide overview'
 description: Comprehensive information about [!DNL Channel Manager] for Adobe Commerce and Magento Open Source administrators, including installation and onboarding
 seo-title: Adobe Commerce Channel Manager Guide
 seo-description: Describes how to use [!DNL Channel Manager] with Adobe Commerce or Magento Open Source.
+exl-id: 0703741b-77e0-47b0-917f-b25d14afa7ae
 ---
 # [!DNL Channel Manager] Guide Overview
 

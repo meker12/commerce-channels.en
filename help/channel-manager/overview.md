@@ -3,8 +3,8 @@ title: About [!DNL Channel Manager]
 description: Learn how to install and use [!DNL Channel Manager] to integrate Adobe Commerce and Magento Open Source stores with third-party marketplaces and create a sales channel to manage marketplace listings, pricing, inventory, and sales seamlessly from your Commerce Admin.
 role: User
 level: Intermediate
+exl-id: 91265973-d2ad-4925-aa10-260d7e186f20
 ---
-
 # Overview
 
 Channel Manager for Adobe Commerce and Magento Open Source provides a convenient workspace in the Admin to manage channel sales on third-party marketplaces like Walmart, Amazon, and eBay. Increase sales and expand to new markets while managing sales channel operations seamlessly from your Commerce Admin.

@@ -3,6 +3,7 @@ title: Connect to Commerce Services
 description: Connect Channel Manager instance to [!DNL Commerce services] to enable data synchronization and communication between the Commerce instance, Channel Manager, and other supporting services.
 role: User
 level: Intermediate
+exl-id: 97da2142-ecef-44dc-91d8-5dc55c713d31
 ---
 # Connect to Commerce Services
 
@@ -43,4 +44,4 @@ The Commerce Services Connector integrates the Channel Manager service with Adob
 1. Configure the SaaS project and data space so that Commerce Services can send data to the Channel Manager service.
 
    ![[!DNL Commerce Service Connector] SaaS Identifier configuration in the [!DNL Admin] view](assets/commerce-services-connector-saas-config.png)
-   
+
