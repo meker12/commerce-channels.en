@@ -19,7 +19,7 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], you can comple
 
    - [Publish product listings to Walmart using product matching](publish-listings-to-marketplace.md)
 
-   - View and manage inventory and pricing
+   - [Learn how Channel Manager syncs inventory and price updates between Commerce and Walmart](inventory-and-price-updates.md)
 
    - View and manage Walmart orders from the Commerce Admin
    
