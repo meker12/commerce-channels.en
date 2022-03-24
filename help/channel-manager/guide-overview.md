@@ -4,7 +4,7 @@ description: Comprehensive information about [!DNL Channel Manager] for Adobe Co
 seo-title: Adobe Commerce Channel Manager Guide
 seo-description: Describes how to use [!DNL Channel Manager] with Adobe Commerce or Magento Open Source.
 ---
-# [!DNL Channel Manager] Guide overview
+# [!DNL Channel Manager] Guide Overview
 
 >[!IMPORTANT]
 >
@@ -16,17 +16,17 @@ understanding of core Commerce configuration and functionality.
 
 [!DNL Channel Manager] has two areas for administrators:
 
-* The Admin: Use this area to access the configuration UI, the product catalog, and order.
-* The command-line interface: Use this tool to execute installation and backend configuration tasks.
+* **The Admin**– Use this area to access the configuration UI, the product catalog, and order.
+* **The command-line interface**– Use this tool to execute installation and backend configuration tasks.
 
 This guide covers:
 
 * All [!DNL Channel Manager]-specific tasks that are done from the Commerce Admin.
 * All [!DNL Channel Manager]-specific tasks that are done using from the command line.
 
-This guide does not cover the core capabilities of Adobe Commerce and Magento Open Source.
+For details about managing your [!DNL Commerce] platform, projects, and websites, see the Adobe Commerce and Magento Open Source user and developer guides.
 
-## Additional documentation
+## Additional Documentation
 
 | Guide                                                                | Description                                                                                        |
 |----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ This guide does not cover the core capabilities of Adobe Commerce and Magento Op
 | [Adobe Commerce 2.4 Developer Guide](https://devdocs.magento.com)    | Developer-focused documentation used for build and customize Adobe Commerce or Magento Open Source |
 ## Support
 
-If you need information or have questions that are not covered in this guide, use the following resources:
+Get additional information and help with Adobe Commerce and Magento Open Source from the following resources:
 
 * [Help center](https://support.magento.com/hc/en-us){target="_blank"}---See the [!DNL Amazon Sales Channel]-related
 troubleshooting articles.

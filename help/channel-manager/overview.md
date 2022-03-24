@@ -62,7 +62,7 @@ You need the following information from Walmart to integrate Commerce with the W
 
 1. Go to Walmart Marketplace to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
 
-1. Create the key and configure permissions: the following permissions for the API key
+1. Create the key and configure permissions:
 
    * Select Adobe as the solution provider.
    
@@ -85,8 +85,11 @@ You need the following information from Walmart to integrate Commerce with the W
 
 ## Walmart Marketplace Store status
 
-If your Walmart Marketplace store is live, you can use Channel Manager to publish products from Channel Manager to your live store.
+When you publish products to Walmart Marketplace, listing availability depends on the status of your Walmart Marketplace stores:
 
-If your store is not live, Commerce products published to the Walmart are added in Staged status. When the store goes live, staged items are pushed automatically to the live Walmart Marketplace store.
+* For live stores, your product offers are listed and available for sale as soon as the match operation completes. 
+
+* For stores that are not live, your product offers are staged and not visible to customers. As soon as the store goes live, staged listings are pushed to the live store automatically. 
+
 
 ![[!DNL Walmart Seller Central] staged products](assets/walmart-seller-central-staged.png)

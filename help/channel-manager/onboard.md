@@ -22,6 +22,8 @@ After you complete onboarding, you can configure and manage sales channel operat
 
 ## Prerequisites
 
+- Verify that you have  Walmart Marketplace Seller AccountWalmart requirements for selling on Walmart Marketplace
+
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires an ID and credentials from a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"} with Owner access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
   - **MAGE ID**–[Log in](https://account.magento.com/customer/account/login/) to the Commerce account to get the ID from [!UICONTROL My Account - Magento settings]. You need this ID to register for the [!DNL Channel Manager] service Beta program.

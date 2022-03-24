@@ -32,7 +32,7 @@ Both methods require you to use the Command Line Interface (CLI).
 
 >[!NOTE]
 >
->If you are unfamiliar with installing Commerce software using the CLI, see [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"}. 
+>For help installing [!DNL Commerce] software using the CLI, see [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"}. 
 
 ### Install on an on-premises instance
 
@@ -62,9 +62,9 @@ Use these instructions to install on Adobe Commerce and Magento Open Source plat
    $ composer update
    ```
 
-   The `composer update` command updates all dependencies. If you only want to update dependencies related to Channel Manager, use this command instead: `composer update magento/channel-manager`.
+   The `composer update` command updates all dependencies. To update only dependencies related to Channel Manager, use this command instead: `composer update magento/channel-manager`.
 
-1. Wait for Composer to finish updating your project dependencies and resolve any errors.
+1. Wait for Composer to finish updating project dependencies and resolve any errors.
 
 1. Verify the installation
 
@@ -114,7 +114,7 @@ Use these instructions to install on Adobe Commerce and Magento Open Source plat
     $ bin/magento maintenance:disable
    ```
 
-### Install on an Adobe Commerce on cloud infrastructure instance
+### Install on an Adobe Commerce on Cloud Infrastructure Instance
 
 Work in a development branch when adding an extension to your cloud instance.
 
@@ -123,6 +123,7 @@ For help with using branches, see [Get started creating branches](https://devdoc
 When installing an extension, the extension name (&lt;VendorName>\_&lt;ComponentName>) is automatically inserted in the [app/etc/config.php](https://devdocs-beta.magento.com/guides/v2.3/config-guide/config/config-php.html){target="_blank"} file. You do not need to edit the file directly.
 
 1. On your local workstation, change to the Cloud project root directory.
+
 1. Create or check out a development branch. See [branching](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
 1. Using the Composer name, add the extension to the `require` section of the composer.json file.  
 
@@ -167,7 +168,11 @@ When installing an extension, the extension name (&lt;VendorName>\_&lt;Component
 
 Use the following information to resolve errors that occur during the Channel Manager installation process.
  
+<<<<<<< Updated upstream
 ### Incorrect composer keys
+=======
+#### Incorrect Composer Keys
+>>>>>>> Stashed changes
 
 If the [access keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
