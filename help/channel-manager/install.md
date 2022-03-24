@@ -111,7 +111,7 @@ Use these instructions to install on Adobe Commerce and Magento Open Source plat
 1. Disable maintenance mode.
 
    ```bash
-    $ bin/magento maintenance:enable
+    $ bin/magento maintenance:disable
    ```
 
 ### Install on an Adobe Commerce on cloud infrastructure instance
@@ -133,15 +133,15 @@ When installing an extension, the extension name (&lt;VendorName>\_&lt;Component
 1. Add, commit, and push code changes–include changes to both the `composer.lock` and `composer.json` file.
 
    ```bash
-   git add -A
+   $ git add -A
    ```
 
    ```bash
-   git commit -m “Install channel manager extension” 
+   $ git commit -m “Install channel manager extension” 
    ```
 
    ```bash
-   git push origin &lt;branch-name>
+   $ git push origin &lt;branch-name>
    ``` 
   
 1. After build and deploy completes, use SSH to log in to the remote environment and verify that the extension installed correctly.
@@ -187,7 +187,7 @@ Check the key configuration:
 1. View the `auth.json` file.
 
    ```bash
-   $ Cat /path/to/auth.json
+   $ cat /path/to/auth.json
    ```
 
 1. Verify that the credentials in the auth.json match[ the keys associated with the MAGE ID](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to register for the Channel Manager service.
@@ -203,18 +203,18 @@ Fatal error: Allowed memory size of 2146435072 bytes exhausted (tried to allocat
 
 Use either of the following methods to resolve the memory issue:
 
-- [Increase the memory limit for PHP](https://devdocs.magento.com/cloud/project/magento-app-php-ini.html#increase-php-memory-limit){target="_blank"} in the environment php.inifile. Also, verify that the Commerce instance has the [recommended values](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/php-settings.html){target="_blank"} for other PHP settings.
+- [Increase the memory limit for PHP](https://devdocs.magento.com/cloud/project/magento-app-php-ini.html#increase-php-memory-limit){target="_blank"} in the environment `php.ini` file. Also, verify that the Commerce instance has the [recommended values](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/php-settings.html){target="_blank"} for other PHP settings.
 
 - Specify the memory limit from the command line.
 
   ```bash
-  php -d memory_limit=-1 \[path to composer]/composer require magento/payment-services.
+  $ php -d memory_limit=-1 \[path to composer]/composer require magento/payment-services.
   ```
 
   For example:  
   
   ```bash
-  php-d memory_limit=-1 vendor/bin/composer require magento/channel-manager
+  $ php-d memory_limit=-1 vendor/bin/composer require magento/channel-manager
   ```
 
 
