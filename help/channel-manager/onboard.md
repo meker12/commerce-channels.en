@@ -25,7 +25,7 @@ After you complete onboarding, configure and manage sales channel operations fro
 
 ## Prerequisites
 
-- Verify that you have required [Walmart Marketplace prerequisites](walmart-prerequisites.md) to integrate with Channel Manager.
+- Verify that you have the required [Walmart Marketplace prerequisites](walmart-prerequisites.md) to integrate with Channel Manager.
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"}. You need an account ID and credentials with Owner or Admin access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
