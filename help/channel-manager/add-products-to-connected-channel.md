@@ -5,7 +5,6 @@ description: Create product assortment for Marketplace sales by adding products 
 
 # Add Products to Channel Store
 
-
 From Channel Manager, select products from the [!DNL Commerce] catalog for Walmart Marketplace sales.
 
 To sync products to the sales channel, the selected products must have the following attribute configuration:
