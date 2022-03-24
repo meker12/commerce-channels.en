@@ -73,4 +73,3 @@ View error messages detail by hovering over the **Error** status label. Common e
 | EAN  | GTIN-13, the 13-digit number including check-digit.</br></br>If your EAN has fewer than 13 digits, add leading</br>zeros to meet the requirement.                                  | Change from `4567891234` to `0004567891234` |
 
 For details about Walmart Marketplace error codes, see the [Walmart Seller Help](https://sellerhelp.walmart.com/s/guide?article=000005844).
-

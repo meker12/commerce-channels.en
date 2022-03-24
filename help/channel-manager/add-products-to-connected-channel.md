@@ -2,6 +2,7 @@
 title: Add Products to Channel Store
 description: Create product assortment for Marketplace sales by adding products from the catalog to the sales channel
 --- 
+
 # Add Products to Channel Store
 
 From Channel Manager, select products from the [!DNL Commerce] catalog for Walmart Marketplace sales.

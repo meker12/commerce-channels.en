@@ -22,3 +22,4 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], you can comple
    - View and manage inventory and pricing
 
    - View and manage Walmart orders from the Commerce Admin
+   

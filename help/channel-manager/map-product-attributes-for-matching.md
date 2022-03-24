@@ -9,14 +9,14 @@ Before you publish listing to Walmart Marketplace, map at least one unique ident
 
 For product matching, the Commerce product must have at least one of the following Product Identifiers (Product IDs) in the catalog attributes.
 
-**Required Walmart product IDs (attributes)**
+**Required Walmart product IDs**                                                                                              
 
 | **Accepted Type** | **Name**                             | **Purpose**                                                                                                                                      | **Acceptable Digits** |
 |-------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| GTIN              | Global Trade Item Number             | General purpose, used worldwide                                                                                                                  | 14 digits             |
+| GTIN              | Global Trade Item                    | General purpose, used worldwide                                                                                                                  | 14 digits             |
 | ISBN              | International Standard Book Number   | Paperback, Hardcover and Electronic Books                                                                                                        | 10 or 13 digits       |
 | ISSN              | International Standard Serial Number | 8-digit serial number used to identify magazines, journals, newspapers, and periodicals of all kinds delivered on all media–print and electronic | 8 digits              |
-| UPC               | Universal Product Code               | General purpose, used primarily in United States, Canada, United Kingdom, Australia, New Zealand                                                 | 12 digits             |
+| ISBN              | International Standard Book Number   | Paperback, Hardcover and Electronic                                                                                                              | 12 digits             |
 
 If you have a different type of Product ID attribute in your catalog, convert it to one of the required types. Then, map it to the corresponding Walmart Marketplace attribute in the Listing configuration for the Channel Manager store.
 
@@ -30,10 +30,10 @@ If you have a different type of Product ID attribute in your catalog, convert it
    - Find the Walmart Marketplace attribute to map.
 
    - Select the corresponding attribute from the store catalog.
-  
+
      The following example maps the Walmart Marketplace UPC attribute to the UPC attribute in the product catalog.  
 
-     ![Map attributes for product match criteria](assets/products-map-attributes-for--match.png)
+    ![Map attributes for product match criteria](assets/products-map-attributes-for--match.png)
 
    - Select **[!UICONTROL Save]**.
 
@@ -47,5 +47,3 @@ For example, instead of matching products based on the Commerce UPC product attr
 1. From the **[!UICONTROL Listings]**, select **[!UICONTROL Settings]**.
 
 1. On the Map attribute form, change the mapped attribute configuration as needed.
-
-
