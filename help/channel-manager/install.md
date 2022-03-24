@@ -1,8 +1,8 @@
 ---
 title: Install [!DNL Channel Manager]
 description: Install the Channel Manager extension.
+exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 ---
-
 # Install Channel Manager
 
 Review the [prerequisites](onboard.md#prerequisites) and gather required information before you install Channel Manager.
