@@ -50,7 +50,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, connect a Com
        
      >[!NOTE]
      >
-     >If you don't see an [!DNL Adobe Inc] key in the Developer Portal, select **[!UICONTROL Add New Key for a Solution Provider]** to configure permissions and generate the key. For configuration details, see [Generate a [!DNL Walmart Marketplace API Key]](overview.md#generate-a-walmart-marketplace-api-key).
+     >If you don't see an [!DNL Adobe Inc] key in the Developer Portal, select **[!UICONTROL Add New Key for a Solution Provider]** to configure permissions and generate the key. For configuration details, see [Generate a [!DNL Walmart Marketplace API Key]](walmart-prerequisites.md#generate-a-walmart-marketplace-api-key).
 
    - Return to [!DNL Channel Manager] to add the credentials to the **[!UICONTROL Walmart Connection]** information.  
        
