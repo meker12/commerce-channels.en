@@ -30,9 +30,9 @@ After you save selections, the Channel Manager imports the product data to Chann
 
 1. Enable the **[!UICONTROL Publish to Channel Manager]** attribute for the selected items.
 
-   - From **[!UICONTROL Action]s**, select **[!UICONTROL Update attributes]**.
+   - From **[!UICONTROL Actions]**, select **[!UICONTROL Update attributes]**.
 
-   - Scroll to the **[!UICONTROL Publish to Channel Manage]r** attribute and enable it.
+   - Scroll to the **[!UICONTROL Publish to Channel Manager]** attribute and enable it.
 
    - Verify that the product attributes include at least one of the required Walmart Product IDs.
 
@@ -53,3 +53,4 @@ After you save selections, the Channel Manager imports the product data to Chann
    After the import operation completes, view products from Listings. Initially, the products are in *Draft* status. If you don’t see the products, select **[!UICONTROL Refresh products]** to update the table.  
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
+
