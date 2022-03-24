@@ -8,10 +8,13 @@ hide: yes
 # Channel Manager - [!DNL Channel Manager] for Adobe Commerce {#channel-manager}
 
 - [Guide overview](guide-overview.md)
-- [Introduction to [!DNL Channel Manager]](overview.md)
+- Introduction to [!DNL Channel Manager] {#intro-to-channel-manager}
+  - [About Channel Manager](overiew.md)
+  - [Walmart Prerequisites](walmart-prerequisites.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
   - [Install the [!DNL Channel Manager] extension](install.md)
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
+  - [Complete store setup](complete-store-setup.md)
 
