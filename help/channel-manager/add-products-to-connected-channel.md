@@ -1,9 +1,10 @@
 ---
 title: Add Products to Channel Store
 description: Create product assortment for Marketplace sales by adding products from the catalog to the sales channel
---- 
+---
 
 # Add Products to Channel Store
+
 
 From Channel Manager, select products from the [!DNL Commerce] catalog for Walmart Marketplace sales.
 
@@ -16,6 +17,7 @@ To sync products to the sales channel, the selected products must have the follo
 After you save selections, the Channel Manager imports the product data to Channel Manager. This process can take up to 30 minutes.
 
 ## Add products to sales channel
+
 
 1. Open the product catalog associated with your Channel Manager store.
 
@@ -54,4 +56,3 @@ After you save selections, the Channel Manager imports the product data to Chann
    After the import operation completes, view products from Listings. Initially, the products are in *Draft* status. If you don’t see the products, select **[!UICONTROL Refresh products]** to update the table.  
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
-

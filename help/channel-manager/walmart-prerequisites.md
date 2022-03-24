@@ -51,5 +51,4 @@ When you publish products to Walmart Marketplace, listing availability depends o
 
 * For stores that are not live, your product offers are staged and not visible to customers. When the store goes live, staged listings are pushed to the live store automatically. 
 
-
 ![[!DNL Walmart Seller Central] staged products](assets/walmart-seller-central-staged.png)

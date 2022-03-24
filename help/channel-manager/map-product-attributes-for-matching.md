@@ -37,7 +37,6 @@ If you have a different type of Product ID attribute in your catalog, convert it
 
    - Select **[!UICONTROL Save]**.
 
-
 ## Update mapped attribute configuration
 
 Change the Commerce product identifier for matching products by updating the mapped attribute settings.
