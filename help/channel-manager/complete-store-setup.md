@@ -1,8 +1,8 @@
 ---
 title: Complete Channel Setup
 description: Navigate to a connected sales channel to manage view and manage product listings, inventory and price updates, and track orders
+exl-id: 12127e3b-55c1-4db6-98b2-6dc8bdaae139
 ---
-
 # Complete store setup
 
 After you connect a Commerce store to [!DNL Walmart Marketplace], you can complete store setup from the [!DNL Channel Manager Stores] view. 
@@ -22,4 +22,3 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], you can comple
    - [Learn how Channel Manager syncs inventory and price updates between Commerce and Walmart](inventory-and-price-updates.md)
 
    - View and manage Walmart orders from the Commerce Admin
-   

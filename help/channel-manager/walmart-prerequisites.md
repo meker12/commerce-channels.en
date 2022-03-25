@@ -1,8 +1,8 @@
 ---
 title: Walmart Prerequisites
 description: Verify that you have the required Walmart Marketplace information and resources to integrate with Channel Manager.
+exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
-
 # Walmart prerequisites
 
 Channel Manager requires the following resources and information to configure a Commerce sales channel for Walmart Marketplace.

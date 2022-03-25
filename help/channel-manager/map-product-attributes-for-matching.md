@@ -1,8 +1,8 @@
 ---
 title: Configure Product Matching
 description: Map attributes for matching Commerce products to existing Walmart Marketplace listings
+exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 ---
-
 # Configure Product Matching
 
 Before you publish listing to Walmart Marketplace, map at least one unique identifier from your product catalog attributes to one of the required Walmart Marketplace product identifiers. This step is required to match products on the Walmart Marketplace.
