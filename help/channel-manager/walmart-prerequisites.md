@@ -29,6 +29,7 @@ Channel Manager requires the following resources and information to configure a 
    * Set the permissions as shown in the following table. For details, see [API Credentials](https://sellerhelp.walmart.com/seller/s/guide?article=000006422) in the _Walmart Marketplace Seller Help_.
 
     **Adobe API key configuration for Walmart**
+
     | **Permission** | **Setting** |
     |----------------|-------------|
     | Content        | Full Access |
