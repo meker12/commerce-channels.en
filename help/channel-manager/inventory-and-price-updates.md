@@ -23,7 +23,7 @@ It can take up to 10 minutes for inventory updates to sync across Channel Manage
 
 ## Price updates
 
-When the product price changes in Commerce, Channel Manager syncs the update from the [!DNL Commerce] product catalog to [!DNL Walmart Marketplace]. It can take up to 5 minutes for price changes to display.
+When the product price changes in Commerce, Channel Manager syncs the update from the [!DNL Commerce] product catalog to [!DNL Walmart Marketplace]. It can take up to five minutes for the marketplace to display the price changes.
 
 ### Manage pricing for a published product
 
