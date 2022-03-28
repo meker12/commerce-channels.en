@@ -34,6 +34,7 @@ This release supports the following capabilities to manage sales channel operati
 The data synchronization processes between [!DNL Channel Manager] and a linked [!DNL Walmart Marketplace] store require some time to complete. Review the expected processing time for [!DNL Channel Manager] operations to help plan sales channel operations work.
 
 **Estimated latency for Channel Manager operations**
+
 | **Operation**                              | **Description**                                                                                                                               | **Expected delay**                                                                                                        |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Add products to Channel Manager            | Select products from the Commerce product catalog and import them into Channel Manager.                                                       | **Up to 5 minutes**–If you select many products, for example, an entire product catalog, the import process takes longer. |
