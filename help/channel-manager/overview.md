@@ -70,6 +70,7 @@ You need the following information from Walmart to integrate Commerce with the W
    * Set the permissions as shown in the following table. For details, see [API Credentials](https://sellerhelp.walmart.com/seller/s/guide?article=000006422) in the *Walmart Marketplace Seller Help*.
 
     **Adobe API key configuration for Walmart**
+
     | **Permission** | **Setting** |
     |----------------|-------------|
     | Content        | Full Access |
