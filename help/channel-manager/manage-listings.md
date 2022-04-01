@@ -1,3 +1,8 @@
+---
+title: Manage Orders
+description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
+---
+
 # Manage Listings
 
 Manage product listings for a connected channel from[!UICONTROL Listings] in the channel store view.
