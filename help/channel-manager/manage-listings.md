@@ -1,8 +1,8 @@
 ---
 title: Manage Orders
 description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
+exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
-
 # Manage Listings
 
 Manage product listings for a connected channel from[!UICONTROL Listings] in the channel store view.
@@ -70,6 +70,3 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
   After you resolve the error, resubmit the product for matching. See [Troubleshoot product match errors](https://docs.google.com/document/d/1bEbCyVLXJQQsbZvEwetJvZKWQJOKoiw5Ia1uB4Bs4uo/edit#heading=h.sz6eji8z9vzy).
 
 * **[!UICONTROL Error - Match in Stage]**–Identifies products matched on [!DNL Walmart] that cannot be published until the [!DNL Walmart Marketplace] store is live. Products with this status publish automatically when the [!DNL Walmart Marketplace] store goes live.
-
-
-
