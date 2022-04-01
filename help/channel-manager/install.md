@@ -173,7 +173,6 @@ Use the following information to resolve errors that occur during the Channel Ma
 
 If the [access keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
-
 ```terminal
 Could not find a matching version of package magento/channel-manager. Check the package spelling, your version constraint and that the package is available in a stability which matches your minimum-stability (stable).
 ```

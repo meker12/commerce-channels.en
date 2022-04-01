@@ -18,9 +18,10 @@ hide: yes
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
   - [Complete Channel Setup](complete-store-setup.md)
 - List products {#list-products}
+  - [Manage listings](manage-listings.md)
   - [Add Products to Channel Store](add-products-to-connected-channel.md)
   - [Configure Product Matching](map-product-attributes-for-matching.md)
   - [Publish Listings to Walmart](publish-listings-to-marketplace.md)
-- [Inventory and Pricing] {#inventory-pricing}
-  - [Inventory and Price updates](inventory-and-price-updates.md)
+- Inventory and Pricing {#inventory-pricing}
+  - [Update Inventory and Pricing](inventory-and-price-updates.md)
     
