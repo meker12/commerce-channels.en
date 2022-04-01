@@ -124,14 +124,9 @@ During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) 
 
 1. On your local workstation, change to the Cloud project root directory.
 
-<<<<<<< Updated upstream
 1. Create or check out a development [branch](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
 
 1. Using the Composer name, add the extension to the `require` section of the `composer.json` file.  
-=======
-1. Create or check out a development branch. See [branching](https://devdocs-beta.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"}.
-1. Using the Composer name, add the extension to the `require` section of the composer.json file.  
->>>>>>> Stashed changes
 
    ```bash  
    $ composer require magento/channel-manager --no-update
@@ -173,17 +168,11 @@ During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) 
 ## Troubleshooting
 
 Use the following information to resolve errors that occur during the Channel Manager installation process.
-<<<<<<< Updated upstream
 
 ### Incorrect Composer keys
-=======
- 
-#### Incorrect Composer Keys
->>>>>>> Stashed changes
 
 If the [access keys](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/connect-auth.html){target="_blank"} used to authenticate to the Composer repository are invalid, or not linked to the [!DNL MAGE ID] used to sign up for the [!DNL Channel Manager] service, the following error displays.  
   
-
 ```terminal
 Could not find a matching version of package magento/channel-manager. Check the package spelling, your version constraint and that the package is available in a stability which matches your minimum-stability (stable).
 ```
