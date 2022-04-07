@@ -132,6 +132,12 @@ During installation, the extension name (magento\channel-manager`) is automatica
    ```bash  
    $ composer require magento/channel-manager --no-update
    ```
+  
+1. Update the project dependencies.
+
+   ```bash
+   $ composer update
+   ```
 
 1. Add, commit, and push code changes–include changes to both the `composer.lock` and `composer.json` file.
 
