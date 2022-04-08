@@ -25,7 +25,7 @@ Complete the following tasks to create the product assortment for the Walmart Ma
 
 * [Add products from your Commerce product catalog to Channel Manager](add-products-to-connected-channel.md)
 
-* [Configure product matching](map-product-attributes-for-matching.mdn#configure-product-attribute-settings)
+* [Configure product matching](map-product-attributes-for-matching.md#configure-product-attribute-settings)
 
 ## Publish products to Walmart
 
