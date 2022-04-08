@@ -121,7 +121,7 @@ Work in a development branch when adding an extension to your cloud instance.
 
 For help with using branches, see [Get started creating branches](https://devdocs.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"} in the Adobe Commerce developer documentation.
 
-During installation, the extension name (magento\channel-manager`) is automatically inserted in the [app/etc/config.php](https://devdocs.magento.com/cloud/live/sens-data-over.html#configuration-data){target="_blank"} file. You do not need to edit the file directly.
+During installation, the extension name (`magento\channel-manager`) is automatically inserted in the [app/etc/config.php](https://devdocs.magento.com/cloud/live/sens-data-over.html#configuration-data){target="_blank"} file. You do not need to edit the file directly.
 
 1. On your local workstation, change to the Cloud project root directory.
 
