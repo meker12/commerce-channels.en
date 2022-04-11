@@ -9,9 +9,6 @@ description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channe
 
 ![Channel Manager Orders view to manage Walmart Marketplace orders](assets/orders-dashboard-view.png)
 
-
-![](https://lh4.googleusercontent.com/Kn9GWl-3aVmWZycK5u_NwzDW_ugm1aGuJ-i0E46V14W0g0rNBc5X5LZbGjEy3rUansbkgTUqMSLcREnMS-AYVaqwZa4vLueWJe_nZCfoIBD1Lv-iZ725w19jiQXDfIHie7Fut76E)
-
 >[!NOTE]
 >
 >After It can take up to 35 minutes for a [!Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager].  After Channel Manager receives the order, it takes 5 more minutes to create and display the order in Adobe Commerce or Magento Open Source.
