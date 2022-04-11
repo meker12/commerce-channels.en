@@ -7,7 +7,7 @@ description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channe
 
 [!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after Walmart processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
 
-![Channel Manager Orders view to manage Walmart Marketplace orders](orders-dashboard-view.png)
+![Channel Manager Orders view to manage Walmart Marketplace orders](assets/orders-dashboard-view.png)
 
 
 ![](https://lh4.googleusercontent.com/Kn9GWl-3aVmWZycK5u_NwzDW_ugm1aGuJ-i0E46V14W0g0rNBc5X5LZbGjEy3rUansbkgTUqMSLcREnMS-AYVaqwZa4vLueWJe_nZCfoIBD1Lv-iZ725w19jiQXDfIHie7Fut76E)
