@@ -57,6 +57,8 @@ After you complete onboarding, configure and manage sales channel operations fro
 - [Adobe Commerce 2.4.x](https://devdocs.magento.com/release/released-versions.html)
 - [PHP 7.3 / 7.4](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/php-settings.html)
 - [Composer 1.x or later](https://devdocs.magento.com/cloud/reference/cloud-composer.html)
+- [[!DNL Amazon Sales Channel] version 4.4.2 or later](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)–If you have activated [!DNL Amazon Sales Channel] for your [!DNL Commerce] sites, verify that your [!DNL Commerce] platform has version 4.42 installed before you install [!DNL Channel Manager].
+- [!DNL Inventory Management]
 
 
 ### Supported platforms

@@ -1,5 +1,5 @@
 ---
-title: Manage listings
+title: Manage Listings
 description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
 exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
@@ -35,28 +35,28 @@ You can create product offers on the Walmart Marketplace using product matching 
 
 * **[Manually upload new listings](publish-listings-to-marketplace.md#upload-new-product-listings)-**–For products that do not match an existing listing on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings.
 
-## Listing controls and field descriptions
+## Listing Controls and Column Descriptions
 
-The following tables describe the controls and fields available from the [!UICONTROL Listings] page.
+The following tables describe the controls and columns available for [!UICONTROL Listings].
 
 **Controls for [!UICONTROL Listings]**
 
-| **Attribute**                          | **Requirement level**                                                                                                                                                                                         |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL Refresh products]          | Updates the display with the most current listing and status                                                                                                                                                  |
-| [!UICONTROL Add Products ]             | Opens the [!UICONTROL  Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements. |
-| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select [!UICONTROL Match products on Walmart] to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.                        |
+| **Control**                            | **Description**                                                                                                                                                                                              |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Refresh products]          | Updates the display with the most current listing and status.                                                                                                                                                |
+| [!UICONTROL Add Products]              | Opens the [!UICONTROL Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements. |
+| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select Match products on Walmart to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.                      |
 
 
 **Column descriptions**
 
-| **Field**                    | **Description**                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL Product name]    | Name of the product from the [!DNL Commerce] store catalog.                                                                                                                                                                                                                                                                                                                                                    |
-| [!UICONTROL SKU (Unique ID)] | The mapped attribute used to match products on the marketplace. This field name varies depending on the mapped attribute configuration for [!DNL Channel Manager] listings. In this case, the product matching operation uses the product SKU from the [!DNL Commerce] catalog to find a [!DNL Walmart Marketplace]  Listing with a SKU value that matches the SKU value from the Commerce product attributes. |
-| [!UICONTROL  Quantity]       | Amount of inventory available in Adobe Commerce or Magento Open Source.                                                                                                                                                                                                                                                                                                                                        |
-| [!UICONTROL Price]           | The product price from the [!DNL Commerce] store catalog. Catalog price updates are synced to Channel Manager, and then sent to [!DNL Walmart Marketplace]  so that listed items show the current price.                                                                                                                                                                                                       |
-| [!UICONTROL Status]          | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the marketplace. If an operation fails, the listing shows an Error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status.                                              |
+| **Field**                    | **Description**                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Product name]    | Name of the product from the [!DNL Commerce] store catalog.                                                                                                                                                                                                                                                                                                                                                           |
+| [!UICONTROL SKU (Unique ID)] | The mapped attribute used to match products on the marketplace. This field name varies depending on the mapped attribute configuration for [!DNL Channel Manager] listings. In this case, the product matching operation uses the product SKU from the [!DNL Commerce] catalog to find a [!DNL Walmart Marketplace]  Listing with a SKU value that matches the SKU value from the [!DNL Commerce] product attributes. |
+| [!UICONTROL  Quantity]       | Amount of inventory available in Adobe Commerce or Magento Open Source.                                                                                                                                                                                                                                                                                                                                               |
+| [!UICONTROL Price]           | The product price from the [!DNL Commerce] store catalog. Catalog price updates are synced to Channel Manager, and then sent to [!DNL Walmart Marketplace]  so that listed items show the current price.                                                                                                                                                                                                              |
+| [!UICONTROL Status]          | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the marketplace. If an operation fails, the listing shows an error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status.                                                     |
 
 
 ### About Listing Status              
