@@ -7,7 +7,7 @@ exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 
 Manage product listings for a connected channel from [!UICONTROL Listings] in the channel store view.
 
-Use the Listings workspace to manage the Commerce products offered for sale on Walmart Marketplace. The Status for an individual listing indicates where the product is in the [!DNL Channel Manager] workflow so you can determine next steps and resolve any errors.
+Use the *[!UICONTROL Listings]* workspace to manage the [!DNL Commerce] products offered for sale on Walmart Marketplace. The Status for an individual listing indicates where the product is in the [!DNL Channel Manager] workflow so you can determine next steps and resolve any errors.
 
 ![Listings page for a connected sales channel](assets/products-submit-for-matching.png)
 
@@ -37,7 +37,7 @@ You can create product offers on the Walmart Marketplace using product matching 
 
 ## Listing controls and field descriptions
 
-The following tables describe the UI controls and fields available from the Listings page.
+The following tables describe the controls and fields available from the [!UICONTROL Listings] page.
 
 **Controls for [!UICONTROL Listings]**
 
@@ -45,7 +45,7 @@ The following tables describe the UI controls and fields available from the List
 |----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [!UICONTROL Refresh products]          | Updates the display with the most current listing and status                                                                                                                                                  |
 | [!UICONTROL Add Products ]             | Opens the [!UICONTROL  Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements. |
-| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select Match products on Walmart to check for product offers that can be added to an existing[!DNL Walmart Marketplace] listing.                        |
+| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select [!UICONTROL Match products on Walmart] to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.                        |
 
 
 **Column descriptions**

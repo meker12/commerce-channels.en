@@ -18,7 +18,7 @@ understanding of core Commerce configuration and functionality.
 
 [!DNL Channel Manager] has two areas for administrators:
 
-* **The Admin**– Use this area to access the configuration UI, product catalog, and Order Management.
+* **The Admin**– Use this area to access the configuration options, product catalog, and Order Management.
 * **The command-line interface**– Use this tool to execute installation and backend configuration tasks.
 
 This guide covers:
