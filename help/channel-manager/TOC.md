@@ -13,15 +13,15 @@ hide: yes
   - [Walmart Prerequisites](walmart-prerequisites.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
-  - [Install the [!DNL Channel Manager] extension](install.md)
+  - [Install the [!DNL Channel Manager] Extension](install.md)
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
   - [Complete Channel Setup](complete-store-setup.md)
 - List Products {#list-products}
-  - [Manage listings](manage-listings.md)
-  - [Add products to channel store](add-products-to-connected-channel.md)
-  - [Configure product matching](map-product-attributes-for-matching.md)
-  - [Publish listings to Walmart](publish-listings-to-marketplace.md)
+  - [Manage Listings](manage-listings.md)
+  - [Add Products to Channel Store](add-products-to-connected-channel.md)
+  - [Configure Product Matching](map-product-attributes-for-matching.md)
+  - [Publish Listings to Walmart](publish-listings-to-marketplace.md)
 - Inventory and Pricing {#inventory-pricing}
-  - [Update inventory and pricing](inventory-and-price-updates.md)
-    
+  - [Update Inventory and Pricing](inventory-and-price-updates.md)
+- [Manage Marketplace Orders](manage-orders.md)
