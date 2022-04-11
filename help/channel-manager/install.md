@@ -3,7 +3,8 @@ title: Install [!DNL Channel Manager]
 description: Install the Channel Manager extension.
 exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 ---
-# Install Channel Manager
+
+# Install [!DNL Channel Manager]
 
 Review the [prerequisites](onboard.md#prerequisites) and gather required information before you install Channel Manager.
 
@@ -36,7 +37,7 @@ Both methods require you to use the Command Line Interface (CLI).
 
 ### Install on an on-premises instance
 
-Use these instructions to install on Adobe Commerce and Magento Open Source platforms.
+Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and Magento Open Source to an on-premises instance.
 
 1. Log in to the [!DNL Commerce] server as a [user with permissions](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/file-system-perms.html){target="_blank"} to write to the [!DNL Commerce] file system.
 
@@ -120,7 +121,7 @@ Work in a development branch when adding an extension to your cloud instance.
 
 For help with using branches, see [Get started creating branches](https://devdocs.magento.com/cloud/env/environments-start.html#getstarted){target="_blank"} in the Adobe Commerce developer documentation.
 
-During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) is automatically inserted in the [app/etc/config.php](https://devdocs-beta.magento.com/guides/v2.3/config-guide/config/config-php.html){target="_blank"} file. You do not need to edit the file directly.
+During installation, the extension name (`magento\channel-manager`) is automatically inserted in the [app/etc/config.php](https://devdocs.magento.com/cloud/live/sens-data-over.html#configuration-data){target="_blank"} file. You do not need to edit the file directly.
 
 1. On your local workstation, change to the Cloud project root directory.
 
@@ -152,7 +153,7 @@ During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) 
    $ git push origin <branch-name>
    ``` 
   
-1. After build and deploy completes, use SSH to log in to the remote environment and verify that the extension installed correctly.
+1. After the build and deploy process completes, use SSH to log in to the remote environment and verify that the extension installed correctly.
 
    ```bash
    $ bin/magento module:status channel-manager
@@ -164,7 +165,7 @@ During installation, the extension name (`&lt;VendorName>\_&lt;ComponentName>`) 
    Module is enabled
    ```
 
-1. After installation completes successfully, log in to the [!UICONTROL Admin] to [configure the Commerce Services Connector](connect.md).
+1. After you install the extension successfully, log in to the [!UICONTROL Admin] to [configure the Commerce Services Connector](connect.md).
 
    >[!NOTE]
    >

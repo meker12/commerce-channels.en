@@ -1,31 +1,28 @@
 ---
-title: Add Products to Channel Store
+title: Add products to connected channel
 description: Create product assortment for Marketplace sales by adding products from the catalog to the sales channel
 exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 ---
-# Add Products to Channel Store
 
-From Channel Manager, select products from the [!DNL Commerce] catalog for Walmart Marketplace sales.
+# Add products to connected channel
 
-To sync products to the sales channel, the selected products must have the following attribute configuration:
+To sync products to the Walmart Marketplace sales channel, you select products from the [!DNL Commerce] product catalog and import them to Channel Manager. The selected products must have the following attribute configuration:
 
 - **[!UICONTROL Publish to Channel Manager]** attribute is enabled
 
 - At least one product attribute must match one of the [required Walmart Marketplace attributes](map-product-attributes-for-matching.md)–GTIN, ISBN, ISSN, UPC, EAN
 
-After you save selections, the Channel Manager imports the product data the channel. This process can take up to 30 minutes.
+The process to import products from [!DNL Commerce] to Channel Manager can take up to 30 minutes or more depending on how many products you select.
 
 ## Add products to sales channel
 
-1. Open the product catalog associated with your Channel Manager store.
-
-   From a connected sales channel store, select **Add products**.
+1. From a connected sales channel store, select **Add products** to open the product catalog.
    
    ![Add products to connected channel](assets/add-initial-products-to-connected-channel.png)
 
    The catalog opens in a new tab.
 
-1. From the catalog product grid, select products to sell on Walmart Marketplace.
+1. From the catalog product grid, select products to sell on [!DNL Walmart Marketplace].
 
    ![Send products to the connected channel](assets/select-products-from-catalog.png)
 
@@ -51,6 +48,9 @@ After you save selections, the Channel Manager imports the product data the chan
   
 1. Return to the connected sales channel in [!DNL Channel Manager].
 
-   After the import operation completes, view products from **[!UICONTROL Listings]**. Initially, the products are in *Draft* status. Select [!UICONTROL Refresh products]** to update the table.  
+1. After the import operation completes, view products from **[!UICONTROL Listings]**.
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
+
+   Initially, the products are in *Draft* status. Select **[!UICONTROL Refresh products]** to update the table.
+   

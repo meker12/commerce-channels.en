@@ -1,9 +1,10 @@
 ---
-title: Configure Product Matching
+title: Configure product matching
 description: Map attributes for matching Commerce products to existing Walmart Marketplace listings
 exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 ---
-# Configure Product Matching
+
+# Configure product matching
 
 Before you publish listing to Walmart Marketplace, map at least one unique identifier from your product catalog attributes to one of the required Walmart Marketplace product identifiers. This step is required to match products on the Walmart Marketplace.
 
@@ -22,7 +23,7 @@ If you have a different type of Product ID attribute in your catalog, convert it
 
 ## Configure product attribute settings
 
-1. On the product listing page for the connected sales channel,  select one or more products in *Draft* status.
+1. On the [!UICONTROL Listings] page for the connected sales channel, select one or more products in *Draft* status.
 
 1. Select **[!UICONTROL Settings]**.
 

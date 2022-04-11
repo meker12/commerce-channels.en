@@ -1,20 +1,21 @@
 ---
-title: Publish Listings to Walmart
+title: Publish listings to Walmart
 description: Publish listings for Commerce products to Walmart Marketplace to begin selling.
 exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 ---
-# Publish Listings to Walmart
+# Publish listings to Walmart
 
-Like other marketplaces, Walmart allows third-party sellers to list items that are sold by others. 
+Like other marketplaces, [!DNL Walmart] allows third-party sellers to list items that are sold by others. 
 
-The platform uses product identifiers like UPC and GTIN to match items that are already for sale.
-For matched products, the existing Walmart Marketplace listing updates to include the Commerce product offer.
+The platform uses product identifiers like UPC and GTIN to match existing [!DNL Walmart Marketplace] listings.
+For matched products, the Walmart Marketplace listing updates to include the Commerce product offer when you publish
+a product from [!DNL Channel Manager].
 
-Usually, products with the lowest prices appear in the results first, but other factors like reviews also affect placement.
+Usually, product offers with the lowest prices appear first in the [!DNL Walmart Marketplace] listing, but other factors like reviews also affect placement.
 
 ## Match products
 
-When you match products, Channel Manager sends the product data to Walmart Marketplace to search for existing listings with attribute values that match the mapped Commerce product attribute. Match criteria is determined by the [attribute mapping configuration](map-product-attributes-for-matching.md) for your store channel.
+When you match products, Channel Manager sends the product data to [!DNL Walmart Marketplace] to search for existing listings with attribute values that match the mapped Commerce product attribute. Match criteria is determined by the [attribute-mapping configuration](map-product-attributes-for-matching.md) for your store channel.
 
 If a match is found, the existing product listing is updated to add your offer.
 
