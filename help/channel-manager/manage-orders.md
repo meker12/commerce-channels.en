@@ -21,7 +21,7 @@ description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channe
 
 1. To view order information, select *[!UICONTROL *Orders]**.
 
-### View Order Detail
+## View Order Detail
 
 After an order is received from the marketplace and imported into the Adobe Commerce or Magento Open Source, use the [!DNL Commerce] Order ID to view the order in Adobe Commerce.
 
@@ -29,15 +29,18 @@ From **[!UICONTROL Orders]**, select the [!UICONTROL Commerce Order Number] to o
 
 ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
 
-#### Available Controls
+### Orders Controls and Column Descriptions
 
+The following tables describe the controls and columns available for Orders.
+
+**Controls for [!UICONTROL Orders]**
 | **Control**                    | **Description**                                                                                                                                               |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [!UICONTROL Filter orders]     | Sort the view by selecting one of the [!UICONTROL Order Status] cards.                                                                                        |
 | Error message details          | Hover over the [!UICONTROL Error Status] for an order to see the detailed error message.                                                                      |
 | [!UICONTROL View order detail] | To view order details, select the [!DNL Commerce] order number in the [!UICONTROL Order] table. Then, use [!DNL Commerce] order options to process the order. |
 
-### Column descriptions
+**Column descriptions**
 
 | **Field**                          | **Description**                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

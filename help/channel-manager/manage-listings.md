@@ -35,9 +35,9 @@ You can create product offers on the Walmart Marketplace using product matching 
 
 * **[Manually upload new listings](publish-listings-to-marketplace.md#upload-new-product-listings)-**–For products that do not match an existing listing on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings.
 
-## Listing Controls and Field Descriptions
+## Listing Controls and Column Descriptions
 
-The following tables describe the controls and fields available for [!UICONTROL Listings].
+The following tables describe the controls and columns available for [!UICONTROL Listings].
 
 **Controls for [!UICONTROL Listings]**
 
