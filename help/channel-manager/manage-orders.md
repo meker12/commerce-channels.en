@@ -11,7 +11,7 @@ description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channe
 
 >[!NOTE]
 >
->After It can take up to 35 minutes for a [!Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager].  After Channel Manager receives the order, it takes 5 more minutes to create and display the order in Adobe Commerce or Magento Open Source.
+>It can take up to 35 minutes for a [!DNL Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager].  After Channel Manager receives the order, it takes 5 more minutes to create and display the order in Adobe Commerce or Magento Open Source.
 
 ## Review Orders
 
@@ -50,7 +50,7 @@ The following tables describe the controls and columns available for Orders.
 | [!UICONTROL Order Value]           | Total cost of the ordered items.                                                                                                                                                                                                                                                                                                                                                  |
 | [!UICONTROL Date Created]          | The date the order was created on the [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                                 |
 | [!UICONTROL Ship By Date]          | Date the order must be shipped by to meet [!DNL Walmart Marketplace] requirements.                                                                                                                                                                                                                                                                                                |
-| [!UICONTROL Order Status]          | Indicates the current order status in the [!DNL [!DNL Commerce] ] order workflow. The status updates when you successfully add products to Channel Manager and when you match products on the [!DNL Walmart Marketplace]. If an operation fails, the listing shows an Error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status. |
+| [!UICONTROL Order Status]          | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the [!DNL Walmart Marketplace]. If an operation fails, the listing shows an Error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status. |
 
 ### About Order Status
 
@@ -58,11 +58,11 @@ The following tables describe the controls and columns available for Orders.
 
 *  **[!UICONTROL Open]**–Orders received from the [!DNL Walmart Marketplace] ready to be reviewed and processed in Adobe Commerce or Magento Open Source.
 
-   After a customer orders a product from the [!UICONTROL [!DNL Walmart Marketplace]], it can take up to 35 minutes for the open order to display in the order workspace for the connected channel. [!DNL Commerce] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes 5 more minutes to create and display the [!DNL Commerce] order.
+   After a customer orders a product from the [!DNL Walmart Marketplace], it can take up to 35 minutes for the open order to be displayed in the order workspace for the connected channel. [!DNL Commerce] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes 5 more minutes to create and display the [!DNL Commerce] order.
 
 *  **[!UICONTROL Processed]**–Orders that have been shipped, canceled, or refunded from the [!DNL Commerce] store.
 
-   To show all shipped, canceled, and refunded orders, select the**Processed** status card
+   To show all shipped, canceled, and refunded orders, select the **Processed** status card.
 
 * **[!UICONTROL Canceled]**–Orders that have been canceled from the [!DNL Commerce] store.
 
@@ -70,7 +70,7 @@ The following tables describe the controls and columns available for Orders.
 
   * **[!UICONTROL Refunded]**–Orders that have been refunded from the [!DNL Commerce] store.
 
-  After the refund completes, the [!DNL Commerce] stock quantity updates to reflect the refunded items. Then, [!DNL Channel Manager ]syncs the update to the [!DNL Walmart Marketplace].
+  After the refund completes, the [!DNL Commerce] stock quantity updates to reflect the refunded items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
 
 * **[!UICONTROL Error]**– Orders that have not been imported to the order repository due to missing information or other issues.
  
