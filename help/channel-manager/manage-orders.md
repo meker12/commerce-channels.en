@@ -1,8 +1,8 @@
 ---
 title: Manage Walmart Marketplace Orders
 description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
+exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
-
 # Manage Walmart Marketplace Orders
 
 [!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after Walmart processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
@@ -75,4 +75,3 @@ The following tables describe the controls and columns available for Orders.
 * **[!UICONTROL Error]**– Orders that have not been imported to the order repository due to missing information or other issues.
  
   To see error message details, hover over the *[!UICONTROL Error]* status indicator. After you resolve the error, the order updates automatically to display current information and status.
-
