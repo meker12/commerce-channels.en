@@ -51,6 +51,9 @@ After you complete onboarding, configure and manage sales channel operations fro
 - **Authorization to download the Channel Manager Composer package**–Provide the Beta coordinator for Adobe Channel with the MAGE ID of the [!DNL Commerce] account used to manage the service for your organization.
 - **Experience using Composer and the [!DNL Commerce CLI]** –See [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"} for information about using these tools to install and manage extensions on [!DNL Adobe Commerce] or [!DNL Magento Open Source] platforms.
 - [[!DNL Amazon Sales Channel] version 4.4.2 or later](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)–If you have activated [!DNL Amazon Sales Channel] for your [!DNL Commerce] sites, verify that your [!DNL Commerce] platform has version 4.42 installed before you install [!DNL Channel Manager].
+- [!DNL Inventory Management] extension for Adobe Commerce and Magento Open Source
+
+   If you plan to use Channel Manager for inventory and Order Management, you must have the Inventory Management extension installed and enabled on your Adobe Commerce and Magento Open Source instance. Typically, this extension is installed and enabled by default on Adobe Commerce and Magento Open Source 2.3.x and later. For more information, see [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
 
 ### Requirements
 
@@ -59,7 +62,6 @@ After you complete onboarding, configure and manage sales channel operations fro
 - [Composer 1.x or later](https://devdocs.magento.com/cloud/reference/cloud-composer.html)
 - [[!DNL Amazon Sales Channel] version 4.4.2 or later](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)–If you have activated [!DNL Amazon Sales Channel] for your [!DNL Commerce] sites, verify that your [!DNL Commerce] platform has version 4.42 installed before you install [!DNL Channel Manager].
 - [!DNL Inventory Management]
-
 
 ### Supported platforms
 
