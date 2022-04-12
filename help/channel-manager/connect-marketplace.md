@@ -94,4 +94,4 @@ To complete store setup:
 
    - [View and manage inventory and pricing](inventory-and-price-updates.md)
 
-   - View and manage Walmart orders from the Commerce Admin
+   - [View and manage Walmart orders from the Commerce Admin](manage-orders.md)
