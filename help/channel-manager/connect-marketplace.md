@@ -45,7 +45,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, connect a Com
 
 1. Connect the channel to [!DNL Walmart Marketplace].
 
-   -  Add the credentials for the [[!DNL Walmart Marketplace Adobe Production API key]](assets/connect-marketplace.md#generate-a-walmart-marketplace-production-api-key) from your [!DNL Walmart Marketplace Seller] account.
+   -  Add the credentials for the [!DNL Walmart Marketplace Adobe Production API key](walmart-prerequisites.md#generate-a-walmart-marketplace-production-api-key) from your [!DNL Walmart Marketplace Seller] account.
 
    - If you don’t have the credentials, select **[!UICONTROL Get API credentials]** to get them from the [!DNL Walmart Marketplace Developer Portal].
 
