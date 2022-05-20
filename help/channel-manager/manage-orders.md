@@ -3,7 +3,7 @@ title: Manage Walmart Marketplace Orders
 description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
-# Manage Walmart Marketplace Orders
+# Manage Walmart Marketplace orders
 
 [!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after Walmart processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
 
@@ -42,7 +42,7 @@ The following tables describe the controls and columns available for Orders.
 
 **Column descriptions**
 
-| Field                         | Description                                                                                                                                                                                                                                                                                                                                                                 |
+| Field                              | Description                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [!UICONTROL  Walmart Order Number] | The purchase order number assigned to the order in the [!DNL Walmart Marketplace]. When an order is initially imported to [!DNL Channel Manager], only the Walmart order number displays. When the [!DNL Commerce] order is created, the [!DNL Walmart] order number is stored in the [!UICONTROL External ID] product attribute.                                                |
 | [!DNL Commerce]  Order Number      | The number assigned to the [!DNL Commerce]  order created from the [!DNL Walmart Marketplace] order.                                                                                                                                                                                                                                                                             |

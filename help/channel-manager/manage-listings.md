@@ -3,7 +3,7 @@ title: Manage Listings
 description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
 exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
-# Manage Listings
+# Manage listings
 
 Manage product listings for a connected channel from [!UICONTROL Listings] in the channel store view.
 
