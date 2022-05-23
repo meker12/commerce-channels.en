@@ -3,15 +3,15 @@ title: Complete sales channel setup
 description: Navigate to a connected sales channel to manage view and manage product listings, inventory and price updates, and track orders
 exl-id: 12127e3b-55c1-4db6-98b2-6dc8bdaae139
 ---
-# Complete store setup
+# Complete sales channel setup
 
-After you connect a Commerce store to [!DNL Walmart Marketplace], complete store setup from the [!DNL Channel Manager] store list page.
+After you connect a Commerce store to [!DNL Walmart Marketplace], complete store setup from the [!DNL Channel Manager] home page.
 
 1. From the Admin, select **[!UICONTROL Marketing** > **Channel Manager**].
 
    ![Manage Channel Manager Stores](assets/channel-manager-setup-first-store.png)
 
-1. Open a Channel Manager store by selecting the eye icon in a store entry row.
+1. Open the sales channel store by selecting the eye icon for the store.
 
 1. Begin sales channel operations.
 

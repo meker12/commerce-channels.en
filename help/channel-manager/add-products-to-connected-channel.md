@@ -14,7 +14,7 @@ To sync products to the Walmart Marketplace sales channel, you select products f
 
 The process to import products from [!DNL Commerce] to Channel Manager can take up to 30 minutes or more depending on how many products you select.
 
-## Add products to sales channel store
+## Add products
 
 1. From a connected sales channel store, select **Add products** to open the product catalog.
    
@@ -36,7 +36,7 @@ The process to import products from [!DNL Commerce] to Channel Manager can take 
 
    - Select **[!UICONTROL Save]**.
 
-    A confirmation message displays.
+     A confirmation message displays.
 
      ![Product import from catalog to sales channel confirmation message](assets/product-import-from-catalog-confirmation.png)
 
@@ -45,10 +45,8 @@ The process to import products from [!DNL Commerce] to Channel Manager can take 
      ```bash
      $ bin/magento queue:consumers:start product_action_attribute.update
      ``` 
-  
-1. Return to the connected sales channel in [!DNL Channel Manager].
 
-1. After the import operation completes, view products from **[!UICONTROL Listings]**.
+1. After the import operation completes, verify the products added by returning to [!DNL Channel Manager] and selecting **[!UICONTROL Listings]**.
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
 
