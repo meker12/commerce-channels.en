@@ -31,9 +31,7 @@ When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must 
 
 1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
 
-1. In the Orders table, find the an the order to ship. 
-
-1. Open the order by selecting the **Commerce Order Number**.
+1. In the Orders table, open the order to ship by selecting the **Commerce Order Number**.
 
 1. Create and submit a shipment for all or part of an order by selecting **[!UICONTROL Ship]**.
 
