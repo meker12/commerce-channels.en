@@ -11,7 +11,7 @@ exl-id: c2779c72-4793-445c-858a-867ea8389662
 
 >[!NOTE]
 >
->It can take up to 3five minutes for a [!DNL Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes approximately five more minutes to create and display the order in Adobe Commerce or Magento Open Source.
+>It can take up to 35 minutes for a [!DNL Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes approximately five more minutes to create and display the order in Adobe Commerce or Magento Open Source.
 
 ## Review Orders
 
@@ -62,7 +62,7 @@ The following tables describe the controls and columns available for Orders.
 
 *  **[!UICONTROL Open]**–Orders received from the [!DNL Walmart Marketplace] ready to be reviewed and processed in Adobe Commerce or Magento Open Source.
 
-   After a customer orders a product from the [!DNL Walmart Marketplace], it can take up to 3five minutes for the open order to be displayed in the order workspace for the connected channel. [!DNL Commerce] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes 5 more minutes to create and display the [!DNL Commerce] order.
+   After a customer orders a product from the [!DNL Walmart Marketplace], it can take up to 35 minutes for the open order to be displayed in the order workspace for the connected channel. [!DNL Commerce] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes 5 more minutes to create and display the [!DNL Commerce] order.
 
 *  **[!UICONTROL Processed]**–Orders that have been shipped, canceled, or refunded from the [!DNL Commerce] store.
 
@@ -79,4 +79,4 @@ The following tables describe the controls and columns available for Orders.
 * **[!UICONTROL Error]**– Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. 
 
 * **[!UICONTROL Error description]**–Provides detailed information about order errors that occur due to issues like 
-missing information or required fields, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
+missing information or invalid values, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
