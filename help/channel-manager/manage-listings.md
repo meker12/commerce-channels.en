@@ -37,15 +37,15 @@ You can complete the following tasks from the Listing view.
 
 Create the product assortment for the Walmart Marketplace channel by completing the following tasks:
 
-* [Add products from your Commerce product catalog to Channel Manager](add-products-to-connected-channel.md)
+* [Add products from your Commerce product catalog to Channel Manager](add-products-to-channel-store.md)
 
-* [Configure product matching](map-product-attributes-for-matching.md#configure-product-attribute-settings)
+* [Map catalog attributes](map-catalog-attributes.md#configure-product-attribute-settings)
 
 ## Publish products to Walmart
 
 You can create product offers on the Walmart Marketplace using product matching or by manually uploading product listings for new products. For instructions, see [Publish Listings to Walmart Marketplace](publish-listings-to-marketplace.md) as described in the following topics:
 
-* **[Match products on Walmart](publish-listings-to-marketplace.md)**–Publish product listings from your channel to [!DNL Walmart Marketplace] by updating existing listings selling the same product. Match criteria are determined by the [attribute-mapping configuration](map-product-attributes-for-matching.md) for your channel.
+* **[Match products on Walmart](publish-listings-to-marketplace.md)**–Publish product listings from your channel to [!DNL Walmart Marketplace] by updating existing listings selling the same product. Match criteria are determined by the [attribute-mapping configuration](map-catalog-attributes.md) for your channel.
 
 * **[Manually upload new listings](publish-listings-to-marketplace.md#upload-new-product-listings)-**–For products that do not match an existing listing on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings.
 
@@ -91,6 +91,8 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
 
 * **[!UICONTROL Match - Match in Stage]**–Identifies products matched on [!DNL Walmart] that cannot be published until the [!DNL Walmart Marketplace] store is live. Products with this status publish automatically when the [!DNL Walmart Marketplace] store goes live.
 
-* **[!UICONTROL Error]**–Identifies products that were not matched to an existing [!DNL Walmart Marketplace] listing. View error details by hovering over the *Error* status label.
+* **[!UICONTROL Error]**–Identifies products that were not matched to an existing [!DNL Walmart Marketplace] listing.
+
+* **[!UICONTROL Error description]**–Provides detailed information about the listing error.
 
   After you resolve the error, resubmit the product for matching. See [Troubleshoot product match errors](publish-listings-to-marketplace.md#troubleshoot-product-match-errors).

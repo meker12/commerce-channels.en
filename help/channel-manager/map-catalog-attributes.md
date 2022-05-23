@@ -1,14 +1,15 @@
 ---
-title: Configure product matching
-description: Map attributes for matching Commerce products to existing Walmart Marketplace listings
+title: Map catalog attributes
+description: Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].
 exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 ---
 
-# Configure product matching
+# Map catalog attributes
 
-Before you publish listing to Walmart Marketplace, map at least one unique identifier from your product catalog attributes to one of the required Walmart Marketplace product identifiers. This step is required to match products on the Walmart Marketplace.
+Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 
+This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
-For product matching, the Commerce product must have at least one of the following Product Identifiers (Product IDs) in the catalog attributes.
+For product matching, the Commerce product must have at least one product attribute that matches the one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
 
 **Required Walmart product IDs**                                                                                              
 
@@ -17,23 +18,21 @@ For product matching, the Commerce product must have at least one of the followi
 | GTIN              | Global Trade Item                    | General purpose, used worldwide                                                                                                                  | 14 digits             |
 | ISBN              | International Standard Book Number   | Paperback, Hardcover and Electronic Books                                                                                                        | 10 or 13 digits       |
 | ISSN              | International Standard Serial Number | 8-digit serial number used to identify magazines, journals, newspapers, and periodicals of all kinds delivered on all media–print and electronic | 8 digits              |
-| ISBN              | International Standard Book Number   | Paperback, Hardcover and Electronic                                                                                                              | 12 digits             |
+| UPC               | Universal Product Code               | Standard retail tracking code                                                                                                                    | 12 digits             |
 
-If you have a different type of Product ID attribute in your catalog, convert it to one of the required types. Then, map it to the corresponding Walmart Marketplace attribute in the Listing configuration for the Channel Manager store.
+If your catalog does not have an attribute that matches one of these types, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html). Then, use that attribute to map the unique identifier.
 
-## Configure product attribute settings
+## Map unique identifiers
 
-1. On the [!UICONTROL Listings] page for the connected sales channel, select one or more products in *Draft* status.
-
-1. Select **[!UICONTROL Settings]**.
+1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Settings]**.
 
    - Find the Walmart Marketplace attribute to map.
 
-   - Select the corresponding attribute from the store catalog.
+   - Select the corresponding attribute from the [!DNL Commerce] store catalog.
 
      The following example maps the Walmart Marketplace UPC attribute to the UPC attribute in the product catalog.  
 
-    ![Map attributes for product match criteria](assets/products-map-attributes-for--match.png)
+    ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
 
    - Select **[!UICONTROL Save]**.
 

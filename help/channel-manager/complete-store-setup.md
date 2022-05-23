@@ -15,7 +15,7 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 
 1. Begin sales channel operations.
 
-   - [Add products from your [!DNL Commerce Catalog] to Channel Manager](add-products-to-connected-channel.md)
+   - [Add products from your [!DNL Commerce Catalog] to Channel Manager](add-products-to-channel-store.md)
 
    - [Publish product listings to [!DNL Walmart] using product matching](publish-listings-to-marketplace.md)
 
