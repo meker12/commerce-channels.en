@@ -10,7 +10,7 @@ To sync products to the Walmart Marketplace sales channel, you select products f
 
 - **[!UICONTROL Publish to Channel Manager]** attribute is enabled
 
-- At least one product attribute must match one of the [required Walmart Marketplace attributes](map-product-attributes-for-matching.md)–GTIN, ISBN, ISSN, UPC, EAN
+- At least one product attribute must match one of the [required Walmart Marketplace attributes](map-catalog-attributes.md)–GTIN, ISBN, ISSN, UPC, EAN
 
 The process to import products from [!DNL Commerce] to Channel Manager can take up to 30 minutes or more depending on how many products you select.
 
@@ -46,7 +46,7 @@ The process to import products from [!DNL Commerce] to Channel Manager can take 
      $ bin/magento queue:consumers:start product_action_attribute.update
      ``` 
 
-1. After the import operation completes, verify the products added by returning to [!DNL Channel Manager] and selecting **[!UICONTROL Listings]**.
+1. After the import operation completes, verify the products that you added by returning to [!DNL Channel Manager] and selecting **[!UICONTROL Listings]**.
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
 

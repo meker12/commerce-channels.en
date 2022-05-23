@@ -15,13 +15,13 @@ Usually, product offers with the lowest prices appear first in the [!DNL Walmart
 
 ## Match products
 
-When you match products, Channel Manager sends the product data to [!DNL Walmart Marketplace] to search for existing listings with attribute values that match the mapped Commerce product attribute. Match criteria is determined by the [attribute-mapping configuration](map-product-attributes-for-matching.md) for your store channel.
+When you match products, Channel Manager sends the product data to [!DNL Walmart Marketplace] to search for existing listings with attribute values that match the mapped Commerce product attribute. Match criteria is determined by the [attribute-mapping configuration](map-catalog-attributes.md) for your store channel.
 
 If a match is found, the existing product listing is updated to add your offer.
 
 ### Prerequisites
 
-Before matching products, verify that your product catalog attribute values meet Walmart requirements and configure attribute settings. See [Configure product matching](map-product-attributes-for-matching.md).
+Before matching products, verify that your product catalog attribute values meet Walmart requirements and configure attribute settings. See [Map catalog attributes](map-catalog-attributes.md).
 
 #### Select and match products
 
@@ -49,16 +49,16 @@ After the match completes, the status can be *Match* or *Error*.
 
 * **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was published to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column.
 
-If your [[!DNL Walmart Marketplace] store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), the *Status Detail* column indicates that the product is *Staged for Match*. Staged products are published  automatically as soon as the [!DNL Walmart Marketplace] store is activated.
+If your [[!DNL Walmart Marketplace] store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), the *Status Detail* column indicates that the product is *Staged for Match*. Staged products are published automatically when the [!DNL Walmart Marketplace] store is activated.
 
-* **[!UICONTROL Error]** indicates one of the following:
+* **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
 
-  * An error occurred and the match operation failed.
+  * [!DNL Channel Manager] could not send for matching due to a connection issue.
 
   * No match was found.
 
-  * Match found, but the listing cannot be published due to an error returned from Walmart marketplace.  either missing an attribute, or published as staged because the [Marketplace store is not active](walmart-prerequisites.md#walmart-marketplace-store-status).
-
+  * Match found, but the listing cannot be published because [!DNL Walmart Marketplace] returned an error code. See *Status Detail** for the error description.
+  
 ### Check listing on Walmart
 
 After matching products, review the updated product listing and verify product details, price, and inventory quantity from the [[!UICONTROL Walmart Marketplace Seller Account Items] dashboard](https://seller.walmart.com/items-and-inventory/manage-items) to review the updated product. 
@@ -111,7 +111,7 @@ For new product listings, check your product catalog to ensure that products you
 
 ### Prerequisites
 
-* Verify that you meet the [Walmart prerequisites](https://docs.google.com/document/d/1bEbCyVLXJQQsbZvEwetJvZKWQJOKoiw5Ia1uB4Bs4uo/edit#heading=h.k2lo9voad1gx).
+* Verify that you meet the [Walmart prerequisites](walmart-prerequisites.md).
 
 * In your Commerce product catalog, verify that the catalog configuration for the products to list on Walmart Marketplace have all required attributes and meet Walmart Marketplace Content Guidelines.
 

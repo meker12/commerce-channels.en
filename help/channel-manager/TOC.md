@@ -17,13 +17,17 @@ hide: yes
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
   - [Complete Channel Setup](complete-store-setup.md)
+- Configure Settings {#configure-settings}
+  - [Settings overview](settings-overview.md)
+  - [Map Catalog Attributes](map-catalog-attributes.md)
+  - [Map Shipping Carriers](map-shipping-carriers.md)
 - List Products {#list-products}
   - [Manage Listings](manage-listings.md)
-  - [Add Products to Channel Store](add-products-to-connected-channel.md)
-  - [Configure Product Matching](map-product-attributes-for-matching.md)
+  - [Add Products to Channel Store](add-products-to-channel-store.md)
   - [Publish Listings to Walmart](publish-listings-to-marketplace.md)
 - Inventory and Pricing {#inventory-pricing}
   - [Update Inventory and Pricing](inventory-and-price-updates.md)
-- [Manage Orders]{#manage-orders}
+- Manage Orders {#manage-orders}
   - [View and Track Orders](manage-orders.md)
+  - [Process Orders](process-orders.md)
 
