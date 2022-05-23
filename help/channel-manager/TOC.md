@@ -24,4 +24,6 @@ hide: yes
   - [Publish Listings to Walmart](publish-listings-to-marketplace.md)
 - Inventory and Pricing {#inventory-pricing}
   - [Update Inventory and Pricing](inventory-and-price-updates.md)
-- [Manage Marketplace Orders](manage-orders.md)
+- [Manage Orders]{#manage-orders}
+  - [View and Track Orders](manage-orders.md)
+
