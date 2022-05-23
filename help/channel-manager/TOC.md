@@ -19,7 +19,7 @@ hide: yes
   - [Complete Channel Setup](complete-store-setup.md)
 - Configure Settings {#configure-settings}
   - [Map Catalog Attributes](map-catalog-attributes.md)
-  - [Map Shipping Carriers](configure-shipping-carriers.md)
+  - [Map Shipping Carriers](map-shipping-carriers.md)
 - List Products {#list-products}
   - [Manage Listings](manage-listings.md)
   - [Add Products to Channel Store](add-products-to-channel-store.md)
