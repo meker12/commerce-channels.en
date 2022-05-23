@@ -49,16 +49,16 @@ After the match completes, the status can be *Match* or *Error*.
 
 * **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was published to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column.
 
-If your [[!DNL Walmart Marketplace] store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), the *Status Detail* column indicates that the product is *Staged for Match*. Staged products are published  automatically when the [!DNL Walmart Marketplace] store is activated.
+If your [[!DNL Walmart Marketplace] store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), the *Status Detail* column indicates that the product is *Staged for Match*. Staged products are published automatically when the [!DNL Walmart Marketplace] store is activated.
 
-* **[!UICONTROL Error]** indicates one of the following:
+* **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
 
-  * An error occurred and the match operation failed.
+  * [!DNL Channel Manager] could not send for matching due to a connection issue.
 
   * No match was found.
 
-  * Match found, but the listing cannot be published due to an error returned from Walmart marketplace.
-
+  * Match found, but the listing cannot be published because [!DNL Walmart Marketplace] returned an error code. See *Status Detail** for the error description.
+  
 ### Check listing on Walmart
 
 After matching products, review the updated product listing and verify product details, price, and inventory quantity from the [[!UICONTROL Walmart Marketplace Seller Account Items] dashboard](https://seller.walmart.com/items-and-inventory/manage-items) to review the updated product. 

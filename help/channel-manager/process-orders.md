@@ -23,7 +23,7 @@ Before shipping orders, verify that the [channel shipping settings and carrier c
 
 ## Create and submit order shipment
 
-When you process an order shipment for [!DNL Walmart Marketplace], you must add a tracking number. Customers receive the tracking number in the shipment notification from [!DNL Walmart Marketplace]. 
+When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must add a tracking number. Customers receive the tracking number in the shipment notification they receive from from [!DNL Walmart]. 
 
 1. From the Admin, select **[!UICONTROL Marketing]** > **[!UICONTROL Channel Manager]** to open the [!UICONTROL Channel Manager Marketplace Stores] page.
 
@@ -31,7 +31,7 @@ When you process an order shipment for [!DNL Walmart Marketplace], you must add 
 
 1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
 
-1. In the Orders table, find the Open order that you want to ship. 
+1. In the Orders table, find the an the order to ship. 
 
 1. Open the order by selecting the **Commerce Order Number**.
 
@@ -70,8 +70,3 @@ The cancellation reason is also displayed in the [!DNL Commerce] order payments 
    - Select **Cancel Order**.
 
 1. Verify that updates were sent to [!DNL Walmart Marketplace] by checking the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager].
-
-
-
-
-

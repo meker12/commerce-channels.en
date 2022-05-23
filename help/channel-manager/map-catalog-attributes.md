@@ -19,7 +19,7 @@ For product matching, the Commerce product must have at least one product attrib
 | ISSN              | International Standard Serial Number | 8-digit serial number used to identify magazines, journals, newspapers, and periodicals of all kinds delivered on all media–print and electronic | 8 digits              |
 | UPC               | Universal Product Code               | Standard retail tracking code                                                                                                                    | 12 digits             |
 
-If your catalog does not have an attribute that matches one of these types, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html). Then, use that attribute to map the unique identifier.
+If your catalog does not have an attribute that matches one of these types, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html).
 
 ## Map unique identifiers
 
