@@ -21,8 +21,7 @@ exl-id: c2779c72-4793-445c-858a-867ea8389662
 
 1. To view order information, select *[!UICONTROL *Orders]**.
 
-1. Get information about the order and determine next steps by checking the **[Status](#about-order-status)** column to get information about the order and determine next steps.
-
+1. Get information about the order and determine next steps by checking the **[Status](#about-order-status)** column to get information about the orders.
 
 ## View Order Detail
 
