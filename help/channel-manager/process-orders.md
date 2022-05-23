@@ -11,9 +11,9 @@ When you process an order in Commerce, Channel Manager synchronizes updates to [
 
 >[!NOTE]
 >
-> It can up to 5 minutes for the order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to [!DNL Channel Manager] Orders.
+> It can up to five minutes for the order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to [!DNL Channel Manager] Orders.
 
-## Shipping an order
+## Ship an order
 
 When you ship an order from Commerce, you use the [[!DNL Commerce Order Management] shipping workflow](https://docs.magento.com/user-guide/sales/order-ship.html). After you submit the order, updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
 
@@ -21,7 +21,7 @@ When you ship an order from Commerce, you use the [[!DNL Commerce Order Manageme
 
 Before shipping orders, verify that the [channel shipping settings and carrier configuration](map-shipping-carriers.md) meet [!DNL Walmart Marketplace requirements].
 
-## Create and submit order shipment
+### Create and submit the shipment
 
 When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must add a tracking number. Customers receive the tracking number in the shipment notification they receive from from [!DNL Walmart]. 
 
@@ -31,9 +31,7 @@ When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must 
 
 1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
 
-1. In the Orders table, find the an the order to ship. 
-
-1. Open the order by selecting the **Commerce Order Number**.
+1. In the Orders table, open the order to ship by selecting the **Commerce Order Number**.
 
 1. Create and submit a shipment for all or part of an order by selecting **[!UICONTROL Ship]**.
 
@@ -43,7 +41,7 @@ When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must 
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
 
-## Cancel an Order
+## Cancel an order
 
 When you cancel a [!DNL Walmart Marketplace] order, Walmart requires a cancellation reason. When the order cancellation updates to Walmart, the cancellation reason is included in the cancellation notice sent to the customer.
 
