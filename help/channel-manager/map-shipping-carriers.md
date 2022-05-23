@@ -6,7 +6,7 @@ exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 
 # Map shipping carriers
 
-Before you [process order shipments](process-orders.md#ship-an-order) for [!DNL Walmart Marketplace] orders, map Walmart preferred shipping carriers to the corresponding [!DNL Commerce] carrier so that both [!DNL Commerce] and [!DNL Walmart Marketplace] have the same identifier for order shipping information.
+Before you [process order shipments](process-orders.md#ship-an-order) for [!DNL Walmart Marketplace] orders, map Walmart preferred shipping carriers to the corresponding carrier in [!DNL Commerce] so that the shipping data can be synchronized between [!DNL Walmart] and [!DNL Commerce].
 
 Commerce carriers that do not map to a preferred carrier are labeled as *[!UICONTROL Other Carrier]* at Walmart.
 
