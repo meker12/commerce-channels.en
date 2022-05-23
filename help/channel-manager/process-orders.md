@@ -11,7 +11,7 @@ When you process an order in Commerce, Channel Manager synchronizes updates to [
 
 >[!NOTE]
 >
-> It can up to 5 minutes for the order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to [!DNL Channel Manager] Orders.
+> It can up to five minutes for the order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to [!DNL Channel Manager] Orders.
 
 ## Ship an order
 
