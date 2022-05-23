@@ -111,7 +111,7 @@ For new product listings, check your product catalog to ensure that products you
 
 ### Prerequisites
 
-* Verify that you meet the [Walmart prerequisites](https://docs.google.com/document/d/1bEbCyVLXJQQsbZvEwetJvZKWQJOKoiw5Ia1uB4Bs4uo/edit#heading=h.k2lo9voad1gx).
+* Verify that you meet the [Walmart prerequisites](walmart-prerequisites.md).
 
 * In your Commerce product catalog, verify that the catalog configuration for the products to list on Walmart Marketplace have all required attributes and meet Walmart Marketplace Content Guidelines.
 

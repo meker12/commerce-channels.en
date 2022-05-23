@@ -1,5 +1,5 @@
 ---
-title: Configure CSettings
+title: Configure Channel Settings
 description: Configure Channel Manager and sales channel settings for authentication, map the catalog attributes and shipping carriers required to coordinate sales operations between [!DNL Commerce] and the [!DNL Walmart Marketplace].
 ---
 
@@ -9,7 +9,7 @@ Sales channel settings enable communication and data synchronization between [!D
 
 In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the Settings configuration from the *Settings* page.
 
-* **[Map Unique identifiers](map-catalog-attributes.md)**–Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
+* **[Map Unique identifiers](map-catalog-attributes.md)**–Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
 * **[Map Shipping Carriers](map-shipping-carriers.md)–Before you process [!DNL Walmart Marketplace] orders from [!DNL Commerce], ensure that you map shipping carriers from your [!DNL Commerce] instance to the corresponding carriers on [!DNL Walmart Marketplace].
 
