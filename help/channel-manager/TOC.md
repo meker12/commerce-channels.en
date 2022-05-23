@@ -18,6 +18,7 @@ hide: yes
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
   - [Complete Channel Setup](complete-store-setup.md)
 - Configure Settings {#configure-settings}
+  - [Settings overview](settings-overview.md)
   - [Map Catalog Attributes](map-catalog-attributes.md)
   - [Map Shipping Carriers](map-shipping-carriers.md)
 - List Products {#list-products}
