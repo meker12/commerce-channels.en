@@ -5,7 +5,7 @@ description: Configure Channel Manager and sales channel settings for authentica
 
 # Configure sales channel settings
 
-Sales channel settings enable communication and data synchronization between [!DNL Commerce] and [!DNL Walmart Marketplace] so can manage Walmart Marketplace sales operations from the [!DNL Commerce] Admin:
+Sales channel settings enable communication and data synchronization between [!DNL Commerce] and [!DNL Walmart Marketplace] so you can manage Walmart Marketplace sales operations from the [!DNL Commerce] Admin:
 
 In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the Settings configuration from the *Settings* page.
 

@@ -13,7 +13,7 @@ When you process an order in Commerce, Channel Manager synchronizes updates to [
 >
 > It can up to 5 minutes for the order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to [!DNL Channel Manager] Orders.
 
-## Shipping an order
+## Ship an order
 
 When you ship an order from Commerce, you use the [[!DNL Commerce Order Management] shipping workflow](https://docs.magento.com/user-guide/sales/order-ship.html). After you submit the order, updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
 
@@ -41,7 +41,7 @@ When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must 
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
 
-## Cancel an Order
+## Cancel an order
 
 When you cancel a [!DNL Walmart Marketplace] order, Walmart requires a cancellation reason. When the order cancellation updates to Walmart, the cancellation reason is included in the cancellation notice sent to the customer.
 

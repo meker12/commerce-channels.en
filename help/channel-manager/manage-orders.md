@@ -76,7 +76,7 @@ The following tables describe the controls and columns available for Orders.
 
   After the refund completes, the [!DNL Commerce] stock quantity updates to reflect the refunded items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
 
-* **[!UICONTROL Error]**– Orders that have errors. Errors can occur an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. 
+* **[!UICONTROL Error]**– Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. 
 
-* **[!UICONTROL Error description]**–Provides detailed information about the order error. For example, 
+* **[!UICONTROL Error description]**–Provides detailed information about order errors that occur due to issues like 
 missing information or required fields, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
