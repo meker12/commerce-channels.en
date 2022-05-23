@@ -21,7 +21,7 @@ When you ship an order from Commerce, you use the [[!DNL Commerce Order Manageme
 
 Before shipping orders, verify that the [channel shipping settings and carrier configuration](map-shipping-carriers.md) meet [!DNL Walmart Marketplace requirements].
 
-## Create and submit order shipment
+### Create and submit the shipment
 
 When you ship a [!DNL Walmart Marketplace] order from [!DNL Commerce], you must add a tracking number. Customers receive the tracking number in the shipment notification they receive from from [!DNL Walmart]. 
 
