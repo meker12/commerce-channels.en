@@ -1,10 +1,10 @@
 ---
-title: Add products to connected channel
-description: Create product assortment for Marketplace sales by adding products from the catalog to the sales channel
+title: Add products to sales channel store
+description: Create product assortment for [!DNL Walmart Marketplace] sales by adding products from the catalog to the sales channel
 exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 ---
 
-# Add products to connected channel
+# Add products to sales channel store
 
 To sync products to the Walmart Marketplace sales channel, you select products from the [!DNL Commerce] product catalog and import them to Channel Manager. The selected products must have the following attribute configuration:
 
@@ -14,17 +14,17 @@ To sync products to the Walmart Marketplace sales channel, you select products f
 
 The process to import products from [!DNL Commerce] to Channel Manager can take up to 30 minutes or more depending on how many products you select.
 
-## Add products to sales channel
+## Add products to sales channel store
 
 1. From a connected sales channel store, select **Add products** to open the product catalog.
    
-   ![Add products to connected channel](assets/add-initial-products-to-connected-channel.png)
+   ![Add products to sales channel store](assets/add-initial-products-to-connected-channel.png)
 
    The catalog opens in a new tab.
 
 1. From the catalog product grid, select products to sell on [!DNL Walmart Marketplace].
 
-   ![Send products to the connected channel](assets/select-products-from-catalog.png)
+   ![Send products to the sales channel store](assets/select-products-from-catalog.png)
 
 1. Enable the **[!UICONTROL Publish to Channel Manager]** attribute for the selected items.
 

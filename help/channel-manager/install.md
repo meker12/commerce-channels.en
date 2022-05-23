@@ -33,7 +33,7 @@ Both methods require you to use the Command Line Interface (CLI).
 
 >[!NOTE]
 >
->For help installing [!DNL Commerce] software using the CLI, see [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"}. 
+>For help with installing [!DNL Commerce] software using the CLI, see [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"}. 
 
 ### Install on an on-premises instance
 

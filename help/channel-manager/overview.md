@@ -8,29 +8,27 @@ exl-id: 91265973-d2ad-4925-aa10-260d7e186f20
 
 # About [!DNL Channel Manager]
 
-Channel Manager for Adobe Commerce and Magento Open Source provides a convenient workspace in the Admin to manage channel sales on third-party marketplaces like Walmart, Amazon, and eBay. Increase sales and expand to new markets while managing sales channel operations seamlessly from your Commerce Admin.
+[!DNL Channel Manager] helps you increase sales and reach new customers by integrating your Adobe Commerce or Magento Open Source product catalog with the [!DNL Walmart US Marketplace].
 
-![[!DNL Channel Manager] extension Admin view](assets/channel-manager-admin-entry-page.png)
+![[!DNL Channel Manager] extension Admin view](assets/channel-manager-home.png)
 
-## Beta release overview
+After you install and configure [!DNL Channel Manager], the [!DNL Commerce] Admin is extended so you can manage [!DNL Walmart Marketplace] sales operations seamlessly from your Commerce environment.
 
-The Beta release of Channel Manager supports Adobe Commerce or Magento Open Source sellers who want to sell on [!DNL Walmart Marketplace].
+* **Listing management**–Easily publish product listings by matching products from your Commerce catalog to existing Walmart Marketplace listings.
 
-This release supports the following capabilities to manage sales channel operations:
+* **Inventory Management**–Items in the merchant’s marketplace seller account are automatically synchronized and updated from Commerce to ensure accurate inventory levels.
 
-* Establish an API connection between Adobe Commerce or Magento Open Source and Walmart Marketplace
+* **Pricing updates**–Maintain accurate pricing for marketplace listings with automatic price synchronization. When a price changes in Adobe Commerce, the changes are reflected in the marketplace within 10 minutes.
 
-* Publish products from Channel Manager to Walmart using product matching
+* **Order management**–When new orders are created in a marketplace, Channel Manager synchronizes orders with Adobe Commerce and sends order acknowledgments to the marketplace to ensure inventory is reserved for each order.
 
-* Manage product listings and track status
+* **Shipping Management**–When orders are marked as shipped in Adobe Commerce, the shipment update is sent to the [!DNL Walmart Marketplace]. This notification ensures that sellers meet their fulfillment SLA requirements and that customers receive shipping update notifications for their current orders.
 
-* Sync inventory quantities for matched products from Commerce to Walmart
+* **Cancellations**–When orders are canceled in Adobe Commerce, Channel Manager sends updated order information to the marketplace to replicate the action for the corresponding marketplace order. 
 
-* Sync catalog pricing for matched products from Commerce to Walmart
+[!DNL Channel Manager] supports Adobe Commerce or Magento Open Source sellers who want to sell on [!DNL Walmart Marketplace].
 
-* Receive orders from Walmart Marketplace and view them in the [!DNL Commerce] order dashboard
-      
-### Expected latency for Channel Manager operations
+## Expected latency for Channel Manager operations
 
 The data synchronization processes between [!DNL Channel Manager] and a linked [!DNL Walmart Marketplace] store require some time to complete. Review the expected processing time for [!DNL Channel Manager] operations to help plan sales channel operations work.
 
@@ -40,7 +38,7 @@ The data synchronization processes between [!DNL Channel Manager] and a linked [
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Add products to Channel Manager            | Select products from the Commerce product catalog and import them into Channel Manager.                                                       | **Up to 5 minutes**–If you select many products, for example, an entire product catalog, the import process takes longer. |
 | Match products on Walmart Marketplace      | Select product listings in Channel Manager and send to Walmart for matching.                                                                  | **Up to 30 minutes**–If you select many products, the matching process takes longer depending on the quantity selected.   |
-| Inventory updates                          | When inventory quantity changes in Commerce, [!DNL Channel Manager] syncs the update to Walmart.                                                  | **Up to 10 minutes**                                                                                                      |
+| Inventory updates                          | When inventory quantity changes in Commerce, [!DNL Channel Manager] syncs the update to Walmart.                                              | **Up to 10 minutes**                                                                                                      |
 | Price updates                              | When a product price changes, Channel Manager syncs the update to Walmart.                                                                    | **Up to 5 minutes**                                                                                                       |
 | Order syncs from Walmart to Commerce       | Customer orders a Commerce product on the Walmart Marketplace. Walmart sends the order to Channel Manager. Order displays in order dashboard. | **Up to 30 minutes**                                                                                                      |
 | Order created in Commerce Order Management | Channel Manager creates the Commerce order from the Walmart order and updates the order dashboard to include the Commerce order number.       | **Up to 5 minutes**                                                                                                       |

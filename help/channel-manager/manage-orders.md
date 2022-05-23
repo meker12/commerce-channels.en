@@ -25,7 +25,7 @@ exl-id: c2779c72-4793-445c-858a-867ea8389662
 
 After an order is received from the marketplace and imported into the Adobe Commerce or Magento Open Source, use the [!DNL Commerce] Order ID to view the order in Adobe Commerce.
 
-From **[!UICONTROL Orders]**, select the [!UICONTROL Commerce Order Number] to open the [!DNL Commerce]  order detail.
+From **[!UICONTROL Orders]**, select the **[!UICONTROL Commerce Order Number]** to open the [!DNL Commerce] order detail.
 
 ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
 
