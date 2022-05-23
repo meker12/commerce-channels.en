@@ -3,6 +3,8 @@ title: Process orders
 description: Instructions for shipping and cancelling [!DNL Walmart Marketplace] orders from Adobe Commerce and Magento Open Source.
 ---
 
+# Process orders
+
 If you use Adobe Commerce and Magento Open Source Order Management to manage your [!DNL Commerce] store sales, you process [!DNL Walmart Marketplace] orders from Commerce using a similar workflow.
 
 When you process an order in Commerce, Channel Manager synchronizes updates to [!DNL Walmart Marketplace]. This update ensures that the product inventory and order status from Commerce matches the data tracked in the [!DNL Walmart Marketplace] and notifies Walmart to send order status and shipping information to customers.
@@ -59,13 +61,13 @@ The cancellation reason is also displayed in the [!DNL Commerce] order payments 
 
 1. Cancel the order.
 
-   * Select **Cancel** from the Order Detail menu.
+   - Select **Cancel** from the Order Detail menu.
 
-   * On the Cancel Order form, select the **Cancellation reason**.
+   - On the Cancel Order form, select the **Cancellation reason**.
 
       ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
 
-   * Select **Cancel Order**.
+   - Select **Cancel Order**.
 
 1. Verify that updates were sent to [!DNL Walmart Marketplace] by checking the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager].
 
