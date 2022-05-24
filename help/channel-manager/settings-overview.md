@@ -5,9 +5,9 @@ description: Learn about the [!DNL Channel Manager settings] to configure authen
 
 # Settings overview
 
-Sales channel settings enable communication and data synchronization between [!DNL Commerce] and [!DNL Walmart Marketplace] so you can manage Walmart Marketplace sales operations from the [!DNL Commerce] Admin:
+Sales channel settings enable communication and data synchronization between [!DNL Commerce] and [!DNL Walmart Marketplace] so you can manage Walmart Marketplace sales operations from the [!DNL Commerce] Admin.
 
-In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the Settings configuration from the *Settings* page.
+In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the configuration from the *Settings* page.
 
 * **[Map Unique identifiers](map-catalog-attributes.md)**–Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
