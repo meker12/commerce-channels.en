@@ -32,6 +32,9 @@ When you process an order in Commerce, Channel Manager synchronizes updates to [
    ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
 
    * Choose a shipping carrier and add a tracking number by selecting **[!UICONTROL Add tracking number]**.
+
+     ![Commerce Order detail view for a Walmart Marketplace order](assets/order-shipment-add-tracking-number.png)
+
    
    * Complete the rest of shipping form as needed. See [[!DNL Shipping an Order]](https://docs.magento.com/user-guide/sales/order-ship.html) for detailed instructions.
 
