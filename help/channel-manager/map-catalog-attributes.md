@@ -1,8 +1,8 @@
 ---
 title: Map catalog attributes
 description: Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].
+exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 ---
-
 # Map catalog attributes
 
 Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 

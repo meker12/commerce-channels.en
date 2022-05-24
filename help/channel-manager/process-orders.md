@@ -1,8 +1,8 @@
 ---
 title: Process orders
 description: Instructions for shipping and cancelling [!DNL Walmart Marketplace] orders from Adobe Commerce and Magento Open Source.
+exl-id: 2fdcb348-5c02-464f-a114-16ec657bed6b
 ---
-
 # Process orders
 
 If you use Adobe Commerce and Magento Open Source Order Management to manage your [!DNL Commerce] store sales, process [!DNL Walmart Marketplace] orders from Commerce using a similar workflow.
