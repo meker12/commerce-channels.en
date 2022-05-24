@@ -8,7 +8,7 @@ exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 
 This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
-For product matching, the Commerce product must have at least one product attribute that matches the one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
+For product matching, the Commerce product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
 
 **Required Walmart product IDs**                                                                                              
 
@@ -19,7 +19,7 @@ For product matching, the Commerce product must have at least one product attrib
 | ISSN              | International Standard Serial Number | 8-digit serial number used to identify magazines, journals, newspapers, and periodicals of all kinds delivered on all media–print and electronic | 8 digits              |
 | UPC               | Universal Product Code               | Standard retail tracking code                                                                                                                    | 12 digits             |
 
-If your catalog does not have an attribute that matches one of these types, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html).
+If your catalog does not have a matching attribute, [add or convert an existing catalog attribute](https://docs.magento.com/user-guide/catalog/product-attributes.html).
 
 ## Map unique identifiers
 
@@ -32,6 +32,7 @@ If your catalog does not have an attribute that matches one of these types, [add
      The following example maps the Walmart Marketplace UPC attribute to the UPC attribute in the product catalog.  
 
     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
+   - Optionally, you can map multiple attributes to increase matches. If you map more than one attribute, select one as the **Primary identifier**. This 
 
    - Select **[!UICONTROL Save]**.
 
