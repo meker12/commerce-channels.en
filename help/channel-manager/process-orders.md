@@ -5,7 +5,7 @@ description: Instructions for shipping and cancelling [!DNL Walmart Marketplace]
 
 # Process orders
 
-After [!DNL Walmart Marketplace] orders have been acknowledged and successfully sent to [DNL! Channel Manager], you use [Commerce Order Management](https://docs.magento.com/user-guide/sales/orders-workspace.html) to process the order. 
+After [!DNL Walmart Marketplace] orders have been acknowledged and successfully sent to [!DNL Channel Manager], you use [Commerce Order Management](https://docs.magento.com/user-guide/sales/orders-workspace.html) to process the order. 
 
 Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure that the order status and shipping information from Commerce matches the data tracked in the [!DNL Walmart Marketplace].
 
