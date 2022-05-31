@@ -5,11 +5,11 @@ description: Instructions for shipping and cancelling [!DNL Walmart Marketplace]
 
 # Process orders
 
-If you use Adobe Commerce and Magento Open Source Order Management to manage your [!DNL Commerce] store sales, you can process [!DNL Walmart Marketplace] orders from Commerce using the same workflow.
+After [!DNL Walmart Marketplace] orders have been acknowledged and successfully sent to [DNL! Channel Manager], you use [Commerce Order Management](https://docs.magento.com/user-guide/sales/orders-workspace.html) to process the order. 
 
-When you process an order in Commerce, Channel Manager synchronizes updates to [!DNL Walmart Marketplace]. This update ensures that the order status and shipping information from Commerce matches the data tracked in the [!DNL Walmart Marketplace].
+Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure that the order status and shipping information from Commerce matches the data tracked in the [!DNL Walmart Marketplace].
 
-* **Order shipments**–Walmart requires a tracking number for all shipments. You can create partial shipments if you do not have stock for all items in the order. After you submit the shipment, order updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
+* **Order shipments**–Walmart requires a tracking number for all shipments. If some items are out of stock, you can create partial shipments to send items that are currently available. After you submit the shipment, order updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
 
 * **Order cancellations**–When you cancel a [!DNL Walmart Marketplace] order, Walmart requires a cancellation reason which is included in the order cancellation notice sent to the customer. The cancellation reason is also displayed in the [!DNL Commerce] order payments information.
 
