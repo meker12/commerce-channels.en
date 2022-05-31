@@ -8,9 +8,9 @@ description: Map attributes for matching [DNL! Commerce] products to existing [!
 Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 
 This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
-For product matching, the Commerce product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
+For product matching, the [!DNL Commerce] product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
 
-**Required Walmart product IDs**                                                                                              
+**Required [!DNL Walmart ]product IDs**                                                                                              
 
 | **Accepted Type** | **Name**                             | **Purpose**                                                                                                                                      | **Acceptable Digits** |
 |-------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -25,11 +25,11 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
 1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Settings]**.
 
-   - Find the Walmart Marketplace attribute to map.
+   - Find the[!DNL Walmart Marketplace]attribute to map.
 
    - Select the corresponding attribute from the [!DNL Commerce] store catalog.
 
-     The following example maps the Walmart Marketplace UPC attribute to the UPC attribute in the product catalog.  
+     The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.  
 
     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
    - Optionally, you can map multiple attributes to increase matches. If you map more than one attribute, select one as the **Primary identifier**. This 

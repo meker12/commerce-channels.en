@@ -29,11 +29,11 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
 1. Create and submit a shipment for all or part of an order by selecting **[!UICONTROL Ship]**.
 
-   ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
+   ![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-detail-with-external-order-id.png)
 
    * Choose a shipping carrier and add a tracking number by selecting **[!UICONTROL Add tracking number]**.
 
-     ![Commerce Order detail view for a Walmart Marketplace order](assets/order-shipment-add-tracking-number.png)
+     ![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-shipment-add-tracking-number.png)
 
    
    * Complete the rest of shipping form as needed. See [[!DNL Shipping an Order]](https://docs.magento.com/user-guide/sales/order-ship.html) for detailed instructions.
@@ -50,7 +50,7 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
 1. In the Orders table, open the order detail page by selecting the **Commerce Order Number** for the order to cancel.
 
-   ![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
+   ![Commerce Order detail view for a[!DNL Walmart Marketplace]order](assets/order-detail-with-external-order-id.png)
 
 1. Cancel the order.
 
@@ -58,7 +58,7 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
    * On the [!UICONTROL Cancel Order] form, select the **Cancellation reason**.
 
-   ![Commerce Order detail view for a Walmart Marketplace order](assets/cancel-order-reason-selector.png)
+   ![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/cancel-order-reason-selector.png)
 
    * Select **Cancel Order**.
 
