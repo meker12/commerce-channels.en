@@ -16,7 +16,7 @@ The Commerce Services Connector integrates the Channel Manager service with Adob
 
 - **Commerce account**–To install software on Commerce instances, you must have an account with Owner or Admin access to the Commerce platform.
 
-  Account owners and Admin users can create Admin accounts from the Commerce instance or from the command line using the [!DNL Commerce] CLI command `admin:user:create`.
+  Account owners and Super users can create Admin accounts from the Commerce instance or from the command line using the [!DNL Commerce] CLI command `admin:user:create`.
 
 - **Adobe Commerce Production API Key**–This [key](https://docs.magento.com/user-guide/system/saas.html#apikey){target="_blank"} enables API access to services required by Channel Manager. You need the public and private credentials for this key.
     
