@@ -25,7 +25,7 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
 1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Settings]**.
 
-   - Find the[!DNL Walmart Marketplace]attribute to map.
+   - Find the [!DNL Walmart Marketplace] attribute to map.
 
    - Select the corresponding attribute from the [!DNL Commerce] store catalog.
 
