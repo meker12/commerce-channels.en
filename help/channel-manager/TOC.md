@@ -10,7 +10,7 @@ hide: yes
 - [Guide overview](guide-overview.md)
 - Introduction to [!DNL Channel Manager] {#intro-to-channel-manager}
   - [About Channel Manager](overview.md)
-  - [Walmart Prerequisites](walmart-prerequisites.md)
+  - [Walmart Requirements](walmart-requirements.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
   - [Install the [!DNL Channel Manager] Extension](install.md)

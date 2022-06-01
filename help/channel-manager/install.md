@@ -6,7 +6,7 @@ exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 
 # Install [!DNL Channel Manager]
 
-Review the [prerequisites](onboard.md#prerequisites) and gather required information before you install Channel Manager.
+Review the [requirements](onboard.md#requirements) and gather required information before you install Channel Manager.
 
 ## Update minimum-stability setting
 
@@ -50,7 +50,7 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
 1. From the [!DNL Commerce] project root directory, add Channel Manager to `composer.json`.
 
    ```bash 
-    $ composer require magento/channel-manager --no-update
+    composer require magento/module-sales-channels-extension --no-update
    ```
 
 1. If prompted, enter the access keys from your [!DNL Commerce] account.
@@ -60,59 +60,55 @@ Use these instructions to install [!DNL Channel Manager] on Adobe Commerce and M
 1. Update the dependencies and install the extension.
 
    ```bash
-   $ composer update
+   composer update magento/module-sales-channels-extension
    ```
 
-   The `composer update` command updates all dependencies. To update only dependencies related to Channel Manager, use this command instead: `composer update magento/channel-manager`.
+   The `composer update` command updates only the dependencies required for [!DNL Channel Manager]. To update all dependencies, use this command instead: `composer update`.
 
 1. Wait for Composer to finish updating project dependencies and resolve any errors.
 
-1. Verify the installation
+1. Verify the module installation:
 
-   ```bash
-   $ bin/magento module:status channel-manager
-   ```
+   - Check the module status.
 
-   Sample response:
+     ```bash
+     bin/magento module:status Magento_SalesChannels
+     ```
+
+     Sample response:
    
-   ```terminal
-   Module is disabled
-   ```
+     ```terminal
+     Module is enabled
+     ```
+
+   - If the module is not enabled, enable it.
+
+    ```bash
+    bin/magento module:enable Magento_SalesChannels
+    ```
 
 1. Register the extension.
  
    ```bash
-   $ bin/magento setup:upgrade
+   bin/magento setup:upgrade
    ```
 
 1. If prompted, recompile your [!DNL Commerce] project.
 
    ```bash
-   $ bin/magento setup:di:compile
-   ```
-
-1. Verify that the extension is enabled:
-
-   ```bash
-   $ bin/magento module:status channel-manager
-   ```
-
-   Sample response:
-
-   ```bash
-   Module is enabled
+   bin/magento setup:di:compile
    ```
 
 1. Clean the cache.
 
    ```bash
-   $ bin/magento cache:clean
+   bin/magento cache:clean
    ```
 
 1. Disable maintenance mode.
 
    ```bash
-    $ bin/magento maintenance:disable
+   bin/magento maintenance:disable
    ```
 
 ### Install on an Adobe Commerce on Cloud Infrastructure Instance
@@ -130,14 +126,16 @@ During installation, the extension name (`magento\channel-manager`) is automatic
 1. Using the Composer name, add the extension to the `require` section of the `composer.json` file.  
 
    ```bash  
-   $ composer require magento/channel-manager --no-update
+   composer require require magento/module-sales-channels-extension --no-update
    ```
   
-1. Update the project dependencies.
+1. Update the dependencies and install the extension.
 
    ```bash
-   $ composer update
+   composer update magento/module-sales-channels-extension
    ```
+
+   The `composer update` command updates only the dependencies required for [!DNL Channel Manager]. To update all dependencies, use this command instead: `composer update`.
 
 1. Add, commit, and push code changes–include changes to both the `composer.lock` and `composer.json` file.
 
@@ -155,15 +153,18 @@ During installation, the extension name (`magento\channel-manager`) is automatic
   
 1. After the build and deploy process completes, use SSH to log in to the remote environment and verify that the extension installed correctly.
 
-   ```bash
-   $ bin/magento module:status channel-manager
-   ```
+  ```bash
+     bin/magento module:status Magento_SalesChannels
+  ```
 
    Sample response:
 
    ```terminal
    Module is enabled
    ```
+
+   If the module is disabled, [enable it in your local environment](https://devdocs.magento.com/cloud/howtos/install-components.html#manage-extensions) and deploy your changes.
+   
 
 1. After you install the extension successfully, log in to the [!UICONTROL Admin] to [configure the Commerce Services Connector](connect.md).
 

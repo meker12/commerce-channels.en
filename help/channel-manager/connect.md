@@ -12,7 +12,7 @@ The Commerce Services Connector integrates the Channel Manager service with Adob
 
  Commerce Services Connector setup is a one-time process required to use Adobe [Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){target="_blank"} like [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, skip this step.
 
-## Prerequisites
+## Requirements
 
 - **Commerce account**–To install software on Commerce instances, you must have an account with Owner or Admin access to the Commerce platform.
 
