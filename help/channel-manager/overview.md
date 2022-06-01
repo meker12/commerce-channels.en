@@ -16,7 +16,7 @@ Channel Manager supports Adobe Commerce or Magento Open Source sellers who want 
 
 After you install and configure [!DNL Channel Manager], the [!DNL Commerce] Admin is extended so you can manage [!DNL Walmart Marketplace] sales operations seamlessly from your Commerce environment.
 
-* **Listing management**–Easily publish product listings by matching products from your [!DNL Commerce]catalog to existing [!DNL Walmart Marketplace] listings.
+* **Listing management**–Easily publish product listings by matching products from your [!DNL Commerce] catalog to existing [!DNL Walmart Marketplace] listings.
 
 * **Inventory management**–Items in the merchant’s marketplace seller account are automatically synchronized and updated from Commerce to ensure accurate inventory levels.
 

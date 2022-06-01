@@ -10,7 +10,7 @@ This step is required to match [!DNL Commerce] products to existing [!DNL Walmar
 
 For product matching, the [!DNL Commerce] product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
 
-**Required [!DNL Walmart ]product IDs**                                                                                              
+**Required [!DNL Walmart] product IDs**                                                                                              
 
 | **Accepted Type** | **Name**                             | **Purpose**                                                                                                                                      | **Acceptable Digits** |
 |-------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|

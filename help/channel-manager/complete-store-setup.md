@@ -19,6 +19,6 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 
    - [Publish product listings to [!DNL Walmart] using product matching](publish-listings-to-marketplace.md)
 
-   - [Learn how [!DNL Channel Manager] syncs inventory and price updates between [!DNL Commerce] and [!DNL Walmart]](inventory-and-price-updates.md)
+   - [Learn how [!DNL Channel Manager] syncs inventory and price updates between [!DNL Commerce] and [!DNL Walmart](inventory-and-price-updates.md)
 
    - [View and manage [!DNL Walmart] orders from the [!DNL Commerce Admin]](manage-orders.md)
