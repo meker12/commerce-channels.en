@@ -1,13 +1,13 @@
 ---
-title: Manage Walmart Marketplace Orders
-description: View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.
+title: "Manage [!DNL Walmart Marketplace] Orders"
+description: "View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source."
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
-# Manage Walmart Marketplace orders
+# Manage [!DNL Walmart Marketplace] orders
 
-[!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after Walmart processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
+[!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after [!DNL Walmart] processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
 
-![Channel Manager Orders view to manage Walmart Marketplace orders](assets/orders-dashboard-view.png)
+![Channel Manager Orders view to manage [!DNL Walmart Marketplace] orders](assets/orders-dashboard-view.png)
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ After an order is received from the marketplace and imported into the Adobe Comm
 
 From **[!UICONTROL Orders]**, select the **[!UICONTROL Commerce Order Number]** to open the [!DNL Commerce] order detail.
 
-![Commerce Order detail view for a Walmart Marketplace order](assets/order-detail-with-external-order-id.png)
+![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-detail-with-external-order-id.png)
 
 ### Orders Controls and Column Descriptions
 
@@ -46,7 +46,7 @@ The following tables describe the controls and columns available for Orders.
 
 | Field                              | Description                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL  Walmart Order Number] | The purchase order number assigned to the order in the [!DNL Walmart Marketplace]. When an order is initially imported to [!DNL Channel Manager], only the Walmart order number displays. When the [!DNL Commerce] order is created, the [!DNL Walmart] order number is stored in the [!UICONTROL External ID] product attribute.                                                |
+| [!UICONTROL  Walmart Order Number] | The purchase order number assigned to the order in the [!DNL Walmart Marketplace]. When an order is initially imported to [!DNL Channel Manager], only the [!DNL Walmart] order number displays. When the [!DNL Commerce] order is created, the [!DNL Walmart] order number is stored in the [!UICONTROL External ID] product attribute.                                         |
 | [!DNL Commerce]  Order Number      | The number assigned to the [!DNL Commerce]  order created from the [!DNL Walmart Marketplace] order.                                                                                                                                                                                                                                                                             |
 | Items                              | Number of items ordered on [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                                           |
 | [!UICONTROL Order Value]           | Total cost of the ordered items.                                                                                                                                                                                                                                                                                                                                                 |
@@ -58,6 +58,7 @@ The following tables describe the controls and columns available for Orders.
 | [!UICONTROL Error Description]     | Provides more detailed information about orders with an *Error* status.                                                                                                                                                                                                                                                                                                          |
 
 ### About Order Status
+
 
 [!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
 

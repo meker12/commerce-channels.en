@@ -1,26 +1,26 @@
 ---
-title: Walmart Prerequisites
-description: Verify that you have the required Walmart Marketplace information and resources to integrate with Channel Manager.
+title: "[!DNL Walmart] Prerequisites"
+description: "Verify that you have the required [!DNL Walmart Marketplace] information and resources to integrate with Channel Manager."
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
-# Walmart prerequisites
+# [!DNL Walmart] prerequisites
 
-Channel Manager requires the following resources and information to configure a Commerce sales channel for Walmart Marketplace.
+[!DNL Channel Manager] requires the following resources and information to configure a [!DNL Commerce] sales channel for [!DNL Walmart Marketplace.]
 
-* Approval to sell on Walmart and credentials to log in to the registered Marketplace Seller account
+* Approval to sell on [!DNL Walmart] and credentials to log in to the registered Marketplace Seller account
 
-* An API key to connect Adobe Commerce or Magento Open Source to Walmart Marketplace
+* An API key to connect Adobe Commerce or Magento Open Source to [!DNL Walmart Marketplace]
 
-  The Walmart Marketplace API key enables the integration between Channel Manager for Adobe Commerce or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
+  The [!DNL Walmart Marketplace] API key enables the integration between [!DNL Channel Manager] for Adobe Commerce or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
 
 ## Set up a Marketplace Seller account
 
 1. [Submit your Walmart Seller application](https://marketplace-apply.walmart.com/apply?id=0014M00001zivMpQAI).
-1. After obtaining approval from Walmart, [set up your Walmart Seller account](https://sellerhelp.walmart.com/seller/s/guide?article=000008219).
+1. After obtaining approval from [!DNL Walmart], [set up your Walmart Seller account](https://sellerhelp.walmart.com/seller/s/guide?article=000008219).
 
-## Generate a Walmart Marketplace Production API key
+## Generate a [!DNL Walmart Marketplace] Production API key
 
-1. Go to Walmart Marketplace to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
+1. Go to [!DNL Walmart Marketplace] to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
 
 1. Create the key and configure permissions:
 
@@ -44,12 +44,12 @@ Channel Manager requires the following resources and information to configure a 
     | Rules          | Full Access |
     | Shipping       | Full Access |
 
-## Walmart Marketplace Store status
+## [!DNL Walmart Marketplace] Store status
 
-When you publish products to Walmart Marketplace, listing availability depends on the status of your Walmart Marketplace stores:
+When you publish products to the marketplace, listing availability depends on the status of your [!DNL Walmart Marketplace] stores:
 
 * For live stores, your product offers are listed and available for sale when the match operation completes. 
 
-* For stores that are not live, your product offers are staged and not visible to customers. When the store goes live, staged listings are pushed to the live store automatically. 
+* For stores that are not live, your product offers are staged and not visible to customers. When the [!DNL Walmart Marketplace] store goes live, staged listings are pushed to the live store automatically. 
 
 ![[!DNL Walmart Seller Central] staged products](assets/walmart-seller-central-staged.png)

@@ -35,19 +35,19 @@ You can complete the following tasks from the Listing view.
 
 ## Add Commerce products to Channel Manager
 
-Create the product assortment for the Walmart Marketplace channel by completing the following tasks:
+Create the product assortment for the [!DNL Walmart Marketplace] channel by completing the following tasks:
 
-* [Add products from your Commerce product catalog to Channel Manager](add-products-to-channel-store.md)
+* [Add products from your [!DNL Commerce] product catalog to [!DNL Channel Manager]](add-products-to-channel-store.md)
 
 * [Map catalog attributes](map-catalog-attributes.md#configure-product-attribute-settings)
 
-## Publish products to Walmart
+## Publish products to [!DNL Walmart]
 
-You can create product offers on the Walmart Marketplace using product matching or by manually uploading product listings for new products.
+You can create product offers on the [!DNL Walmart Marketplace] using product matching or by manually uploading product listings for new products.
 
 * **[Match products on Walmart](publish-listings-to-marketplace.md)**—Publish product listings from your channel to [!DNL Walmart Marketplace] by updating existing listings selling the same product. Match criteria are determined by the [attribute-mapping configuration](map-catalog-attributes.md) for your channel.
 
-* **[Manually upload new listings](publish-listings-to-marketplace.md#upload-new-product-listings)**—For products that do not match an existing listing on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings.
+* **[Manually upload new listings](publish-listings-to-marketplace.md#upload-new-product-listings)**—For products that do not match an existing listing on [!DNL Walmart Marketplace], use a [!DNL Walmart] product category Excel template to bulk upload product listings.
 
 ## Listing Controls and Column Descriptions
 
@@ -58,7 +58,7 @@ The following tables describe the controls and columns available for [!UICONTROL
 | **Control**                            | **Description**                                                                                                                                                                                              |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [!UICONTROL Add Products]              | Opens the [!UICONTROL Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements. |
-| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select Match products on Walmart to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.                      |
+| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select Match products on [!DNL Walmart] to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.               |
 | [!UICONTROL Refresh products]          | Update the display with the most current listing and status. This control also resets the listing view to the default sort order and removes any filters.                                                    |
 | [!UICONTROL Filter by *Status*]        | Show only listings with a specific status by selecting one of the status count cards above the Listing table. Use the *Refresh products* to remove the filter.                                               |
 | [!UICONTROL Sort products]             | Change the sort order for listing by selecting any column header.                                                                                                                                            |
@@ -85,7 +85,7 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
 
 * **[!UICONTROL Match]**–Identifies products that were matched successfully on [!DNL Walmart].
     
-    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing[!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing Walmart listing.
+    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing[!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing [!DNL Walmart] listing.
 
     Check the [[!UICONTROL Walmart Marketplace Seller Account Items]](https://seller.walmart.com/items-and-inventory/manage-items) dashboard to review the updated product listing and verify product details, price, and inventory quantity.  
 

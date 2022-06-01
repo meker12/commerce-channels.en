@@ -1,6 +1,6 @@
 ---
 title: Publish listings to Walmart
-description: Publish listings for Commerce products to Walmart Marketplace to begin selling.
+description: Publish listings for Commerce products to [!DNL Walmart Marketplace]to begin selling.
 exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 ---
 # Publish listings to Walmart
