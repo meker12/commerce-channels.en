@@ -23,9 +23,9 @@ The import process can take up to 30 minutes or more depending on how many produ
 
   - At least one product attribute that matches one of the required [!DNL Walmart Marketplace] product identifiers–GTIN, ISBN, ISSN, UPC, EAN.
 
-  - Product price value specified as a value with a maximum of two decimal places, for example `9.99`
+  - Product price specified to a maximum of two decimal places, for example `9.99`
 
-  - Product weight specified as value with a maximum of two decimal places, for example `1.25`
+  - Product weight specified to a maximum of two decimal places, for example `1.25`
 
 >[!TIP]
 >
