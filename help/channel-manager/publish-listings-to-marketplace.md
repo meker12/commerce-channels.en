@@ -21,7 +21,7 @@ If a match is found, the existing product listing is updated to add your offer.
 
 ### Prerequisites
 
-Before matching products, verify that your product catalog attribute values meet Walmart requirements and configure attribute settings. See [Map catalog attributes](map-catalog-attributes.md).
+Before matching products, verify that your product catalog attribute values meet Walmart requirements and configure product attribute settings. See [Map catalog attributes](map-catalog-attributes.md).
 
 #### Select and match products
 
@@ -47,9 +47,7 @@ Before matching products, verify that your product catalog attribute values meet
 
 After the match completes, the status can be *Match* or *Error*.
 
-* **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was published to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column.
-
-If your [[!DNL Walmart Marketplace] store is not active](walmart-prerequisites.md#walmart-marketplace-store-status), the *Status Detail* column indicates that the product is *Staged for Match*. Staged products are published automatically when the [!DNL Walmart Marketplace] store is activated.
+* **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was published to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-requirements.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column. Staged products are published automatically when the [!DNL Walmart Marketplace] store is activated.
 
 * **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
 
@@ -111,7 +109,7 @@ For new product listings, check your product catalog to ensure that products you
 
 ### Prerequisites
 
-* Verify that you meet the [Walmart prerequisites](walmart-prerequisites.md).
+* Verify that you meet the [Walmart requirements](walmart-requirements.md).
 
 * In your Commerce product catalog, verify that the catalog configuration for the products to list on Walmart Marketplace have all required attributes and meet Walmart Marketplace Content Guidelines.
 

@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Walmart] Prerequisites"
-description: "Verify that you have the required [!DNL Walmart Marketplace] information and resources to integrate with Channel Manager."
+title: "[!DNL Walmart] Requirements"
+description: "Verify that you have the required[!DNL Walmart Marketplace]information and resources to integrate with Channel Manager."
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
-# [!DNL Walmart] prerequisites
+# [!DNL Walmart] requirements
 
 [!DNL Channel Manager] requires the following resources and information to configure a [!DNL Commerce] sales channel for [!DNL Walmart Marketplace.]
 
@@ -20,7 +20,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 ## Generate a [!DNL Walmart Marketplace] Production API key
 
-1. Go to [!DNL Walmart Marketplace] to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
+1. Go to [!DNL Walmart Marketplace]to generate a [solution provider production API key for Adobe](https://developer.walmart.com/#preloginModal?redirectUri=https%3A%2F%2Fdeveloper.walmart.com%2Faccount%2FgenerateKey).
 
 1. Create the key and configure permissions:
 

@@ -8,8 +8,6 @@ exl-id: 7c4ccd9e-ae32-4511-8d1e-baa690604612
 
 # Onboard [!DNL Channel Manager]
 
-Onboard Channel Manager by installing the Channel Manager extension on your [!DNL Commerce] instance and configuring API connections. These connections  enable communication and data synchronization between your Commerce instance and the [!DNL Walmart Marketplace].
-
 After you complete onboarding, configure and manage sales channel operations from the [!UICONTROL Channel Manager] option on the [!UICONTROL Commerce Admin Marketing] menu.
 
 ![[!DNL Channel Manager] option in Admin view](assets/channel-manager-admin-view.png)
@@ -24,9 +22,9 @@ After you complete onboarding, configure and manage sales channel operations fro
 
 1. [Complete store setup](complete-store-setup.md).
 
-## Prerequisites
+## Requirements
 
-- Verify that you have the required [Walmart Marketplace prerequisites](walmart-prerequisites.md) to integrate with Channel Manager.
+- Verify that you meet the [Walmart Marketplace requirements](walmart-requirements.md) to integrate with Channel Manager.
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"}. You need an account ID and credentials with Owner or Admin access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
@@ -55,7 +53,7 @@ After you complete onboarding, configure and manage sales channel operations fro
 
    If you plan to use Channel Manager for inventory and Order Management, you must have the Inventory Management extension installed and enabled on your Adobe Commerce and Magento Open Source instance. Typically, this extension is installed and enabled by default on Adobe Commerce and Magento Open Source 2.3.x and later. For more information, see [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
 
-### Requirements
+### System Requirements
 
 - [Adobe Commerce 2.4.x](https://devdocs.magento.com/release/released-versions.html)
 - [PHP 7.3 / 7.4](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/php-settings.html)
