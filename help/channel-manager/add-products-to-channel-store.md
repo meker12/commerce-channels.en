@@ -11,7 +11,7 @@ The import process can take up to 30 minutes or more depending on how many produ
 
 **Prerequisite**
 
-**[Map catalog attributes](map-catalog-attributes)**—In the [!DNL Channel Settings] configuration, map at least one attribute from the [!DNL Commerce] product catalog to one of the required Walmart Product Identifiers—–GTIN, ISBN, ISSN, UPC, EAN.
+**[Map catalog attributes](map-catalog-attributes.md)**—In the [!DNL Channel Settings] configuration, map at least one attribute from the [!DNL Commerce] product catalog to one of the required Walmart Product Identifiers—–GTIN, ISBN, ISSN, UPC, EAN.
 
 **Listing requirements**
 
