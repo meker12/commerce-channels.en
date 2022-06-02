@@ -9,11 +9,11 @@ exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 You add product to the [!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them into [!DNL Channel Manager].
 The import process can take up to 30 minutes or more depending on how many products you select.
 
-**Prerequisite**
+## Prerequisite
 
 **[Map catalog attributes](map-catalog-attributes.md)**—In the [!DNL Channel Settings] configuration, map at least one attribute from the [!DNL Commerce] product catalog to one of the required Walmart Product Identifiers—–GTIN, ISBN, ISSN, UPC, EAN.
 
-**Listing requirements**
+## Listing requirements
 
 [!DNL Commerce] product listings must have the following required attribute configuration:
 
