@@ -6,13 +6,30 @@ exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 
 # Add products to sales channel store
 
-To sync products to the Walmart Marketplace sales channel, you select products from the [!DNL Commerce] product catalog and import them to Channel Manager. The selected products must have the following attribute configuration:
+You add product to the[!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
+The import process can take up to 30 minutes or more depending on how many products you select.
 
-- **[!UICONTROL Publish to Channel Manager]** attribute is enabled
+**Prerequisite**
 
-- At least one product attribute must match one of the [required Walmart Marketplace attributes](map-catalog-attributes.md)–GTIN, ISBN, ISSN, UPC, EAN
+**[Map catalog attributes](map-catalog-attributes.md)**—In the [!DNL Channel Settings] configuration, map at least one attribute from the [!DNL Commerce] product catalog to one of the required Walmart Product Identifiers—–GTIN, ISBN, ISSN, UPC, EAN.
 
-The process to import products from [!DNL Commerce] to Channel Manager can take up to 30 minutes or more depending on how many products you select.
+**Listing requirements**
+
+[!DNL Commerce] product listings must have the following required attribute configuration:
+
+- **[!UICONTROL Connect to Channel Manager]** attribute is enabled
+
+- Provide valid values for the required Walmart attributes.
+
+  - At least one product attribute that matches one of the required [!DNL Walmart Marketplace] product identifiers–GTIN, ISBN, ISSN, UPC, EAN.
+
+  - Product price value specified as a value with a maximum of two decimal places, for example `9.99`
+
+  - Product weight specified as value with a maximum of two decimal places, for example `1.25`
+
+>[!TIP]
+>
+>For additional information about optimizing listings for your sales channel, see the [Walmart Marketplace Listing Quality Optimization Guide](https://marketplace.walmart.com/wp-content/uploads/2020/09/WMP_listing_quality_optimization_guide.pdf).
 
 ## Add products
 
@@ -26,13 +43,13 @@ The process to import products from [!DNL Commerce] to Channel Manager can take 
 
    ![Send products to the sales channel store](assets/select-products-from-catalog.png)
 
-1. Enable the **[!UICONTROL Publish to Channel Manager]** attribute for the selected items.
+1. Enable the **[!UICONTROL Connect to Channel Manager]** attribute for the selected items.
 
    - From **[!UICONTROL Actions]**, select **[!UICONTROL Update attributes]**.
 
-   - Scroll to the **[!UICONTROL Publish to Channel Manager]** attribute and enable it.
+   - Scroll to the **[!UICONTROL Connect to Channel Manager]** attribute and enable it.
 
-   - Verify that the product attributes include at least one of the required Walmart Product IDs.
+   - Verify that the product attributes include at least one of the required [!DNL Walmart Product IDs].
 
    - Select **[!UICONTROL Save]**.
 
