@@ -43,7 +43,7 @@ Before matching products, verify that your product catalog attribute values meet
 
 After the match completes, select the **[!UICONTROL Refresh products]** to view the current product status. *Match* or *Error*.
 
-* **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was connected to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-requirements.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column. Staged products are connected automatically when the [!DNL Walmart Marketplace] store is activated.
+- **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was connected to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-requirements.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column. Staged products are connected automatically when the [!DNL Walmart Marketplace] store is activated.
 
 - **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
 
@@ -105,37 +105,37 @@ For new product listings, check your product catalog to ensure that products you
 
 ### Prerequisites
 
-* Verify that you meet the [Walmart requirements](walmart-requirements.md).
+- Verify that you meet the [Walmart requirements](walmart-requirements.md).
 
-* In your Commerce product catalog, verify that the catalog configuration for the products to list on Walmart Marketplace have all required attributes and meet Walmart Marketplace Content Guidelines.
+- In your Commerce product catalog, verify that the catalog configuration for the products to list on Walmart Marketplace have all required attributes and meet Walmart Marketplace Content Guidelines.
 
-* Verify that the cron job is running to complete the export operation.
+- Verify that the cron job is running to complete the export operation.
 
-  * For on-premises instances, see [Configure and run cron](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html).
+  - For on-premises instances, see [Configure and run cron](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html).
 
-  * For Adobe cloud infrastructure, see [Set up cron jobs](https://devdocs.magento.com/cloud/configure/setup-cron-jobs.html).
+  - For Adobe cloud infrastructure, see [Set up cron jobs](https://devdocs.magento.com/cloud/configure/setup-cron-jobs.html).
 
 ### Create the product data file to upload
 
 1. From your [Walmart Seller account](https://login.account.wal-mart.com/authorize?responseType=code&clientId=66620dfd-1f3f-479b-8b9c-e11f36c5438b&scope=openId&redirectUri=https://seller.walmart.com/resource/login/sso/torbit&nonce=SX17QLMBKR&state=ZBWWNZXXXM&clientType=seller), download a product listing template from the Walmart Seller Center.
 
-   * From the Product Catalog Items page, select **[!UICONTROL Add Items]**. Then, select **[!UICONTROL Add items in bulk]**. 
+   - From the Product Catalog Items page, select **[!UICONTROL Add Items]**. Then, select **[!UICONTROL Add items in bulk]**. 
    
      ![Add items in bulk option in Walmart Marketplace item configuration](assets/walmart-seller-account-add-items-bulk.png)
      
-   * On the download page, select **[!UICONTROL Full Setup]**. Then, select an item category and download the category template.  
+   - On the download page, select **[!UICONTROL Full Setup]**. Then, select an item category and download the category template.  
 
      ![Download category template option in Walmart Marketplace item configuration](assets/walmart-seller-account-full-setup-download.png)
 
-   * Verify that the template includes the required and recommended attributes for the product listing.
+   - Verify that the template includes the required and recommended attributes for the product listing.
 
 1. From the [!DNL Commerce] Admin, select the product data to export from your Adobe Commerce site.
 
-   * From the Admin, select [!UICONTROL **System** > Data Transfer > **Export**].
+   - From the Admin, select [!UICONTROL **System** > Data Transfer > **Export**].
 
-   * On the [!UICONTROL Export] page in the [!UICONTROL Entity Type] field, select [!UICONTROL **Products**].
+   - On the [!UICONTROL Export] page in the [!UICONTROL Entity Type] field, select [!UICONTROL **Products**].
 
-   * In the [!UICONTROL Entity Attributes] table, configure the selection criteria for the product data export.
+   - In the [!UICONTROL Entity Attributes] table, configure the selection criteria for the product data export.
 
     ![Export product data page in the [!UICONTROL Commerce Admin]](assets/walmart-seller-account-full-setup-download.png)
        
@@ -151,11 +151,11 @@ For new product listings, check your product catalog to ensure that products you
 
 1. Upload the Excel file with the exported product data.
 
-   * Return to the Product Catalog Items page in the [Walmart Seller Center](https://login.account.wal-mart.com/authorize?responseType=code&clientId=66620dfd-1f3f-479b-8b9c-e11f36c5438b&scope=openId&redirectUri=https://seller.walmart.com/resource/login/sso/torbit&nonce=SX17QLMBKR&state=ZBWWNZXXXM&clientType=seller).
+   - Return to the Product Catalog Items page in the [Walmart Seller Center](https://login.account.wal-mart.com/authorize?responseType=code&clientId=66620dfd-1f3f-479b-8b9c-e11f36c5438b&scope=openId&redirectUri=https://seller.walmart.com/resource/login/sso/torbit&nonce=SX17QLMBKR&state=ZBWWNZXXXM&clientType=seller).
 
-   * Select [!UICONTROL **Add items** > **Add items in bulk**].
-   * Drag the completed spreadsheet to the Upload section.
-   * Select [!UICONTROL **Submit**].
-   * Select the[!UICONTROL  **Activity Feed**] to view progress.
+   - Select [!UICONTROL **Add items** > **Add items in bulk**].
+   - Drag the completed spreadsheet to the Upload section.
+   - Select [!UICONTROL **Submit**].
+   - Select the[!UICONTROL  **Activity Feed**] to view progress.
 
 For complete instructions, see [Add Items in Bulk Using the Full Item Spec](https://sellerhelp.walmart.com/s/guide?article=000007680) in the [!DNL *Walmart Seller Help*].
