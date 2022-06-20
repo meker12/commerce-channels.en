@@ -6,7 +6,7 @@ exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 
 # Add products to [!DNL Channel Manager]
 
-You add products to the [!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
+To add products to the [!DNL Walmart Marketplace] sales channel, select them from the [!DNL Commerce] product catalog and import them to [!DNL Channel Manager].
 The import process can take up to 30 minutes or more depending on how many products you select.
 
 ## Prerequisite
