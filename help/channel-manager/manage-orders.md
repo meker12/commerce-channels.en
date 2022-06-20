@@ -5,7 +5,17 @@ exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
 # Manage [!DNL Walmart Marketplace] orders
 
-[!DNL Walmart Marketplace] orders for [!DNL Commerce] product listings sync automatically to [!DNL Channel Manager] after [!DNL Walmart] processes the order. When the sync is completed, you can view order information by selecting **[!UICONTROL Orders]** from the connected channel store view in [!DNL Channel Manager].
+[!DNL Walmart Marketplace] order data for [!DNL Commerce] products synchronizes automatically to [!DNL Channel Manager] after [!DNL Walmart] processes the order.
+
+On the Commerce side, a successful synchronization triggers the following actions:
+
+- [!DNL Channel Manager] sends an order acknowledgment to Walmart.
+
+- A corresponding Commerce order is created from the Walmart order.
+
+- The updated order information displays on the [!DNL Channel Manager] Orders dashboard.
+
+In the storefront Admin, you can view order data from [!DNL Channel Manager] by opening the sales channel store and selecting **[!UICONTROL Orders]**.
 
 ![Channel Manager Orders view to manage [!DNL Walmart Marketplace] orders](assets/orders-dashboard-view.png)
 
@@ -13,11 +23,62 @@ exl-id: c2779c72-4793-445c-858a-867ea8389662
 >
 >It can take up to 35 minutes for a [!DNL Walmart Marketplace] order to display in the [!DNL Channel Manager] orders list. [!DNL Walmart] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes approximately five more minutes to create and display the order in Adobe Commerce or Magento Open Source.
 
+## Orders Controls and Column Descriptions
+
+The following tables describe the controls and columns available for Orders.
+
+**Controls for [!UICONTROL Orders]**
+| **Control**                    | **Description**                                                                                                                                                                                                                                                                  |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Filter orders]     | Sort the view by selecting one of the [!UICONTROL Order Status] cards.                                                                                                                                                                                                           |
+| Error Description              | Provides more detailed information about orders with an Error status.                                                                                                                                                                                                            |
+| [!UICONTROL View order detail] | To view order details, select the [!DNL Commerce] order number in the [!UICONTROL Order] table. Then, use [!DNL Commerce] order options to process the order.                                                                                                                    |
+| [!UICONTROL Channel Settings]  | To modify the channel configuration, select channel Walmart Connection credentials, mapped attributes, or shipping identifiers, settings  select the [!DNL Commerce] order number in the [!UICONTROL Order] table. Then, use [!DNL Commerce] order options to process the order. |
+
+
+**Column descriptions**
+
+| Field                             | Description                                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Walmart Order Number] | The purchase order number assigned to the order in the [!DNL Walmart Marketplace]. When an order is initially imported to [!DNL Channel Manager], only the [!DNL Walmart] order number displays. When the [!DNL Commerce] order is created, the [!DNL Walmart] order number is stored in the [!UICONTROL External ID] product attribute.                                      |
+| [!DNL Commerce] Order Number      | The number assigned to the [!DNL Commerce] order created from the [!DNL Walmart Marketplace] order.                                                                                                                                                                                                                                                                           |
+| Items                             | Number of items ordered on [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                                        |
+| [!UICONTROL Order Value]          | Total cost of the ordered items.                                                                                                                                                                                                                                                                                                                                              |
+| [!UICONTROL Date Ordered]         | The date the order was submitted on the [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                           |
+| [!UICONTROL Ship By Date]         | Date the order must be shipped by to meet [!DNL Walmart Marketplace] requirements.                                                                                                                                                                                                                                                                                            |
+| [!UICONTROL Deliver By Date]      | Date the order must be delivered to customer to meet [!DNL Walmart Marketplace] requirements in UTC format.                                                                                                                                                                                                                                                                   |
+| [!UICONTROL Ship Method]          | The [[!DNL Walmart Marketplace] Shipping Method](https://sellerhelp.walmart.com/s/guide?article=000007893) selected for the order.                                                                                                                                                                                                                                            |
+| [!UICONTROL Last Update At]       | Timestamp indicating the last time the order data was updated in [!DNL Channel Manager] in UTC format.                                                                                                                                                                                                                                                                        |
+| [!UICONTROL Status]               | Indicates the current order status in the [!DNL Commerce] order workflow. The initial status for an order imported from [!DNL Walmart Marketplace] is _Open_. Additional status updates occur when Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace]. |
+| [!UICONTROL Error Description]    | Provides more detailed information about orders with an _[!UICONTROL Error]_ status.                                                                                                                                                                                                                                                                                          |
+
+## Order Status
+
+
+[!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
+
+- **[!UICONTROL Shipped]**–Orders that have been shipped from the [!DNL Commerce] store. When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment.
+
+- **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to paritally shipped on Walmart and provide the order tracking number for the shipment. 
+
+- **[!UICONTROL Canceled]**–Orders that have been canceled from the [!DNL Commerce] store.
+
+  After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
+
+- **[!UICONTROL Error]**– Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. If an operation fails, the Orders page shows an _Error_ status for the order. For details, see [Fix order errors](process-orders.md#fix-shipping-and-cancellation- errors).
+
+- **[!UICONTROL Error description]**–Provides detailed information about order errors that occur due to issues like 
+missing information or invalid values, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
+
+>[!NOTE]
+>
+>If order items are sent in multiple shipments, the order status in [!DNL Channel Manager] reflect the last order status available. For example, if the first item ships and no errors are returned when order updates are synchronized to [!DNL Channel Manager] and [!DNL Walmart Marketplace], the [!DNL Channel Manager] order status is _[!UICONTROL Partially Shipped]_.  If a second item is shipped and [!Channel Manager] returns an error, the order status updates to _[!UICONTROL Error]_.
+
 ## Review Orders
 
 1. From the Admin, select **[!UICONTROL Marketing]** > **[!UICONTROL Channel Manager]** to open the [!UICONTROL Channel Manager Marketplace Stores] page.
 
-1. Open the store view by selecting the pencil icon in a store entry row.
+1. Open the store view by selecting the eye icon in a store entry row.
 
 1. To view order information, select *[!UICONTROL *Orders]**.
 
@@ -31,54 +92,20 @@ From **[!UICONTROL Orders]**, select the **[!UICONTROL Commerce Order Number]** 
 
 ![Commerce Order detail view for a [!DNL Walmart Marketplace] order](assets/order-detail-with-external-order-id.png)
 
-### Orders Controls and Column Descriptions
+In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have the following additional information included in the order data:
 
-The following tables describe the controls and columns available for Orders.
+- **Payment Information & Shipping Method**–Orders imported from Walmart include following values for payment and shipping fields:
 
-**Controls for [!UICONTROL Orders]**
-| **Control**                    | **Description**                                                                                                                                               |
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL Filter orders]     | Sort the view by selecting one of the [!UICONTROL Order Status] cards.                                                                                        |
-| Error message details          | Hover over the [!UICONTROL Error Status] for an order to see the detailed error message.                                                                      |
-| [!UICONTROL View order detail] | To view order details, select the [!DNL Commerce] order number in the [!UICONTROL Order] table. Then, use [!DNL Commerce] order options to process the order. |
+  - **[!UICONTROL Offline Channel Payment]**—Indicates that order payment is processed offline by [!DNL Walmart Marketplace].
 
-**Column descriptions**
+  - **[!UICONTROL External Order Number]**—Displays the [!DNL Walmart Marketplace] order number.
 
-| Field                              | Description                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL  Walmart Order Number] | The purchase order number assigned to the order in the [!DNL Walmart Marketplace]. When an order is initially imported to [!DNL Channel Manager], only the [!DNL Walmart] order number displays. When the [!DNL Commerce] order is created, the [!DNL Walmart] order number is stored in the [!UICONTROL External ID] product attribute.                                         |
-| [!DNL Commerce]  Order Number      | The number assigned to the [!DNL Commerce]  order created from the [!DNL Walmart Marketplace] order.                                                                                                                                                                                                                                                                             |
-| Items                              | Number of items ordered on [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                                           |
-| [!UICONTROL Order Value]           | Total cost of the ordered items.                                                                                                                                                                                                                                                                                                                                                 |
-| [!UICONTROL Date Created]          | The date the order was created on the [!DNL Walmart Marketplace].                                                                                                                                                                                                                                                                                                                |
-| [!UICONTROL Ship By Date]          | Date the order must be shipped by to meet [!DNL Walmart Marketplace] requirements.                                                                                                                                                                                                                                                                                               |
-| [!UICONTROL Deliver By Date]       | Date the order must be delivered to customer to meet [!DNL Walmart Marketplace] requirements.                                                                                                                                                                                                                                                                                    |
-| [!UICONTROL Last Update At]        | Timestamp indicating the last time the order data was updated in [!DNL Channel Manager]                                                                                                                                                                                                                                                                                          |
-| [!UICONTROL Status]                | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the [!DNL Walmart Marketplace]. If an operation fails, the listing shows an Error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status. |
-| [!UICONTROL Error Description]     | Provides more detailed information about orders with an *Error* status.                                                                                                                                                                                                                                                                                                          |
+  - **[!UICONTROL Channel Shipping - Value]**–Indicates that shipping charges are handled through [!DNL Walmart Marketplace].
 
-### About Order Status
+  - **[!UICONTROL Cancellation Reason]**–This field displays only if an order imported from [!DNL Walmart Marketplace] is canceled. Cancellation reasons include:
 
-
-[!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
-
-*  **[!UICONTROL Open]**–Orders received from the [!DNL Walmart Marketplace] ready to be reviewed and processed in Adobe Commerce or Magento Open Source.
-
-   After a customer orders a product from the [!DNL Walmart Marketplace], it can take up to 35 minutes for the open order to be displayed in the order workspace for the connected channel. [!DNL Commerce] requires approximately 30 minutes to process incoming orders and send them to [!DNL Channel Manager]. After Channel Manager receives the order, it takes 5 more minutes to create and display the [!DNL Commerce] order.
-
-*  **[!UICONTROL Processed]**–Orders that have been shipped, canceled, or refunded from the [!DNL Commerce] store.
-
-   To show all shipped, canceled, and refunded orders, select the **Processed** status card.
-
-* **[!UICONTROL Canceled]**–Orders that have been canceled from the [!DNL Commerce] store.
-
-  After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
-
-* **[!UICONTROL Refunded]**–Orders that have been refunded from the [!DNL Commerce] store.
-
-  After the refund completes, the [!DNL Commerce] stock quantity updates to reflect the refunded items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
-
-* **[!UICONTROL Error]**– Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. 
-
-* **[!UICONTROL Error description]**–Provides detailed information about order errors that occur due to issues like 
-missing information or invalid values, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
+    - [!UICONTROL Price or other listing errors.]
+    - [!UICONTROL The item is out of stock.]
+    - [!UICONTROL Unavailable carrier or shipping information.]
+    - [!UICONTROL Additional information is required by our Credit or Fraud Avoidance department.]
+    

@@ -7,6 +7,10 @@ exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 
 After installing Channel Manager on your [!DNL Commerce] instance, connect a [!DNL Commerce] store to [!DNL Walmart Marketplace].
 
+>[!NOTE]
+>
+>Channel Manager requires a one-to-one connection between a Walmart account and a Commerce store view. You cannot connect the same store view to multiple Walmart accounts.
+
 1. [Create the sales channel](#create-the-sales-channel) by selecting the Commerce store for product listings.
 
 1. [Connect the channel to [!DNL Walmart Marketplace] by adding [!UICONTROL Walmart API credentials]](#connect-the-channel-to-walmart-marketplace).

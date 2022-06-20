@@ -8,10 +8,6 @@ exl-id: 0703741b-77e0-47b0-917f-b25d14afa7ae
 
 # Overview
 
->[!IMPORTANT]
->
->This feature is for Beta users only and is not yet accessible for all customers. Currently limited to US customers. Contact your Adobe Commerce Beta program manager for assistance and questions.
-
 This guide is intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about [!DNL Channel Manager] installation, onboarding, configuration, and management. The guide assumes a basic understanding of core Commerce configuration and functionality.
 
 [!DNL Channel Manager] has two areas for administrators:

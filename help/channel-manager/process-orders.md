@@ -11,11 +11,15 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
 * **Order shipments**–Walmart requires a tracking number for all shipments. If some items are out of stock, you can create partial shipments to send items that are currently available. After you submit the shipment, order updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
 
-* **Order cancellations**–When you cancel a [!DNL Walmart Marketplace] order, Walmart requires a cancellation reason which is included in the order cancellation notice sent to the customer. The cancellation reason is also displayed in the [!DNL Commerce] order payments information.
+* **Order cancellations**–When you cancel a [!DNL Walmart Marketplace] order, Walmart requires a cancellation reason which is included in the order cancellation notice sent to the customer. The cancellation reason is also displayed in the [!DNL Commerce] order payments information. After you submit the cancellation, inventory updates are synchronized to [!DNL Walmart Marketplace]. Then, Walmart notifies customers about the order status and shipping details.
+
+  In the storefront, you must cancel the entire order. Commerce does not allow partial cancellations.
+
+When Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete.
 
 >[!NOTE]
 >
-> It can up to five minutes for order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to the [!DNL Channel Manager] Orders page.
+> It can take up to five minutes for order updates to synchronize to [!DNL Walmart Marketplace]. To check the order status, return to the [!DNL Channel Manager] Orders page.
 
 ## Ship an order
 
@@ -63,3 +67,11 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
    * Select **Cancel Order**.
 
 1. After submitting the cancellation, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
+
+## Fix order errors
+
+Errors can occur during the order synchronization process from [!DNL Walmart Marketplace], or during the order update process for shipments, partial shipments, and cancellations.
+
+If the synchronization operation for a shipment, partial shipment, or cancellation update fails, the [!DNL Channel Manager] Orders page shows an _Error_ status for the order. To ensure that shipment information and order cancellation information is accurately reflected in Walmart Marketplace account, manually update the order in your [!DNL Walmart Marketplace] store.
+
+
