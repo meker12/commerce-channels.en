@@ -15,7 +15,7 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 
 1. Begin sales channel operations.
 
-   - [Configure channel settings for product identifiers and shipping carriers](configure-channel-settings.md)
+   - [Configure channel settings for product identifiers and shipping carriers](settings-overview.md)
 
    - [Add products from your [!DNL Commerce Catalog] to Channel Manager](add-products-to-channel-store.md)
 
