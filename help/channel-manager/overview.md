@@ -22,7 +22,7 @@ After you install and configure [!DNL Channel Manager], you can use the followin
 
 * **Inventory management**–Items in the merchant’s marketplace seller account are automatically synchronized and updated from Commerce to ensure accurate inventory levels.
 
-* **Pricing updates**–Maintain accurate pricing for marketplace listings with automatic price synchronization. When a price changes in Adobe Commerce, the changes are reflected in the marketplace within 10 minutes.
+* **Pricing updates**–Maintain accurate pricing for marketplace listings with automatic price synchronization. When a price changes in Adobe Commerce, the changes are reflected in the marketplace.
 
 * **Order management**–When new orders are created in a marketplace, [!DNL Channel Manager] synchronizes orders with Adobe Commerce, sends order acknowledgments to the marketplace to ensure inventory is reserved for each order, and creates a corresponding order in the Commerce Order Management system for processing.
 

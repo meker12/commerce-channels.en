@@ -25,6 +25,7 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 
    - [View and manage [!DNL Walmart] orders from the [!DNL Commerce Admin]](manage-orders.md)
 
+After you create the sales channel and match products to [!DNL Walmart Marketplace], you can manage all product listing, inventory, price, order, shipping, and cancellation operations from [!DNL Commerce]. Product and order data is synchronized automatically from [!DNL Commerce] to [!DNL Walmart Marketplace]. To prevent conflicts or discrepancies between [!DNL Commerce] and [!DNL Walmart Marketplace] updates, do not update product or order data for [!DNL Commerce] products from the [!DNL Walmart Marketplace] account. 
+
 >[!IMPORTANT]
->
->After [!DNL Channel Manager] is installed and configured, all inventory, price, order updates are synchronized automatically. Do not connect Channel Manager to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data, and you are ready for Commerce updates to be synchronized to [!DNL Walmart Marketplace].
+In some cases, when [!DNL Channel Manager] returns errors during order processing, you might need to complete order, shipping, or cancellation operations from the [!DNL Walmart Marketplace]. See [Fix order errors](process-orders.md#fix-order-errors).
