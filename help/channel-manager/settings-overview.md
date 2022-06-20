@@ -7,7 +7,11 @@ exl-id: 305b3580-bfe2-4fc2-9dc8-fb41f5eaf959
 
 Sales channel settings enable communication and data synchronization between [!DNL Commerce] and [!DNL Walmart Marketplace] so you can manage [!DNL Walmart Marketplace] sales operations from the [!DNL Commerce] Admin.
 
+<<<<<<< HEAD
 In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the configuration by selecting "from the *[!UICONTROL Channel Settings]* page.
+=======
+In [!DNL Channel Manager], you configure some sales channels settings during the onboarding process. After onboarding, you can view and manage the configuration by selecting **[!UICONTROL Channel Settings]** from the [!UICONTROL Listings] and [!UICONTROL Orders] dashboards.
+>>>>>>> mae-install-onboarding-cleanup
 
 * **Walmart connection**–During the [!DNL Channel Manager] onboarding process, you provide [API credentials](walmart-requirements.md#generate-a-walmart-marketplace-production-api-key) from your [!DNL Walmart Marketplace] Seller account to connect [!DNL Commerce] to [!DNL Walmart Marketplace] for communication and data synchronization. If needed, you can update these credentials from the *Channel Settings* page.
 

@@ -7,11 +7,17 @@ exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 
 Like other marketplaces, [!DNL Walmart] allows third-party sellers to list items that are sold by others. 
 
+<<<<<<< HEAD:help/channel-manager/connect-listings-to-marketplace.md
 The platform uses product identifiers like UPC and GTIN to match existing [!DNL Walmart Marketplace] listings.
 For matched products, the Walmart Marketplace listing updates to include the Commerce product offer when you connect
 a product from [!DNL Channel Manager].
+=======
+- [!DNL Walmart Marketplace] uses product identifiers like UPC and GTIN to match products to existing [!DNL Walmart Marketplace] listings.
+>>>>>>> mae-install-onboarding-cleanup:help/channel-manager/connect-listings-to-marketplace.md
 
-Usually, product offers with the lowest prices appear first in the [!DNL Walmart Marketplace] listing, but other factors like reviews also affect placement.
+- For matched products, the Walmart Marketplace listing updates to include the Commerce product offer when you connect a product from [!DNL Channel Manager].
+
+- Usually, product offers with the lowest prices appear first in the [!DNL Walmart Marketplace] listing, but other factors like reviews also affect placement.
 
 ## Match products
 
@@ -41,21 +47,21 @@ Before matching products, verify that your product catalog attribute values meet
 
 ### Check match status
 
-1.  Select **Refresh products** to view the current product status.
-
-1.  Check the product status.
-
-After the match completes, the status can be *Match* or *Error*.
+After the match completes, select the **[!UICONTROL Refresh products]** to view the current product status. *Match* or *Error*.
 
 * **[!UICONTROL Match]** indicates that the product was successfully matched. Your product offer was connected to an existing Walmart Marketplace listing. If the [Marketplace store is not active](walmart-requirements.md#walmart-marketplace-store-status), *[!UICONTROL Staged for Match]* is displayed in the *[!UICONTROL Status detail]* column. Staged products are connected automatically when the [!DNL Walmart Marketplace] store is activated.
 
-* **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
+- **[!UICONTROL Error]** indicates that the match operation failed due to one of the following issues:
 
-  * [!DNL Channel Manager] could not send for matching due to a connection issue.
+  - [!DNL Channel Manager] could not send for matching due to a connection issue.
 
-  * No match was found.
+  - No match was found.
 
+<<<<<<< HEAD:help/channel-manager/connect-listings-to-marketplace.md
   * Match found, but the listing cannot be connected because [!DNL Walmart Marketplace] returned an error code. See *Status Detail** for the error description.
+=======
+  - Match found, but the listing cannot be connected because [!DNL Walmart Marketplace] returned an error code. See the **[!UICONTROL Error Description]** for information about the issue.
+>>>>>>> mae-install-onboarding-cleanup:help/channel-manager/connect-listings-to-marketplace.md
   
 ### Check listing on Walmart
 
