@@ -7,13 +7,7 @@ exl-id: 78078b14-ebdd-415d-9486-66b0150167aa
 
 Like other marketplaces, [!DNL Walmart] allows third-party sellers to list items that are sold by others. 
 
-<<<<<<< HEAD:help/channel-manager/connect-listings-to-marketplace.md
-The platform uses product identifiers like UPC and GTIN to match existing [!DNL Walmart Marketplace] listings.
-For matched products, the Walmart Marketplace listing updates to include the Commerce product offer when you connect
-a product from [!DNL Channel Manager].
-=======
 - [!DNL Walmart Marketplace] uses product identifiers like UPC and GTIN to match products to existing [!DNL Walmart Marketplace] listings.
->>>>>>> mae-install-onboarding-cleanup:help/channel-manager/connect-listings-to-marketplace.md
 
 - For matched products, the Walmart Marketplace listing updates to include the Commerce product offer when you connect a product from [!DNL Channel Manager].
 
@@ -57,11 +51,7 @@ After the match completes, select the **[!UICONTROL Refresh products]** to view 
 
   - No match was found.
 
-<<<<<<< HEAD:help/channel-manager/connect-listings-to-marketplace.md
-  * Match found, but the listing cannot be connected because [!DNL Walmart Marketplace] returned an error code. See *Status Detail** for the error description.
-=======
   - Match found, but the listing cannot be connected because [!DNL Walmart Marketplace] returned an error code. See the **[!UICONTROL Error Description]** for information about the issue.
->>>>>>> mae-install-onboarding-cleanup:help/channel-manager/connect-listings-to-marketplace.md
   
 ### Check listing on Walmart
 
