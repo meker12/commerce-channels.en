@@ -6,14 +6,14 @@ exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 
 # Add products to [!DNL Channel Manager]
 
-You add product to the [!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
+You add products to the [!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
 The import process can take up to 30 minutes or more depending on how many products you select.
 
-**Prerequisite**
+## Prerequisite
 
 **[Map catalog attributes](map-catalog-attributes.md)**—In the [!DNL Channel Settings] configuration, map at least one attribute from the [!DNL Commerce] product catalog to one of the required Walmart Product Identifiers—–GTIN, ISBN, ISSN, UPC, EAN.
 
-**Listing requirements**
+## Listing requirements
 
 [!DNL Commerce] product listings must have the following required attribute configuration:
 
@@ -23,9 +23,9 @@ The import process can take up to 30 minutes or more depending on how many produ
 
   - At least one product attribute that matches one of the required [!DNL Walmart Marketplace] product identifiers–GTIN, ISBN, ISSN, UPC, EAN.
 
-  - Product price value specified as a value with a maximum of two decimal places, for example `9.99`
+  - Product price specified to a maximum of two decimal places, for example `9.99`
 
-  - Product weight specified as value with a maximum of two decimal places, for example `1.25`
+  - Product weight specified to a maximum of two decimal places, for example `1.25`
 
 >[!TIP]
 >
