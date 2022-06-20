@@ -8,19 +8,6 @@ exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 
 Review the [requirements](onboard.md#requirements) and gather required information before you install Channel Manager.
 
-## Update minimum-stability setting
-
-Before installing the extension, update the `minimum-stability` requirement in your `composer.json` file so you can install early versions of Channel Manager using Composer.
-
-To update the configuration, add the following lines to the `composer.json` file.
-
-```json
-{
-   "minimum-stability": "alpha",
-   "prefer-stable": true
-}
-```
-
 ## Install the extension
 
 The Channel Manager installation instructions depend on whether Adobe Commerce or Magento Open Source is deployed on-premises or on cloud infrastructure.

@@ -20,9 +20,9 @@ Before mapping shipping carriers, complete the following tasks:
 
 ## Map shipping carriers
 
-1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Settings]**.
+1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Channel Settings]**.
 
-1. From **[!UICONTROL Map Attributes]**, select **[!UICONTROL Shipping Carriers]**.
+1. On **[!UICONTROL Channel Settings]**, select **[!UICONTROL Shipping Carriers]**.
 
    ![Map shipping carriers](assets/map-shipping-carriers.png)
 

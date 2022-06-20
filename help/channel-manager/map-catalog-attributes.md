@@ -5,7 +5,7 @@ exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 ---
 # Map catalog attributes
 
-Before you publish listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 
+Before you connect listings from [!DNL Commerce] to [!DNL Walmart Marketplace], you must map at least one unique identifier from your [!DNL Commerce] catalog to the corresponding identifier from Walmart. 
 This step is required to match [!DNL Commerce] products to existing [!DNL Walmart] listings and to synchronize product data between [!DNL Commerce] and [!DNL Walmart].
 
 For product matching, the [!DNL Commerce] product must have at least one product attribute that matches one of the following Product Identifiers (Product IDs) required by [!DNL Walmart].
@@ -23,7 +23,9 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
 ## Map unique identifiers
 
-1. On the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Settings]**.
+1. From the [!UICONTROL Listings] page for the sales channel store, select **[!UICONTROL Channel Settings]**.
+
+1. On **[!UICONTROL Channel Settings]**, select **[!UICONTROL Shipping Carriers]**.
 
    - Find the [!DNL Walmart Marketplace] attribute to map.
 

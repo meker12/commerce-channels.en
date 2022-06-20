@@ -23,7 +23,7 @@ When product inventory levels change in [!DNL Commerce], [!DNL Channel Manager] 
 
 When the product price changes in [!DNL Commerce], [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace]. It can take up to five minutes for the price change to be displayed in the [!DNL Walmart Marketplace] listing.
 
-### Manage pricing for a published product
+### Manage pricing for a connected product
 
 1. From the [!UICONTROL Admin], select **[!UICONTROL Catalog > Products]**.
 1. In the product grid, find the product to update and select **[!UICONTROL Edit]**.

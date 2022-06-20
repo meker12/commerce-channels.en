@@ -15,10 +15,16 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 
 1. Begin sales channel operations.
 
+   - [Configure channel settings for product identifiers and shipping carriers](configure-channel-settings.md)
+
    - [Add products from your [!DNL Commerce Catalog] to Channel Manager](add-products-to-channel-store.md)
 
-   - [Publish product listings to [!DNL Walmart] using product matching](publish-listings-to-marketplace.md)
+   - [Connect product listings to [!DNL Walmart] using product matching](connect-listings-to-marketplace.md)
 
    - [Learn how [!DNL Channel Manager] syncs inventory and price updates between [!DNL Commerce] and [!DNL Walmart]](inventory-and-price-updates.md)
 
    - [View and manage [!DNL Walmart] orders from the [!DNL Commerce Admin]](manage-orders.md)
+
+>[!IMPORTANT]
+>
+>After [!DNL Channel Manager] is installed and configured, all inventory, price, order updates are synchronized automatically. Do not connect Channel Manager to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data, and you are ready for Commerce updates to be synchronized to [!DNL Walmart Marketplace].
