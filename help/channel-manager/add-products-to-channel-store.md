@@ -4,9 +4,9 @@ description: Create product assortment for [!DNL Walmart Marketplace] sales by a
 exl-id: 00932df7-bdc7-42a1-b269-88dffcc918bc
 ---
 
-# Add products to sales channel store
+# Add products to [!DNL Channel Manager]
 
-You add product to the[!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
+You add product to the [!DNL Walmart Marketplace] sales channel by selecting products from the [!DNL Commerce] product catalog and importing them to [!DNL Channel Manager].
 The import process can take up to 30 minutes or more depending on how many products you select.
 
 **Prerequisite**
@@ -17,7 +17,7 @@ The import process can take up to 30 minutes or more depending on how many produ
 
 [!DNL Commerce] product listings must have the following required attribute configuration:
 
-- **[!UICONTROL Publish to Channel Manager]** attribute is enabled
+- **[!UICONTROL Connect to Channel Manager]** attribute is enabled
 
 - Provide valid values for the required Walmart attributes.
 
@@ -43,11 +43,11 @@ The import process can take up to 30 minutes or more depending on how many produ
 
    ![Send products to the sales channel store](assets/select-products-from-catalog.png)
 
-1. Enable the **[!UICONTROL Publish to Channel Manager]** attribute for the selected items.
+1. Enable the **[!UICONTROL Connect to Channel Manager]** attribute for the selected items.
 
    - From **[!UICONTROL Actions]**, select **[!UICONTROL Update attributes]**.
 
-   - Scroll to the **[!UICONTROL Publish to Channel Manager]** attribute and enable it.
+   - Scroll to the **[!UICONTROL Connect to Channel Manager]** attribute and enable it.
 
    - Verify that the product attributes include at least one of the required [!DNL Walmart Product IDs].
 
