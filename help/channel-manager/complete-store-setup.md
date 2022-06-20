@@ -28,4 +28,5 @@ After you connect a Commerce store to [!DNL Walmart Marketplace], complete store
 After you create the sales channel and match products to [!DNL Walmart Marketplace], you can manage all product listing, inventory, price, order, shipping, and cancellation operations from [!DNL Commerce]. Product and order data is synchronized automatically from [!DNL Commerce] to [!DNL Walmart Marketplace]. To prevent conflicts or discrepancies between [!DNL Commerce] and [!DNL Walmart Marketplace] updates, do not update product or order data for [!DNL Commerce] products from the [!DNL Walmart Marketplace] account. 
 
 >[!IMPORTANT]
-In some cases, when [!DNL Channel Manager] returns errors during order processing, you might need to complete order, shipping, or cancellation operations from the [!DNL Walmart Marketplace]. See [Fix order errors](process-orders.md#fix-order-errors).
+>
+>In some cases, when [!DNL Channel Manager] returns errors during order processing, you might need to complete order, shipping, or cancellation operations from the [!DNL Walmart Marketplace]. See [Fix order errors](process-orders.md#fix-order-errors).
