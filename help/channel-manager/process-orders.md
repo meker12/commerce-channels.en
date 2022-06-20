@@ -15,7 +15,7 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
   In the storefront, you must cancel the entire order. Commerce does not allow partial cancellations.
 
-When Commerce orders are processed and [!Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete.
+When Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete.
 
 >[!NOTE]
 >

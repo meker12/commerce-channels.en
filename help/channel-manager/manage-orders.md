@@ -102,7 +102,7 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
 
   - **[!UICONTROL Channel Shipping - Value]**–Indicates that shipping charges are handled through [!DNL Walmart Marketplace].
 
-  - **[!UICONTROL Cancellation Reason]**–This field displays only if an order imported from [!Walmart Marketplace] is canceled. Cancellation reasons include:
+  - **[!UICONTROL Cancellation Reason]**–This field displays only if an order imported from [!DNL Walmart Marketplace] is canceled. Cancellation reasons include:
 
     - Price or other listing errors.
     - The item is out of stock.
