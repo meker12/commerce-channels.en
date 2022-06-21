@@ -1,6 +1,6 @@
 ---
-title: Complete sales channel setup
-description: Navigate to a connected sales channel to manage view and manage product listings, inventory and price updates, and track orders
+title: Complete channel setup
+description: "After creating the sales channel to connect a Commerce Store view to Walmart Marketplace, open the channel and complete the channel configuration. Then, start the process to add products, and manage listings, inventory, pricing, and orders from Channel Manager."
 exl-id: 12127e3b-55c1-4db6-98b2-6dc8bdaae139
 ---
 # Complete sales channel setup
@@ -29,4 +29,4 @@ After you create the sales channel and match products to [!DNL Walmart Marketpla
 
 >[!IMPORTANT]
 >
->In some cases, when [!DNL Channel Manager] returns errors during order processing, you might need to complete order, shipping, or cancellation operations from the [!DNL Walmart Marketplace]. See [Fix order errors](process-orders.md#fix-order-errors).
+>If [!DNL Channel Manager] returns errors during order processing, you might need to complete order, shipping, or cancellation operations from the [!DNL Walmart Marketplace]. See [Fix order errors](process-orders.md#fix-order-errors).
