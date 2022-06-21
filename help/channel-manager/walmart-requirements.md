@@ -56,5 +56,5 @@ When you connect products to the marketplace, listing availability depends on th
 
 >[!IMPORTANT]
 >
->After [!DNL Channel Manager] is installed and configured, all inventory, price, order updates are synchronized automatically. Do not connect Channel Manager to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data, and you are ready for Commerce updates to be synchronized to [!DNL Walmart Marketplace].
+>After [!DNL Channel Manager] is installed and configured, all inventory, price, and order updates are synchronized automatically. Do not connect [!DNL Channel Manager] to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data, and you are ready for [!DNL Commerce] updates to be synchronized to [!DNL Walmart Marketplace].
 

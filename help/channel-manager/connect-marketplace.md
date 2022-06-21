@@ -3,19 +3,19 @@ title: Connect sales channel to [!DNL Walmart Marketplace]
 description: Configure the sales channel and connect to Walmart Marketplace.
 exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 ---
-# Connect sales channel to [!DNL Walmart Marketplace]
+# Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]
 
-After installing Channel Manager on your [!DNL Commerce] instance, connect a [!DNL Commerce] store to [!DNL Walmart Marketplace].
-
->[!NOTE]
->
->Channel Manager requires a one-to-one connection between a Walmart account and a Commerce store view. You cannot connect the same store view to multiple Walmart accounts.
+After installing Channel Manager on your [!DNL Commerce] instance, create a sales channel in Channel Manager and configure the credentials to connect [!DNL Channel Manager] to [!DNL Walmart Marketplace].
 
 1. [Create the sales channel](#create-the-sales-channel) by selecting the Commerce store for product listings.
 
 1. [Connect the channel to [!DNL Walmart Marketplace] by adding [!UICONTROL Walmart API credentials]](#connect-the-channel-to-walmart-marketplace).
 
 1. [Complete sales channel setup](#complete-store-setup) to manage listings, inventory, pricing, and orders for your [!DNL Walmart Marketplace] product assortment.
+
+>[!NOTE]
+>
+>Channel Manager requires a one-to-one connection between a Walmart account and a Commerce store view. You cannot connect the same store view to multiple Walmart accounts.
 
 ## Create the sales channel
 
@@ -37,7 +37,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, connect a [!D
 
    - Enter a unique **[!UICONTROL store name]**.
 
-   - Select the **[!UICONTROL Adobe Commerce site]** for product listings.
+   - Select the **[!UICONTROL Adobe Commerce site]** for product listings and order processing.
 
    - Add an **[!UICONTROL email address]** to receive service notifications related to [!DNL Channel Manager].
 

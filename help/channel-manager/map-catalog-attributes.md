@@ -33,6 +33,7 @@ If your catalog does not have a matching attribute, [add or convert an existing 
      The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.  
 
     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
+    
 
    - Select **[!UICONTROL Save]**.
 
