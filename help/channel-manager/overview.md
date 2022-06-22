@@ -24,11 +24,11 @@ After you install and configure [!DNL Channel Manager], you can use the followin
 
 * **Pricing updates**–Maintain accurate pricing for marketplace listings with automatic price synchronization. When a price changes in Adobe Commerce, the changes are reflected in the marketplace.
 
-* **Order management**–When new orders are created in a marketplace, [!DNL Channel Manager] synchronizes orders with Adobe Commerce, sends order acknowledgments to the marketplace to ensure inventory is reserved for each order, and creates a corresponding order in the [!DNL Commerce] Order Management system for processing.
+* **Order management**–When new orders are created in a marketplace, [!DNL Channel Manager] synchronizes orders with Adobe Commerce, and sends order acknowledgments to the marketplace. This acknowledgment ensures that inventory is reserved for each order. The final step is to create the corresponding orders in the [!DNL Commerce] Order Management system for processing.
 
 * **Shipping management**–When orders are marked as shipped in Adobe Commerce, the shipment update is sent to the [!DNL Walmart Marketplace]. This notification ensures that sellers meet their fulfillment SLA requirements and that customers receive shipping update notifications for their current orders.
 
-* **Cancellations**–When orders are canceled in Adobe Commerce, [!DNL Channel Manager] sends updated order information to the marketplace to replicate the action for the corresponding marketplace order.  After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items and inventory updates are synchronized automtically to [!DNL Walmart Marketplace].
+* **Cancellations**–When orders are canceled in Adobe Commerce, [!DNL Channel Manager] sends updated order information to the marketplace to replicate the action for the corresponding marketplace order. After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items and inventory updates are synchronized automatically to [!DNL Walmart Marketplace].
 
 ## Expected latency for [!DNL Channel Manager] operations
 

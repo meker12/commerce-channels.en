@@ -59,7 +59,7 @@ The following tables describe the controls and columns available for Orders.
 
 - **[!UICONTROL Shipped]**–Orders that have been shipped from the [!DNL Commerce] store. When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment.
 
-- **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to paritally shipped on Walmart and provide the order tracking number for the shipment. 
+- **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to _[!DNL Partially Shipped]_ on Walmart and provide the order tracking number for the shipment. 
 
 - **[!UICONTROL Canceled]**–Orders that have been canceled from the [!DNL Commerce] store.
 
@@ -72,7 +72,7 @@ missing information or invalid values, incorrect shipment details, or a failed o
 
 >[!NOTE]
 >
->If order items are sent in multiple shipments, the order status in [!DNL Channel Manager] reflect the last order status available. For example, if the first item ships and no errors are returned when order updates are synchronized to [!DNL Channel Manager] and [!DNL Walmart Marketplace], the [!DNL Channel Manager] order status is _[!UICONTROL Partially Shipped]_.  If a second item is shipped and [!DNL Channel Manager] returns an error, the order status updates to _[!UICONTROL Error]_.
+>If order items are sent in multiple shipments, the order status in [!DNL Channel Manager] reflects the last order status available. For example, if the first item ships and no errors are returned when order updates are synchronized to [!DNL Channel Manager] and [!DNL Walmart Marketplace], the [!DNL Channel Manager] order status is _[!UICONTROL Partially Shipped]_. If a second item is shipped and [!DNL Channel Manager] returns an error, the order status updates to _[!UICONTROL Error]_.
 
 ## Review Orders
 
@@ -82,7 +82,7 @@ missing information or invalid values, incorrect shipment details, or a failed o
 
 1. To view order information, select *[!UICONTROL *Orders]**.
 
-1. Get information about the order and determine next steps by checking the **[Status](#about-order-status)** column to get information about the orders.
+1. Get information about the order and determine next steps by checking the **[Status](#about-order-status)** column.
 
 ## View Order Detail
 

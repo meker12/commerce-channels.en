@@ -1,6 +1,6 @@
 ---
 title: Inventory and Price Updates
-description: '[!DNL Channel Manager] syncs inventory and price updates between the [!DNL Commerce] store and [!DNL Walmart Marketplace] so you can manage your sales channel operations from your [!DNL Commerce] Admin'
+description: '[!DNL Channel Manager] syncs inventory and price updates between the [!DNL Commerce] store and [!DNL Walmart Marketplace] so that you can manage your sales channel operations from the [!DNL Commerce] Admin'
 exl-id: 4dd9fa4a-b12f-4795-a7b2-84ea0fc26aa5
 ---
 # Update inventory and pricing
@@ -10,7 +10,7 @@ exl-id: 4dd9fa4a-b12f-4795-a7b2-84ea0fc26aa5
 
 >[!IMPORTANT]
 >
->After [!DNL Channel Manager] is installed and configured, all inventory, price, and order updates are synchronized automatically. If you already sell on Walmart Marketplace either directly or through another integration, make sure to disable the previous integration and verify that inventory stock levels and prices in the [!DNL Commerce] storefront are accurate and match the data in [!DNL Walmart Marketplace] before you connect [!DNL Channel Manager] to the live marketplace store.
+>After [!DNL Channel Manager] is installed and configured, all inventory, price, and order updates are synchronized automatically. If you already sell on Walmart Marketplace, make sure to disable any other integrations that update the product and order data. Then, verify that inventory stock levels and prices in the [!DNL Commerce] storefront are accurate and match the data in [!DNL Walmart Marketplace] before you connect [!DNL Channel Manager] to the live marketplace store.
 
 
 ## Inventory updates

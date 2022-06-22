@@ -1,6 +1,6 @@
 ---
 title: 'Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]'
-description: 'Connect a Commerce store view to [!DNL Walmart Marketplace] to create the sales channel to manage Commerce product listings, inventory, price, and orders for Walmart Marketplace sales.'
+description: "Connect a Commerce store view to [!DNL Walmart Marketplace] to create the sales channel to manage Commerce product listings, inventory, price, and orders for Walmart Marketplace sales."
 exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 ---
 # Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]
@@ -31,7 +31,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    - Select **[!UICONTROL Add Credentials]**. 
 
-   - Select the [!DNL Commerce] store view to connect to the marketplace.
+   - Select the [!DNL Commerce] store view that offers the products you want to sell on the marketplace.
 
      ![Configure connection between [!DNL Commerce] and [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/configure-commerce-to-marketplace-connection.png) 
 
@@ -39,7 +39,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    - Select the **[!UICONTROL Adobe [!DNL Commerce] site]** for product listings and order processing.
 
-   - Add an **[!UICONTROL email address]** to receive service notifications related to [!DNL Channel Manager].
+   - To receive notifications related to [!DNL Channel Manager], add an **[!UICONTROL email address]**.
 
 1. Connect the channel to [!DNL Walmart Marketplace].
 
@@ -47,7 +47,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    - If you don’t have the credentials, get them from the [!DNL Walmart Marketplace Developer Portal] by selecting **[!UICONTROL Get API credentials]**.
 
-     On the Developer Portal select your region (US and Canada) and then log in.  
+     On the Developer Portal, select your region (US and Canada) and then log in.  
 
      ![[!DNL Walmart Marketplace] account login](assets/walmart-marketplace-login-page.png)
        
