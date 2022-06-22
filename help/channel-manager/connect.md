@@ -10,7 +10,7 @@ exl-id: 97da2142-ecef-44dc-91d8-5dc55c713d31
 
 The [!DNL Commerce Services Connector] integrates the Channel Manager service with Adobe Commerce and Magento Open Source instances. The connector enables data synchronization and communication between the [!DNL Commerce] instance, [!DNL Channel Manager], and other supporting services.
 
- [!DNL Commerce Services Connector] setup is a one-time process required to use [Adobe Commerce SaaS services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html){target="_blank"} like [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, skip this step.
+ [!DNL Commerce Services Connector] setup is a one-time process required to use [Adobe Commerce SaaS services](../landing/home.md){target="_blank"} such as [!DNL Channel Manager], [!DNL Live Search], and [!DNL Product Recommendations]. If you have already configured the connector for another service, skip this step.
 
 ## Requirements
 
