@@ -52,7 +52,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
 1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
 
-1. In the Orders table, open the order detail page by selecting the **Commerce Order Number** for the order to cancel.
+1. In the Orders table, open the [order detail page](manage-orders.md#view-order-detail) by selecting the **Commerce Order Number** for the order to cancel.
 
    ![Commerce Order detail view for a[!DNL Walmart Marketplace]order](assets/order-detail-with-external-order-id.png)
 

@@ -18,7 +18,7 @@ You can complete the following tasks from the Listing view.
 * Add products
 * Match products
 * Track listing status
-* Error description for any product listings with an error status
+* Review error description for listings with an error status
 
 ## View product listings
 
@@ -87,7 +87,7 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
 
 * **[!UICONTROL Match]**–Identifies products that were matched successfully on [!DNL Walmart].
     
-    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing [!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing [!DNL Walmart] listing.
+    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing [!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing listing.
 
     Check the [[!UICONTROL Walmart Marketplace Seller Account Items]](https://seller.walmart.com/items-and-inventory/manage-items) dashboard to review the updated product listing and verify product details, price, and inventory quantity.  
 

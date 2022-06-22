@@ -1,9 +1,9 @@
 ---
-title: "Manage [!DNL Walmart Marketplace] Orders"
+title: "View and track orders from [!DNL Channel Manager]"
 description: "View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source."
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
-# Manage [!DNL Walmart Marketplace] orders
+# View and track orders from [!DNL Channel Manager]
 
 [!DNL Walmart Marketplace] order data for [!DNL Commerce] products synchronizes automatically to [!DNL Channel Manager] after [!DNL Walmart] processes the order.
 
@@ -72,7 +72,7 @@ missing information or invalid values, incorrect shipment details, or a failed o
 
 >[!NOTE]
 >
->If order items are sent in multiple shipments, the order status in [!DNL Channel Manager] reflect the last order status available. For example, if the first item ships and no errors are returned when order updates are synchronized to [!DNL Channel Manager] and [!DNL Walmart Marketplace], the [!DNL Channel Manager] order status is _[!UICONTROL Partially Shipped]_.  If a second item is shipped and [!Channel Manager] returns an error, the order status updates to _[!UICONTROL Error]_.
+>If order items are sent in multiple shipments, the order status in [!DNL Channel Manager] reflect the last order status available. For example, if the first item ships and no errors are returned when order updates are synchronized to [!DNL Channel Manager] and [!DNL Walmart Marketplace], the [!DNL Channel Manager] order status is _[!UICONTROL Partially Shipped]_.  If a second item is shipped and [!DNL Channel Manager] returns an error, the order status updates to _[!UICONTROL Error]_.
 
 ## Review Orders
 

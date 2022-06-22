@@ -75,7 +75,7 @@ For details about Walmart Marketplace error codes, see the [Walmart Seller Help]
 
 ## Upload new product listings
 
-For products that have no match on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings. You populate the Walmart template using product catalog data exported from your Commerce instance.  
+For products that have no match on Walmart Marketplace, use a Walmart product category Excel template to bulk upload product listings. You populate the Walmart template using product catalog data exported from your Commerce instance.
 
 For new product listings, check your product catalog to ensure that products you plan to sell on Walmart Marketplace have the attributes required for Walmart Marketplace product listings.
 
