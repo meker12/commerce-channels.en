@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Walmart] Requirements"
-description: "Verify that you have the required[!DNL Walmart Marketplace]information and resources to integrate with Channel Manager."
+title: '[!DNL Walmart] Requirements'
+description: 'Verify that you have the required [!DNL Walmart Marketplace]information and resources to integrate with Channel Manager.'
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
 # [!DNL Walmart] requirements
@@ -11,7 +11,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 * An API key to connect Adobe Commerce or Magento Open Source to [!DNL Walmart Marketplace]
 
-  The [!DNL Walmart Marketplace] API key enables the integration between [!DNL Channel Manager] for Adobe Commerce or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
+  The [!DNL Walmart Marketplace] API key enables the integration between [!DNL Channel Manager] for Adobe [!DNL Commerce] or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
 
 ## Set up a [!DNL Walmart Seller] account
 

@@ -1,13 +1,13 @@
 ---
-title: Connect sales channel to [!DNL Walmart Marketplace]
-description: Configure the sales channel and connect to Walmart Marketplace.
+title: 'Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]'
+description: 'Connect a Commerce store view to [!DNL Walmart Marketplace] to create the sales channel to manage Commerce product listings, inventory, price, and orders for Walmart Marketplace sales.'
 exl-id: 8c78c582-7b57-4f73-894e-134ba0ba3640
 ---
 # Connect [!DNL Channel Manager] to [!DNL Walmart Marketplace]
 
 After installing Channel Manager on your [!DNL Commerce] instance, create a sales channel in Channel Manager and configure the credentials to connect [!DNL Channel Manager] to [!DNL Walmart Marketplace].
 
-1. [Create the sales channel](#create-the-sales-channel) by selecting the Commerce store for product listings.
+1. [Create the sales channel](#create-the-sales-channel) by selecting the [!DNL Commerce] store for product listings.
 
 1. [Connect the channel to [!DNL Walmart Marketplace] by adding [!UICONTROL Walmart API credentials]](#connect-the-channel-to-walmart-marketplace).
 
@@ -15,7 +15,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
 >[!NOTE]
 >
->Channel Manager requires a one-to-one connection between a Walmart account and a Commerce store view. You cannot connect the same store view to multiple Walmart accounts.
+>Channel Manager requires a one-to-one connection between a Walmart account and a [!DNL Commerce] store view. You cannot connect the same store view to multiple Walmart accounts.
 
 ## Create the sales channel
 
@@ -33,11 +33,11 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
    - Select the [!DNL Commerce] store view to connect to the marketplace.
 
-     ![Configure connection between Commerce and [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/configure-commerce-to-marketplace-connection.png) 
+     ![Configure connection between [!DNL Commerce] and [!DNL Walmart Marketplace] from [!DNL Channel Manager]](assets/configure-commerce-to-marketplace-connection.png) 
 
    - Enter a unique **[!UICONTROL store name]**.
 
-   - Select the **[!UICONTROL Adobe Commerce site]** for product listings and order processing.
+   - Select the **[!UICONTROL Adobe [!DNL Commerce] site]** for product listings and order processing.
 
    - Add an **[!UICONTROL email address]** to receive service notifications related to [!DNL Channel Manager].
 

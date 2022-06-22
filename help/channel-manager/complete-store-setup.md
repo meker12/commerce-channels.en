@@ -1,11 +1,11 @@
 ---
 title: Complete channel setup
-description: "After creating the sales channel to connect a Commerce Store view to Walmart Marketplace, open the channel and complete the channel configuration. Then, start the process to add products, and manage listings, inventory, pricing, and orders from Channel Manager."
+description: 'After creating the sales channel to connect a [!DNL Commerce] Store view to Walmart Marketplace, open the channel and complete the channel configuration. Then, start the process to add products, and manage listings, inventory, pricing, and orders from Channel Manager.'
 exl-id: 12127e3b-55c1-4db6-98b2-6dc8bdaae139
 ---
 # Complete sales channel setup
 
-After you connect a Commerce store to [!DNL Walmart Marketplace], complete store setup from the [!DNL Channel Manager] home page.
+After you connect a [!DNL Commerce] store to [!DNL Walmart Marketplace], complete store setup from the [!DNL Channel Manager] home page.
 
 1. From the Admin, select **[!UICONTROL Marketing** > **Channel Manager**].
 

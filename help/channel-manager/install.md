@@ -1,6 +1,6 @@
 ---
-title: Install [!DNL Channel Manager]
-description: Install the Channel Manager extension.
+title: 'Install [!DNL Channel Manager]'
+description: 'Install the[!DNL Channel Manager] extension.'
 exl-id: cb593ebd-f077-4a79-a661-bedf4cc70f97
 ---
 

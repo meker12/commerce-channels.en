@@ -1,6 +1,6 @@
 ---
 title: Settings overview
-description: Learn about the [!DNL Channel Manager settings] to configure authentication and to map product catalog attributes and shipping carriers required to coordinate sales operations between [!DNL Commerce] and the [!DNL Walmart Marketplace].
+description: 'Learn about the [!DNL Channel Manager settings] to configure authentication and to map product catalog attributes and shipping carriers required to coordinate sales operations between [!DNL Commerce] and the [!DNL Walmart Marketplace].'
 exl-id: 305b3580-bfe2-4fc2-9dc8-fb41f5eaf959
 ---
 

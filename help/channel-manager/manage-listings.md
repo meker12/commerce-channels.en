@@ -1,6 +1,6 @@
 ---
-title: Manage Listings
-description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
+title: Manage listings
+description: 'Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.'
 exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
 # Manage listings
@@ -34,7 +34,7 @@ You can complete the following tasks from the Listing view.
 
 1. Reset the sort order and remove filters by selecting **Refresh products**.
 
-## Add Commerce products to Channel Manager
+## Add [!DNL Commerce] products to Channel Manager
 
 Create the product assortment for the [!DNL Walmart Marketplace] channel by completing the following tasks:
 

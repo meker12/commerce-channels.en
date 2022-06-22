@@ -1,6 +1,6 @@
 ---
 title: Onboard [!DNL Channel Manager]
-description: Connect your instance to the [!DNL Channel Manager] service by completing a few onboarding steps.
+description: 'Connect your instance to the [!DNL Channel Manager] service by completing a few onboarding steps.'
 role: User
 level: Intermediate
 exl-id: 7c4ccd9e-ae32-4511-8d1e-baa690604612
@@ -28,11 +28,11 @@ After you complete onboarding, configure and manage sales channel operations fro
 
 - **Commerce account information**–Downloading and installing [!DNL Channel Manager] requires a [Commerce account](https://docs.magento.com/user-guide/magento/magento-account.html){target="_blank"}. You need an account ID and credentials with Owner or Admin access to the [!DNL Adobe Commerce] or [!DNL Magento Open Source] instance.
 
-  - **MAGE ID**–[Log in](https://account.magento.com/customer/account/login/) to the Commerce account to get the ID from **[!UICONTROL My Account - Magento settings]**.
+  - **MAGE ID**–[Log in](https://account.magento.com/customer/account/login/) to the [!DNL Commerce] account to get the ID from **[!UICONTROL My Account - Magento settings]**.
 
-     ![[!DNL MAGEID] on Commerce account settings](assets/mageid-my-commerce-account.png) 
+     ![[!DNL MAGEID] on [!DNL Commerce] account settings](assets/mageid-my-commerce-account.png) 
 
-  - **Access keys–** Get authentication keys to download Commerce extensions from the Commerce Composer repository `([!DNL repo.magento.com]`).
+  - **Access keys–** Get authentication keys to download [!DNL Commerce] extensions from the [!DNL Commerce] Composer repository `([!DNL repo.magento.com]`).
 
     ![[!UICONTROL Commerce Marketplace access keys]](assets/commerce-marketplace-access-keys.png)
 
