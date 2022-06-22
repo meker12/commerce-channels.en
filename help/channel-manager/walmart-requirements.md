@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Walmart] Requirements"
-description: "Verify that you have the required[!DNL Walmart Marketplace]information and resources to integrate with Channel Manager."
+title: '[!DNL Walmart] Requirements'
+description: 'Verify that you have the required [!DNL Walmart Marketplace]information and resources to integrate with Channel Manager.'
 exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 ---
 # [!DNL Walmart] requirements
@@ -11,7 +11,7 @@ exl-id: c4f247e8-280a-4595-a6c8-cf8b732d7aab
 
 * An API key to connect Adobe Commerce or Magento Open Source to [!DNL Walmart Marketplace]
 
-  The [!DNL Walmart Marketplace] API key enables the integration between [!DNL Channel Manager] for Adobe Commerce or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
+  The [!DNL Walmart Marketplace] API key enables the integration between [!DNL Channel Manager] for Adobe [!DNL Commerce] or Magento Open Source and the Walmart Marketplace. Set up the API key in Seller Central before starting the Channel Manager onboarding process.
 
 ## Set up a [!DNL Walmart Seller] account
 
@@ -56,5 +56,5 @@ When you connect products to the marketplace, listing availability depends on th
 
 >[!IMPORTANT]
 >
->After [!DNL Channel Manager] is installed and configured, all inventory, price, order updates are synchronized automatically. Do not connect Channel Manager to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data, and you are ready for Commerce updates to be synchronized to [!DNL Walmart Marketplace].
+>After [!DNL Channel Manager] is installed and configured, all inventory, price, and order updates are synchronized automatically. Do not connect [!DNL Channel Manager] to a live Walmart Marketplace store until you have disabled any other integrations that update the product and order data. If you had other integrations configured, verify that the item quantity and prices in [!DNL Commerce] match the quantities in [!DNL Walmart Marketplace] before connecting to a live store.
 

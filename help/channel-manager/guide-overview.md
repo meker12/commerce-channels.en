@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Channel Manager] Guide overview'
-description: Comprehensive information about [!DNL Channel Manager] for Adobe Commerce and Magento Open Source administrators, including installation and onboarding
+description: 'Comprehensive information about [!DNL Channel Manager] for Adobe Commerce and Magento Open Source administrators, including installation and onboarding.'
 seo-title: Adobe Commerce Channel Manager Guide
 seo-description: Describes how to use [!DNL Channel Manager] with Adobe Commerce or Magento Open Source.
 exl-id: 0703741b-77e0-47b0-917f-b25d14afa7ae
@@ -8,7 +8,7 @@ exl-id: 0703741b-77e0-47b0-917f-b25d14afa7ae
 
 # Overview
 
-This guide is intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about [!DNL Channel Manager] installation, onboarding, configuration, and management. The guide assumes a basic understanding of core Commerce configuration and functionality.
+This guide is intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about [!DNL Channel Manager] installation, onboarding, configuration, and management. The guide assumes a basic understanding of core [!DNL Commerce] configuration and functionality.
 
 [!DNL Channel Manager] has two areas for administrators:
 
@@ -17,7 +17,7 @@ This guide is intended for administrators of Adobe Commerce and Magento Open Sou
 
 This guide covers:
 
-* All [!DNL Channel Manager]-specific tasks that are completed from the Commerce Admin.
+* All [!DNL Channel Manager]-specific tasks that are completed from the [!DNL Commerce] Admin.
 * All [!DNL Channel Manager]-specific tasks that are completed from the command line.
 
 For details about managing your [!DNL Commerce] platform, projects, and websites, see the Adobe Commerce and Magento Open Source user and developer guides.

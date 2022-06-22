@@ -1,6 +1,6 @@
 ---
-title: Manage Listings
-description: Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.
+title: Manage listings
+description: 'Manage sales channel listings for a [!DNL Commerce] store with Channel Manager for Adobe Commerce and Magento Open Source.'
 exl-id: 70999552-9ba7-4b10-a8ee-ee99bc4fe837
 ---
 # Manage listings
@@ -18,7 +18,7 @@ You can complete the following tasks from the Listing view.
 * Add products
 * Match products
 * Track listing status
-* Error description for any product listings with an error status
+* Review error description for listings with an error status
 
 ## View product listings
 
@@ -34,7 +34,7 @@ You can complete the following tasks from the Listing view.
 
 1. Reset the sort order and remove filters by selecting **Refresh products**.
 
-## Add Commerce products to Channel Manager
+## Add [!DNL Commerce] products to Channel Manager
 
 Create the product assortment for the [!DNL Walmart Marketplace] channel by completing the following tasks:
 
@@ -87,7 +87,7 @@ In the Listing workspace, the Status label shows where a product is in the [!DNL
 
 * **[!UICONTROL Match]**–Identifies products that were matched successfully on [!DNL Walmart].
     
-    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing [!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing [!DNL Walmart] listing.
+    A match occurs when the product attribute value—UPC code for example—matches the UPC value in an existing [!DNL Walmart Marketplace] listing. When a product matches, the Commerce product offer is added to the existing listing.
 
     Check the [[!UICONTROL Walmart Marketplace Seller Account Items]](https://seller.walmart.com/items-and-inventory/manage-items) dashboard to review the updated product listing and verify product details, price, and inventory quantity.  
 

@@ -1,6 +1,6 @@
 ---
 title: Map catalog attributes
-description: Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].
+description: 'Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].'
 exl-id: 6678d81f-d167-460d-b656-d082d56f670c
 ---
 # Map catalog attributes
@@ -33,6 +33,6 @@ If your catalog does not have a matching attribute, [add or convert an existing 
      The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.  
 
     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
-
+    
    - Select **[!UICONTROL Save]**.
 

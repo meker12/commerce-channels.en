@@ -1,6 +1,6 @@
 ---
 title: Map shipping carriers
-description: Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].
+description: 'Map attributes for matching [DNL! Commerce] products to existing [!DNL Walmart Marketplace] listings and synchronizing data between [!DNL Channel Manager] and [!DNL Walmart].'
 exl-id: 98c8d3f6-f129-43c6-920c-d9c36b0e4a40
 ---
 
