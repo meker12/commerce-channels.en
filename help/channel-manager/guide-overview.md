@@ -33,5 +33,5 @@ For details about managing your [!DNL Commerce] platform, projects, and websites
 
 Get additional information and help with Adobe Commerce and Magento Open Source from the following resources:
 
-* [Help center](https://support.magento.com/hc/en-us){target="_blank"}–See the [!DNL Amazon Sales Channel]-related troubleshooting articles.
+* [Help center](https://support.magento.com/hc/en-us){target="_blank"}
 * [Support tickets](https://support.magento.com/hc/en-us/articles/360000913794#submit-ticket){target="_blank"}–Submit a ticket to receive additional help.
