@@ -31,8 +31,8 @@ The following tables describe the controls and columns available for Orders.
 
 <table>
 <tr>
-<td>**Control**</td>
-<td>**Description**</td>
+<td><strong>Control</strong></td>
+<td><strong>*Description</strong></td>
 </tr>
 <tr>
 <td>[!UICONTROL Filter orders]</td>
@@ -119,7 +119,7 @@ The following tables describe the controls and columns available for Orders.
 
   After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
 
-- **[!UICONTROL Return requested]**—Shipped orders that have a Return Merchandise Authorization (RMA) request issued by Walmart Marketplace. This is a linked status. Selecting the link opens the [!UICONTROL Returns] dashboard to view the RMA and manage the refund process.
+- **[!UICONTROL Return requested]**—Shipped orders that have a Return Merchandise Authorization (RMA) request issued by Walmart Marketplace have a `Return requested` link in the [!UICONTROL Status details] column. Selecting the link opens the [!UICONTROL Returns] dashboard to view the RMA and manage the refund process.
 
 - **[!UICONTROL Error]**—Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. If an operation fails, the Orders page shows an _Error_ status for the order. For details, see [Fix order errors](process-orders.md#fix-shipping-and-cancellation- errors).
 
