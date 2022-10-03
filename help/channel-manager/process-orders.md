@@ -44,7 +44,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
 
-After an order is shipped, you can process full or partial refunds from [!DNL Channel Manager] for items included in the order based on return merchandise authorization (RMA) requests received from [!DNL Walmart Marketplace]. See [return and refund orders](return-refund-orders).
+After an order is shipped, you can process full or partial refunds from [!DNL Channel Manager] for items included in the order based on return merchandise authorization (RMA) requests received from [!DNL Walmart Marketplace]. See [return and refund orders](return-refund-orders.md).
 
 ## Cancel an order
 
