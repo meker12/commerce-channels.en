@@ -111,7 +111,7 @@ The following tables describe the controls and columns available for Orders.
 
 [!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
 
-- **[!UICONTROL Shipped]**–Orders that have been shipped from the [!DNL Commerce] store.</br></br> When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-order.md].
+- **[!UICONTROL Shipped]**—Orders that have been shipped from the [!DNL Commerce] store.</br></br> When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-order.md].
 
 - **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to _[!DNL Partially Shipped]_ on Walmart and provide the order tracking number for the shipment. 
 
@@ -119,7 +119,7 @@ The following tables describe the controls and columns available for Orders.
 
   After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
 
-* - **[!UICONTROL Return requested]**—Shipped orders that have a Return Merchandise Authorization (RMA) request issued by Walmart Marketplace. This is a linked status. Selecting the link opens the [!UICONTROL Returns] dashboard to view the RMA and manage the refund process.
+- **[!UICONTROL Return requested]**—Shipped orders that have a Return Merchandise Authorization (RMA) request issued by Walmart Marketplace. This is a linked status. Selecting the link opens the [!UICONTROL Returns] dashboard to view the RMA and manage the refund process.
 
 - **[!UICONTROL Error]**—Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. If an operation fails, the Orders page shows an _Error_ status for the order. For details, see [Fix order errors](process-orders.md#fix-shipping-and-cancellation- errors).
 

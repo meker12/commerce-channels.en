@@ -41,7 +41,7 @@ The following tables describe the controls and columns available for [!DNL Chann
 </tr>
 <tr>
 <td>Status Details</td>
-<td>Provides information about the return status errors and return requests. For return requests, select the [!UICONTROL orders that have an error status or refund request.</td>
+<td>For RMA entries with the [!UICONTROL Received] or [!UICONTROL Refunded] status, you can create or view the credit memo for the refund by selecting the linked text in the Status Details column.</td>
 </tr>
 <tr>
 <td>[!UICONTROL View order detail]</td>
@@ -53,7 +53,6 @@ The following tables describe the controls and columns available for [!DNL Chann
 </tr>
 </table>
 
-
 **Column descriptions**
 
 <table>
@@ -63,7 +62,7 @@ The following tables describe the controls and columns available for [!DNL Chann
 </tr>
 <tr>
 <td>[!UICONTROL RMA #]</td>
-<td>The Return Request Authorization number received from [!DNL Walmart Marketplace]. The number is generated during the [!DNL Walmart Marketplace] [returns process](https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f).</td>
+<td>The Return Request Authorization number received from [!DNL Walmart Marketplace]. The number is generated during the marketplace [return processing](https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f).</td>
 </tr>
 <tr>
 <td>[!DNL Commerce] Order #</td>
@@ -100,11 +99,11 @@ converted to local time.</td>
 
 [!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] return requests managed from Adobe Commerce or Magento Open Source. Return status updates occur when [!DNL Channel Manager] receives an RMA request from the [!DNL Walmart Marketplace] or when the [!DNL Commerce] credit memo is created to process the refund for the returned items. Returns can have the following statuses:           
 
-- **[!UICONTROL Received]**–This the initial status of the RMA received from the [!DNL Walmart Marketplace] store. The merchant can process the refund for the RMA by selecting **[!UICONTROL Create credit memo]** in the [!UICONTROL Status details].
+* **[!UICONTROL Received]**–This the initial status of the RMA received from the [!DNL Walmart Marketplace] store. The merchant can process the refund for the RMA by selecting **[!UICONTROL Create credit memo]** in the [!UICONTROL Status details].
 
-- **[!UICONTROL Refunded]**—Indicates that a credit memo has been created to process the refund for the returned items. Merchant can view refund information by selecting **[!UICONTROL View credit memo]** in the [!UICONTROL Status details].
+* **[!UICONTROL Refunded]**—Indicates that a credit memo has been created to process the refund for the returned items. Merchant can view refund information by selecting **[!UICONTROL View credit memo]** in the [!UICONTROL Status details].
 
-- **[!UICONTROL Error]**—RMA requests that have errors. Errors can occur when the RMA request from Walmart has missing or incorrect data. Or, if [!DNL Channel Manager] cannot send the refund update notification to Walmart.
+* **[!UICONTROL Error]**—RMA requests that have errors. Errors can occur when the RMA request from Walmart has missing or incorrect data. Or, if [!DNL Channel Manager] cannot send the refund update notification to Walmart.
 
 >[!NOTE]
 >
