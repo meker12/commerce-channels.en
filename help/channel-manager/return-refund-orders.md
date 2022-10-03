@@ -75,7 +75,7 @@ converted to local time.</td>
 </tr>
 <tr>
 <td>[!UICONTROL Return By]</td>
-<td>The date that the return must be refunded by to meet [!DNL Walmart Marketplace] [requirements]((https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f) converted to local time.</td>
+<td>The date that the return must be refunded by to meet [!DNL Walmart Marketplace] [requirements](https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f) converted to local time.</td>
 </tr>
 <tr>
 <td>[!UICONTROL Items]</td>
