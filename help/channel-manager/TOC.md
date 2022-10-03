@@ -8,8 +8,8 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
 
 - [Guide overview](guide-overview.md)
 - [Introduction to [!DNL Channel Manager]](overview.md)
-- [Walmart Requirements](walmart-requirements.md)
 - [Release Notes](release-notes.md)
+- [Walmart Requirements](walmart-requirements.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
   - [Install the [!DNL Channel Manager] Extension](install.md)
