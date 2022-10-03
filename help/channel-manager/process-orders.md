@@ -27,7 +27,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
 1. Open the store view by selecting the eye icon for a sales channel store.
 
-1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
+1. To view [!DNL Walmart Marketplace] orders, select **[!UICONTROL Orders]**.
 
 1. In the Orders table, open the order to ship by selecting the **Commerce Order Number**.
 
@@ -44,6 +44,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
 
+After an order is shipped, you can process full or partial refunds from [!DNL Channel Manager] for items included in the order based on return merchandise authorization (RMA) requests received from [!DNL Walmart Marketplace. See [return and refund orders](return-refund.md).
 ## Cancel an order
 
 1. From the Admin, select **[!UICONTROL Marketing]** > **[!UICONTROL Channel Manager]**.
