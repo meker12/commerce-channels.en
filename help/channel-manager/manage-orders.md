@@ -111,7 +111,7 @@ The following tables describe the controls and columns available for Orders.
 
 [!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
 
-- **[!UICONTROL Shipped]**—Orders that have been shipped from the [!DNL Commerce] store.</br></br> When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-order.md).
+- **[!UICONTROL Shipped]**—Orders that have been shipped from the [!DNL Commerce] store.</br></br> When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-orders.md).
 
 - **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to _[!DNL Partially Shipped]_ on Walmart and provide the order tracking number for the shipment. 
 
@@ -169,7 +169,7 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
 
   ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png)
 
-  You can view item invoice and refund details by selecting the Invoice and Credit Memo options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-orders.md) dashboard in your sales channel store.
+  You can view item invoice and refund details by selecting the Invoice and Credit Memo options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
 
 
    
