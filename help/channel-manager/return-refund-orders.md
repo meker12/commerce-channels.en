@@ -1,5 +1,5 @@
 ---
-title: Return and Refund
+title: Return and Refund Orders
 description: 'Instructions for issuing full or partial refunds for Return Merchandise Authorization (RMA) requests received from [!DNL Walmart Marketplace] from [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.'
 ---
 # Return and refund orders

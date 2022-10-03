@@ -7,9 +7,9 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
 # Channel Manager - [!DNL Channel Manager] for Adobe Commerce {#channel-manager}
 
 - [Guide overview](guide-overview.md)
-- Introduction to [!DNL Channel Manager] {#intro-to-channel-manager}
-  - [About Channel Manager](overview.md)
-  - [Walmart Requirements](walmart-requirements.md)
+- [Introduction to [!DNL Channel Manager]](overview.md)
+- [Walmart Requirements](walmart-requirements.md)
+- [Release Notes](release-notes.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
   - [Install the [!DNL Channel Manager] Extension](install.md)
@@ -30,6 +30,5 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
 - Manage Orders {#manage-orders}
   - [View and Track Orders](manage-orders.md)
   - [Process Orders](process-orders.md)
-  - [Return and Refund](return-refund-orders.md)
-
+  - [Return and Refund Orders](return-refund-orders.md)
 
