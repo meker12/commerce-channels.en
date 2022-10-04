@@ -8,7 +8,7 @@ When a customer returns order items to [!DNL Walmart Marketplace], Walmart issue
 
 On the Commerce side, the RMA request initiates the following workflow:
 
-* Channel Manager creates a corresponding return request with a received status and adds the RMA to the [!UICONTROL Returns] dashboard. On the Orders dashboard, the status detail for the order associated with the RMA updates to show that a return was requested.
+* Channel Manager creates a corresponding return request with a received status and adds the RMA to the [!UICONTROL Returns] dashboard. On the [!DNL Orders] dashboard, the status detail for the order associated with the RMA updates to show that a return was requested.
 
 * Merchants process the RMA by creating a Credit Memo, following the [Adobe Commerce refund workflow](https://docs.magento.com/user-guide/sales/credit-memos.html#refund-workflow). All refunds are processed using the offline method. The timeline for processing refunds is outlined in the the Walmart requirement for the [Refund process](https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f)
 
@@ -146,7 +146,7 @@ After completing the refund, [!DNL Channel Manager] updates the RMA status in th
 
 ## View refund information for an RMA
 
-You can view information about return requests and refund processing from the [!DNL Returns] dashboard.
+You can view information about return requests and refund processing from the [!UICONTROL Returns] dashboard.
 
 1. Open the Returns dashboard for your sales channel store.
 
@@ -164,7 +164,7 @@ You can view information about return requests and refund processing from the [!
 
 ## Fix return errors
 
-Errors can occur during the RMA synchronization process from [!DNL Walmart Marketplace], or when [!DNL Channel Manager] synchronizes status updates from [!DNL Commerce] to u[!DNL Walmart Marketplace].
+Errors can occur during the RMA synchronization process from [!DNL Walmart Marketplace], or when [!DNL Channel Manager] synchronizes status updates from [!DNL Commerce] to [!DNL Walmart Marketplace].
 
 If the synchronization operation for an RMA update fails, the [!DNL Channel Manager] Returns dashboard shows an _Error_ status for the RMA entry. To ensure that RMA and refund information is accurately reflected in Walmart Marketplace account, manually update the order in your [!DNL Walmart Marketplace] store.
 
