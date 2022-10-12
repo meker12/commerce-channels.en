@@ -15,7 +15,7 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
   In the storefront, you must cancel the entire order. [!DNL Commerce] does not allow partial cancellations.
 
-* **Refund requests**–If a Walmart Marketplace RMA is issued for a shipped order, the [!UICONTROL Status details] includes a link to the RMA for the return. RMAs and refunds are managed from the [Returns](return-refund-orders.md) dashboard.
+* **Refund request**–If a Walmart Marketplace return is requested for a shipped order, the [!UICONTROL Status details] includes a link to the return. Returns and refunds are managed from the [Returns](return-refund-orders.md) dashboard.
 
 When Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete. Return requests and refunds for shipped orders are managed from the [Returns](return-refund-orders.md) dashboard.
 
