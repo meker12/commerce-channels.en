@@ -32,7 +32,7 @@ The following tables describe the controls and columns available for [!DNL Chann
 <table>
 <tr>
 <td><strong>Control</strong></td>
-<td><strong>*Description</strong></td>
+<td><strong>Description</strong></td>
 </tr>
 <tr>
 <td>[!UICONTROL Filter returns]</td>
