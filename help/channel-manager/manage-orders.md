@@ -1,5 +1,5 @@
 ---
-title: 'View and track orders from [!DNL Channel Manager]'
+title: 'View and manage orders from [!DNL Channel Manager]'
 description: 'View and manage [!DNL Walmart Marketplace] orders with [!DNL Channel Manager] for Adobe Commerce and Magento Open Source.'
 exl-id: c2779c72-4793-445c-858a-867ea8389662
 ---
@@ -78,16 +78,16 @@ The following tables describe the controls and columns available for Orders.
 </tr>
 <tr>
 <td>[!UICONTROL Ordered]</td>
-<td>The date the order was submitted on the [!DNL Walmart Marketplace].</td>
+<td>The date the order was submitted to the [!DNL Walmart Marketplace] converted to the local timezone.</td>
 </tr>
 <tr>
 <td>[!UICONTROL Ship By (timezone)]</td>
-<td>Date the order must be shipped by to meet [!DNL Walmart Marketplace] requirements converted to the local timezone.
+<td>The date the order must be shipped by to meet [!DNL Walmart Marketplace] requirements converted to the local timezone.
 </td>
 </tr>
 <tr>
 <td>[!UICONTROL Deliver By (timezone)]</td>
-<td>Date the order must be delivered to customer to meet [!DNL Walmart Marketplace] requirements converted to the local timezone.</td>
+<td>The date the order must be delivered to customer to meet [!DNL Walmart Marketplace] requirements converted to the local timezone.</td>
 </tr>
 <tr>
 <td>[!UICONTROL Ship Method]</td>
@@ -95,7 +95,7 @@ The following tables describe the controls and columns available for Orders.
 </tr>
 <tr>
 <td>[!UICONTROL Last Update]</td>
-<td>Timestamp indicating the last time the order data was updated in [!DNL Channel Manager] in UTC format.</td>
+<td>Timestamp indicating the last time the order data was updated in [!DNL Channel Manager] converted to local time zone.</td>
 </tr>
 <tr>
 <td>[!UICONTROL Status]</td>

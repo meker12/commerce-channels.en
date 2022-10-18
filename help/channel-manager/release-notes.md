@@ -10,6 +10,11 @@ These release notes describe the initial release of [!DNL Channel Manager] and i
 ![Fixed issue](../assets/fix.svg) Fixes and improvements
 ![Known issue](../assets/bug.svg) Known issues
 
+
+## v1.1.0
+
+![New](../assets/new.svg)<!--CHAN-5204--> **Returns and Refunds**—Enable Adobe Commerce and Magento Open Source storefronts to process returns and refunds for Walmart Marketplace order items purchased through a Channel Manager sales channel. Information and updates about returns and refunds is synchronized between Walmart and Adobe Commerce so that the current data is available in both the storefront and Walmart Marketplace.
+
 ## v1.0.0
 
 Initial release, compatible with the following Commerce versions:

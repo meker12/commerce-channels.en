@@ -20,7 +20,7 @@ After you complete onboarding, configure and manage sales channel operations fro
 
 1. [Connect your [!DNL Commerce] store to [!DNL Walmart Marketplace]](connect.md).
 
-1. [Complete store setup](complete-store-setup.md).
+1. [Complete store setup](complete-sales-channel-store-setup.md).
 
 ## Requirements
 

@@ -24,7 +24,7 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
 1. From the **[!UICONTROL Listings]** or **[!UICONTROL Orders]** page for the sales channel store, select **[!UICONTROL Channel Settings]**.
 
-1. On **[!UICONTROL Channel Settings]**, select **[!UICONTROL Shipping Carriers]**.
+1. On **[!UICONTROL Channel Settings]**, select **[!UICONTROL Map Attributes]**.
 
    - Find the [!DNL Walmart Marketplace] attribute to map.
 
@@ -32,7 +32,8 @@ If your catalog does not have a matching attribute, [add or convert an existing 
 
      The following example maps the [!UICONTROL Walmart Marketplace UPC] attribute to the UPC attribute in the product catalog.  
 
-    ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
+     ![Map attributes for product match criteria](assets/products-map-attributes-for-match.png)
     
    - Select **[!UICONTROL Save]**.
-
+   
+   

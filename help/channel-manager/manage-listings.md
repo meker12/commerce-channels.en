@@ -56,13 +56,13 @@ The following tables describe the controls and columns available for [!UICONTROL
 
 **Controls for [!UICONTROL Listings]**
 
-| **Control**                            | **Description**                                                                                                                                                                                              |
-|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!UICONTROL Add Products]              | Opens the [!UICONTROL Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements. |
-| [!UICONTROL Match products on Walmart] | After selecting one or more products in Draft status, select Match products on [!DNL Walmart] to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing.               |
-| [!UICONTROL Refresh products]          | Update the display with the most current listing and status. This control also resets the listing view to the default sort order and removes any filters.                                                    |
-| [!UICONTROL Filter by *Status*]        | Show only listings with a specific status by selecting one of the status count cards above the Listing table. Use the *Refresh products* to remove the filter.                                               |
-| [!UICONTROL Sort products]             | Change the sort order for listing by selecting any column header.                                                                                                                                            |
+| **Control**                            | **Description**                                                                                                                                                                                                   |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [!UICONTROL Add Products]              | Opens the [!UICONTROL Admin Product Catalog] page to select products to add to your [!DNL Walmart Marketplace] assortment, or to update product attributes to meet Walmart Marketplace listing requirements.      |
+| [!UICONTROL Match products on Walmart] | After selecting one or more products in [!UICONTROL Draft] status, select [!UICONTROL Match products on Walmart] to check for product offers that can be added to an existing [!DNL Walmart Marketplace] listing. |
+| [!UICONTROL Refresh products]          | Update the display with the most current listing and status. This control also resets the listing view to the default sort order and removes any filters.                                                         |
+| [!UICONTROL Filter by *Status*]        | Show only listings with a specific status by selecting one of the status cards above the Listing table. Remove the filter by selecting **[!UICONTROL Refresh products]**.                                         |
+| [!UICONTROL Sort products]             | Change the sort order for listing by selecting any column header.                                                                                                                                                 |
 
 
 **Column descriptions**
@@ -75,7 +75,6 @@ The following tables describe the controls and columns available for [!UICONTROL
 | [!UICONTROL Price]             | The product price from the [!DNL Commerce] store catalog. Catalog price updates are synced to Channel Manager, and then sent to [!DNL Walmart Marketplace]  so that listed items show the current price.                                                                                                                                                          |
 | [!UICONTROL Status]            | Indicates the current order status in the [!DNL Commerce] order workflow. The status updates when you successfully add products to [!DNL Channel Manager] and when you match products on the marketplace. If an operation fails, the listing shows an error status. After you fix the error, [!DNL Channel Manager] retries the operation and updates the status. |
 | [!UICONTROL Error Description] | Provides additional error information for products with an `[!DNL Error]` status.                                                                                                                                                                                                                                                                                 |
-| [!UICONTROL Status Detail]     | Provides additional information for products with *Error* or *Match* status.                                                                                                                                                                                                                                                                                      |
 
 ### About Listing Status              
 

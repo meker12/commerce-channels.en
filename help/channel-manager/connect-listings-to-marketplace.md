@@ -34,8 +34,6 @@ Before matching products, verify that your product catalog attribute values meet
 1. Select **[!UICONTROL Match Products]**.
 
    A message indicates the number of products sent for matching.
-
-   ![Send products to the connected sales channel](assets/products-submitted-for-matching.png)
    
    The status for selected products changes to [!UICONTROL *Processing*] until the match operation completes. It can take up to 30 minutes for Walmart Marketplace to complete the match operation.
 
@@ -139,7 +137,7 @@ For new product listings, check your product catalog to ensure that products you
 
     ![Export product data page in the [!UICONTROL [!DNL Commerce] Admin]](assets/walmart-seller-account-full-setup-download.png)
        
-     Use filters to select and configure the attribute values that apply to the product categories that you sell in. Make sure to include Walmart’s required and recommended attributes (See [Export Data](https://docs.magento.com/user-guide/system/data-export.html) in the Adobe [!DNL Commerce] User Guide for detailed instructions.)
+     Use filters to select and configure the attribute values that apply to the product categories that you sell in. Make sure to include Walmart's required and recommended attributes (See [Export Data](https://docs.magento.com/user-guide/system/data-export.html) in the Adobe [!DNL Commerce] User Guide for detailed instructions.)
   
      To omit an attribute from the export, select the [!UICONTROL **Exclude**] checkbox at the beginning of the row.
 
