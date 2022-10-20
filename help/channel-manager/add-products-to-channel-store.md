@@ -65,11 +65,10 @@ The import process can take up to 30 minutes or more depending on how many produ
 
 1. After the import operation completes, verify the products that you added by returning to [!DNL Channel Manager] and selecting **[!UICONTROL Listings]**.
 
-   Initially, the products are in *Draft* status.
+   Initially, the products are in *Draft* status. Select **[!UICONTROL Refresh products]** to update the table.
 
 1. Update the view to show the new products added to Channel Manager by selecting the **[!UICONTROL Draft]** status card.
 
    ![Products imported to connected sales channel](assets/products-in-marketplace-sales-channel.png)
 
-   Initially, the products are in *Draft* status.
    
