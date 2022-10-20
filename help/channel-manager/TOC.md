@@ -30,6 +30,6 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
 - Manage orders {#manage-orders}
   - [View and track](manage-orders.md)
   - [Process](process-orders.md)
-- [Return and refund](return-refund-orders.md)
+- [Return and refund orders](return-refund-orders.md)
 
 
