@@ -168,7 +168,7 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
 
   ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png)
 
- View item invoice and refund details by selecting the [!UICONTROLInvoice and Credit Memo options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
+ View item invoice and refund details by selecting the [!UICONTROL Invoice] and [!UICONTROL Credit Memo] options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
 
 
    

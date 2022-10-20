@@ -179,6 +179,7 @@ You can view information about return requests and refund processing from the [!
 >[!NOTE]
 >
 >After an order has been refunded, the [!UICONTROL Orders] dashboard does not show return information. To view return information, use the [!DNL Channel Manager] Returns dashboard. More detailed return and refund information is also available from the Order detail page.
+
 ## Fix return errors
 
 Errors can occur when the return information is received from [!DNL Walmart Marketplace], or when [!DNL Channel Manager] synchronizes status updates from [!DNL Commerce] to [!DNL Walmart Marketplace].
