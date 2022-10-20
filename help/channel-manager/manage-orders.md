@@ -32,7 +32,7 @@ The following tables describe the controls and columns available for Orders.
 <table>
 <tr>
 <td><strong>Control</strong></td>
-<td><strong>*Description</strong></td>
+<td><strong>Description</strong></td>
 </tr>
 <tr>
 <td>[!UICONTROL Filter orders]</td>
@@ -40,7 +40,7 @@ The following tables describe the controls and columns available for Orders.
 </tr>
 <tr>
 <td>Status Details</td>
-<td>Provides information about order errors and return requests. To view return information and refund status for an order, select the [!UICONTROL Return requested] text to open the [!UICONTROL Returns] dashboard.</td>
+<td>Provides information about order errors and return requests. To view return information and refund status for an order, select the <strong>[!UICONTROL Return requested]</strong> text to open the [!UICONTROL Returns] dashboard.</td>
 </tr>
 <tr>
 <td>[!UICONTROL View order detail]</td>
@@ -111,7 +111,7 @@ The following tables describe the controls and columns available for Orders.
 
 [!UICONTROL Order Status] provides information about the current state of [!DNL Walmart Marketplace] orders managed from Adobe Commerce or Magento Open Source. Order status updates occur when [!DNL Channel Manager] receives updated order information from either the [!DNL Walmart Marketplace] or the [!DNL Commerce] order system. Orders can have the following statuses:           
 
-- **[!UICONTROL Shipped]**—Orders that have been shipped from the [!DNL Commerce] store.</br></br> When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-orders.md).
+- **[!UICONTROL Shipped]**—Orders that have been shipped from the [!DNL Commerce] store. When the order ships, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status on Walmart and provide the order tracking number for the shipment. After an order has been shipped, order items can be partially or fully refunded if Walmart issues a Return Merchandise Authorization form. See [Returns and Refunds](return-refund-orders.md).
 
 - **[!UICONTROL Partially Shipped]**—Orders that have some items marked as shipped, and others waiting to be shipped. When items in the order ship, [!DNL Channel Manager] sends an update to [!DNL Walmart Marketplace] to update the shipping status to _[!DNL Partially Shipped]_ on Walmart and provide the order tracking number for the shipment. 
 
@@ -119,12 +119,11 @@ The following tables describe the controls and columns available for Orders.
 
   After the order cancellation completes, the [!DNL Commerce] stock quantity updates to reflect returned items. Then, [!DNL Channel Manager] syncs the update to the [!DNL Walmart Marketplace].
 
-- **[!UICONTROL Return requested]**—Shipped orders that have a Return Merchandise Authorization (RMA) request issued by Walmart Marketplace have a `Return requested` link in the [!UICONTROL Status details] column. Selecting the link opens the [!UICONTROL Returns] dashboard to view the RMA and manage the refund process.
+- **[!UICONTROL Return requested]**—If Walmart Marketplace requests a return for order items that have been shipped, a `Return requested` link displays in the [!UICONTROL Status details] column. Selecting the link opens the [!UICONTROL Returns] dashboard to view the return and manage the refund process.
 
-- **[!UICONTROL Error]**—Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. If an operation fails, the Orders page shows an _Error_ status for the order. For details, see [Fix order errors](process-orders.md#fix-shipping-and-cancellation- errors).
+- **[!UICONTROL Error]**—Orders that have errors. Errors can occur when an order update operation fails. For example, errors occur if [!DNL Channel Manager] cannot receive a new order from Walmart. They can also occur if [!DNL Channel Manager] cannot send an order shipment or cancellation update to the [!DNL Walmart Marketplace]. If an operation fails, the Orders page shows an _Error_ status for the order. For details, see [Fix order errors](process-orders.md#fix-shipping-and-cancellation- errors). 
 
-- **[!UICONTROL Error description]**–Provides detailed information about order errors that occur due to issues like 
-missing information or invalid values, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
+- **[!UICONTROL Status details]**–Provides more information about order errors that occur due to issues like missing information or invalid values, incorrect shipment details, or a failed order cancellation. The description helps determine whether error occurred on the [!DNL Commerce] instance or on the [!DNL Walmart Marketplace].
 
 >[!NOTE]
 >
@@ -169,7 +168,7 @@ In the Commerce storefront, orders imported from [!DNL Walmart Marketplace] have
 
   ![Order Detail ordered item status history [!DNL Walmart Marketplace] orders](assets/order-detail-status-history.png)
 
-  You can view item invoice and refund details by selecting the Invoice and Credit Memo options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
+ View item invoice and refund details by selecting the [!UICONTROLInvoice and Credit Memo options from the navigation menu. You can also access the Credit Memo directly from the [[!UICONTROL Returns]](return-refund-orders.md) dashboard in your sales channel store.
 
 
    
