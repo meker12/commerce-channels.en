@@ -8,13 +8,11 @@ When a buyer requests a return for order items purchased through [!DNL Walmart M
 
 On the Commerce side, the return request initiates the following workflow:
 
-* Channel Manager creates a corresponding return request with a received status and adds the return ID number ([!UICONTROL RMA #]) to the [!UICONTROL Returns] dashboard. On the [!DNL Orders] dashboard, the status detail for the order associated with the return updates to include a [!UICONTROL Return requested] link to view and process the return.
+1. Channel Manager creates a corresponding return request with a received status and adds the return ID number ([!UICONTROL RMA #]) to the [!UICONTROL Returns] dashboard. On the [!DNL Orders] dashboard, the status detail for the order associated with the return updates to include a [!UICONTROL Return requested] link to view and process the return.
 
-* Merchants process the refund associated with the return by creating a Credit Memo following the [Adobe Commerce refund workflow](https://docs.magento.com/user-guide/sales/credit-memos.html#refund-workflow). All refunds are processed using the offline method. 
+1. Merchants process the refund associated with the return by creating a Credit Memo following the [Adobe Commerce refund workflow](https://docs.magento.com/user-guide/sales/credit-memos.html#refund-workflow). All refunds are processed using the offline method. 
 
-* Once a return has been received at the merchant return center, Walmart requires that the refund be issued within 48 hours of the delivery scan that indicates that the merchandise was received. If the return is not processed within that window, Walmart automatically issues the refund on behalf of the merchant as described in the [Refund process](https://sellerhelp.walmart.com/seller/s/guide?language=en_US&article=000007176f) documentation for Walmart Marketplace.
-
-* [!DNL Channel Manager] sends a refund update to Walmart marketplace so the return status can be updated to reflect the completed refund from Adobe Commerce.
+1. [!DNL Channel Manager] sends a refund update to Walmart marketplace so the return status can be updated to reflect the completed refund from Adobe Commerce.
 
 In the storefront Admin, you can view and process returns from Channel Manager by opening the sales channel store and selecting **[!UICONTROL Returns]**.
 
