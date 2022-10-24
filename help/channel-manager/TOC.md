@@ -7,27 +7,29 @@ breadcrumb-title: '[!DNL Channel Manager Guide]'
 # Channel Manager - [!DNL Channel Manager] for Adobe Commerce {#channel-manager}
 
 - [Guide overview](guide-overview.md)
-- Introduction to [!DNL Channel Manager] {#intro-to-channel-manager}
-  - [About Channel Manager](overview.md)
-  - [Walmart Requirements](walmart-requirements.md)
+- [Introduction to [!DNL Channel Manager]](overview.md)
+- [Release notes](release-notes.md)
+- [Walmart requirements](walmart-requirements.md)
 - Onboard [!DNL Channel Manager] {#on-boarding}
   - [Onboarding](onboard.md)
-  - [Install the [!DNL Channel Manager] Extension](install.md)
+  - [Install the [!DNL Channel Manager] extension](install.md)
   - [Connect to Commerce Services](connect.md)
   - [Connect to [!DNL Walmart Marketplace]](connect-marketplace.md)
-  - [Complete Channel Setup](complete-store-setup.md)
-- Configure Settings {#configure-settings}
-  - [Channel Settings overview](settings-overview.md)
-  - [Map Catalog Attributes](map-catalog-attributes.md)
-  - [Map Shipping Carriers](map-shipping-carriers.md)
-  - [Manage Walmart Connection](manage-wmt-connection.md)
-- List Products {#list-products}
-  - [Manage Listings](manage-listings.md)
-  - [Add Products to Channel Store](add-products-to-channel-store.md)
-  - [Connect Listings to Walmart](connect-listings-to-marketplace.md)
-- Inventory and Pricing {#inventory-pricing}
-  - [Update Inventory and Pricing](inventory-and-price-updates.md)
-- Manage Orders {#manage-orders}
-  - [View and Track Orders](manage-orders.md)
-  - [Process Orders](process-orders.md)
+  - [Complete channel setup](complete-sales-channel-store-setup.md)
+- Configure settings {#configure-settings}
+  - [Channel settings overview](settings-overview.md)
+  - [Map catalog attributes](map-catalog-attributes.md)
+  - [Map shipping carriers](map-shipping-carriers.md)
+  - [Manage Walmart connection](manage-wmt-connection.md)
+- List products {#list-products}
+  - [Manage listings](manage-listings.md)
+  - [Add products to Channel Store](add-products-to-channel-store.md)
+  - [Connect listings to Walmart](connect-listings-to-marketplace.md)
+- Inventory and pricing {#inventory-pricing}
+  - [Update inventory and pricing](inventory-and-price-updates.md)
+- Manage orders {#manage-orders}
+  - [View and track](manage-orders.md)
+  - [Process](process-orders.md)
+- [Return and refund orders](return-refund-orders.md)
+
 

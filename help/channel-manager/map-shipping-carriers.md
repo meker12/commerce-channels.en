@@ -29,3 +29,4 @@ Before mapping shipping carriers, complete the following tasks:
 1. For each [!DNL Walmart] preferred carrier listed, select the [!DNL Commerce] carrier name from the dropdown if the carrier is available.
 
 1. Select **[!UICONTROL Save]** to apply the configuration.
+

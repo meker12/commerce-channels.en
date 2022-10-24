@@ -15,7 +15,9 @@ Channel Manager synchronizes updates to [!DNL Walmart Marketplace] to ensure tha
 
   In the storefront, you must cancel the entire order. [!DNL Commerce] does not allow partial cancellations.
 
-When Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete.
+* **Refund request**–If a Walmart Marketplace return is requested for a shipped order, the [!UICONTROL Status details] includes a link to the return. Returns and refunds are managed from the [Returns](return-refund-orders.md) dashboard.
+
+When Commerce orders are processed and [!DNL Channel Manager] successfully synchronizes shipment, partial shipment, and cancellation updates to the [!DNL Walmart Marketplace], the order processing is complete. Return requests and refunds for shipped orders are managed from the [Returns](return-refund-orders.md) dashboard.
 
 >[!NOTE]
 >
@@ -27,7 +29,7 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
 
 1. Open the store view by selecting the eye icon for a sales channel store.
 
-1. To view [!DNL Walmart Marketplace] orders, select *[!UICONTROL *Orders]**.
+1. To view [!DNL Walmart Marketplace] orders, select **[!UICONTROL Orders]**.
 
 1. In the Orders table, open the order to ship by selecting the **Commerce Order Number**.
 
@@ -43,6 +45,8 @@ When Commerce orders are processed and [!DNL Channel Manager] successfully synch
    * Complete the rest of shipping form as needed. See [[!DNL Shipping an Order]](https://docs.magento.com/user-guide/sales/order-ship.html) for detailed instructions.
 
 1. After submitting the shipment, track the [order status](manage-orders.md#about-order-status) in [!DNL Channel Manager] to verify that updates were sent to [!DNL Walmart Marketplace].
+
+After an order is shipped, you can process full or partial refunds from [!DNL Channel Manager] for items included in the order based on return requests received from [!DNL Walmart Marketplace]. See [return and refund orders](return-refund-orders.md).
 
 ## Cancel an order
 

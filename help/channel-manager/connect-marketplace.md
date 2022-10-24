@@ -11,7 +11,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
 1. [Connect the channel to [!DNL Walmart Marketplace] by adding [!UICONTROL Walmart API credentials]](#connect-the-channel-to-walmart-marketplace).
 
-1. [Complete sales channel setup](#complete-store-setup) to manage listings, inventory, pricing, and orders for your [!DNL Walmart Marketplace] product assortment.
+1. [Complete sales channel setup](#complete-sales-channel-store-setup) to manage listings, inventory, pricing, and orders for your [!DNL Walmart Marketplace] product assortment.
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ After installing Channel Manager on your [!DNL Commerce] instance, create a sale
 
 1. Select **[!UICONTROL Save Store]** to apply the configuration and connect to the [!DNL Walmart marketplace].
 
-1. After connecting successfully, [complete store setup](complete-store-setup.md) from the **[!UICONTROL Channel Manager]** store page.
+1. After connecting successfully, [complete store setup](complete-sales-channel-store-setup.md) from the **[!UICONTROL Channel Manager]** store page.
 
 ![Setup first store](assets/channel-manager-setup-first-store.png)
 
