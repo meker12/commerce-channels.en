@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Store Fulfillment by Walmart Commerce Technologies] Release Notes'
+title: '[!DNLChannel Manager] Release Notes'
 description: "The latest release information for [!DNL Channel Manager] from Adobe Commerce."
 ---
 # [!DNL Channel Manager] Release Notes
